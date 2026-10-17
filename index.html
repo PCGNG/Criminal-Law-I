@@ -74,7 +74,7 @@
     async function loadTopics() {
       const topicSelector = document.getElementById('topicSelector');
       try {
-        // Fetch topics from digests folder instead of images folder so text-only cases appear!
+        // Scan digests folder as the primary source of truth
         const res = await fetch(`https://api.github.com/repos/${USER}/${REPO}/contents/digests`);
         if (!res.ok) throw new Error("Could not access digests directory");
         const items = await res.json();
@@ -95,7 +95,7 @@
           const subRes = await fetch(folder.url);
           if (subRes.ok) {
             const subFiles = await subRes.json();
-            // Look for .txt files in the topic folder
+            // Pull every .txt file as a valid case
             const txtFiles = subFiles.filter(f => /\.txt$/i.test(f.name));
 
             txtFiles.forEach(txt => {
@@ -103,8 +103,7 @@
               topicsData[topicName].cases.push({
                 title: rawTitle,
                 topic: topicName,
-                // Automatically check if a corresponding image exists, otherwise leave empty
-                imgPath: `images/${topicName}/${rawTitle}.jpg`, 
+                imgPath: `images/${topicName}/${rawTitle}.jpg`, // Looks for matching image
                 digestPath: txt.path
               });
             });
@@ -205,10 +204,10 @@
       document.getElementById('prevBtn').disabled = (idx === 0);
       document.getElementById('nextBtn').disabled = (idx === cases.length - 1);
 
-      // Set image, with a graceful fallback if the image file doesn't exist yet
+      // Gracefully load image or clear if missing
       const imgElement = document.getElementById('visualImage');
       imgElement.onerror = function() {
-        imgElement.src = ""; // Clears broken icon if image file is missing
+        imgElement.src = ""; 
       };
       imgElement.src = item.imgPath;
 
