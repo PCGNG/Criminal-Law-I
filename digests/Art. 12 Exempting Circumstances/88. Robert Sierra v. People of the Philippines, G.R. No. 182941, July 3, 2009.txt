@@ -1,0 +1,51 @@
+88. Robert Sierra v. People of the Philippines, G.R. No. 182941, July 3, 2009 (RAPE)
+Facts
+AAA and her friend BBB were playing when Sierra, holding a knife, forced them to undress and had sexual intercourse with BBB and subsequently with AAA. Sierra was charged with rape. 
+During trial, Sierra denied the charges and raised alibi. To support his claim of minority and invoke exemption from criminal liability, Sierra and his mother testified that he was fifteen years old at the time of the incident. No birth certificate was presented. The RTC convicted Sierra of qualified rape. On appeal, the CA affirmed the conviction with modification as to penalty, refusing to apply the statutory exemption on the ground that the defense failed to present a birth certificate to establish his age. 
+
+Issue
+Can Sierra claim exemption from criminal liability by proving his minority through testimonial evidence despite the absence of an official birth certificate? 
+
+Ruling
+Legal Basis (Verbatim):
+"An exempting circumstance, by its nature, admits that criminal and civil liabilities exist, but the accused is freed from criminal liability; in other words, the accused committed a crime, but he cannot be held criminally liable therefor because of an exemption granted by law." 
+
+"The law on this point — Republic Act No. 9344 (Juvenile Justice and Welfare Act of 2006) which retroactively applies to the petitioner as it is beneficial to him as an accused — presumes that the minor offenders completely lack the intelligence to distinguish right from wrong, so that their acts are deemed involuntary ones for which they cannot be held accountable."
+
+"The CA seriously erred when it rejected testimonial evidence showing that the petitioner was only 15 years old at the time he committed the crime. Section 7 of R.A. No. 9344 expressly states how the age of a child in conflict with the law may be determined: 
+
+SEC. 7. Determination of Age. — The child in conflict with the law shall enjoy the presumption of minority. He/She shall enjoy all the rights of a child in conflict with the law until he/she is proven to be eighteen (18) years old or older. The age of a child may be determined from the child’s birth certificate, baptismal certificate or any other pertinent documents. In the absence of these documents, age may be based on information from the child himself/herself, testimonies of other persons, the physical appearance of the child and other relevant evidence. In case of doubt as to the age of the child, it shall be resolved in his/her favor."
+ 
+"The last paragraph of Section 6 of R.A. No. 9344 provides that the accused shall continue to be civilly liable despite his exemption from criminal liability; hence, the petitioner is civilly liable to AAA despite his exemption from criminal liability." 
+
+Provisions of Law and Doctrines Relied Upon:
+•	Article 12, paragraph 2 of the Revised Penal Code (RPC), as amended and modified by Section 6, Republic Act No. 9344 (Juvenile Justice and Welfare Act of 2006). 
+•	Section 7 of Republic Act No. 9344 (Determination of Age and Presumption of Minority). 
+•	Article 22 of the Revised Penal Code (Retroactive application of penal laws beneficial to the accused). 
+•	Section 6 (last paragraph) of Republic Act No. 9344 and Article 101 of the Revised Penal Code (Retention of civil liability despite exemption from criminal liability). 
+
+Ratio Decidendi
+Under Article 12(2) of the RPC, as modified by Section 6 of R.A. No. 9344, a child fifteen years of age or under at the time of the commission of the crime is completely exempt from criminal liability. An exempting circumstance presumes that an otherwise criminal act was committed, but no criminal liability attaches because the law presumes a complete absence of intelligence and voluntariness. While the burden of establishing minority as an exempting defense rests on the defense, Section 7 of R.A. No. 9344 makes clear that an official birth certificate is not indispensable; testimonial evidence—including the statements of the minor and his mother—is competent proof of age. Any doubt regarding age must be resolved in favor of the child. Because the unrefuted testimonial evidence established that Sierra was fifteen years of age when the act was committed, he is exempt from criminal liability, without prejudice to his civil liability. 
+
+Fallo
+"WHEREFORE, premises considered, we REVERSE and SET ASIDE the Decision dated March 26, 2008 and Resolution dated May 7, 2008 of the Court of Appeals in CA-G.R. CR-H.C. No. 02218. The criminal case for rape filed against petitioner Robert Sierra y Caneda is hereby DISMISSED and the case is REFERRED to the appropriate local social welfare and development officer who shall proceed in accordance with Section 6 of Republic Act No. 9344. Petitioner Robert Sierra y Caneda is ORDERED to PAY the victim AAA ₱50,000.00 as civil indemnity, ₱50,000.00 as moral damages, and ₱25,000.00 as exemplary damages. 
+SO ORDERED." 
+
+Explain why the Supreme Court acquitted Robert Sierra despite his failure to present as evidence his birth certificate to prove that he was fifteen years old when he committed the crime.
+The Supreme Court exempted Robert Sierra from criminal liability despite the lack of a birth certificate based on the following legal grounds:
+1. Presentation of a Birth Certificate Is Not Indispensable Under R.A. No. 9344
+The Court ruled that the Court of Appeals seriously erred in holding that a birth certificate is an indispensable requirement to establish minority.
+Under Section 7 of Republic Act No. 9344 (Juvenile Justice and Welfare Act of 2006), the law explicitly provides alternative means of proving age when primary documents are unavailable:
+"The age of a child may be determined from the child’s birth certificate, baptismal certificate or any other pertinent documents. In the absence of these documents, age may be based on information from the child himself/herself, testimonies of other persons, the physical appearance of the child and other relevant evidence." 
+The Supreme Court emphasized that while an original or certified true copy of a birth certificate is the primary proof of age, statutory rules and established jurisprudence allow competent testimonial evidence to prove the age of an accused minor when documentary evidence is absent. 
+2. Testimonial Evidence Was Sufficient and Competent Proof
+Sierra’s minority was established through:
+•	The testimony of his mother, who possessed direct personal knowledge regarding the date and circumstances of his birth (pedigree testimony).
+•	Sierra’s own testimony concerning his age. 
+The Court observed that this testimonial evidence was clear, credible, and remained unrebutted by the prosecution. The prosecution neither cross-examined the witnesses to impeach their credibility regarding Sierra's age nor presented countervailing evidence to show that he was over fifteen years old at the time of the incident. 
+3. Presumption of Minority and Rule on In Dubio Pro Reo
+Section 7 of R.A. No. 9344 expressly mandates that a child in conflict with the law enjoys the presumption of minority and that any doubt as to age must be resolved in the child's favor. Under Section 3 of the same Act, provisions must be construed liberally in favor of the minor. 
+Because the defense successfully presented unrebutted testimonial evidence showing Sierra was 15 years old at the time the offense occurred, the presumption and statutory doubt had to be resolved in his favor. 
+4. Retroactive Application of R.A. No. 9344 as an Exempting Circumstance
+Under Section 6 of R.A. No. 9344 (which modified Article 12, paragraph 2 of the Revised Penal Code), a child fifteen (15) years of age or under at the time of the commission of an offense is completely exempt from criminal liability. 
+Pursuant to Article 22 of the Revised Penal Code, penal laws that are favorable to the accused are given retroactive effect. Thus, even though the incident occurred prior to the enactment of R.A. No. 9344, the Court applied its exempting provisions retroactively, dismissing the criminal charges against Sierra and referring him to the appropriate local social welfare and development officer. 

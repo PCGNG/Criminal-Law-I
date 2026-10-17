@@ -1,0 +1,49 @@
+
+Facts 
+Joselito, a tricycle driver, agreed to transport Boy to a cockpit arena. Instead, Boy directed Joselito to proceed to a market to pick up two other men, Jun and Dodong, and then ordered him to stop along a street corner. While parked, Jun and Dodong alighted, snatched a handbag from a woman, and when the victim fell to the ground, shot her dead. Unarmed and shocked by the sudden assault, Joselito attempted to leave and seek assistance. However, Boy, who stayed beside him, drew a firearm, pointed it directly at Joselito, and warned him that he would be killed if he shouted or tried to escape. Coerced at gunpoint, Joselito was forced to wait for Jun and Dodong to re-board and drive the trio away from the scene. Boy further threatened to kill Joselito and his family if he reported the incident to the police. 
+
+When prosecuted for robbery with homicide as a co-conspirator, Joselito claimed exemption from criminal liability under Article 12, paragraphs 5 and 6 of the Revised Penal Code, asserting that he acted under the compulsion of an irresistible force and the impulse of an uncontrollable fear of an equal or greater injury. 
+
+Issue 
+Does the exempting circumstance of compulsion of an irresistible force or impulse of an uncontrollable fear under Article 12 of the Revised Penal Code exempt Joselito from criminal liability? 
+
+Ruling (Verbatim Legal Basis)
+"The conviction of del Rosario must be set aside. His claim for exemption from criminal liability under Art. 12, par. 5, Revised Penal Code as he acted under the compulsion of an irresistible force must be sustained. x x x 
+A person who acts under the compulsion of an irresistible force, like one who acts under the impulse of an uncontrollable fear of equal or greater injury, is exempt from criminal liability because he does not act with freedom. Actus me invito factus non est meus actus. An act done by me against my will is not my act. The force contemplating the use of physical force must produce such effect on the individual that despite of being resistant he reduces to a mere instrument who acts not only without will but against his will. The duress, force, fear or intimidation must be present, imminent and impending, and of such nature as to induce a well-grounded apprehension of death or serious bodily harm if the act be done. A threat of future injury is not enough. The compulsion must be of such a character as to leave no opportunity to the accused for escape or self-defense in equal combat. 
+x x x x
+del Rosario was threatened with a gun. He could not therefore be expected to flee nor risk his life to help a stranger. A person under the same circumstances would be more concerned with his personal welfare and family and the preservation of his life. Del Rosario was then unarmed and unable to protect himself when he was prevented at gunpoint by his co-accused from leaving the crime scene during the perpetration of the robbery and killing, and was only forced to help them escape after the commission of the crime. 
+Under the circumstances, del Rosario was not acting on his own free will; rather, he was merely acting under the compulsion of an irresistible force and impulse of uncontrollable fear. He is therefore exempt from criminal liability since by reason of fear of bodily harm he was compelled against his will to transport his co-accused away from the crime scene." 
+
+Ratio Decidendi
+Under Article 12, paragraphs 5 and 6 of the Revised Penal Code, an individual who acts under the compulsion of an irresistible force or the impulse of an uncontrollable fear of equal or greater injury is exempt from criminal liability because the essential element of freedom of action is totally absent (actus me invito factus non est meus actus).
+
+To be exempting, the duress, intimidation, or fear must be real, imminent, and impending, generating a well-grounded apprehension of death or serious bodily harm, and leaving the actor with no reasonable opportunity for escape or self-defense. 
+
+Where an unarmed tricycle driver is held at gunpoint by an armed passenger during the sudden commission of a robbery and killing by the passenger's companions, the driver is reduced to a mere instrument acting against his will. Being compelled by immediate threat of death to drive the perpetrators away from the scene, his act of driving the getaway vehicle cannot establish conspiracy and is completely shielded by the exempting circumstance. 
+
+Fallo
+"WHEREFORE, the decision of the Regional Trial Court of Cabanatuan City convicting accused JOSELITO DEL ROSARIO Y PASCUAL of Robbery with Homicide and sentencing him to death, is REVERSED and SET ASIDE, and the accused is ACQUITTED of the crime charged. His immediate RELEASE from confinement is ordered unless held for some other lawful cause. 
+Costs de oficio.
+SO ORDERED."
+
+Explain why the Supreme Court acquitted Joselito del Rosario.
+
+1. Total Absence of Free Will (Actus Me Invito Factus Non Est Meus Actus)
+The basis of exemption under Article 12, paragraph 5 (irresistible force) and paragraph 6 (uncontrollable fear) of the Revised Penal Code is the complete absence of freedom—an indispensable element of voluntariness and criminal liability.
+Applying the maxim actus me invito factus non est meus actus ("an act done by me against my will is not my act"), the Court held that:
+•	Joselito was reduced to a mere mechanical instrument operating entirely against his will.
+•	Because he was deprived of free agency, the act of driving the getaway vehicle could not be legally imputed to him as a voluntary criminal act.
+
+2. The Threat and Fear Were Real, Imminent, and Impending
+For irresistible force or uncontrollable fear to exempt an accused, the duress must not be speculative or refer to a remote, future injury; it must be present, imminent, and impending, inducing a well-grounded apprehension of death or serious physical harm, with no opportunity for escape or self-defense in equal combat:
+•	Held at Gunpoint: While the other two perpetrators ambushed and shot the victim on the street, "Boy Santos" remained right beside Joselito, pulled out a handgun, pointed it directly at him, and warned him that he would be killed instantly if he shouted, moved, or tried to flee.
+•	Unarmed and Defenseless: Joselito was an ordinary tricycle driver who had no weapon. In the face of an armed, violent assailant who had just facilitated a daylight robbery and execution, Joselito had no realistic chance of self-defense or safe flight.
+•	Continued Coercion: The threat was maintained immediately following the robbery when the armed men re-boarded the tricycle and forced him to drive them away, further warning that his family would be targeted if he reported the incident.
+
+3. Total Absence of Conspiracy
+The prosecution attempted to hold Joselito liable as a principal by alleging that driving the getaway tricycle proved community of design and conspiracy. The Court rejected this:
+•	No Prior Agreement: Joselito merely accepted a passenger fare to the cockpit; he had no prior knowledge of, or agreement regarding, the planned robbery.
+•	No Overt Act of Complicity: He did not alight, participate in snatching the bag, or take part in shooting the victim.
+•	Mere Presence Is Not Conspiracy: Mere presence at the crime scene, unaccompanied by proof of common criminal intent or voluntary cooperation, does not establish conspiracy. Transporting the culprits was done under direct duress, not voluntary concert of action.
+
+Because Joselito was compelled at gunpoint under an immediate threat to his life to wait and drive the perpetrators away, he acted under the compulsion of an irresistible force and the impulse of an uncontrollable fear, entitling him to absolute exemption from criminal liability.

@@ -1,0 +1,44 @@
+Facts
+Roweno, a police officer, arrested Tomas for robbery. While in custody and during tactical interrogation inside a police station, Roweno directed Tomas to stand and step outside the investigation room to be transferred to the jail lockup. As Roweno took hold of Tomas, Tomas suddenly lunged forward, grabbed the handle of Roweno’s service gun tucked in his holster, and attempted to snatch the weapon. A physical grapple for possession of the firearm ensued between the two men. In the course of the violent scuffle, the gun discharged repeatedly, fatally striking Tomas.
+
+Charged with homicide, Roweno invoked the exempting circumstance of accident under Article 12, paragraph 4 of the Revised Penal Code. He maintained that the shooting was purely accidental and unintended, having occurred solely while he was performing his official duty and grappling to prevent the detainee from wresting away his service weapon.
+Issue
+Does the exempting circumstance of accident under Article 12, paragraph 4 of the Revised Penal Code exempt Roweno from criminal liability?
+Ruling (Verbatim Legal Basis)
+"The revised Penal Code does not define what an accident is. In People v. Agluka, the Court cited the definition of accident as follows:
+An accident is something that happens outside the normal course of events, something unexpected and not planned. It does not include an intentional act.
+In People v. Tan, the Court held that:
+An accident is an event that takes place without one's foreseeability or expectation, an event that proceeds from an unknown cause, or is an unusual effect of a known cause and, therefore, not expected.
+Under Article 12, paragraph 4 of the Revised Penal Code, the following elements must be established:
+1.	The accused was performing a lawful act;
+2.	With due care;
+3.	He causes an injury to another by mere accident;
+4.	Without fault or intention of causing it.
+All the elements of the exempting circumstance of accident were present in this case. First, petitioner was performing a lawful act when the incident occurred. He was in the process of investigating a crime, which was part of his official duties as a police officer. Second, he was doing it with due care. He had no control over the sudden and unexpected act of the victim who grappled with him for the possession of the gun. Third, the injury was caused by mere accident. The gun went off during the scuffle for its possession. Fourth, petitioner was without fault and had no intention of causing the injury. The shooting was an unintended consequence of the victim's attempt to disarm petitioner."
+
+Ratio Decidendi
+Under Article 12, paragraph 4 of the Revised Penal Code, a person is exempt from criminal liability when an injury is caused by mere accident while performing a lawful act with due care, without fault or intention of causing it.
+
+Where a police officer is in the legitimate performance of his official duty—such as custodial investigation and transfer of a detainee—and the detainee unexpectedly lunges and grapples for the officer's holstered firearm, the discharge of the weapon during the ensuing struggle constitutes an unforeseen event outside the normal course of human experience. Because the officer exercised due care under the emergency thrust upon him by the detainee's hostile action, did not act with negligence or imprudence, and harbored no intent to shoot, all four elements of accident concur, entitling the officer to full exemption from criminal liability.
+Fallo
+"WHEREFORE, the Petition is GRANTED. The Decision of the Court of Appeals dated July 17, 2001 in CA-G.R. CR No. 20998 is REVERSED and SET ASIDE. Petitioner Roweno Pomoy is ACQUITTED of the crime of homicide. His immediate release from custody is hereby ordered, unless he is being detained for some other lawful cause.
+SO ORDERED."
+Q: Explain the reasoning of the Supreme Court in holding that Roweno Pomoy accidentally shot to death Tomas Balboa.
+1. Pomoy Was Performing a Lawful Act
+The Court found that at the time of the incident, Pomoy—a police sergeant—was lawfully carrying out his official duty. He had arrested Balboa for robbery, brought him to the police station for tactical interrogation, and was in the process of transferring him from the investigation room to the detention cell. Escorting and securing a detainee in custody is part of standard police duties and constitutes the performance of a lawful act. 
+2. He Acted With Due Care Under the Circumstances
+The prosecution argued that Pomoy was negligent in handling his firearm. The Court rejected this, holding that Pomoy was not brandishing or recklessly handling the weapon: 
+•	The service pistol was initially holstered on his side.
+•	The emergency was entirely precipitated by Balboa, who suddenly lunged, grabbed the handle of the gun, and attempted to snatch it. 
+•	Pomoy had no control over the sudden, hostile act of the detainee. Reacting immediately by holding onto his weapon to prevent an arrested felony suspect from disarming him was a natural, instinctive, and prudent measure to prevent greater danger inside the station. 
+3. The Discharge Was an Unforeseeable "Mere Accident"
+The Court explained that an accident is an event that occurs outside the normal course of events—something unexpected, unplanned, and beyond human foresight or control: 
+•	Physical and testimonial evidence showed that both men were locked in a violent, close-quarter struggle for control of the firearm.
+•	During this scuffle, the gun shifted unpredictably, and neither party possessed exclusive or stable control over the weapon. 
+•	The pressure exerted during the struggle caused the gun to discharge. The Court emphasized that when two persons are grappling for a firearm, its trajectory and accidental firing are consequences beyond the actor's control. 
+4. Complete Absence of Fault or Intent to Kill (Dolo or Culpa)
+For an exempting accident to exist, there must be neither malicious intent (criminal dolo) nor reckless imprudence/negligence (culpa): 
+•	No Dolo (Intent): There was no evidence that Pomoy harbored animosity, ill will, or a motive to kill Balboa. The shots were not deliberately aimed or fired at the victim; they went off as a direct result of the physical struggle. 
+•	No Culpa (Negligence): Negligence requires a failure to foresee what a reasonable person would have foreseen. Pomoy could not have anticipated that an unarmed detainee undergoing peaceful transfer would suddenly attempt to wrest away a holstered weapon.
+Because the shooting resulted from an unforeseen scuffle initiated by the victim's attempt to disarm an officer performing his duties with due care, the Supreme Court held that the fatal discharge was an accident, completely exempting Pomoy from criminal liability.
+

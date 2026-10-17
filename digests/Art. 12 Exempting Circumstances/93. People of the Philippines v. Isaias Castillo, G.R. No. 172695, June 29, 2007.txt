@@ -1,0 +1,53 @@
+
+Facts:
+While Guillermo was having a drink with his brother and several companions outside a store, Isaias approached the group. An altercation ensued between Isaias and Guillermo, prompting Guillermo to challenge Isaias to a fistfight. Guillermo then grabbed Isaias by the neck. In response, Isaias drew a gun from his waist. Guillermo attempted to parry the weapon, and a struggle for possession of the firearm followed. In the course of the grapple, the gun went off, hitting Guillermo in the chest and causing his death.
+
+Charged with homicide, Isaias invoked the exempting circumstance of accident under Article 12, paragraph 4 of the Revised Penal Code. He argued that he had no intention to shoot Guillermo and that the discharge occurred purely by accident while they were grappling for the firearm.
+
+Issue:
+Does the exempting circumstance of accident under Article 12, paragraph 4 of the Revised Penal Code exempt Isaias from criminal liability?
+Ruling:  
+"Article 12, paragraph 4 of the Revised Penal Code provides:
+ART. 12. Circumstances which exempt from criminal liability. — The following are exempt from criminal liability:
+x x x x
+4.	Any person who, while performing a lawful act with due care, causes an injury by mere accident without fault or intention of causing it.
+x x x x
+The basis of the exempting circumstance of accident is the complete absence of negligence and intent on the part of the accused. In People v. Vitug, the Court held:
+Under Article 12, paragraph 4 of the Revised Penal Code, the elements of the exempting circumstance of accident are:
+1.	A person is performing a lawful act;
+2.	With due care;
+3.	He causes an injury to another by mere accident;
+4.	Without fault or intention of causing it.
+To prove the defense of accident, all the foregoing elements must be established.
+Appellant failed to prove the first and second elements. In the first place, drawing a gun in the course of an altercation is not a lawful act. Appellant was not performing a lawful act with due care when the gun discharged. Carrying a gun during an argument and drawing the same without justification cannot be considered performing a lawful act with due care. Thus, appellant cannot claim exemption from criminal liability by reason of accident."
+
+Ratio Decidendi
+Under Article 12, paragraph 4 of the Revised Penal Code, the exempting circumstance of accident requires the concurrence of four indispensable elements: (1) the performance of a lawful act; (2) with due care; (3) causing injury to another by mere accident; and (4) without fault or intention of causing it. The absence of even one element defeats the defense.
+Where the accused responds to a fistfight challenge by drawing a firearm during a heated altercation, he is neither performing a lawful act nor exercising due care. Drawing a deadly weapon in the midst of a quarrel creates an imminent peril that invites a struggle, making the fatal discharge a foreseeable consequence of the unlawful and reckless display of force rather than a purely fortuitous or blameless event. Because the first two essential requisites are wanting, the defense of accident cannot be appreciated.
+
+Fallo:
+"WHEREFORE, the Decision of the Court of Appeals dated January 31, 2006 in CA-G.R. CR-H.C. No. 01007 is AFFIRMED with MODIFICATION that appellant Isaias Castillo y Miranda is sentenced to suffer an indeterminate penalty of six (6) years and one (1) day of prision mayor, as minimum, to twelve (12) years and one (1) day of reclusion temporal, as maximum. Appellant is further ORDERED to pay the heirs of Guillermo Miranda ₱50,000.00 as civil indemnity, ₱50,000.00 as moral damages, and ₱25,000.00 as temperate damages.
+Costs against appellant.
+SO ORDERED."
+
+Q: In the cases of Roy San Gaspar and Isaias Castillo, why did the Supreme Court reject their defense of accident?
+
+In both People v. Roy San Gaspar (G.R. No. 180496, April 2, 2014) and People v. Isaias Castillo (G.R. No. 172695, June 29, 2007), the Supreme Court rejected the defense of accident because neither accused satisfied the four mandatory requisites under Article 12, paragraph 4 of the Revised Penal Code:
+1.	The accused was performing a lawful act;
+2.	With due care;
+3.	He caused injury to another by mere accident; and
+4.	Without fault or intention of causing it.
+
+The Court held that the defense failed in each case for the following specific reasons:
+
+1. In People v. Roy San Gaspar: Deliberate Intent and Physical Evidence Contradicted "Accident"
+Roy claimed that his shotgun discharged purely by accident when he pushed the bedroom door open. The Court rejected this claim because:
+•	Incompatibility with Forensic/Physical Evidence: The victim suffered a direct, frontal gunshot wound to the left forehead surrounded by gunpowder tattooing and burns inflicted at close range (within six feet). This physical trajectory proved a direct, level shot aimed at the victim, flatly contradicting the narrative of a spontaneous, downward, or accidental discharge caused by hitting a door.
+•	Positive Eyewitness Account of Intentional Acts: The children who witnessed the crime testified that prior to the shooting, Roy kicked his wife, went upstairs to retrieve a loaded shotgun, returned, lit a lamp to illuminate the target, aimed the gun, and pulled the trigger.
+•	Absence of a Lawful Act Performed with Due Care: Arming oneself with a loaded firearm during a heated domestic squabble and aiming it at an unarmed, sleeping spouse is neither a lawful act nor one performed with due care.
+
+2. In People v. Isaias Castillo: Drawing a Weapon in a Fight Is Unlawful and Negates Due Care
+Isaias claimed that the gun discharged accidentally while he and the victim were grappling for possession after the victim grabbed his neck. The Court rejected this defense because:
+•	The Act Was Not Lawful: Responding to a verbal argument or a challenge to a fistfight by drawing a concealed gun is not a lawful act. Drawing a deadly weapon in the middle of a street altercation constitutes an unlawful and aggressive act.
+•	Lack of Due Care: Pulling out a loaded firearm in the middle of a physical confrontation is inherently reckless and directly invites a struggle for the weapon. The resulting discharge was a foreseeable outcome of introducing a deadly weapon into a fight, not a blameless, fortuitous mishap.
+•	Failure of the First Two Requisites: Because Isaias was neither performing a lawful act nor exercising due care when the gun discharged, the first two indispensable elements of Article 12(4) were absent, which automatically barred the application of the exempting circumstance.

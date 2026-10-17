@@ -1,0 +1,44 @@
+95. People of the Philippines v. Rene Siao, G.R. No. G.R. No. 126021 March 3, 2000
+Case Brief: People of the Philippines v. Rene Siao 
+G.R. No. 126021, March 3, 2000 
+Facts 
+Reylan and Estrella worked as domestic helpers in the household of Rene. Suspecting Estrella of stealing jewelry, Rene brought her to the maid's quarters, tied her, and brandished a handgun. Rene then summoned Reylan into the room and ordered him to undress and rape Estrella. When Reylan initially refused, Rene pointed the gun at Reylan's temple and threatened to kill both Reylan and Estrella if they did not obey. Under constant threat of being shot, Reylan was forced to perform sexual intercourse on Estrella while Rene held her legs and watched at gunpoint. 
+Both Rene and Reylan were charged with rape. Reylan interposed the exempting circumstance under Article 12 of the Revised Penal Code, maintaining that he was completely deprived of free will and acted solely under the impulse of uncontrollable fear and irresistible force produced by Rene pointing a gun at his temple. 
+Issue 
+Does the exempting circumstance of uncontrollable fear or irresistible force under Article 12 of the Revised Penal Code exempt Reylan from criminal liability for rape?
+Ruling (Verbatim Legal Basis)
+"Accused Reylan Gimena is hereby ACQUITTED because he acted under the impulse of uncontrollable fear of an equal, if not greater injury. For want of evidence, his cross-claim against Rene Siao should be, as it is hereby ordered, DISMISSED." 
+(Affirmed by the Supreme Court in upholding Rene Siao's conviction as principal by inducement under Article 17, paragraph 2 of the Revised Penal Code): 
+"The trial court found, and we agree, that appellant Rene Siao is guilty of rape as principal by induction in accordance with Article 17 (2) of the Revised Penal Code: 
+Art. 17. Principals. — The following are considered principals: 
+x x x x
+2.	Those who directly force or induce others to perform it. 
+x x x x
+There are two ways of directly forcing another to commit a crime: (1) by using irresistible force; and (2) by causing uncontrollable fear. The coercion or force exerted must be producing an effect that the co-actor is reduced to a mere instrument who acts not only without will but against his will. In the case at bench, appellant produced this effect when he threatened Gimena with a gun if the latter did not follow his orders to rape Ester. As a matter of fact, Gimena was acquitted by the trial court precisely on the ground that he acted under the impulse of an uncontrollable fear of an equal or greater injury." 
+Ratio Decidendi
+Under Article 12, paragraphs 5 and 6 in relation to Article 17, paragraph 2 of the Revised Penal Code, an actor who is forced to commit a felonious act under the compulsion of an irresistible force or the impulse of an uncontrollable fear is exempt from criminal liability.
+Where an armed person points a firearm directly at another's head and threatens immediate death to compel the performance of a sexual assault, the physical actor is deprived of freedom and reduced to a mere mechanical instrument acting against his will. The person applying the duress and coercion becomes liable as the sole principal by inducement (direct force or inducement), while the coerced participant is entitled to total exemption from criminal liability.
+Fallo
+"WHEREFORE, the appealed Decision of the Regional Trial Court of Cebu, Branch 14, in Criminal Case No. CBU-36109, finding appellant Rene Siao guilty of the crime of rape, is AFFIRMED with the MODIFICATION that accused-appellant Rene Siao is ordered to pay ₱50,000.00 to Ester Raymundo by way of moral damages, and ₱20,000.00 by way of exemplary damages in addition to the amount of ₱50,000.00 which the trial court ordered him to pay as indemnity. 
+SO ORDERED."
+
+In the Rene Siao case, do you agree with the decision of the trial court acquitting Reylan Gimena? Explain your answer.
+Yes, the trial court was correct in acquitting Reylan Gimena, a ruling effectively affirmed by the Supreme Court in People v. Rene Siao (G.R. No. 126021, March 3, 2000).
+His acquittal is grounded on the fundamental requirements of criminal liability and the elements of exempting circumstances under the Revised Penal Code:
+1. Total Absence of Freedom (Actus Me Invito Factus Non Est Meus Actus)
+For an intentional felony (dolo) to exist, three elements must concur: intelligence, intent, and freedom. The basis of exemption under Article 12, paragraph 5 (irresistible force) and paragraph 6 (uncontrollable fear) is the total deprivation of freedom of action.
+Under the maxim actus me invito factus non est meus actus ("an act done by me against my will is not my act"), an individual who is stripped of free will ceases to be an independent moral agent. Reylan did not act of his own volition; he was reduced to a mere mechanical tool in the hands of Rene Siao.
+2. The Threat of Death Was Real, Imminent, and Impending
+Jurisprudence dictates that for uncontrollable fear or irresistible force to exempt an accused, the duress must not be speculative or refer to a future, remote harm; it must be present, imminent, and impending, inducing a well-grounded apprehension of death or serious bodily injury, leaving no reasonable opportunity for escape or self-defense.
+All these conditions were present:
+•	Gun Pointed at the Temple: Rene drew a loaded handgun, pointed it directly at Reylan's head, and threatened to shoot him immediately if he did not comply.
+•	Unarmed and Cornered: The incident occurred inside a closed room. Reylan, an unarmed domestic helper confronting an armed employer who had already tied up the other victim, had no means of equal combat or safe retreat.
+•	No Opportunity for Escape: The coercion remained active and continuous throughout the entire ordeal, with Rene standing right over him, holding the victim down while maintaining armed control.
+3. Equilibrium of Harm / Equal or Greater Injury
+Under Article 12(6), the evil threatened must be equal to or greater than the act the person is compelled to commit:
+•	The evil threatened against Reylan was immediate death (loss of his own life, as well as the victim's life, as Rene threatened to kill both).
+•	In the hierarchy of legally protected values, the imminent threat of execution constitutes an injury of the highest magnitude. The law cannot reasonably demand that an unarmed person sacrifice their own life under immediate gunpoint.
+4. Harmonious Application with Article 17, Paragraph 2 (Principal by Inducement)
+The acquittal of Reylan provides the exact legal foundation for convicting Rene Siao as a principal by inducement under Article 17, paragraph 2 of the Revised Penal Code ("those who directly force or induce others to perform it").
+The Supreme Court explained that directly forcing another can be done by using irresistible force or causing uncontrollable fear. In such cases, the coerced actor is legally exonerated as an involuntary instrument, and criminal liability transfers entirely to the person who exerted the irresistible duress. Convicting Siao as a principal by direct force while convicting Gimena would have been legally contradictory.
+Reylan’s acquittal was an accurate application of Article 12(5) and (6) in relation to Article 17(2) of the Revised Penal Code. He acted entirely without criminal intent or free will under an immediate, deadly threat to his life.

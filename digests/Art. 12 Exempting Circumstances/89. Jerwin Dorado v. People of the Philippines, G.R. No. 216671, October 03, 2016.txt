@@ -1,0 +1,91 @@
+
+Facts:
+Late in the evening, Ronald and his companions were standing along a street when sixteen-year-old Jerwin arrived together with several friends. Jerwin’s group hurled stones and bottles at Ronald’s group, forcing them to run and take shelter inside a nearby marketplace. Thinking the hostility had ceased, Ronald and his companions stepped out, only to find Jerwin’s group still waiting. As the commotion resumed, Jerwin pointed an improvised shotgun (sumpak) directly at Ronald and fired, hitting him between the eyes. Ronald sustained catastrophic ocular injuries resulting in the total loss of one eye and severe visual impairment in the other, but survived due to prompt medical intervention. 
+
+When prosecuted for the shooting, Jerwin invoked his status as a minor. While the prosecution proved that Jerwin intentionally fired the weapon, it offered no independent evidence regarding his discernment or mental capacity to understand the difference between right and wrong. 
+
+Issue:
+Does the exempting circumstance of minority under the Revised Penal Code, as amended by Republic Act No. 9344, exempt Jerwin from criminal liability when criminal intent is shown but discernment is not proven?
+Ruling: 
+"The Prosecution did not determine the discernment of Dorado at the time of the commission of the crime. 
+To recapitulate, R.A. No. 9344 provides that only those minors above fifteen (15) years but below eighteen (18) years of age who acted with discernment shall not be exempted from criminal responsibility. 
+x x x x
+During the trial, the prosecution must specifically prove as a separate circumstance that the CICL committed the alleged crime with discernment. 
+x x x x
+Glaringly, there was no discussion at all on whether Dorado acted with discernment when he committed the crime imputed against him. 
+Discernment cannot be presumed even if Dorado intended to do away with Ronald. Discernment is different from intent. The distinction was elaborated in Guevarra v. Almodovar. Thus: 
+... It is this intent which comprises the third element of dolo as a means of committing a felony, freedom and intelligence being the other two. On the other hand, We have defined the term 'discernment,' as used in Article 12(3) of the RPC, in the old case of People vs. Doquena, 68 Phil. 580 (1939), in this wise: 
+'The discernment that constitutes an exception to the exemption from criminal liability of a minor under fifteen years of age but over nine, who commits an act prohibited by law, is his mental capacity to understand the difference between right and wrong ...' 
+From the foregoing, it is clear that the terms 'intent' and 'discernment' convey two distinct thoughts. While both are products of the mental processes within a person, the former refers to the desire of one's act while the latter relate to the moral significance that person ascribes to the said act. Hence, a person may not intend to commit a crime, yet he nonetheless may have the capacity to know the difference between right and wrong, or he may intend to do an act, but does not know that the act is wrong. 
+x x x x
+As earlier stated, there can be no presumption of discernment on the part of the CICL. In the absence of such determination, it should be presumed that the CICL acted without discernment. This is in accordance with Section 3 of R.A. No. 9344, to wit: 
+Section 3. Liberal Construction of this Act. — In case of doubt, the interpretation of any of the provisions of this Act, including its implementing rules and regulations (IRRs), shall be construed liberally in favor of the child in conflict with the law. 
+Accordingly, Dorado is deemed exempted from criminal liability." 
+
+Ratio Decidendi
+Under Article 12(3) of the Revised Penal Code, as modified by Section 6 of Republic Act No. 9344, a minor above fifteen (15) but below eighteen (18) years of age is exempt from criminal liability unless the prosecution proves beyond reasonable doubt that the accused acted with discernment. 
+Discernment is the mental capacity to comprehend the moral significance of an act—the ability to distinguish right from wrong. It is fundamentally distinct from criminal intent (dolo), which merely denotes the conscious desire or purpose to perform a physical act. Consequently, proof of an intentional shooting does not give rise to a legal presumption of discernment. 
+The prosecution bears the burden of alleging and proving discernment as an independent, specific circumstance by presenting evidence of the minor’s conduct, appearance, attitude, and deportment before, during, and after the crime. In the absence of positive proof and an express judicial finding of discernment, the statutory presumption that the minor acted without discernment must prevail, entitling the minor to absolute exemption from criminal liability, without prejudice to civil damages. 
+
+Fallo:
+"WHEREFORE, the petition is GRANTED. The judgment of conviction of Jerwin Dorado is hereby REVERSED and SET ASIDE by reason of the exempting circumstance of minority. He is hereby referred to the local social welfare and development officer of the locality for the appropriate intervention program. 
+He is also ordered to pay the private complainant, Ronald Bonion, civil indemnity in the amount of ₱30,000.00 and moral damages in the amount of ₱30,000.00. 
+The amounts of damages awarded shall have an interest at the rate of 6% per annum from the date of finality of judgment until fully paid. 
+Let copies of this decision be furnished the two houses of Congress for their information and guidance in future legislation regarding children in conflict with the laws. 
+SO ORDERED."
+
+Q: Compare the cases of Jerwin Dorado and Joery Deliola, explain why the Supreme Court acquitted Jerwin Dorado but not Joery Deliola?
+Comparison Matrix
+Legal Dimension	Jerwin Dorado v. People	People v. Joery Deliola
+Ground for Exemption	Minority (Art. 12[3], RPC; Sec. 6, R.A. No. 9344)	Insanity (Art. 12[1], RPC)
+Operative Presumption	Presumption of lack of discernment	Presumption of sanity
+Burden of Proof	Rests entirely on the Prosecution	Rests entirely on the Defense
+Required Quantum	Proof beyond reasonable doubt (by the State)	Clear and convincing evidence (by the accused)
+Effect of Evidentiary Failure	Exemption from criminal liability	Conviction (rejection of defense)
+
+Core Reasons for the Opposing Outcomes
+1. Difference in Legal Presumptions and the Burden of Proof
+•	In Dorado (Minority): Under Section 6 of R.A. No. 9344, a minor above 15 but below 18 years of age is presumed exempt from criminal liability unless the State proves that the minor acted with discernment. Because this presumption favors the child, the prosecution carried the affirmative burden to establish discernment beyond reasonable doubt. The prosecution completely failed to introduce evidence regarding Dorado's capacity to distinguish right from wrong. In the absence of such proof, the statutory presumption prevailed, mandating Dorado's discharge from criminal liability.
+•	In Deliola (Insanity): Under Article 12(1) of the Revised Penal Code, every person is presumed sane and responsible for their acts. Insanity is an affirmative defense in confession and avoidance; thus, the defense carried the heavy burden of overcoming the presumption of sanity by clear and convincing evidence. Deliola failed to discharge this burden because his medical evaluation occurred over two years after the crime, leaving his mental state at the exact moment of the stabbing unproven. Consequently, the legal presumption of sanity remained intact.
+
+2. Intent (Dolo) vs. Discernment vs. Complete Deprivation of Reason
+•	Why Dorado’s deliberate shooting did not defeat his defense: The Court reiterated that intent is distinct from discernment. Intent (dolo) refers to the conscious desire to perform an act, whereas discernment refers to the moral capacity to understand that the act is wrongful. Even though the prosecution proved that Dorado intentionally pointed and fired an improvised shotgun at the victim, intentionality alone cannot be equated with discernment. Because the prosecution failed to demonstrate that Dorado understood the moral consequences of his actions, his intentional act remained shielded by the exemption.
+•	Why Deliola’s mental condition did not suffice for exemption: For insanity to exempt an adult from criminal liability, the law requires a complete deprivation of reason and intelligence at the precise time the crime is committed. Mere mental illness or clinical schizophrenia is not enough. The psychiatrist herself testified that schizophrenia involves periods of remission and lucid intervals where the patient can distinguish right from wrong. The defense failed to prove that Deliola was in an active psychotic episode devoid of reason when he attacked the victim.
+
+3. Subsequent Conduct as Evidence of Mental State
+•	In Deliola: Immediately after stabbing the passenger, Deliola ran away and tried to elude pursuing police officers. The Supreme Court underscored that flight is an overt manifestation of consciousness of guilt. By attempting to escape, Deliola demonstrated an awareness of the wrongfulness of his conduct and the fear of apprehension, directly refuting the claim that he was completely deprived of reason.
+•	In Dorado: While post-crime behavior can sometimes be used to infer discernment in a minor, the trial record contained no inquiry, evaluation, or factual finding concerning Dorado's discernment. The Court held that the judiciary cannot speculate on discernment through liberal extrapolation where the prosecution utterly failed to put it in issue during trial.
+
+Controlling Principle
+Dorado was acquitted because the prosecution failed to prove discernment, which it was legally required to prove to overcome the statutory presumption favoring the minor. Conversely, Deliola was convicted because the defense failed to prove complete deprivation of reason, leaving undisturbed the statutory presumption of sanity.
+Q: What is the effect of the minority of Joery Deliola to his criminal liability? In the Joery Deliola case, how should he serve his penalty?
+
+1. Effect of Minority on Joery Deliola's Criminal Liability
+•	He was of legal age: The records of the case show that at the time of the commission of the crime on July 10, 2004, Deliola was 21 years old (born in 1983).
+•	No mitigating or exempting circumstance of minority: Because he was already of majority age, neither the exempting circumstance of minority under Article 12, paragraphs 2 and 3 of the Revised Penal Code (as amended by R.A. No. 9344) nor the privileged mitigating circumstance of minority under Article 13, paragraph 2 and Article 68 of the Revised Penal Code applied to him.
+•	His sole defense was insanity: His defense rested exclusively on insanity under Article 12, paragraph 1 of the Revised Penal Code, which the Court rejected for lack of clear and convincing proof that he was completely deprived of intelligence at the exact time of the stabbing.
+(Note: It was Jerwin Dorado in G.R. No. 216671 and the Madali brothers in G.R. No. 180380 who were minors and entitled to the rules under R.A. No. 9344).
+
+2. How Joery Deliola Must Serve His Penalty
+Because his conviction for Murder was sustained without any modifying circumstances affecting his criminal agency, he must serve his penalty under standard penal rules:
+•	Principal Penalty: The Supreme Court affirmed the penalty of reclusion perpetua imposed by the trial court and the Court of Appeals.
+•	Manner of Serving Sentence:
+o	He must serve the sentence of reclusion perpetua through actual imprisonment in a national penitentiary (e.g., the New Bilibid Prison under the Bureau of Corrections).
+o	Because he was an adult and convicted of an offense punishable by reclusion perpetua, he is not eligible for a suspended sentence under Section 38 of R.A. No. 9344 or probation under the Probation Law.
+•	Indeterminate Sentence Law Inapplicable: Under Section 2 of Act No. 4103 (Indeterminate Sentence Law), the indeterminate sentence does not apply to persons convicted of offenses punished with reclusion perpetua.
+•	Civil Liabilities: In addition to imprisonment, he was ordered to pay the heirs of the victim civil indemnity (₱75,000.00), moral damages (₱75,000.00), exemplary damages (₱30,000.00), and temperate damages (₱25,000.00), all with legal interest at 6% per annum from finality of judgment until fully paid.
+Q: Why was he not ordered confined in a penal institution, even if he was already over 21 years of old when the Supreme Court decided his case?
+1. Effect of Minority on Joery Deliola's Criminal Liability
+•	He was of legal age: The records of the case show that at the time of the commission of the crime on July 10, 2004, Deliola was 21 years old (born in 1983).
+•	No mitigating or exempting circumstance of minority: Because he was already of majority age, neither the exempting circumstance of minority under Article 12, paragraphs 2 and 3 of the Revised Penal Code (as amended by R.A. No. 9344) nor the privileged mitigating circumstance of minority under Article 13, paragraph 2 and Article 68 of the Revised Penal Code applied to him.
+•	His sole defense was insanity: His defense rested exclusively on insanity under Article 12, paragraph 1 of the Revised Penal Code, which the Court rejected for lack of clear and convincing proof that he was completely deprived of intelligence at the exact time of the stabbing.
+(Note: It was Jerwin Dorado in G.R. No. 216671 and the Madali brothers in G.R. No. 180380 who were minors and entitled to the rules under R.A. No. 9344).
+2. How Joery Deliola Must Serve His Penalty
+Because his conviction for Murder was sustained without any modifying circumstances affecting his criminal agency, he must serve his penalty under standard penal rules:
+•	Principal Penalty: The Supreme Court affirmed the penalty of reclusion perpetua imposed by the trial court and the Court of Appeals.
+•	Manner of Serving Sentence:
+o	He must serve the sentence of reclusion perpetua through actual imprisonment in a national penitentiary (e.g., the New Bilibid Prison under the Bureau of Corrections).
+o	Because he was an adult and convicted of an offense punishable by reclusion perpetua, he is not eligible for a suspended sentence under Section 38 of R.A. No. 9344 or probation under the Probation Law.
+•	Indeterminate Sentence Law Inapplicable: Under Section 2 of Act No. 4103 (Indeterminate Sentence Law), the indeterminate sentence does not apply to persons convicted of offenses punished with reclusion perpetua.
+•	Civil Liabilities: In addition to imprisonment, he was ordered to pay the heirs of the victim civil indemnity (₱75,000.00), moral damages (₱75,000.00), exemplary damages (₱30,000.00), and temperate damages (₱25,000.00), all with legal interest at 6% per annum from finality of judgment until fully paid.
+

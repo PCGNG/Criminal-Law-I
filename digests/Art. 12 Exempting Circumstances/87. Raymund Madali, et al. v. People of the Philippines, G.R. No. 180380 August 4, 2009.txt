@@ -1,0 +1,58 @@
+87. Raymund Madali, et al. v. People of the Philippines, G.R. No. 180380 August 4, 2009
+Fact:
+
+Fourteen-year-old Raymund, sixteen-year-old Rodel, and their companion, Bernardino, led the victim to a secluded area near a high school reservoir. Once there, Bernardino blindfolded the victim and repeatedly beat him with a hard coconut frond. When the victim fell, Raymund, Rodel, and Bernardino helped him to his feet, after which Raymund struck the victim at the back of the thighs with the same coconut frond. Rodel then delivered punches to the victim’s head and body with a brass knuckle, knocking him unconscious. Thereafter, Raymund tied a handkerchief around the victim’s neck, fastened it to a dog chain, and, with Rodel’s assistance, hoisted the body to hang from a tree. Medico-legal findings showed that the victim died of head injuries sustained before the hanging. Before departing, the group threatened Jovencio (cousin of the victim), bystander eyewitness, with death if he revealed the incident. 
+
+When prosecuted for the killing, Raymund and Rodel claimed exemption from criminal liability under the rules on minority and discernment, while the prosecution maintained their criminal liability as co-conspirators. 
+
+Issue
+Does minority exempt Raymund and Rodel from criminal liability under the rules on exempting circumstances as amended by Republic Act No. 9344? YES. As to the criminal liability, Raymond is exempt.
+
+Ruling (Verbatim Legal Basis)
+
+"As correctly ruled by the Court of Appeals, Raymund, who was only 14 years of age at the time he committed the crime, should be exempt from criminal liability and should be released to the custody of his parents or guardian pursuant to Sections 6 and 20 of Republic Act No. 9344, to wit: 
+
+SEC. 6. Minimum Age of Criminal Responsibility. — A child fifteen (15) years of age or under at the time of the commission of the offense shall be exempt from criminal liability. However, the child shall be subjected to an intervention program pursuant to Section 20 of this Act. x x x x 
+x x x x
+
+Although the crime was committed on April 13, 1999 and Republic Act No. 9344 took effect only on May 20, 2006, the said law should be given retroactive effect in favor of Raymund who is not a habitual criminal pursuant to Article 22 of the Revised Penal Code.
+While Raymund is exempt from criminal liability, his civil liability is not extinguished pursuant to the second paragraph of Section 6, Republic Act No. 9344. 
+
+As to Rodel's situation, it must be borne in mind that he was 16 years old at the time of the commission of the crime. A determination of whether he acted with or without discernment is necessary pursuant to Section 6 of Republic Act No. 9344, viz: 
+
+SEC. 6. Minimum Age of Criminal Responsibility. — x x x x 
+A child above fifteen (15) years but below eighteen (18) years of age shall likewise be exempt from criminal liability and be subjected to an intervention program, unless he/she has acted with discernment, in which case, such child shall be subjected to the appropriate proceedings in accordance with this Act. 
+x x x x
+
+Discernment is that mental capacity of a minor to fully appreciate the consequences of his unlawful act. Such capacity may be known and should be determined by taking into consideration all the facts and circumstances afforded by the records in each case.
+
+The discernment that is contemplated in the law requires that the child in conflict with the law understands the consequence of his/her actions and is capable of discerning between right and wrong. Rodel acted with discernment. He and his companions dragged the victim to the crime scene, inflicted physical harm on him and when the victim fell unconscious, hanged him to a tree. Rodel, together with his cohorts, warned Jovencio not to reveal their hideous act to anyone; otherwise, they would kill him. Rodel knew, therefore, that killing AAA was a condemnable act and should be kept in secrecy." 
+
+Ratio Decidendi
+Under Section 6 of Republic Act No. 9344, amending the exempting circumstance of minority under Article 12, paragraphs 2 and 3 of the Revised Penal Code:
+
+1.	Child 15 years of age or under: A child aged 15 or below at the time of the commission of the crime is completely exempt from criminal liability by operation of law. Because penal laws favorable to the accused are given retroactive application when the offender is not a habitual delinquent, Raymund (being 14 years old at the time of the offense) is exempt from criminal prosecution, without prejudice to his civil liability. 
+
+2.	Child above 15 but below 18 years of age: A child in this bracket is exempt from criminal liability only if the act was committed without discernment. Discernment means the mental capacity to comprehend the consequence of one's actions and determine the difference between right and wrong. Evidence that Rodel inflicted brutal physical injury, staged the simulated hanging to conceal the cause of death, and actively threatened the sole eyewitness to enforce silence establishes that he acted with discernment and remains criminally liable, subject only to privileged mitigation and automatic suspension of sentence. 
+
+Fallo
+"WHEREFORE, the Decision dated July 28, 2003, rendered by the Regional Trial Court, Branch 81, Romblon, Romblon, in Criminal Case No. 2197, is hereby MODIFIED, as follows:
+1.	Petitioner Raymund Madali is hereby EXEMPT from criminal liability and his case is DISMISSED. He shall, however, be subjected to an intervention program pursuant to Section 20 of Republic Act No. 9344;
+2.	The conviction of petitioner Rodel Madali for the crime of Homicide is SUSTAINED, but the pronouncement of his sentence is SUSPENDED pursuant to Section 38 of Republic Act No. 9344;
+3.	Rodel Madali is ordered committed to the custody of the Department of Social Welfare and Development for appropriate disposition in accordance with Section 38 of Republic Act No. 9344; and
+4.	Petitioners Raymund Madali and Rodel Madali are declared solidarily liable to pay the heirs of the victim the amounts of ₱50,000.00 as civil indemnity, ₱50,000.00 as moral damages and ₱25,000.00 as temperate damages.
+
+Explain why the Supreme Court acquitted Raymund Madali even though he committed the crime before the effectivity of R.A. 9344.
+The Court applied this doctrine based on the following legal reasons:
+
+1. Retroactive Effect of Favorable Penal Laws (Art. 22, RPC)
+Article 22 of the Revised Penal Code mandates that:
+"Penal laws shall have a retroactive effect insofar as they favor the person guilty of a felony, who is not a habitual criminal..."
+Although the crime occurred on April 13, 1999, when the prevailing law was the original Article 12, paragraph 3 of the Revised Penal Code (which required an inquiry into discernment for minors over 9 but under 15), Republic Act No. 9344 (the Juvenile Justice and Welfare Act of 2006) took effect while the case was pending on appeal. Because R.A. 9344 raised the threshold for absolute exemption from criminal responsibility and contained provisions more beneficial to juvenile offenders, it was treated as a penal law capable of retroactive enforcement in favor of an accused who was not a habitual delinquent.
+
+2. Absolute Exemption for Minors 15 and Under
+Under Section 6 of R.A. 9344:
+•	A child fifteen (15) years of age or under at the time of the commission of the offense is exempt from criminal liability by operation of law.
+•	Unlike the previous regime under the Revised Penal Code, the prosecution is no longer permitted to prove discernment to hold a child 15 or under criminally liable; the exemption is absolute.
+Because Raymund was established to be 14 years old at the time the offense was committed, the retroactive application of Section 6 meant that the state could no longer hold him criminally responsible, regardless of whether he understood the wrongfulness of his acts. Consequently, the criminal action against him was dismissed, and he was ordered referred to an intervention program under the custody of his parents/guardian, while remaining civilly liable.
+

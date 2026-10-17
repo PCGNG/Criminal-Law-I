@@ -1,0 +1,85 @@
+
+Facts:
+While sitting inside a passenger jeepney waiting for departure, the victim was suddenly attacked by Joery, who boarded the vehicle, grabbed the victim by the hair, and stabbed him in the neck and chest with a knife. Bystanders brought the victim to a hospital, where he died of multiple stab wounds. Joery immediately fled the scene on foot but was chased and apprehended by pursuing police officers.
+
+Charged with murder, Joery interposed the exempting circumstance of insanity under Article 12, paragraph 1 of the Revised Penal Code. To substantiate the defense, Joery presented his mother, who testified that he had been displaying unusual behavior—such as sleeplessness, talking to himself, and walking naked—and that he had previously been taken to an asylum. A psychiatrist also testified that when she examined Joery two years after the stabbing, he was diagnosed with schizophrenia. However, the psychiatrist admitted that she had not treated or examined Joery prior to or at the time of the stabbing and could not definitively state his mental condition at the precise moment of the commission of the crime.
+
+Issue:
+Does the exempting circumstance of insanity under Article 12, paragraph 1 of the Revised Penal Code exempt Joery from criminal liability?
+Ruling:  
+"Article 12 of the RPC provides for the circumstances which exempt an accused from criminal liability, one of which is:
+1.	An imbecile or an insane person, unless the latter has acted during a lucid interval.
+Under Philippine law, there is a presumption of sanity; he who relies on the defense of insanity must prove it by clear and convincing evidence.
+
+In People v. Dungo, this Court ruled that:
+Evidence of insanity must have reference to the mental condition of the person whose sanity is in question, at the time of or immediately before the commission of the act charged, and of the acts, conduct, and behavior thereof, within a reasonable time before and subsequent to the enjoyment of such condition.
+
+In the case at bar, appellant's defense of insanity was debunked by the prosecution. While Dr. Reyes testified that appellant was suffering from schizophrenia, she admitted that she examined appellant only on August 21, 2006, or more than two (2) years after the incident occurred on July 10, 2004. Dr. Reyes was thus not able to ascertain the mental state of appellant at the time of the commission of the crime. She testified:
+x x x x
+A: No, Ma'am, because the illness Schizophrenia has a period of remission where the patient would seem to be normal and that during that time the patient could act with discernment and he would know what is right from wrong, Ma'am.
+x x x x
+Appellant failed to prove that he was legally insane at the time he committed the crime. Medical records and testimony showing that appellant was suffering from schizophrenia more than two years after the incident cannot be made the basis for finding that appellant was insane at the time of the killing. Appellant's behavior immediately after the stabbing also belies his claim of insanity. Appellant fled the scene of the crime and tried to elude the police officers. His act of fleeing shows that he was aware of the wrongfulness of his act."
+Ratio Decidendi
+Under Article 12(1) of the Revised Penal Code, insanity as an exempting circumstance requires clear and convincing evidence showing a total deprivation of intelligence, reason, and free will at the precise moment of, or immediately before, the execution of the felonious act.
+A clinical diagnosis of schizophrenia rendered more than two years after the incident fails to meet the required quantum of proof where the examining psychiatrist admits to having no personal knowledge of the offender's mental state at the time of the crime and concedes that the illness is characterized by periods of remission during which the patient acts with discernment. Moreover, the accused's conduct contemporaneous with and immediately subsequent to the stabbing—specifically, immediately fleeing the scene and attempting to elude pursuing police officers—evinces consciousness of guilt and awareness of the wrongfulness of the act, directly negating the claim of complete deprivation of reason.
+
+Fallo:
+"WHEREFORE, the Decision dated June 30, 2011 of the Court of Appeals in CA-G.R. CR-H.C. No. 03525 is AFFIRMED with MODIFICATION that appellant Joery Deliola y Delmo is ORDERED to pay the heirs of the victim the following amounts: (1) ₱75,000.00 as civil indemnity; (2) ₱75,000.00 as moral damages; (3) ₱30,000.00 as exemplary damages; and (4) ₱25,000.00 as temperate damages.
+All the damages awarded shall earn interest at the rate of six percent (6%) per annum from the date of finality of this judgment until fully paid.
+SO ORDERED."
+
+Q: Compare the cases of Jerwin Dorado and Joery Deliola, explain why the Supreme Court acquitted Jerwin Dorado but not Joery Deliola?
+Comparison Matrix
+Legal Dimension	Jerwin Dorado v. People	People v. Joery Deliola
+Ground for Exemption	Minority (Art. 12[3], RPC; Sec. 6, R.A. No. 9344)	Insanity (Art. 12[1], RPC)
+Operative Presumption	Presumption of lack of discernment	Presumption of sanity
+Burden of Proof	Rests entirely on the Prosecution	Rests entirely on the Defense
+Required Quantum	Proof beyond reasonable doubt (by the State)	Clear and convincing evidence (by the accused)
+Effect of Evidentiary Failure	Exemption from criminal liability	Conviction (rejection of defense)
+
+Core Reasons for the Opposing Outcomes
+1. Difference in Legal Presumptions and the Burden of Proof
+•	In Dorado (Minority): Under Section 6 of R.A. No. 9344, a minor above 15 but below 18 years of age is presumed exempt from criminal liability unless the State proves that the minor acted with discernment. Because this presumption favors the child, the prosecution carried the affirmative burden to establish discernment beyond reasonable doubt. The prosecution completely failed to introduce evidence regarding Dorado's capacity to distinguish right from wrong. In the absence of such proof, the statutory presumption prevailed, mandating Dorado's discharge from criminal liability.
+•	In Deliola (Insanity): Under Article 12(1) of the Revised Penal Code, every person is presumed sane and responsible for their acts. Insanity is an affirmative defense in confession and avoidance; thus, the defense carried the heavy burden of overcoming the presumption of sanity by clear and convincing evidence. Deliola failed to discharge this burden because his medical evaluation occurred over two years after the crime, leaving his mental state at the exact moment of the stabbing unproven. Consequently, the legal presumption of sanity remained intact.
+
+2. Intent (Dolo) vs. Discernment vs. Complete Deprivation of Reason
+•	Why Dorado’s deliberate shooting did not defeat his defense: The Court reiterated that intent is distinct from discernment. Intent (dolo) refers to the conscious desire to perform an act, whereas discernment refers to the moral capacity to understand that the act is wrongful. Even though the prosecution proved that Dorado intentionally pointed and fired an improvised shotgun at the victim, intentionality alone cannot be equated with discernment. Because the prosecution failed to demonstrate that Dorado understood the moral consequences of his actions, his intentional act remained shielded by the exemption.
+•	Why Deliola’s mental condition did not suffice for exemption: For insanity to exempt an adult from criminal liability, the law requires a complete deprivation of reason and intelligence at the precise time the crime is committed. Mere mental illness or clinical schizophrenia is not enough. The psychiatrist herself testified that schizophrenia involves periods of remission and lucid intervals where the patient can distinguish right from wrong. The defense failed to prove that Deliola was in an active psychotic episode devoid of reason when he attacked the victim.
+
+3. Subsequent Conduct as Evidence of Mental State
+•	In Deliola: Immediately after stabbing the passenger, Deliola ran away and tried to elude pursuing police officers. The Supreme Court underscored that flight is an overt manifestation of consciousness of guilt. By attempting to escape, Deliola demonstrated an awareness of the wrongfulness of his conduct and the fear of apprehension, directly refuting the claim that he was completely deprived of reason.
+•	In Dorado: While post-crime behavior can sometimes be used to infer discernment in a minor, the trial record contained no inquiry, evaluation, or factual finding concerning Dorado's discernment. The Court held that the judiciary cannot speculate on discernment through liberal extrapolation where the prosecution utterly failed to put it in issue during trial.
+
+Controlling Principle
+Dorado was acquitted because the prosecution failed to prove discernment, which it was legally required to prove to overcome the statutory presumption favoring the minor. Conversely, Deliola was convicted because the defense failed to prove complete deprivation of reason, leaving undisturbed the statutory presumption of sanity.
+Q: What is the effect of the minority of Joery Deliola to his criminal liability? In the Joery Deliola case, how should he serve his penalty?
+
+1. Effect of Minority on Joery Deliola's Criminal Liability
+•	He was of legal age: The records of the case show that at the time of the commission of the crime on July 10, 2004, Deliola was 21 years old (born in 1983).
+•	No mitigating or exempting circumstance of minority: Because he was already of majority age, neither the exempting circumstance of minority under Article 12, paragraphs 2 and 3 of the Revised Penal Code (as amended by R.A. No. 9344) nor the privileged mitigating circumstance of minority under Article 13, paragraph 2 and Article 68 of the Revised Penal Code applied to him.
+•	His sole defense was insanity: His defense rested exclusively on insanity under Article 12, paragraph 1 of the Revised Penal Code, which the Court rejected for lack of clear and convincing proof that he was completely deprived of intelligence at the exact time of the stabbing.
+(Note: It was Jerwin Dorado in G.R. No. 216671 and the Madali brothers in G.R. No. 180380 who were minors and entitled to the rules under R.A. No. 9344).
+
+2. How Joery Deliola Must Serve His Penalty
+Because his conviction for Murder was sustained without any modifying circumstances affecting his criminal agency, he must serve his penalty under standard penal rules:
+•	Principal Penalty: The Supreme Court affirmed the penalty of reclusion perpetua imposed by the trial court and the Court of Appeals.
+•	Manner of Serving Sentence:
+o	He must serve the sentence of reclusion perpetua through actual imprisonment in a national penitentiary (e.g., the New Bilibid Prison under the Bureau of Corrections).
+o	Because he was an adult and convicted of an offense punishable by reclusion perpetua, he is not eligible for a suspended sentence under Section 38 of R.A. No. 9344 or probation under the Probation Law.
+•	Indeterminate Sentence Law Inapplicable: Under Section 2 of Act No. 4103 (Indeterminate Sentence Law), the indeterminate sentence does not apply to persons convicted of offenses punished with reclusion perpetua.
+•	Civil Liabilities: In addition to imprisonment, he was ordered to pay the heirs of the victim civil indemnity (₱75,000.00), moral damages (₱75,000.00), exemplary damages (₱30,000.00), and temperate damages (₱25,000.00), all with legal interest at 6% per annum from finality of judgment until fully paid.
+Q: Why was he not ordered confined in a penal institution, even if he was already over 21 years of old when the Supreme Court decided his case?
+1. Effect of Minority on Joery Deliola's Criminal Liability
+•	He was of legal age: The records of the case show that at the time of the commission of the crime on July 10, 2004, Deliola was 21 years old (born in 1983).
+•	No mitigating or exempting circumstance of minority: Because he was already of majority age, neither the exempting circumstance of minority under Article 12, paragraphs 2 and 3 of the Revised Penal Code (as amended by R.A. No. 9344) nor the privileged mitigating circumstance of minority under Article 13, paragraph 2 and Article 68 of the Revised Penal Code applied to him.
+•	His sole defense was insanity: His defense rested exclusively on insanity under Article 12, paragraph 1 of the Revised Penal Code, which the Court rejected for lack of clear and convincing proof that he was completely deprived of intelligence at the exact time of the stabbing.
+(Note: It was Jerwin Dorado in G.R. No. 216671 and the Madali brothers in G.R. No. 180380 who were minors and entitled to the rules under R.A. No. 9344).
+2. How Joery Deliola Must Serve His Penalty
+Because his conviction for Murder was sustained without any modifying circumstances affecting his criminal agency, he must serve his penalty under standard penal rules:
+•	Principal Penalty: The Supreme Court affirmed the penalty of reclusion perpetua imposed by the trial court and the Court of Appeals.
+•	Manner of Serving Sentence:
+o	He must serve the sentence of reclusion perpetua through actual imprisonment in a national penitentiary (e.g., the New Bilibid Prison under the Bureau of Corrections).
+o	Because he was an adult and convicted of an offense punishable by reclusion perpetua, he is not eligible for a suspended sentence under Section 38 of R.A. No. 9344 or probation under the Probation Law.
+•	Indeterminate Sentence Law Inapplicable: Under Section 2 of Act No. 4103 (Indeterminate Sentence Law), the indeterminate sentence does not apply to persons convicted of offenses punished with reclusion perpetua.
+•	Civil Liabilities: In addition to imprisonment, he was ordered to pay the heirs of the victim civil indemnity (₱75,000.00), moral damages (₱75,000.00), exemplary damages (₱30,000.00), and temperate damages (₱25,000.00), all with legal interest at 6% per annum from finality of judgment until fully paid.
+
