@@ -7,25 +7,25 @@
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
   <style>
     * { box-sizing: border-box; margin: 0; padding: 0; font-family: system-ui, -apple-system, sans-serif; }
-    body { display: flex; flex-direction: column; height: 100vh; background: #0f172a; color: #f8fafc; }
-    header { padding: 12px 24px; background: #1e293b; border-bottom: 1px solid #334155; display: flex; justify-content: space-between; align-items: center; gap: 12px; flex-wrap: wrap; }
-    header h1 { font-size: 1.15rem; color: #fde047; }
+    body { display: flex; flex-direction: column; height: 100vh; background: #0b1329; color: #f1f5f9; }
+    header { padding: 12px 24px; background: #111e38; border-bottom: 1px solid #1e3a8a; display: flex; justify-content: space-between; align-items: center; gap: 12px; flex-wrap: wrap; }
+    header h1 { font-size: 1.15rem; color: #f472b6; }
     .controls { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; }
-    select, button.nav-btn, label.upload-btn { padding: 8px 12px; border-radius: 6px; background: #334155; color: #fff; border: 1px solid #475569; cursor: pointer; font-size: 0.88rem; }
-    button.nav-btn:hover, label.upload-btn:hover { background: #475569; }
-    button.nav-btn:disabled { opacity: 0.5; cursor: not-allowed; }
+    select, button.nav-btn, label.upload-btn { padding: 8px 12px; border-radius: 6px; background: #1d283a; color: #f1f5f9; border: 1px solid #3b82f6; cursor: pointer; font-size: 0.88rem; }
+    select:hover, button.nav-btn:hover, label.upload-btn:hover { background: #25344f; border-color: #f472b6; }
+    button.nav-btn:disabled { opacity: 0.4; cursor: not-allowed; border-color: #1e3a8a; }
     input[type="file"] { display: none; }
     .split-container { display: flex; flex: 1; overflow: hidden; }
     .pane { flex: 1; overflow-y: auto; padding: 24px; }
-    .left-pane { border-right: 1px solid #334155; display: flex; justify-content: center; align-items: flex-start; background: #090d16; }
-    .left-pane img { max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 10px 25px rgba(0,0,0,0.5); }
-    .right-pane { background: #1e293b; line-height: 1.7; }
-    .digest-card { max-width: 760px; margin: 0 auto; background: #0f172a; padding: 28px; border-radius: 8px; border: 1px solid #334155; white-space: pre-wrap; font-size: 0.95rem; }
-    .digest-card h1, .digest-card h2, .digest-card h3 { color: #fde047; margin-bottom: 8px; margin-top: 14px; }
-    .digest-card strong { color: #38bdf8; }
-    .back-overview-btn { display: inline-block; margin-top: 24px; padding: 10px 16px; background: #334155; color: #fde047; border: 1px solid #475569; border-radius: 6px; cursor: pointer; font-size: 0.9rem; text-decoration: none; font-weight: 500; }
-    .back-overview-btn:hover { background: #475569; color: #fff; }
-    @media (max-width: 800px) { .split-container { flex-direction: column; } .left-pane { border-right: none; border-bottom: 1px solid #334155; } }
+    .left-pane { border-right: 1px solid #1e3a8a; display: flex; justify-content: center; align-items: flex-start; background: #070c1b; }
+    .left-pane img { max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 10px 25px rgba(0,0,0,0.6); }
+    .right-pane { background: #111e38; line-height: 1.7; }
+    .digest-card { max-width: 760px; margin: 0 auto; background: #0b1329; padding: 28px; border-radius: 8px; border: 1px solid #1e3a8a; white-space: pre-wrap; font-size: 0.95rem; }
+    .digest-card h1, .digest-card h2, .digest-card h3 { color: #f472b6; margin-bottom: 8px; margin-top: 14px; }
+    .digest-card strong { color: #60a5fa; }
+    .back-overview-btn { display: inline-block; margin-top: 24px; padding: 10px 16px; background: #1d283a; color: #f472b6; border: 1px solid #3b82f6; border-radius: 6px; cursor: pointer; font-size: 0.9rem; text-decoration: none; font-weight: 500; }
+    .back-overview-btn:hover { background: #25344f; color: #ffffff; border-color: #f472b6; }
+    @media (max-width: 800px) { .split-container { flex-direction: column; } .left-pane { border-right: none; border-bottom: 1px solid #1e3a8a; } }
   </style>
 </head>
 <body>
@@ -156,26 +156,26 @@
       document.getElementById('visualImage').src = "";
 
       const contentBox = document.getElementById('digestContent');
-      contentBox.innerHTML = `<h2>📚 Topic: ${selectedTopic}</h2><p style="color:#94a3b8;">Loading topic overview...</p>`;
+      contentBox.innerHTML = `<h2 style="color:#f472b6;">📚 Topic: ${selectedTopic}</h2><p style="color:#93c5fd;">Loading topic overview...</p>`;
 
       let customNotesHTML = "";
       try {
         const res = await fetch(topicInfo.topicNotePath);
         if (res.ok) {
           const text = await res.text();
-          customNotesHTML = marked.parse(text) + `<hr style="margin:24px 0; border-color:#334155;">`;
+          customNotesHTML = marked.parse(text) + `<hr style="margin:24px 0; border-color:#1e3a8a;">`;
         }
       } catch (err) {}
 
       let caseListHTML = topicInfo.cases.length > 0 
-        ? topicInfo.cases.map((c, i) => `<li style="margin-bottom: 8px;"><a href="#" onclick="selectCaseFromOverview(${i}); return false;" style="color: #38bdf8; text-decoration: none; font-weight: 500;">${c.title}</a></li>`).join('')
+        ? topicInfo.cases.map((c, i) => `<li style="margin-bottom: 8px;"><a href="#" onclick="selectCaseFromOverview(${i}); return false;" style="color: #60a5fa; text-decoration: none; font-weight: 500;">${c.title}</a></li>`).join('')
         : '<li>No cases uploaded for this topic yet.</li>';
 
       contentBox.innerHTML = `
-        <h2>📚 Topic: ${selectedTopic}</h2>
-        <hr style="margin:12px 0; border-color:#334155;">
+        <h2 style="color:#f472b6;">📚 Topic: ${selectedTopic}</h2>
+        <hr style="margin:12px 0; border-color:#1e3a8a;">
         ${customNotesHTML}
-        <h3 style="color: #fde047; margin-top: 16px; margin-bottom: 10px;">📋 Cases under this topic:</h3>
+        <h3 style="color: #f472b6; margin-top: 16px; margin-bottom: 10px;">📋 Cases under this topic:</h3>
         <ul style="padding-left: 20px; line-height: 1.8;">${caseListHTML}</ul>
       `;
     }
@@ -209,22 +209,21 @@
       imgElement.src = item.imgPath;
 
       const contentBox = document.getElementById('digestContent');
-      contentBox.innerHTML = `<h2>${item.title}</h2><p style="color:#38bdf8; font-size:0.85rem; margin-bottom:12px;">Topic: ${item.topic}</p><p style="color:#94a3b8;">Loading case digest file...</p>`;
+      contentBox.innerHTML = `<h2 style="color:#f472b6;">${item.title}</h2><p style="color:#60a5fa; font-size:0.85rem; margin-bottom:12px;">Topic: ${item.topic}</p><p style="color:#93c5fd;">Loading case digest file...</p>`;
 
       try {
         const res = await fetch(item.digestPath);
         if (!res.ok) throw new Error("File not found");
         const text = await res.text();
         
-        // Appends the "Back to Topic Overview" button at the bottom of every case digest
-        const backButtonHTML = `<hr style="margin:32px 0 16px 0; border-color:#334155;"><button onclick="goToOverview()" class="back-overview-btn">⬅️ Back to Topic Overview</button>`;
+        const backButtonHTML = `<hr style="margin:32px 0 16px 0; border-color:#1e3a8a;"><button onclick="goToOverview()" class="back-overview-btn">⬅️ Back to Topic Overview</button>`;
         
-        contentBox.innerHTML = `<h2>${item.title}</h2><p style="color:#38bdf8; font-size:0.85rem; margin-bottom:12px;">Topic: ${item.topic}</p><hr style="margin:12px 0; border-color:#334155;">` + marked.parse(text) + backButtonHTML;
+        contentBox.innerHTML = `<h2 style="color:#f472b6;">${item.title}</h2><p style="color:#60a5fa; font-size:0.85rem; margin-bottom:12px;">Topic: ${item.topic}</p><hr style="margin:12px 0; border-color:#1e3a8a;">` + marked.parse(text) + backButtonHTML;
       } catch (err) {
         contentBox.innerHTML = `
-          <h2>${item.title}</h2>
-          <p style="color:#38bdf8; font-size:0.85rem; margin-bottom:12px;">Topic: ${item.topic}</p>
-          <hr style="margin:12px 0; border-color:#334155;">
+          <h2 style="color:#f472b6;">${item.title}</h2>
+          <p style="color:#60a5fa; font-size:0.85rem; margin-bottom:12px;">Topic: ${item.topic}</p>
+          <hr style="margin:12px 0; border-color:#1e3a8a;">
           <p style="color:#f87171;">Digest file not found at <code>${item.digestPath}</code></p>
           <button onclick="goToOverview()" class="back-overview-btn">⬅️ Back to Topic Overview</button>
         `;
@@ -261,8 +260,8 @@
       if (file) {
         const reader = new FileReader();
         reader.onload = e => {
-          const backButtonHTML = `<hr style="margin:32px 0 16px 0; border-color:#334155;"><button onclick="goToOverview()" class="back-overview-btn">⬅️ Back to Topic Overview</button>`;
-          document.getElementById('digestContent').innerHTML = `<h2>${file.name}</h2><hr style="margin:12px 0; border-color:#334155;">` + marked.parse(e.target.result) + backButtonHTML;
+          const backButtonHTML = `<hr style="margin:32px 0 16px 0; border-color:#1e3a8a;"><button onclick="goToOverview()" class="back-overview-btn">⬅️ Back to Topic Overview</button>`;
+          document.getElementById('digestContent').innerHTML = `<h2 style="color:#f472b6;">${file.name}</h2><hr style="margin:12px 0; border-color:#1e3a8a;">` + marked.parse(e.target.result) + backButtonHTML;
         };
         reader.readAsText(file);
       }
@@ -272,3 +271,4 @@
   </script>
 </body>
 </html>
+```eof
