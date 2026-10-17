@@ -1,249 +1,43 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Criminal Law I Case Digests</title>
-  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-  <style>
-    * { box-sizing: border-box; margin: 0; padding: 0; font-family: system-ui, -apple-system, sans-serif; }
-    body { display: flex; flex-direction: column; height: 100vh; background: #0f172a; color: #f8fafc; }
-    header { padding: 12px 24px; background: #1e293b; border-bottom: 1px solid #334155; display: flex; justify-content: space-between; align-items: center; gap: 12px; flex-wrap: wrap; }
-    header h1 { font-size: 1.15rem; color: #fde047; }
-    .controls { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; }
-    select, button.nav-btn, label.upload-btn { padding: 8px 12px; border-radius: 6px; background: #334155; color: #fff; border: 1px solid #475569; cursor: pointer; font-size: 0.88rem; }
-    button.nav-btn:hover, label.upload-btn:hover { background: #475569; }
-    button.nav-btn:disabled { opacity: 0.5; cursor: not-allowed; }
-    input[type="file"] { display: none; }
-    .split-container { display: flex; flex: 1; overflow: hidden; }
-    .pane { flex: 1; overflow-y: auto; padding: 24px; }
-    .left-pane { border-right: 1px solid #334155; display: flex; justify-content: center; align-items: flex-start; background: #090d16; }
-    .left-pane img { max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 10px 25px rgba(0,0,0,0.5); }
-    .right-pane { background: #1e293b; line-height: 1.7; }
-    .digest-card { max-width: 760px; margin: 0 auto; background: #0f172a; padding: 28px; border-radius: 8px; border: 1px solid #334155; white-space: pre-wrap; font-size: 0.95rem; }
-    .digest-card h1, .digest-card h2, .digest-card h3 { color: #fde047; margin-bottom: 8px; margin-top: 14px; }
-    .digest-card strong { color: #38bdf8; }
-    @media (max-width: 800px) { .split-container { flex-direction: column; } .left-pane { border-right: none; border-bottom: 1px solid #334155; } }
-  </style>
-</head>
-<body>
-
-  <header>
-    <h1>⚖️ Criminal Law I Case Digests</h1>
-    <div class="controls">
-      <!-- Dropdown 1: Topics -->
-      <select id="topicSelector" onchange="onTopicChange()">
-        <option value="">Loading topics...</option>
-      </select>
-
-      <!-- Prev / Next Navigation -->
-      <button class="nav-btn" id="prevBtn" onclick="changeCase(-1)" title="Previous Case">◀ Prev</button>
-      
-      <!-- Dropdown 2: Cases -->
-      <select id="caseSelector" onchange="displaySelectedCase()">
-        <option value="">-- All Cases / Topic Overview --</option>
-      </select>
-
-      <button class="nav-btn" id="nextBtn" onclick="changeCase(1)" title="Next Case">Next ▶</button>
-
-      <label class="upload-btn">
-        🖼️ Upload Image
-        <input type="file" accept="image/*" onchange="uploadImage(event)">
-      </label>
-      <label class="upload-btn">
-        📄 Upload Digest
-        <input type="file" accept=".txt,.md" onchange="uploadDigest(event)">
-      </label>
-    </div>
-  </header>
-
-  <div class="split-container">
-    <div class="pane left-pane">
-      <img id="visualImage" src="" alt="Visual Case Digest / Topic View">
-    </div>
-    <div class="pane right-pane">
-      <div class="digest-card" id="digestContent">Select a topic to view its notes.</div>
-    </div>
-  </div>
-
-  <script>
-    const USER = "PCGNG";
-    const REPO = "Criminal-Law-I";
-    let topicsData = {};
-
-    async function loadTopics() {
-      const topicSelector = document.getElementById('topicSelector');
-      try {
-        const res = await fetch(`https://api.github.com/repos/${USER}/${REPO}/contents/images`);
-        if (!res.ok) throw new Error("Could not access images directory");
-        const items = await res.json();
-
-        const folders = items.filter(i => i.type === "dir");
-        if (folders.length === 0) {
-          topicSelector.innerHTML = '<option>No topic folders found</option>';
-          return;
-        }
-
-        topicsData = {};
-        topicSelector.innerHTML = '';
-
-        for (const folder of folders) {
-          const topicName = folder.name;
-          topicsData[topicName] = { cases: [], topicNotePath: `digests/${topicName}.txt` };
-
-          const subRes = await fetch(folder.url);
-          if (subRes.ok) {
-            const subFiles = await subRes.json();
-            const imgFiles = subFiles.filter(f => /\.(jpg|jpeg|png|webp)$/i.test(f.name));
-
-            imgFiles.forEach(img => {
-              const rawTitle = img.name.replace(/\.[^/.]+$/, "");
-              topicsData[topicName].cases.push({
-                title: rawTitle,
-                topic: topicName,
-                imgPath: img.path,
-                digestPath: `digests/${topicName}/${rawTitle}.txt`
-              });
-            });
-          }
-
-          const opt = document.createElement('option');
-          opt.value = topicName;
-          opt.textContent = topicName;
-          topicSelector.appendChild(opt);
-        }
-
-        if (folders.length > 0) {
-          topicSelector.value = folders[0].name;
-          onTopicChange();
-        }
-
-      } catch (e) {
-        topicSelector.innerHTML = '<option>Failed to load topics</option>';
-        console.error(e);
-      }
-    }
-
-    async function onTopicChange() {
-      const topicSelector = document.getElementById('topicSelector');
-      const caseSelector = document.getElementById('caseSelector');
-      const selectedTopic = topicSelector.value;
-
-      caseSelector.innerHTML = '<option value="overview">📂 [View Topic Overview / Notes]</option>';
-      if (!selectedTopic || !topicsData[selectedTopic]) return;
-
-      const topicInfo = topicsData[selectedTopic];
-      topicInfo.cases.forEach((item, index) => {
-        const opt = document.createElement('option');
-        opt.value = index;
-        opt.textContent = item.title;
-        caseSelector.appendChild(opt);
-      });
-
-      // Default to showing topic overview notes when topic changes
-      caseSelector.value = "overview";
-      displayTopicOverview();
-    }
-
-    async function displayTopicOverview() {
+async function displayTopicOverview() {
       const topicSelector = document.getElementById('topicSelector');
       const selectedTopic = topicSelector.value;
       const topicInfo = topicsData[selectedTopic];
 
       document.getElementById('prevBtn').disabled = true;
       document.getElementById('nextBtn').disabled = true;
-      document.getElementById('visualImage').src = ""; // Clear or show a topic banner if available
+      document.getElementById('visualImage').src = "";
 
       const contentBox = document.getElementById('digestContent');
-      contentBox.innerHTML = `<h2>📚 Topic: ${selectedTopic}</h2><p style="color:#94a3b8;">Loading topic notes...</p>`;
+      contentBox.innerHTML = `<h2>📚 Topic: ${selectedTopic}</h2><p style="color:#94a3b8;">Loading topic overview...</p>`;
 
+      let customNotesHTML = "";
       try {
         const res = await fetch(topicInfo.topicNotePath);
-        if (!res.ok) throw new Error("No topic overview file");
-        const text = await res.text();
-        contentBox.innerHTML = `<h2>📚 Topic: ${selectedTopic}</h2><hr style="margin:12px 0; border-color:#334155;">` + marked.parse(text);
+        if (res.ok) {
+          const text = await res.text();
+          customNotesHTML = marked.parse(text) + `<hr style="margin:24px 0; border-color:#334155;">`;
+        }
       } catch (err) {
-        // Fallback if no specific topic overview file exists yet
-        let caseListHTML = topicInfo.cases.map(c => `<li>${c.title}</li>`).join('');
-        contentBox.innerHTML = `
-          <h2>📚 Topic: ${selectedTopic}</h2>
-          <hr style="margin:12px 0; border-color:#334155;">
-          <p style="color:#94a3b8; margin-bottom:12px;">This topic contains the following cases. Select a specific case from the second dropdown above to view its visual digest and full text notes:</p>
-          <ul style="padding-left: 20px; line-height: 1.8;">${caseListHTML}</ul>
-          <p style="color:#64748b; font-size:0.85rem; margin-top:20px;"><i>Tip: You can create a topic overview note by uploading a text file named <b>${selectedTopic}.txt</b> directly inside your <b>digests/</b> folder on GitHub.</i></p>
-        `;
+        // If no custom text file is found, it will just skip custom notes and show the case list
       }
+
+      // Generate the list of cases under this topic
+      let caseListHTML = topicInfo.cases.length > 0 
+        ? topicInfo.cases.map((c, i) => `<li style="margin-bottom: 8px;"><a href="#" onclick="selectCaseFromOverview(${i}); return false;" style="color: #38bdf8; text-decoration: none; font-weight: 500;">${c.title}</a></li>`).join('')
+        : '<li>No cases uploaded for this topic yet.</li>';
+
+      contentBox.innerHTML = `
+        <h2>📚 Topic: ${selectedTopic}</h2>
+        <hr style="margin:12px 0; border-color:#334155;">
+        ${customNotesHTML}
+        <h3 style="color: #fde047; margin-top: 16px; margin-bottom: 10px;">📋 Cases under this topic:</h3>
+        <ul style="padding-left: 20px; line-height: 1.8;">${caseListHTML}</ul>
+      `;
     }
 
-    async function displaySelectedCase() {
+    // Helper to let you click a case directly from the overview list
+    function selectCaseFromOverview(caseIndex) {
       const caseSelector = document.getElementById('caseSelector');
-      if (caseSelector.value === "overview") {
-        displayTopicOverview();
-        return;
-      }
-
-      const topicSelector = document.getElementById('topicSelector');
-      const selectedTopic = topicSelector.value;
-      const idx = parseInt(caseSelector.value);
-
-      if (!selectedTopic || isNaN(idx) || !topicsData[selectedTopic]) return;
-      const cases = topicsData[selectedTopic].cases;
-      const item = cases[idx];
-
-      document.getElementById('prevBtn').disabled = (idx === 0);
-      document.getElementById('nextBtn').disabled = (idx === cases.length - 1);
-
-      document.getElementById('visualImage').src = item.imgPath;
-
-      const contentBox = document.getElementById('digestContent');
-      contentBox.innerHTML = `<h2>${item.title}</h2><p style="color:#38bdf8; font-size:0.85rem; margin-bottom:12px;">Topic: ${item.topic}</p><p style="color:#94a3b8;">Loading case digest file...</p>`;
-
-      try {
-        const res = await fetch(item.digestPath);
-        if (!res.ok) throw new Error("File not found");
-        const text = await res.text();
-        contentBox.innerHTML = `<h2>${item.title}</h2><p style="color:#38bdf8; font-size:0.85rem; margin-bottom:12px;">Topic: ${item.topic}</p><hr style="margin:12px 0; border-color:#334155;">` + marked.parse(text);
-      } catch (err) {
-        contentBox.innerHTML = `
-          <h2>${item.title}</h2>
-          <p style="color:#38bdf8; font-size:0.85rem; margin-bottom:12px;">Topic: ${item.topic}</p>
-          <hr style="margin:12px 0; border-color:#334155;">
-          <p style="color:#f87171;">Digest file not found at <code>${item.digestPath}</code></p>
-        `;
-      }
+      caseSelector.value = caseIndex;
+      displaySelectedCase();
     }
-
-    function changeCase(direction) {
-      const caseSelector = document.getElementById('caseSelector');
-      if (caseSelector.value === "overview") return;
-
-      const topicSelector = document.getElementById('topicSelector');
-      const cases = topicsData[topicSelector.value].cases;
-      
-      let newIdx = parseInt(caseSelector.value) + direction;
-      if (cases && newIdx >= 0 && newIdx < cases.length) {
-        caseSelector.value = newIdx;
-        displaySelectedCase();
-      }
-    }
-
-    function uploadImage(event) {
-      const file = event.target.files[0];
-      if (file) document.getElementById('visualImage').src = URL.createObjectURL(file);
-    }
-
-    function uploadDigest(event) {
-      const file = event.target.files[0];
-      if (file) {
-        const reader = new FileReader();
-        reader.onload = e => {
-          document.getElementById('digestContent').innerHTML = `<h2>${file.name}</h2><hr style="margin:12px 0; border-color:#334155;">` + marked.parse(e.target.result);
-        };
-        reader.readAsText(file);
-      }
-    }
-
-    loadTopics();
-  </script>
-</body>
-</html>
