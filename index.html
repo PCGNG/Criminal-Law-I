@@ -8,7 +8,7 @@
   <style>
     * { box-sizing: border-box; margin: 0; padding: 0; font-family: system-ui, -apple-system, sans-serif; }
     body { display: flex; flex-direction: column; height: 100vh; background: #0f172a; color: #f8fafc; }
-    header { padding: 12px 24px; background: #1e293b; border-bottom: 1px solid #334155; display: flex; justify-content: space-between; align-items: center; gap: 16px; flex-wrap: wrap; }
+    header { padding: 12px 24px; background: #1e293b; border-bottom: 1px solid #334155; display: flex; justify-content: space-between; align-items: center; gap: 12px; flex-wrap: wrap; }
     header h1 { font-size: 1.15rem; color: #fde047; }
     .controls { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; }
     select, button.nav-btn, label.upload-btn { padding: 8px 12px; border-radius: 6px; background: #334155; color: #fff; border: 1px solid #475569; cursor: pointer; font-size: 0.88rem; }
@@ -31,10 +31,17 @@
   <header>
     <h1>⚖️ Criminal Law I Case Digests</h1>
     <div class="controls">
+      <!-- Dropdown 1: Topics -->
+      <select id="topicSelector" onchange="onTopicChange()">
+        <option value="">Loading topics...</option>
+      </select>
+
+      <!-- Prev / Next Navigation -->
       <button class="nav-btn" id="prevBtn" onclick="changeCase(-1)" title="Previous Case">◀ Prev</button>
       
+      <!-- Dropdown 2: Cases -->
       <select id="caseSelector" onchange="displaySelectedCase()">
-        <option value="">Loading topics & cases...</option>
+        <option value="">-- All Cases / Topic Overview --</option>
       </select>
 
       <button class="nav-btn" id="nextBtn" onclick="changeCase(1)" title="Next Case">Next ▶</button>
@@ -52,89 +59,144 @@
 
   <div class="split-container">
     <div class="pane left-pane">
-      <img id="visualImage" src="" alt="Visual Case Digest">
+      <img id="visualImage" src="" alt="Visual Case Digest / Topic View">
     </div>
     <div class="pane right-pane">
-      <div class="digest-card" id="digestContent">Select a case to view its digest.</div>
+      <div class="digest-card" id="digestContent">Select a topic to view its notes.</div>
     </div>
   </div>
 
   <script>
     const USER = "PCGNG";
     const REPO = "Criminal-Law-I";
-    let caseList = [];
+    let topicsData = {};
 
-    async function loadCases() {
-      const selector = document.getElementById('caseSelector');
+    async function loadTopics() {
+      const topicSelector = document.getElementById('topicSelector');
       try {
-        // Fetch topics (folders inside images/)
         const res = await fetch(`https://api.github.com/repos/${USER}/${REPO}/contents/images`);
         if (!res.ok) throw new Error("Could not access images directory");
         const items = await res.json();
 
-        // Filter for directories (topics)
-        const topics = items.filter(i => i.type === "dir");
-        caseList = [];
-        selector.innerHTML = '';
-
-        if (topics.length === 0) {
-          selector.innerHTML = '<option>No topic folders found in /images</option>';
+        const folders = items.filter(i => i.type === "dir");
+        if (folders.length === 0) {
+          topicSelector.innerHTML = '<option>No topic folders found</option>';
           return;
         }
 
-        for (const topic of topics) {
-          const topicName = topic.name;
-          const optGroup = document.createElement('optgroup');
-          optGroup.label = topicName;
+        topicsData = {};
+        topicSelector.innerHTML = '';
 
-          // Fetch images inside each topic folder
-          const subRes = await fetch(topic.url);
+        for (const folder of folders) {
+          const topicName = folder.name;
+          topicsData[topicName] = { cases: [], topicNotePath: `digests/${topicName}.txt` };
+
+          const subRes = await fetch(folder.url);
           if (subRes.ok) {
             const subFiles = await subRes.json();
             const imgFiles = subFiles.filter(f => /\.(jpg|jpeg|png|webp)$/i.test(f.name));
 
             imgFiles.forEach(img => {
               const rawTitle = img.name.replace(/\.[^/.]+$/, "");
-              const globalIndex = caseList.length;
-
-              caseList.push({
+              topicsData[topicName].cases.push({
                 title: rawTitle,
                 topic: topicName,
                 imgPath: img.path,
                 digestPath: `digests/${topicName}/${rawTitle}.txt`
               });
-
-              const opt = document.createElement('option');
-              opt.value = globalIndex;
-              opt.textContent = rawTitle;
-              optGroup.appendChild(opt);
             });
           }
-          selector.appendChild(optGroup);
+
+          const opt = document.createElement('option');
+          opt.value = topicName;
+          opt.textContent = topicName;
+          topicSelector.appendChild(opt);
         }
 
-        if (caseList.length > 0) displaySelectedCase();
-        else selector.innerHTML = '<option>No cases found inside topics</option>';
+        if (folders.length > 0) {
+          topicSelector.value = folders[0].name;
+          onTopicChange();
+        }
 
       } catch (e) {
-        selector.innerHTML = '<option>Failed to load categorized cases</option>';
+        topicSelector.innerHTML = '<option>Failed to load topics</option>';
         console.error(e);
       }
     }
 
+    async function onTopicChange() {
+      const topicSelector = document.getElementById('topicSelector');
+      const caseSelector = document.getElementById('caseSelector');
+      const selectedTopic = topicSelector.value;
+
+      caseSelector.innerHTML = '<option value="overview">📂 [View Topic Overview / Notes]</option>';
+      if (!selectedTopic || !topicsData[selectedTopic]) return;
+
+      const topicInfo = topicsData[selectedTopic];
+      topicInfo.cases.forEach((item, index) => {
+        const opt = document.createElement('option');
+        opt.value = index;
+        opt.textContent = item.title;
+        caseSelector.appendChild(opt);
+      });
+
+      // Default to showing topic overview notes when topic changes
+      caseSelector.value = "overview";
+      displayTopicOverview();
+    }
+
+    async function displayTopicOverview() {
+      const topicSelector = document.getElementById('topicSelector');
+      const selectedTopic = topicSelector.value;
+      const topicInfo = topicsData[selectedTopic];
+
+      document.getElementById('prevBtn').disabled = true;
+      document.getElementById('nextBtn').disabled = true;
+      document.getElementById('visualImage').src = ""; // Clear or show a topic banner if available
+
+      const contentBox = document.getElementById('digestContent');
+      contentBox.innerHTML = `<h2>📚 Topic: ${selectedTopic}</h2><p style="color:#94a3b8;">Loading topic notes...</p>`;
+
+      try {
+        const res = await fetch(topicInfo.topicNotePath);
+        if (!res.ok) throw new Error("No topic overview file");
+        const text = await res.text();
+        contentBox.innerHTML = `<h2>📚 Topic: ${selectedTopic}</h2><hr style="margin:12px 0; border-color:#334155;">` + marked.parse(text);
+      } catch (err) {
+        // Fallback if no specific topic overview file exists yet
+        let caseListHTML = topicInfo.cases.map(c => `<li>${c.title}</li>`).join('');
+        contentBox.innerHTML = `
+          <h2>📚 Topic: ${selectedTopic}</h2>
+          <hr style="margin:12px 0; border-color:#334155;">
+          <p style="color:#94a3b8; margin-bottom:12px;">This topic contains the following cases. Select a specific case from the second dropdown above to view its visual digest and full text notes:</p>
+          <ul style="padding-left: 20px; line-height: 1.8;">${caseListHTML}</ul>
+          <p style="color:#64748b; font-size:0.85rem; margin-top:20px;"><i>Tip: You can create a topic overview note by uploading a text file named <b>${selectedTopic}.txt</b> directly inside your <b>digests/</b> folder on GitHub.</i></p>
+        `;
+      }
+    }
+
     async function displaySelectedCase() {
-      const selector = document.getElementById('caseSelector');
-      const idx = parseInt(selector.value);
-      if (isNaN(idx) || !caseList[idx]) return;
+      const caseSelector = document.getElementById('caseSelector');
+      if (caseSelector.value === "overview") {
+        displayTopicOverview();
+        return;
+      }
+
+      const topicSelector = document.getElementById('topicSelector');
+      const selectedTopic = topicSelector.value;
+      const idx = parseInt(caseSelector.value);
+
+      if (!selectedTopic || isNaN(idx) || !topicsData[selectedTopic]) return;
+      const cases = topicsData[selectedTopic].cases;
+      const item = cases[idx];
 
       document.getElementById('prevBtn').disabled = (idx === 0);
-      document.getElementById('nextBtn').disabled = (idx === caseList.length - 1);
+      document.getElementById('nextBtn').disabled = (idx === cases.length - 1);
 
-      const item = caseList[idx];
       document.getElementById('visualImage').src = item.imgPath;
 
       const contentBox = document.getElementById('digestContent');
-      contentBox.innerHTML = `<h2>${item.title}</h2><p style="color:#94a3b8;">Loading case digest...</p>`;
+      contentBox.innerHTML = `<h2>${item.title}</h2><p style="color:#38bdf8; font-size:0.85rem; margin-bottom:12px;">Topic: ${item.topic}</p><p style="color:#94a3b8;">Loading case digest file...</p>`;
 
       try {
         const res = await fetch(item.digestPath);
@@ -152,10 +214,15 @@
     }
 
     function changeCase(direction) {
-      const selector = document.getElementById('caseSelector');
-      let newIdx = parseInt(selector.value) + direction;
-      if (newIdx >= 0 && newIdx < caseList.length) {
-        selector.value = newIdx;
+      const caseSelector = document.getElementById('caseSelector');
+      if (caseSelector.value === "overview") return;
+
+      const topicSelector = document.getElementById('topicSelector');
+      const cases = topicsData[topicSelector.value].cases;
+      
+      let newIdx = parseInt(caseSelector.value) + direction;
+      if (cases && newIdx >= 0 && newIdx < cases.length) {
+        caseSelector.value = newIdx;
         displaySelectedCase();
       }
     }
@@ -176,7 +243,7 @@
       }
     }
 
-    loadCases();
+    loadTopics();
   </script>
 </body>
 </html>
