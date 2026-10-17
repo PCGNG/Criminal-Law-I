@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Criminal Law I Reviewer by PCGNG</title>
+  <title>Criminal Law I Review by PCGNG</title>
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
   <style>
     * { box-sizing: border-box; margin: 0; padding: 0; font-family: system-ui, -apple-system, sans-serif; }
@@ -23,13 +23,15 @@
     .digest-card { max-width: 760px; margin: 0 auto; background: #0f172a; padding: 28px; border-radius: 8px; border: 1px solid #334155; white-space: pre-wrap; font-size: 0.95rem; }
     .digest-card h1, .digest-card h2, .digest-card h3 { color: #fde047; margin-bottom: 8px; margin-top: 14px; }
     .digest-card strong { color: #38bdf8; }
+    .back-overview-btn { display: inline-block; margin-top: 24px; padding: 10px 16px; background: #334155; color: #fde047; border: 1px solid #475569; border-radius: 6px; cursor: pointer; font-size: 0.9rem; text-decoration: none; font-weight: 500; }
+    .back-overview-btn:hover { background: #475569; color: #fff; }
     @media (max-width: 800px) { .split-container { flex-direction: column; } .left-pane { border-right: none; border-bottom: 1px solid #334155; } }
   </style>
 </head>
 <body>
 
   <header>
-    <h1>⚖️ Criminal Law I Reviewer by PCGNG</h1>
+    <h1>⚖️ Criminal Law I Review by PCGNG</h1>
     <div class="controls">
       <!-- Dropdown 1: Topics -->
       <select id="topicSelector" onchange="onTopicChange()">
@@ -74,7 +76,6 @@
     async function loadTopics() {
       const topicSelector = document.getElementById('topicSelector');
       try {
-        // Scan digests folder as the primary source of truth
         const res = await fetch(`https://api.github.com/repos/${USER}/${REPO}/contents/digests`);
         if (!res.ok) throw new Error("Could not access digests directory");
         const items = await res.json();
@@ -95,7 +96,6 @@
           const subRes = await fetch(folder.url);
           if (subRes.ok) {
             const subFiles = await subRes.json();
-            // Pull every .txt file as a valid case
             const txtFiles = subFiles.filter(f => /\.txt$/i.test(f.name));
 
             txtFiles.forEach(txt => {
@@ -103,7 +103,7 @@
               topicsData[topicName].cases.push({
                 title: rawTitle,
                 topic: topicName,
-                imgPath: `images/${topicName}/${rawTitle}.jpg`, // Looks for matching image
+                imgPath: `images/${topicName}/${rawTitle}.jpg`,
                 digestPath: txt.path
               });
             });
@@ -204,11 +204,8 @@
       document.getElementById('prevBtn').disabled = (idx === 0);
       document.getElementById('nextBtn').disabled = (idx === cases.length - 1);
 
-      // Gracefully load image or clear if missing
       const imgElement = document.getElementById('visualImage');
-      imgElement.onerror = function() {
-        imgElement.src = ""; 
-      };
+      imgElement.onerror = function() { imgElement.src = ""; };
       imgElement.src = item.imgPath;
 
       const contentBox = document.getElementById('digestContent');
@@ -218,15 +215,26 @@
         const res = await fetch(item.digestPath);
         if (!res.ok) throw new Error("File not found");
         const text = await res.text();
-        contentBox.innerHTML = `<h2>${item.title}</h2><p style="color:#38bdf8; font-size:0.85rem; margin-bottom:12px;">Topic: ${item.topic}</p><hr style="margin:12px 0; border-color:#334155;">` + marked.parse(text);
+        
+        // Appends the "Back to Topic Overview" button at the bottom of every case digest
+        const backButtonHTML = `<hr style="margin:32px 0 16px 0; border-color:#334155;"><button onclick="goToOverview()" class="back-overview-btn">⬅️ Back to Topic Overview</button>`;
+        
+        contentBox.innerHTML = `<h2>${item.title}</h2><p style="color:#38bdf8; font-size:0.85rem; margin-bottom:12px;">Topic: ${item.topic}</p><hr style="margin:12px 0; border-color:#334155;">` + marked.parse(text) + backButtonHTML;
       } catch (err) {
         contentBox.innerHTML = `
           <h2>${item.title}</h2>
           <p style="color:#38bdf8; font-size:0.85rem; margin-bottom:12px;">Topic: ${item.topic}</p>
           <hr style="margin:12px 0; border-color:#334155;">
           <p style="color:#f87171;">Digest file not found at <code>${item.digestPath}</code></p>
+          <button onclick="goToOverview()" class="back-overview-btn">⬅️ Back to Topic Overview</button>
         `;
       }
+    }
+
+    function goToOverview() {
+      const caseSelector = document.getElementById('caseSelector');
+      caseSelector.value = "overview";
+      displayTopicOverview();
     }
 
     function changeCase(direction) {
@@ -253,7 +261,8 @@
       if (file) {
         const reader = new FileReader();
         reader.onload = e => {
-          document.getElementById('digestContent').innerHTML = `<h2>${file.name}</h2><hr style="margin:12px 0; border-color:#334155;">` + marked.parse(e.target.result);
+          const backButtonHTML = `<hr style="margin:32px 0 16px 0; border-color:#334155;"><button onclick="goToOverview()" class="back-overview-btn">⬅️ Back to Topic Overview</button>`;
+          document.getElementById('digestContent').innerHTML = `<h2>${file.name}</h2><hr style="margin:12px 0; border-color:#334155;">` + marked.parse(e.target.result) + backButtonHTML;
         };
         reader.readAsText(file);
       }
