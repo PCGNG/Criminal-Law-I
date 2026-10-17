@@ -16,13 +16,12 @@
     button.nav-btn:disabled { opacity: 0.4; cursor: not-allowed; border-color: #1e3a8a; }
     input[type="file"] { display: none; }
     .split-container { display: flex; flex: 1; overflow: hidden; }
-    .pane { flex: 1; overflow-y: auto; padding: 24px; }
-    .left-pane { border-right: 1px solid #1e3a8a; display: flex; justify-content: center; align-items: flex-start; background: #070c1b; }
-    .left-pane img { max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 10px 25px rgba(0,0,0,0.6); }
-    .right-pane { background: #111e38; line-height: 1.7; }
+    .pane { flex: 1; overflow-y: auto; padding: 28px; line-height: 1.7; }
+    .left-pane { border-right: 1px solid #1e3a8a; background: #070c1b; font-size: 0.95rem; }
+    .right-pane { background: #111e38; }
     .digest-card { max-width: 760px; margin: 0 auto; background: #0b1329; padding: 28px; border-radius: 8px; border: 1px solid #1e3a8a; white-space: pre-wrap; font-size: 0.95rem; }
-    .digest-card h1, .digest-card h2, .digest-card h3 { color: #f472b6; margin-bottom: 8px; margin-top: 14px; }
-    .digest-card strong { color: #60a5fa; }
+    .digest-card h1, .digest-card h2, .digest-card h3, .left-pane h2, .left-pane h3 { color: #f472b6; margin-bottom: 8px; margin-top: 14px; }
+    .digest-card strong, .left-pane strong { color: #60a5fa; }
     .back-overview-btn { display: inline-block; margin-top: 24px; padding: 10px 16px; background: #1d283a; color: #f472b6; border: 1px solid #3b82f6; border-radius: 6px; cursor: pointer; font-size: 0.9rem; text-decoration: none; font-weight: 500; }
     .back-overview-btn:hover { background: #25344f; color: #ffffff; border-color: #f472b6; }
     @media (max-width: 800px) { .split-container { flex-direction: column; } .left-pane { border-right: none; border-bottom: 1px solid #1e3a8a; } }
@@ -49,10 +48,6 @@
       <button class="nav-btn" id="nextBtn" onclick="changeCase(1)" title="Next Case">Next ▶</button>
 
       <label class="upload-btn">
-        🖼️ Upload Image
-        <input type="file" accept="image/*" onchange="uploadImage(event)">
-      </label>
-      <label class="upload-btn">
         📄 Upload Digest
         <input type="file" accept=".txt,.md" onchange="uploadDigest(event)">
       </label>
@@ -60,11 +55,15 @@
   </header>
 
   <div class="split-container">
-    <div class="pane left-pane">
-      <img id="visualImage" src="" alt="Visual Case Digest / Topic View">
+    <!-- Left Pane: Always shows Topic Overview Notes -->
+    <div class="pane left-pane" id="leftPaneContent">
+      <h2 style="color:#f472b6;">📚 Topic Overview</h2>
+      <p style="color:#93c5fd;">Select a topic to view notes.</p>
     </div>
+
+    <!-- Right Pane: Shows Case List (on overview) or Case Digest -->
     <div class="pane right-pane">
-      <div class="digest-card" id="digestContent">Select a topic to view its notes.</div>
+      <div class="digest-card" id="digestContent">Select a topic to begin.</div>
     </div>
   </div>
 
@@ -103,7 +102,6 @@
               topicsData[topicName].cases.push({
                 title: rawTitle,
                 topic: topicName,
-                imgPath: `images/${topicName}/${rawTitle}.jpg`,
                 digestPath: txt.path
               });
             });
@@ -143,40 +141,53 @@
       });
 
       caseSelector.value = "overview";
-      displayTopicOverview();
+      loadTopicNotesIntoLeftPane(selectedTopic);
+      displayTopicOverviewRightPane();
     }
 
-    async function displayTopicOverview() {
+    // Loads the topic text notes into the LEFT pane permanently for that topic
+    async function loadTopicNotesIntoLeftPane(topicName) {
+      const topicInfo = topicsData[topicName];
+      const leftPane = document.getElementById('leftPaneContent');
+      leftPane.innerHTML = `<h2 style="color:#f472b6;">📚 ${topicName}</h2><p style="color:#93c5fd;">Loading topic notes...</p>`;
+
+      try {
+        const res = await fetch(topicInfo.topicNotePath);
+        if (res.ok) {
+          const text = await res.text();
+          leftPane.innerHTML = `<h2 style="color:#f472b6;">📚 ${topicName}</h2><hr style="margin:16px 0; border-color:#1e3a8a;">` + marked.parse(text);
+        } else {
+          throw new Error("No custom notes");
+        }
+      } catch (err) {
+        leftPane.innerHTML = `
+          <h2 style="color:#f472b6;">📚 ${topicName}</h2>
+          <hr style="margin:16px 0; border-color:#1e3a8a;">
+          <p style="color:#93c5fd;">No custom overview text file found for this topic yet.</p>
+          <p style="color:#94a3b8; font-size:0.85rem; margin-top:10px;">Tip: Create a text file named <b>${topicName}.txt</b> inside your root <b>digests/</b> folder on GitHub to display your notes here.</p>
+        `;
+      }
+    }
+
+    // Displays the case list on the RIGHT pane when overview is selected
+    function displayTopicOverviewRightPane() {
       const topicSelector = document.getElementById('topicSelector');
       const selectedTopic = topicSelector.value;
       const topicInfo = topicsData[selectedTopic];
 
       document.getElementById('prevBtn').disabled = true;
       document.getElementById('nextBtn').disabled = true;
-      document.getElementById('visualImage').src = "";
-
-      const contentBox = document.getElementById('digestContent');
-      contentBox.innerHTML = `<h2 style="color:#f472b6;">📚 Topic: ${selectedTopic}</h2><p style="color:#93c5fd;">Loading topic overview...</p>`;
-
-      let customNotesHTML = "";
-      try {
-        const res = await fetch(topicInfo.topicNotePath);
-        if (res.ok) {
-          const text = await res.text();
-          customNotesHTML = marked.parse(text) + `<hr style="margin:24px 0; border-color:#1e3a8a;">`;
-        }
-      } catch (err) {}
 
       let caseListHTML = topicInfo.cases.length > 0 
-        ? topicInfo.cases.map((c, i) => `<li style="margin-bottom: 8px;"><a href="#" onclick="selectCaseFromOverview(${i}); return false;" style="color: #60a5fa; text-decoration: none; font-weight: 500;">${c.title}</a></li>`).join('')
+        ? topicInfo.cases.map((c, i) => `<li style="margin-bottom: 10px;"><a href="#" onclick="selectCaseFromOverview(${i}); return false;" style="color: #60a5fa; text-decoration: none; font-weight: 500;">${c.title}</a></li>`).join('')
         : '<li>No cases uploaded for this topic yet.</li>';
 
+      const contentBox = document.getElementById('digestContent');
       contentBox.innerHTML = `
-        <h2 style="color:#f472b6;">📚 Topic: ${selectedTopic}</h2>
+        <h2 style="color:#f472b6;">📋 Case List</h2>
+        <p style="color:#93c5fd; font-size:0.9rem; margin-bottom:16px;">Select any case below to view its full text digest on this screen while keeping your topic notes open on the left:</p>
         <hr style="margin:12px 0; border-color:#1e3a8a;">
-        ${customNotesHTML}
-        <h3 style="color: #f472b6; margin-top: 16px; margin-bottom: 10px;">📋 Cases under this topic:</h3>
-        <ul style="padding-left: 20px; line-height: 1.8;">${caseListHTML}</ul>
+        <ul style="padding-left: 20px; line-height: 1.8; margin-top: 14px;">${caseListHTML}</ul>
       `;
     }
 
@@ -189,7 +200,7 @@
     async function displaySelectedCase() {
       const caseSelector = document.getElementById('caseSelector');
       if (caseSelector.value === "overview") {
-        displayTopicOverview();
+        displayTopicOverviewRightPane();
         return;
       }
 
@@ -204,10 +215,6 @@
       document.getElementById('prevBtn').disabled = (idx === 0);
       document.getElementById('nextBtn').disabled = (idx === cases.length - 1);
 
-      const imgElement = document.getElementById('visualImage');
-      imgElement.onerror = function() { imgElement.src = ""; };
-      imgElement.src = item.imgPath;
-
       const contentBox = document.getElementById('digestContent');
       contentBox.innerHTML = `<h2 style="color:#f472b6;">${item.title}</h2><p style="color:#60a5fa; font-size:0.85rem; margin-bottom:12px;">Topic: ${item.topic}</p><p style="color:#93c5fd;">Loading case digest file...</p>`;
 
@@ -216,7 +223,7 @@
         if (!res.ok) throw new Error("File not found");
         const text = await res.text();
         
-        const backButtonHTML = `<hr style="margin:32px 0 16px 0; border-color:#1e3a8a;"><button onclick="goToOverview()" class="back-overview-btn">⬅️ Back to Topic Overview</button>`;
+        const backButtonHTML = `<hr style="margin:32px 0 16px 0; border-color:#1e3a8a;"><button onclick="goToOverview()" class="back-overview-btn">⬅️ Back to Topic Overview List</button>`;
         
         contentBox.innerHTML = `<h2 style="color:#f472b6;">${item.title}</h2><p style="color:#60a5fa; font-size:0.85rem; margin-bottom:12px;">Topic: ${item.topic}</p><hr style="margin:12px 0; border-color:#1e3a8a;">` + marked.parse(text) + backButtonHTML;
       } catch (err) {
@@ -225,7 +232,7 @@
           <p style="color:#60a5fa; font-size:0.85rem; margin-bottom:12px;">Topic: ${item.topic}</p>
           <hr style="margin:12px 0; border-color:#1e3a8a;">
           <p style="color:#f87171;">Digest file not found at <code>${item.digestPath}</code></p>
-          <button onclick="goToOverview()" class="back-overview-btn">⬅️ Back to Topic Overview</button>
+          <button onclick="goToOverview()" class="back-overview-btn">⬅️ Back to Topic Overview List</button>
         `;
       }
     }
@@ -233,7 +240,7 @@
     function goToOverview() {
       const caseSelector = document.getElementById('caseSelector');
       caseSelector.value = "overview";
-      displayTopicOverview();
+      displayTopicOverviewRightPane();
     }
 
     function changeCase(direction) {
@@ -250,17 +257,12 @@
       }
     }
 
-    function uploadImage(event) {
-      const file = event.target.files[0];
-      if (file) document.getElementById('visualImage').src = URL.createObjectURL(file);
-    }
-
     function uploadDigest(event) {
       const file = event.target.files[0];
       if (file) {
         const reader = new FileReader();
         reader.onload = e => {
-          const backButtonHTML = `<hr style="margin:32px 0 16px 0; border-color:#1e3a8a;"><button onclick="goToOverview()" class="back-overview-btn">⬅️ Back to Topic Overview</button>`;
+          const backButtonHTML = `<hr style="margin:32px 0 16px 0; border-color:#1e3a8a;"><button onclick="goToOverview()" class="back-overview-btn">⬅️ Back to Topic Overview List</button>`;
           document.getElementById('digestContent').innerHTML = `<h2 style="color:#f472b6;">${file.name}</h2><hr style="margin:12px 0; border-color:#1e3a8a;">` + marked.parse(e.target.result) + backButtonHTML;
         };
         reader.readAsText(file);
@@ -271,4 +273,3 @@
   </script>
 </body>
 </html>
-```eof
