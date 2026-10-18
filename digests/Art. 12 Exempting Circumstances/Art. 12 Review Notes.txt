@@ -19,5 +19,20 @@ In case of exempting circumstances, any of the element of voluntariness is absen
 If an accused is charged in court and the said accused raised as a defense any of the exempting circumstances under Art.12, the said offender is indeed admitting the acts alleged in the Information, but he is saying that he is absolved of criminal liability because he acted without criminal voluntariness.  
  
 There is already absence in criminal intent, freedom of action, or intelligence on his part. He will be moving for an acquittal – he will be moving that he be absolved for criminal liability. Therefore, to raise an exempting circumstance is also an act of admission and an act of avoidance. The offender, in effect, admits the acts alleged in the Information but he is trying to avoid criminal responsibility. 
- 
+
+### JUSTIFYING CIRCUMSTANCES and EXEMPTING CIRCUMSTANCES, distinguished:
+### JUSTIFYING CIRCUMSTANCES
+- The offender acted within the bounds of the law. The offender did not transgress the law. 
+- Affects the act or the crime committed.
+- There is no crime nor criminal.
+- There liability nor civil liability.  is no  criminal
+- May be raised as a defense only in intentional felonies.
+
+### EXEMPTING CIRCUMSTANCES
+- The offender violated the law.
+- Affects the offender.
+- There is a crime but there is no criminal since the offender acted without voluntariness.
+- There is no criminal liability but, as a rule, there is civil liability because a wrong has been committed.
+- May be raised as a defense in both intentional and culpable felonies.
+- 
 
