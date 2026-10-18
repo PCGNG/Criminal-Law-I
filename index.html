@@ -16,12 +16,16 @@
     button.nav-btn:disabled { opacity: 0.4; cursor: not-allowed; border-color: #1e3a8a; }
     input[type="file"] { display: none; }
     .split-container { display: flex; flex: 1; overflow: hidden; }
-    .pane { flex: 1; overflow-y: auto; padding: 28px; line-height: 1.7; }
+    
+    /* Added text-align: justify here so both panes align evenly */
+    .pane { flex: 1; overflow-y: auto; padding: 28px; line-height: 1.7; text-align: justify; }
+    
     .left-pane { border-right: 1px solid #1e3a8a; background: #070c1b; font-size: 0.95rem; }
     .right-pane { background: #111e38; }
     .digest-card { max-width: 760px; margin: 0 auto; background: #0b1329; padding: 28px; border-radius: 8px; border: 1px solid #1e3a8a; white-space: pre-wrap; font-size: 0.95rem; }
-    .digest-card h1, .digest-card h2, .digest-card h3, .left-pane h2, .left-pane h3 { color: #f472b6; margin-bottom: 8px; margin-top: 14px; }
+    .digest-card h1, .digest-card h2, .digest-card h3, .left-pane h2, .left-pane h3 { color: #f472b6; margin-bottom: 8px; margin-top: 14px; text-align: left; }
     .digest-card strong, .left-pane strong { color: #60a5fa; }
+    .digest-card em, .left-pane em { font-style: italic; color: #fbcfe8; }
     .back-overview-btn { display: inline-block; margin-top: 24px; padding: 10px 16px; background: #1d283a; color: #f472b6; border: 1px solid #3b82f6; border-radius: 6px; cursor: pointer; font-size: 0.9rem; text-decoration: none; font-weight: 500; }
     .back-overview-btn:hover { background: #25344f; color: #ffffff; border-color: #f472b6; }
     @media (max-width: 800px) { .split-container { flex-direction: column; } .left-pane { border-right: none; border-bottom: 1px solid #1e3a8a; } }
@@ -55,13 +59,13 @@
   </header>
 
   <div class="split-container">
-    <!-- Left Pane: Always shows Topic Overview Notes -->
+    <!-- Left Pane: Topic Notes -->
     <div class="pane left-pane" id="leftPaneContent">
       <h2 style="color:#f472b6;">📚 Topic Overview</h2>
       <p style="color:#93c5fd;">Select a topic to view notes.</p>
     </div>
 
-    <!-- Right Pane: Shows Case List (on overview) or Case Digest -->
+    <!-- Right Pane: Case List or Case Digest -->
     <div class="pane right-pane">
       <div class="digest-card" id="digestContent">Select a topic to begin.</div>
     </div>
@@ -129,7 +133,7 @@
       const caseSelector = document.getElementById('caseSelector');
       const selectedTopic = topicSelector.value;
 
-      caseSelector.innerHTML = '<option value="overview">📂 [View Topic Overview / Notes]</option>';
+      caseSelector.innerHTML = '<option value="overview">📂 [View Topic Overview / Case List]</option>';
       if (!selectedTopic || !topicsData[selectedTopic]) return;
 
       const topicInfo = topicsData[selectedTopic];
@@ -145,7 +149,6 @@
       displayTopicOverviewRightPane();
     }
 
-    // Loads the topic text notes into the LEFT pane permanently for that topic
     async function loadTopicNotesIntoLeftPane(topicName) {
       const topicInfo = topicsData[topicName];
       const leftPane = document.getElementById('leftPaneContent');
@@ -169,7 +172,6 @@
       }
     }
 
-    // Displays the case list on the RIGHT pane when overview is selected
     function displayTopicOverviewRightPane() {
       const topicSelector = document.getElementById('topicSelector');
       const selectedTopic = topicSelector.value;
@@ -184,10 +186,10 @@
 
       const contentBox = document.getElementById('digestContent');
       contentBox.innerHTML = `
-        <h2 style="color:#f472b6;">📋 Case List</h2>
-        <p style="color:#93c5fd; font-size:0.9rem; margin-bottom:16px;">Select any case below to view its full text digest on this screen while keeping your topic notes open on the left:</p>
+        <h2 style="color:#f472b6;">📋 Case List for ${selectedTopic}</h2>
+        <p style="color:#93c5fd; font-size:0.9rem; margin-bottom:16px;">Select any case below to view its full text digest on this screen. Your topic notes remain visible on the left!</p>
         <hr style="margin:12px 0; border-color:#1e3a8a;">
-        <ul style="padding-left: 20px; line-height: 1.8; margin-top: 14px;">${caseListHTML}</ul>
+        <ul style="padding-left: 20px; line-height: 1.8; margin-top: 14px; text-align: left;">${caseListHTML}</ul>
       `;
     }
 
@@ -223,7 +225,7 @@
         if (!res.ok) throw new Error("File not found");
         const text = await res.text();
         
-        const backButtonHTML = `<hr style="margin:32px 0 16px 0; border-color:#1e3a8a;"><button onclick="goToOverview()" class="back-overview-btn">⬅️ Back to Topic Overview List</button>`;
+        const backButtonHTML = `<hr style="margin:32px 0 16px 0; border-color:#1e3a8a;"><button onclick="goToOverview()" class="back-overview-btn">⬅️ Back to Case List</button>`;
         
         contentBox.innerHTML = `<h2 style="color:#f472b6;">${item.title}</h2><p style="color:#60a5fa; font-size:0.85rem; margin-bottom:12px;">Topic: ${item.topic}</p><hr style="margin:12px 0; border-color:#1e3a8a;">` + marked.parse(text) + backButtonHTML;
       } catch (err) {
@@ -232,7 +234,7 @@
           <p style="color:#60a5fa; font-size:0.85rem; margin-bottom:12px;">Topic: ${item.topic}</p>
           <hr style="margin:12px 0; border-color:#1e3a8a;">
           <p style="color:#f87171;">Digest file not found at <code>${item.digestPath}</code></p>
-          <button onclick="goToOverview()" class="back-overview-btn">⬅️ Back to Topic Overview List</button>
+          <button onclick="goToOverview()" class="back-overview-btn">⬅️ Back to Case List</button>
         `;
       }
     }
@@ -262,7 +264,7 @@
       if (file) {
         const reader = new FileReader();
         reader.onload = e => {
-          const backButtonHTML = `<hr style="margin:32px 0 16px 0; border-color:#1e3a8a;"><button onclick="goToOverview()" class="back-overview-btn">⬅️ Back to Topic Overview List</button>`;
+          const backButtonHTML = `<hr style="margin:32px 0 16px 0; border-color:#1e3a8a;"><button onclick="goToOverview()" class="back-overview-btn">⬅️ Back to Case List</button>`;
           document.getElementById('digestContent').innerHTML = `<h2 style="color:#f472b6;">${file.name}</h2><hr style="margin:12px 0; border-color:#1e3a8a;">` + marked.parse(e.target.result) + backButtonHTML;
         };
         reader.readAsText(file);
