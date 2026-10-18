@@ -1,12 +1,12 @@
-
-Facts:
+### FACTS
 While sitting inside a passenger jeepney waiting for departure, the victim was suddenly attacked by Joery, who boarded the vehicle, grabbed the victim by the hair, and stabbed him in the neck and chest with a knife. Bystanders brought the victim to a hospital, where he died of multiple stab wounds. Joery immediately fled the scene on foot but was chased and apprehended by pursuing police officers.
 
 Charged with murder, Joery interposed the exempting circumstance of insanity under Article 12, paragraph 1 of the Revised Penal Code. To substantiate the defense, Joery presented his mother, who testified that he had been displaying unusual behavior—such as sleeplessness, talking to himself, and walking naked—and that he had previously been taken to an asylum. A psychiatrist also testified that when she examined Joery two years after the stabbing, he was diagnosed with schizophrenia. However, the psychiatrist admitted that she had not treated or examined Joery prior to or at the time of the stabbing and could not definitively state his mental condition at the precise moment of the commission of the crime.
 
-Issue:
+### ISSUE
 Does the exempting circumstance of insanity under Article 12, paragraph 1 of the Revised Penal Code exempt Joery from criminal liability?
-Ruling:  
+
+### HELD & DOCTRINE
 "Article 12 of the RPC provides for the circumstances which exempt an accused from criminal liability, one of which is:
 1.	An imbecile or an insane person, unless the latter has acted during a lucid interval.
 Under Philippine law, there is a presumption of sanity; he who relies on the defense of insanity must prove it by clear and convincing evidence.
@@ -23,12 +23,14 @@ Ratio Decidendi
 Under Article 12(1) of the Revised Penal Code, insanity as an exempting circumstance requires clear and convincing evidence showing a total deprivation of intelligence, reason, and free will at the precise moment of, or immediately before, the execution of the felonious act.
 A clinical diagnosis of schizophrenia rendered more than two years after the incident fails to meet the required quantum of proof where the examining psychiatrist admits to having no personal knowledge of the offender's mental state at the time of the crime and concedes that the illness is characterized by periods of remission during which the patient acts with discernment. Moreover, the accused's conduct contemporaneous with and immediately subsequent to the stabbing—specifically, immediately fleeing the scene and attempting to elude pursuing police officers—evinces consciousness of guilt and awareness of the wrongfulness of the act, directly negating the claim of complete deprivation of reason.
 
-Fallo:
+### FALLO
 "WHEREFORE, the Decision dated June 30, 2011 of the Court of Appeals in CA-G.R. CR-H.C. No. 03525 is AFFIRMED with MODIFICATION that appellant Joery Deliola y Delmo is ORDERED to pay the heirs of the victim the following amounts: (1) ₱75,000.00 as civil indemnity; (2) ₱75,000.00 as moral damages; (3) ₱30,000.00 as exemplary damages; and (4) ₱25,000.00 as temperate damages.
 All the damages awarded shall earn interest at the rate of six percent (6%) per annum from the date of finality of this judgment until fully paid.
 SO ORDERED."
 
-Q: Compare the cases of Jerwin Dorado and Joery Deliola, explain why the Supreme Court acquitted Jerwin Dorado but not Joery Deliola?
+### QUESTION
+
+Compare the cases of Jerwin Dorado and Joery Deliola, explain why the Supreme Court acquitted Jerwin Dorado but not Joery Deliola?
 Comparison Matrix
 Legal Dimension	Jerwin Dorado v. People	People v. Joery Deliola
 Ground for Exemption	Minority (Art. 12[3], RPC; Sec. 6, R.A. No. 9344)	Insanity (Art. 12[1], RPC)
@@ -52,7 +54,9 @@ Core Reasons for the Opposing Outcomes
 
 Controlling Principle
 Dorado was acquitted because the prosecution failed to prove discernment, which it was legally required to prove to overcome the statutory presumption favoring the minor. Conversely, Deliola was convicted because the defense failed to prove complete deprivation of reason, leaving undisturbed the statutory presumption of sanity.
-Q: What is the effect of the minority of Joery Deliola to his criminal liability? In the Joery Deliola case, how should he serve his penalty?
+
+### QUESTION
+What is the effect of the minority of Joery Deliola to his criminal liability? In the Joery Deliola case, how should he serve his penalty?
 
 1. Effect of Minority on Joery Deliola's Criminal Liability
 •	He was of legal age: The records of the case show that at the time of the commission of the crime on July 10, 2004, Deliola was 21 years old (born in 1983).
