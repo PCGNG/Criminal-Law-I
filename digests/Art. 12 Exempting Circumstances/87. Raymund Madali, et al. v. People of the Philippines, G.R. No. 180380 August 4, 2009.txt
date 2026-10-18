@@ -1,14 +1,14 @@
-87. Raymund Madali, et al. v. People of the Philippines, G.R. No. 180380 August 4, 2009
-Fact:
+### FACTS
 
 Fourteen-year-old Raymund, sixteen-year-old Rodel, and their companion, Bernardino, led the victim to a secluded area near a high school reservoir. Once there, Bernardino blindfolded the victim and repeatedly beat him with a hard coconut frond. When the victim fell, Raymund, Rodel, and Bernardino helped him to his feet, after which Raymund struck the victim at the back of the thighs with the same coconut frond. Rodel then delivered punches to the victim’s head and body with a brass knuckle, knocking him unconscious. Thereafter, Raymund tied a handkerchief around the victim’s neck, fastened it to a dog chain, and, with Rodel’s assistance, hoisted the body to hang from a tree. Medico-legal findings showed that the victim died of head injuries sustained before the hanging. Before departing, the group threatened Jovencio (cousin of the victim), bystander eyewitness, with death if he revealed the incident. 
 
 When prosecuted for the killing, Raymund and Rodel claimed exemption from criminal liability under the rules on minority and discernment, while the prosecution maintained their criminal liability as co-conspirators. 
 
-Issue
+### ISSUE
 Does minority exempt Raymund and Rodel from criminal liability under the rules on exempting circumstances as amended by Republic Act No. 9344? YES. As to the criminal liability, Raymond is exempt.
 
-Ruling (Verbatim Legal Basis)
+### HELD & DOCTRINE
+(Verbatim Legal Basis)
 
 "As correctly ruled by the Court of Appeals, Raymund, who was only 14 years of age at the time he committed the crime, should be exempt from criminal liability and should be released to the custody of his parents or guardian pursuant to Sections 6 and 20 of Republic Act No. 9344, to wit: 
 
@@ -35,13 +35,14 @@ Under Section 6 of Republic Act No. 9344, amending the exempting circumstance of
 
 2.	Child above 15 but below 18 years of age: A child in this bracket is exempt from criminal liability only if the act was committed without discernment. Discernment means the mental capacity to comprehend the consequence of one's actions and determine the difference between right and wrong. Evidence that Rodel inflicted brutal physical injury, staged the simulated hanging to conceal the cause of death, and actively threatened the sole eyewitness to enforce silence establishes that he acted with discernment and remains criminally liable, subject only to privileged mitigation and automatic suspension of sentence. 
 
-Fallo
+### FALLO
 "WHEREFORE, the Decision dated July 28, 2003, rendered by the Regional Trial Court, Branch 81, Romblon, Romblon, in Criminal Case No. 2197, is hereby MODIFIED, as follows:
 1.	Petitioner Raymund Madali is hereby EXEMPT from criminal liability and his case is DISMISSED. He shall, however, be subjected to an intervention program pursuant to Section 20 of Republic Act No. 9344;
 2.	The conviction of petitioner Rodel Madali for the crime of Homicide is SUSTAINED, but the pronouncement of his sentence is SUSPENDED pursuant to Section 38 of Republic Act No. 9344;
 3.	Rodel Madali is ordered committed to the custody of the Department of Social Welfare and Development for appropriate disposition in accordance with Section 38 of Republic Act No. 9344; and
 4.	Petitioners Raymund Madali and Rodel Madali are declared solidarily liable to pay the heirs of the victim the amounts of ₱50,000.00 as civil indemnity, ₱50,000.00 as moral damages and ₱25,000.00 as temperate damages.
 
+### QUESTION
 Explain why the Supreme Court acquitted Raymund Madali even though he committed the crime before the effectivity of R.A. 9344.
 The Court applied this doctrine based on the following legal reasons:
 
