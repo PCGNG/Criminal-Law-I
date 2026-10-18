@@ -1,5 +1,4 @@
-
-Facts 
+### FACTS 
 On April 1, 1994, at around 2:00 o'clock in the afternoon, Julius was sent by his grandmother, Amanda Ceniza, to Brgy. Tutay, Pinamungajan,Cebu, to deliver benignit, a local delicacy, to his aunt Bebing Dequiado. Jerry Tejamo was with Julius. On their way to Dequiado's house, they passed by the house of Erlindo Yam-id who greeted them, "Good Evening". After said salutation, Erlindo Yam-id suddenly unsheathed a long bolo. On instinct, Julius pushed Jerry, who was then walking in front of him, and told the latter to run. Appellant ran after the two. Jerry was overtaken by Julius. Julius momentarily stopped to wait for Jerry, but Erlindo caught up with Jerry. Erlindo Yam-id stabbed Jerry with the bolo on the left portion of his back. Not content, appellant held Jerry by the hair and hacked him on the nape. Jerry fell to the ground. As a coup de grace, appellant stabbed Jerry on the right side of his back. Jerry died on the spot. Appellant then knelt over the prostrate body of Jerry and sucked the blood from his neck.
 
 Julius fled and alerted Jerry’s parents, Danilo and Aniceta Tejamo. Danilo rushed to the scene, whereupon Yam-id attacked him, hacking him on the bridge of his nose and on the head. Danilo collapsed unconscious. Believing Danilo was already dead after Aniceta screamed, Yam-id grabbed Danilo’s collar to deliver a final blow; however, the tip of the bolo accidentally pierced Yam-id's own abdomen. Perturbed and bleeding, Yam-id threw down his bolo and fled to his house. Danilo survived following immediate medical treatment. 
@@ -8,7 +7,7 @@ Yam-id was charged in two separate Informations before the Regional Trial Court 
 
 The RTC rejected his self-defense claim, convicted him of Murder (imposing the Death penalty under Republic Act No. 7659 due to treachery, evident premeditation, and the minority of the victim) and Frustrated Homicide. On automatic appeal before the Supreme Court, the Public Attorney's Office (PAO) raised the defense of insanity for the first time, citing his macabre act of sucking the child's blood and a belated medical evaluation suggesting schizophrenia. 
 
-Issues 
+### ISSUES
 1.	Whether Yam-id can validly invoke the exempting circumstance of insanity for the first time on appeal. NO
 
 2.	Whether the defense proved by clear and convincing evidence that Yam-id was legally insane at the time of the commission of the crimes. NO
@@ -17,7 +16,7 @@ Issues
 
 4.	What stage of execution was reached in the assault on Danilo Tejamo (Frustrated vs. Attempted Homicide).
 
-Ruling 
+### RULING
 1. On Raising Insanity for the First Time on Appeal: NO.
 Insanity is a defense in the nature of confession and avoidance, and as such must be proved beyond reasonable doubt (People vs. Ambal, 100 SCRA 35 [1980]). In considering the plea of insanity as a defense in a criminal prosecution, the starting premise is that the law presumes all persons to be of sound mind, or otherwise stated, the law takes for granted that acts are done consciously. Insanity being the exception rather than the rule in the human condition, "the moral and legal presumption is that freedom and intelligence constitute the normal condition of a person and that a felonious or criminal act (delicto deloso) has been done with deliberate intent, that is, with freedom, intelligence and malice" and that whoever, therefore, invokes insanity as a defense has the burden of proving its existence.
 
@@ -40,11 +39,12 @@ Gruesome, heinous, or unnatural acts—such as sucking the victim's blood—do n
 4. On the Crime Committed Against Danilo Tejamo: Attempted Homicide, not Frustrated. 
 The medical certificate showed that Danilo suffered hack wounds on the nasal area and scalp that required only 10 to 12 days to heal, and the attending physician confirmed the wounds were not mortal. Under Article 6 of the RPC, for a felony to be frustrated, the offender must perform all acts of execution that would produce the felony as a consequence, but which nevertheless do not produce it due to causes independent of the perpetrator's will. Because the wounds were non-fatal, the offense did not reach the frustrated stage; Yam-id was guilty only of Attempted Homicide. 
 
-Dispositive Portion 
+### DISPOSITIVE
 The Supreme Court MODIFIED the RTC judgment: 
 1.	In Criminal Case No. TCS-2381 (for the killing of Jerry Tejamo), Erlindo Yam-id was found GUILTY of MURDER and sentenced to reclusion perpetua (reduced from Death), and ordered to pay civil indemnity and actual damages. 
 2.	In Criminal Case No. TCS-2382 (for the assault on Danilo Tejamo), he was found GUILTY of ATTEMPTED HOMICIDE (downgraded from Frustrated Homicide) and sentenced to an indeterminate penalty of 2 months and 1 day of arresto mayor, as minimum, to 2 years and 4 months of prision correccional, as maximum. 
 
+### QUESTION
 Why did the Supreme Court reject Erlindo Yam-id’s defense of insanity?
 
 1. Inadmissibility of Changing Theory for the First Time on Appeal
