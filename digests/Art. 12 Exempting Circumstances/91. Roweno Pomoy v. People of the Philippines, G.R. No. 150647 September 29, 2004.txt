@@ -1,10 +1,13 @@
-Facts
+### FACTS
 Roweno, a police officer, arrested Tomas for robbery. While in custody and during tactical interrogation inside a police station, Roweno directed Tomas to stand and step outside the investigation room to be transferred to the jail lockup. As Roweno took hold of Tomas, Tomas suddenly lunged forward, grabbed the handle of Roweno’s service gun tucked in his holster, and attempted to snatch the weapon. A physical grapple for possession of the firearm ensued between the two men. In the course of the violent scuffle, the gun discharged repeatedly, fatally striking Tomas.
 
 Charged with homicide, Roweno invoked the exempting circumstance of accident under Article 12, paragraph 4 of the Revised Penal Code. He maintained that the shooting was purely accidental and unintended, having occurred solely while he was performing his official duty and grappling to prevent the detainee from wresting away his service weapon.
-Issue
+
+### ISSUE
 Does the exempting circumstance of accident under Article 12, paragraph 4 of the Revised Penal Code exempt Roweno from criminal liability?
-Ruling (Verbatim Legal Basis)
+
+### HELD & DOCTRINE
+(Verbatim Legal Basis)
 "The revised Penal Code does not define what an accident is. In People v. Agluka, the Court cited the definition of accident as follows:
 An accident is something that happens outside the normal course of events, something unexpected and not planned. It does not include an intentional act.
 In People v. Tan, the Court held that:
@@ -16,14 +19,17 @@ Under Article 12, paragraph 4 of the Revised Penal Code, the following elements 
 4.	Without fault or intention of causing it.
 All the elements of the exempting circumstance of accident were present in this case. First, petitioner was performing a lawful act when the incident occurred. He was in the process of investigating a crime, which was part of his official duties as a police officer. Second, he was doing it with due care. He had no control over the sudden and unexpected act of the victim who grappled with him for the possession of the gun. Third, the injury was caused by mere accident. The gun went off during the scuffle for its possession. Fourth, petitioner was without fault and had no intention of causing the injury. The shooting was an unintended consequence of the victim's attempt to disarm petitioner."
 
-Ratio Decidendi
+### RATIO
 Under Article 12, paragraph 4 of the Revised Penal Code, a person is exempt from criminal liability when an injury is caused by mere accident while performing a lawful act with due care, without fault or intention of causing it.
 
 Where a police officer is in the legitimate performance of his official duty—such as custodial investigation and transfer of a detainee—and the detainee unexpectedly lunges and grapples for the officer's holstered firearm, the discharge of the weapon during the ensuing struggle constitutes an unforeseen event outside the normal course of human experience. Because the officer exercised due care under the emergency thrust upon him by the detainee's hostile action, did not act with negligence or imprudence, and harbored no intent to shoot, all four elements of accident concur, entitling the officer to full exemption from criminal liability.
-Fallo
+
+### FALLO
 "WHEREFORE, the Petition is GRANTED. The Decision of the Court of Appeals dated July 17, 2001 in CA-G.R. CR No. 20998 is REVERSED and SET ASIDE. Petitioner Roweno Pomoy is ACQUITTED of the crime of homicide. His immediate release from custody is hereby ordered, unless he is being detained for some other lawful cause.
 SO ORDERED."
-Q: Explain the reasoning of the Supreme Court in holding that Roweno Pomoy accidentally shot to death Tomas Balboa.
+
+###QUESTION
+Explain the reasoning of the Supreme Court in holding that Roweno Pomoy accidentally shot to death Tomas Balboa.
 1. Pomoy Was Performing a Lawful Act
 The Court found that at the time of the incident, Pomoy—a police sergeant—was lawfully carrying out his official duty. He had arrested Balboa for robbery, brought him to the police station for tactical interrogation, and was in the process of transferring him from the investigation room to the detention cell. Escorting and securing a detainee in custody is part of standard police duties and constitutes the performance of a lawful act. 
 2. He Acted With Due Care Under the Circumstances
