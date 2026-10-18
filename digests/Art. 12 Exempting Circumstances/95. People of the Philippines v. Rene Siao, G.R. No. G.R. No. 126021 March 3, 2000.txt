@@ -1,11 +1,11 @@
-95. People of the Philippines v. Rene Siao, G.R. No. G.R. No. 126021 March 3, 2000
-Case Brief: People of the Philippines v. Rene Siao 
-G.R. No. 126021, March 3, 2000 
-Facts 
+### FACTS
 Reylan and Estrella worked as domestic helpers in the household of Rene. Suspecting Estrella of stealing jewelry, Rene brought her to the maid's quarters, tied her, and brandished a handgun. Rene then summoned Reylan into the room and ordered him to undress and rape Estrella. When Reylan initially refused, Rene pointed the gun at Reylan's temple and threatened to kill both Reylan and Estrella if they did not obey. Under constant threat of being shot, Reylan was forced to perform sexual intercourse on Estrella while Rene held her legs and watched at gunpoint. 
 Both Rene and Reylan were charged with rape. Reylan interposed the exempting circumstance under Article 12 of the Revised Penal Code, maintaining that he was completely deprived of free will and acted solely under the impulse of uncontrollable fear and irresistible force produced by Rene pointing a gun at his temple. 
-Issue 
+
+### ISSUE 
 Does the exempting circumstance of uncontrollable fear or irresistible force under Article 12 of the Revised Penal Code exempt Reylan from criminal liability for rape?
+
+### HELD & DOCTRINE
 Ruling (Verbatim Legal Basis)
 "Accused Reylan Gimena is hereby ACQUITTED because he acted under the impulse of uncontrollable fear of an equal, if not greater injury. For want of evidence, his cross-claim against Rene Siao should be, as it is hereby ordered, DISMISSED." 
 (Affirmed by the Supreme Court in upholding Rene Siao's conviction as principal by inducement under Article 17, paragraph 2 of the Revised Penal Code): 
@@ -18,10 +18,12 @@ There are two ways of directly forcing another to commit a crime: (1) by using i
 Ratio Decidendi
 Under Article 12, paragraphs 5 and 6 in relation to Article 17, paragraph 2 of the Revised Penal Code, an actor who is forced to commit a felonious act under the compulsion of an irresistible force or the impulse of an uncontrollable fear is exempt from criminal liability.
 Where an armed person points a firearm directly at another's head and threatens immediate death to compel the performance of a sexual assault, the physical actor is deprived of freedom and reduced to a mere mechanical instrument acting against his will. The person applying the duress and coercion becomes liable as the sole principal by inducement (direct force or inducement), while the coerced participant is entitled to total exemption from criminal liability.
-Fallo
+
+### FALLO
 "WHEREFORE, the appealed Decision of the Regional Trial Court of Cebu, Branch 14, in Criminal Case No. CBU-36109, finding appellant Rene Siao guilty of the crime of rape, is AFFIRMED with the MODIFICATION that accused-appellant Rene Siao is ordered to pay ₱50,000.00 to Ester Raymundo by way of moral damages, and ₱20,000.00 by way of exemplary damages in addition to the amount of ₱50,000.00 which the trial court ordered him to pay as indemnity. 
 SO ORDERED."
 
+### QUESTION
 In the Rene Siao case, do you agree with the decision of the trial court acquitting Reylan Gimena? Explain your answer.
 Yes, the trial court was correct in acquitting Reylan Gimena, a ruling effectively affirmed by the Supreme Court in People v. Rene Siao (G.R. No. 126021, March 3, 2000).
 His acquittal is grounded on the fundamental requirements of criminal liability and the elements of exempting circumstances under the Revised Penal Code:
