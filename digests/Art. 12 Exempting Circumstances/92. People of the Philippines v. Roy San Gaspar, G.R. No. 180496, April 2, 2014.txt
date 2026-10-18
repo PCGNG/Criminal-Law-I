@@ -1,11 +1,12 @@
-92. People of the Philippines v. Roy San Gaspar, G.R. No. 180496, April 2, 2014
-Facts:
+### FACTS
 Late at night, Roy arrived home and found his wife, Imelda, asleep on the floor alongside her two minor children. Angered because the door was not opened for him immediately and displeased that Imelda was sleeping beside the children, Roy kicked her. A verbal confrontation ensued. Roy then went upstairs, retrieved a loaded 12-gauge shotgun, lit a kerosene lamp near the bedroom door, aimed the firearm at Imelda, and shot her directly in the head in full view of the children before fleeing the scene. Imelda sustained a fatal gunshot wound on the left frontal aspect of her forehead surrounded by gunpowder burns. 
 
 When prosecuted for parricide, Roy invoked the exempting circumstance of accident under Article 12, paragraph 4 of the Revised Penal Code. He claimed that he had no intention of shooting his wife and that the shotgun discharged purely by accident when he pushed the bedroom door.
-Issue:
+
+### ISSUE
 Does the exempting circumstance of accident under Article 12, paragraph 4 of the Revised Penal Code exempt Roy from criminal liability?
-Ruling: 
+
+### HELD & DOCTRINE
 Under Article 12, paragraph 4 of the Revised Penal Code, any person who, while performing a lawful act with due care, causes an injury by mere accident without fault or intention of causing it, is exempt from criminal liability.
 For accident to be appreciated as an exempting circumstance, the following elements must concur:
 1.	The accused was performing a lawful act;
@@ -17,12 +18,14 @@ In rejecting the defense of accident, the Supreme Court relied on the following 
 •	Absence of Performance of a Lawful Act with Due Care: Handling a loaded firearm inside a residence during a domestic dispute and pointing it at a household member is not a lawful act performed with due care.
 •	Positive Eyewitness Testimonies: Eyewitness accounts of the children categorically established that the shooting was deliberate and preceded by aggressive overt acts (kicking the victim, retrieving the firearm, and aiming it), negating any claim that the discharge was accidental or devoid of criminal intent. 
 
-Ratio Decidendi
+### RATIO
 Accident under Article 12(4) of the Revised Penal Code presupposes the complete absence of criminal intent and negligence, requiring that the injury be produced while the accused is engaged in a lawful act performed with due care.
 Where the physical evidence—specifically, a direct frontal gunshot wound to the forehead bearing close-range gunpowder burns—contradicts the claim of an accidental discharge, the defense of accident cannot prosper. Coupled with positive, credible eyewitness accounts establishing that the accused retrieved a loaded shotgun following an altercation, aimed it at the victim, and pulled the trigger, the shooting is an intentional felonious killing rather than a fortuitous mishap. Consequently, the exempting circumstance of accident does not lie. 
 Fallo:
 The Supreme Court dismissed the appeal and affirmed the decision of the Court of Appeals sustaining the conviction of Roy San Gaspar by the Regional Trial Court of Isulan, Sultan Kudarat, Branch 19, for parricide with the penalty of reclusion perpetua, subject to the modification of the awarded damages (ordering the payment of civil indemnity, moral damages, and temperate damages, along with legal interest).
-Q: In the cases of Roy San Gaspar and Isaias Castillo, why did the Supreme Court reject their defense of accident?
+
+###QUESTION
+In the cases of Roy San Gaspar and Isaias Castillo, why did the Supreme Court reject their defense of accident?
 
 In both People v. Roy San Gaspar (G.R. No. 180496, April 2, 2014) and People v. Isaias Castillo (G.R. No. 172695, June 29, 2007), the Supreme Court rejected the defense of accident because neither accused satisfied the four mandatory requisites under Article 12, paragraph 4 of the Revised Penal Code:
 1.	The accused was performing a lawful act;
