@@ -1,12 +1,12 @@
-
-Facts:
+### FACTS
 Late in the evening, Ronald and his companions were standing along a street when sixteen-year-old Jerwin arrived together with several friends. Jerwin’s group hurled stones and bottles at Ronald’s group, forcing them to run and take shelter inside a nearby marketplace. Thinking the hostility had ceased, Ronald and his companions stepped out, only to find Jerwin’s group still waiting. As the commotion resumed, Jerwin pointed an improvised shotgun (sumpak) directly at Ronald and fired, hitting him between the eyes. Ronald sustained catastrophic ocular injuries resulting in the total loss of one eye and severe visual impairment in the other, but survived due to prompt medical intervention. 
 
 When prosecuted for the shooting, Jerwin invoked his status as a minor. While the prosecution proved that Jerwin intentionally fired the weapon, it offered no independent evidence regarding his discernment or mental capacity to understand the difference between right and wrong. 
 
-Issue:
+### ISSUE
 Does the exempting circumstance of minority under the Revised Penal Code, as amended by Republic Act No. 9344, exempt Jerwin from criminal liability when criminal intent is shown but discernment is not proven?
-Ruling: 
+
+### HELD & DOCTRINE 
 "The Prosecution did not determine the discernment of Dorado at the time of the commission of the crime. 
 To recapitulate, R.A. No. 9344 provides that only those minors above fifteen (15) years but below eighteen (18) years of age who acted with discernment shall not be exempted from criminal responsibility. 
 x x x x
@@ -22,19 +22,20 @@ As earlier stated, there can be no presumption of discernment on the part of the
 Section 3. Liberal Construction of this Act. — In case of doubt, the interpretation of any of the provisions of this Act, including its implementing rules and regulations (IRRs), shall be construed liberally in favor of the child in conflict with the law. 
 Accordingly, Dorado is deemed exempted from criminal liability." 
 
-Ratio Decidendi
+### RATIO
 Under Article 12(3) of the Revised Penal Code, as modified by Section 6 of Republic Act No. 9344, a minor above fifteen (15) but below eighteen (18) years of age is exempt from criminal liability unless the prosecution proves beyond reasonable doubt that the accused acted with discernment. 
 Discernment is the mental capacity to comprehend the moral significance of an act—the ability to distinguish right from wrong. It is fundamentally distinct from criminal intent (dolo), which merely denotes the conscious desire or purpose to perform a physical act. Consequently, proof of an intentional shooting does not give rise to a legal presumption of discernment. 
 The prosecution bears the burden of alleging and proving discernment as an independent, specific circumstance by presenting evidence of the minor’s conduct, appearance, attitude, and deportment before, during, and after the crime. In the absence of positive proof and an express judicial finding of discernment, the statutory presumption that the minor acted without discernment must prevail, entitling the minor to absolute exemption from criminal liability, without prejudice to civil damages. 
 
-Fallo:
+### FALLO
 "WHEREFORE, the petition is GRANTED. The judgment of conviction of Jerwin Dorado is hereby REVERSED and SET ASIDE by reason of the exempting circumstance of minority. He is hereby referred to the local social welfare and development officer of the locality for the appropriate intervention program. 
 He is also ordered to pay the private complainant, Ronald Bonion, civil indemnity in the amount of ₱30,000.00 and moral damages in the amount of ₱30,000.00. 
 The amounts of damages awarded shall have an interest at the rate of 6% per annum from the date of finality of judgment until fully paid. 
 Let copies of this decision be furnished the two houses of Congress for their information and guidance in future legislation regarding children in conflict with the laws. 
 SO ORDERED."
 
-Q: Compare the cases of Jerwin Dorado and Joery Deliola, explain why the Supreme Court acquitted Jerwin Dorado but not Joery Deliola?
+### QUESTION
+Compare the cases of Jerwin Dorado and Joery Deliola, explain why the Supreme Court acquitted Jerwin Dorado but not Joery Deliola?
 Comparison Matrix
 Legal Dimension	Jerwin Dorado v. People	People v. Joery Deliola
 Ground for Exemption	Minority (Art. 12[3], RPC; Sec. 6, R.A. No. 9344)	Insanity (Art. 12[1], RPC)
