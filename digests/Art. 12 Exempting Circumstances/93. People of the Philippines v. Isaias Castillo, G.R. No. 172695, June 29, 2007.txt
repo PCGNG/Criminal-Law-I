@@ -1,12 +1,12 @@
-
-Facts:
+### FACTS
 While Guillermo was having a drink with his brother and several companions outside a store, Isaias approached the group. An altercation ensued between Isaias and Guillermo, prompting Guillermo to challenge Isaias to a fistfight. Guillermo then grabbed Isaias by the neck. In response, Isaias drew a gun from his waist. Guillermo attempted to parry the weapon, and a struggle for possession of the firearm followed. In the course of the grapple, the gun went off, hitting Guillermo in the chest and causing his death.
 
 Charged with homicide, Isaias invoked the exempting circumstance of accident under Article 12, paragraph 4 of the Revised Penal Code. He argued that he had no intention to shoot Guillermo and that the discharge occurred purely by accident while they were grappling for the firearm.
 
-Issue:
+### ISSUE
 Does the exempting circumstance of accident under Article 12, paragraph 4 of the Revised Penal Code exempt Isaias from criminal liability?
-Ruling:  
+
+### HELD & DOCTRINE  
 "Article 12, paragraph 4 of the Revised Penal Code provides:
 ART. 12. Circumstances which exempt from criminal liability. — The following are exempt from criminal liability:
 x x x x
@@ -21,16 +21,17 @@ Under Article 12, paragraph 4 of the Revised Penal Code, the elements of the exe
 To prove the defense of accident, all the foregoing elements must be established.
 Appellant failed to prove the first and second elements. In the first place, drawing a gun in the course of an altercation is not a lawful act. Appellant was not performing a lawful act with due care when the gun discharged. Carrying a gun during an argument and drawing the same without justification cannot be considered performing a lawful act with due care. Thus, appellant cannot claim exemption from criminal liability by reason of accident."
 
-Ratio Decidendi
+### RATIO
 Under Article 12, paragraph 4 of the Revised Penal Code, the exempting circumstance of accident requires the concurrence of four indispensable elements: (1) the performance of a lawful act; (2) with due care; (3) causing injury to another by mere accident; and (4) without fault or intention of causing it. The absence of even one element defeats the defense.
 Where the accused responds to a fistfight challenge by drawing a firearm during a heated altercation, he is neither performing a lawful act nor exercising due care. Drawing a deadly weapon in the midst of a quarrel creates an imminent peril that invites a struggle, making the fatal discharge a foreseeable consequence of the unlawful and reckless display of force rather than a purely fortuitous or blameless event. Because the first two essential requisites are wanting, the defense of accident cannot be appreciated.
 
-Fallo:
+### FALLO
 "WHEREFORE, the Decision of the Court of Appeals dated January 31, 2006 in CA-G.R. CR-H.C. No. 01007 is AFFIRMED with MODIFICATION that appellant Isaias Castillo y Miranda is sentenced to suffer an indeterminate penalty of six (6) years and one (1) day of prision mayor, as minimum, to twelve (12) years and one (1) day of reclusion temporal, as maximum. Appellant is further ORDERED to pay the heirs of Guillermo Miranda ₱50,000.00 as civil indemnity, ₱50,000.00 as moral damages, and ₱25,000.00 as temperate damages.
 Costs against appellant.
 SO ORDERED."
 
-Q: In the cases of Roy San Gaspar and Isaias Castillo, why did the Supreme Court reject their defense of accident?
+### QUESTION
+In the cases of Roy San Gaspar and Isaias Castillo, why did the Supreme Court reject their defense of accident?
 
 In both People v. Roy San Gaspar (G.R. No. 180496, April 2, 2014) and People v. Isaias Castillo (G.R. No. 172695, June 29, 2007), the Supreme Court rejected the defense of accident because neither accused satisfied the four mandatory requisites under Article 12, paragraph 4 of the Revised Penal Code:
 1.	The accused was performing a lawful act;
