@@ -1,15 +1,15 @@
-86. People of the Philippines (Bernardo - father) v. Wilfredo Bañez, G.R. No. 125849, January 20, 1999
-Facts
+### FACTS
 Wilfredo lived in the house of his father, Bernardo. Bernardo complained to his daughters (Elvira and Emelinda) that Wilfredo frequently caused trouble whenever he was drunk and expressed his intention to transfer Wilfredo to separate quarters. When their father went to his room, Wilfredo, who looked drunk because he was red in the face, ran to the kitchen and got two (2) knives and then went inside their father's room. Wilfredo stabbed Bernardo. The autopsy report showed that the victim had ten (10) stab wounds on various parts of his body. Cause of death: stab wound in the heart.
 
 When charged with parricide, Wilfredo interposed the defense of insanity to exempt himself from criminal liability. In support thereof, an expert psychiatrist from the National Center for Mental Health testified that Wilfredo was diagnosed with schizophrenia twenty days after the incident based on history and examinations. On cross-examination, however, the psychiatrist admitted that he could only presume Wilfredo's mental condition at the exact time of the stabbing and conceded that persons suffering from such disorder experience lucid intervals.
 
 On cross-examination, Elvira stated that accused-appellant had been staying in their father's house for four (4) years after accused-appellant separated from his wife; that in 1988 accused-appellant was confined at the Bicutan Rehabilitation Center in Taguig, Metro Manila for addiction to gasoline; that he had been discharged from the same a long time ago, although she could not remember the year he was discharged; that accused-appellant had not shown any indication that he was crazy although he was also treated at the Baguio General Hospital for addiction to gasoline. 
 
-Issue
+### ISSUE
 Did the exempting circumstance of insanity under Article 12, paragraph 1 of the Revised Penal Code exempt Wilfredo from criminal liability? NO. The defense of insanity has no merit.
 
-Ruling (Verbatim Legal Basis)
+### HELD & DOCTRINE
+(Verbatim Legal Basis)
 
 "Art. 12 of the Revised Penal Code provides:
 Art. 12. Circumstances which exempt from criminal liability. — The following are exempt from criminal liability:
@@ -33,14 +33,15 @@ Accused-appellant must thus prove that he was completely deprived of reason when
 
 However, this has not been shown in this case. There is nothing either in the report of Dr. Gerona or in his testimony which indubitably show that accused-appellant was completely without reason on the night of August 14, 1994 when he killed his father because the latter wanted him to leave the house. Although he said that in his opinion accused-appellant was schizophrenic when he committed the crime, and that he was 99% certain of this, he was later less certain when questioned by the trial judge and admitted that accused-appellant was mentally well at least after his discharge from the Bicutan Rehabilitation Center in 1988 and for some time until he was confined at the mental, hospital in 1994, after the commission of the crime.
 
-Ratio Decidendi
+### RATIO
 To successfully invoke the exempting circumstance of insanity under Article 12(1) of the Revised Penal Code, the defense must establish with clear and convincing evidence that there was a complete deprivation of intelligence, reason, and discernment at the very moment of the commission of the crime.
 Medical diagnosis showing that an accused suffers from schizophrenia is insufficient where the examining physician can merely presume the mental condition at the time of the killing and admits that the illness is characterized by lucid intervals. Since insanity is an affirmative defense in the nature of confession and avoidance, the accused bears the burden of overcoming the presumption of sanity by proving total deprivation of will and consciousness contemporaneous with the criminal act. Having failed to prove that he acted without discernment when he stabbed the victim, Wilfredo cannot claim exemption from criminal liability.
 
-Fallo
+### FALLO
 "WHEREFORE, the decision of the Regional Trial Court is AFFIRMED with the MODIFICATION that accused-appellant is sentenced to suffer the penalty of reclusion perpetua. No costs.
 SO ORDERED."
 
+### QUESTION
 Explain why the Supreme Court rejected the accused’s defense of insanity despite the accused’s admission to a mental hospital prior to the commission of the crime and even thereafter.
 1. Proof Must Relate to the Exact Time of the Commission of the Crime
 Under Philippine criminal law, every person is presumed sane, and insanity is an affirmative defense in the nature of confession and avoidance. To be exempting, the defense must establish with clear and convincing evidence that the accused was suffering from a complete deprivation of intelligence, reason, and discernment at the very moment or immediately preceding the execution of the crime. 
