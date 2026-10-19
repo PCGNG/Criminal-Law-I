@@ -1,0 +1,54 @@
+Those circumstances when all the elements necessary to justify the act or exempt the offender from criminal liability in their respective cases are not attendant. Otherwise stated, we have incomplete justifying circumstance, or incomplete exempting circumstance.  justifying  circumstances  or  exempting
+When all the elements necessary to justify the act are not present, we have incomplete justifying circumstance. When all the elements necessary to exempt the offender form criminal liability are not present, we have incomplete exempting circumstance.
+The Court is guided by some rules on how they determine whether an incomplete justifying circumstance, or incomplete exempting circumstance shall be considered as an ordinary mitigating or a privileged mitigating circumstance. The following are the rules:
+  1. If majority of the elements necessary to justify the act, or to exempt the offender from criminal liability attended the commission of the crime, the     incomplete justifying or exempting circumstance shall be treated as a privileged mitigating circumstance.
+  2. If less than a majority of the elements necessary to justify the act or exempt the offender from criminal liability attended the commission of the crime, the incomplete justifying or exempting circumstance shall be treated as an ordinary mitigating circumstance.
+  3. If there are only two elements necessary to justify the act or exempt the offender from criminal liability, the presence of only one element shall be considered as a majority. Thus, it shall be considered circumstance.  as a  privileged mitigating
+  4. In case of incomplete self-defense, incomplete defense of a relative, or incomplete defense of a stranger, there must always be the element of unlawful aggression.  
+      If only the element of unlawful aggression attended the commission of the crime, the incomplete self-defense shall be considered as an ordinary mitigating circumstance.  
+      If aside from unlawful aggression, another element attended the commission of the crime, the incomplete self-defense shall be considered as a privileged mitigating circumstance.
+
+### PEOPLE v. ULEP G.R. NO. 132547 | SEPTEMBER 20, 2000 | BELLOSILLO, J. 
+### Facts: 
+Wapili was suffering from a high fever and was talking to himself in his room. Leydan tried to pacify Wapili, but to no avail. Leydan called Pastor Bonid to help him "pray over" Wapili. However, Wapili was already wild and violent. Suddenly, Wapili bolted out of his room naked and chased Leydan. He noted that Wapili have completely gone crazy and run in different directions. Leydan asked Policewoman Plando's for assistance. Thereafter, Ulep, Espadera, and Pillo responded and arrived at the scene. Eventually, they saw Wapili who was armed with a rattan stool and/or bolo. Ulep fired a warning shot and told Wapili to drop his weapons. However, Wapili did not heed to the request of Ulep and started to advance towards the latter. Ulep was constrained to shoot Wapili with his M- 16 rifle. Wapili slumped down on the ground, and Ulep walked towards him and shot him in the head. Ulep was charged with Murder. In his defense, Ulep raised the defense of self-defense and performance of duty.
+
+### Issue: 
+W/N the performance of his official duty and self-defense should be appreciated (NO)
+
+### Ruling: NO. 
+Before the justifying circumstance of fulfillment of a duty may be successfully invoked, the accused must prove the presence of two (2) requisites: (i) that he acted in the performance of a duty or in the lawful exercise of a right or an office; and (ii) that the injury caused or the offense committed be the necessary consequence of the due performance of duty or the lawful exercise of such right or office. The second requisite is lacking in the instant case.  
+
+Ulep set out to perform a legal duty - to render police assistance and restore peace where Wapili was then running amuck. There were two (2) stages of the incident. During the first stage, the victim threatened the safety of the police officers by menacingly advancing towards them, notwithstanding, Ulep's previous warning shot and verbal admonition to the victim to lay down his weapon or he would be shot. After all, a police officer is not required to afford the victim the opportunity to fight back. Neither is he expected - when hard pressed and in the heat of such an encounter at close quarters - to pause for a long moment and reflect coolly at his peril, or to wait after each blow to determine the effects thereof.  
+
+However, Ulep cannot be exonerated from overdoing his duty during the second stage of the incident - when he fatally shot the victim in the head, perhaps in his desire to take no chances, even after the latter slumped to the ground due to multiple gunshot wounds sustained while charging at the police officers. The victim at that point no longer posed a threat and was already incapable of mounting an aggression against the police officers. Shooting him in the head was obviously unnecessary.  
+
+Likewise, the evidence at hand does not favor his claim of self-defense. The elements in order for self-defense to be appreciated are: (i) unlawful aggression on the part of the person injured or killed by the accused; (ii) reasonable necessity of the means employed to prevent or repel it; and (iii) lack of sufficient provocation on the part of the person defending himself.  
+
+The presence of unlawful aggression is a condition sine qua non. In the present case, the records show that the victim was lying in a prone position on the ground - bleeding from the bullet wounds he sustained, and possibly unconscious - when accused-appellant shot him in the head. The aggression that was initially begun by the victim already ceased when Ulep attacked him. From that moment, there was no longer any danger to his life.  
+
+Therefore, the appealed Judgment is modified. Ulep is found guilty of Homicide, instead of Murder.
+
+###NOTE###
+In the case of People vs. Ulep, the accused was charged with the crime of Murder. The accused raised two justifying circumstances - self-defense and fulfillment of duty.  
+Is there self-defense? If there is none, can incomplete self-defense  be  appreciated as a mitigating circumstance? Is there fulfillment of duty? In case there is none, is there incomplete fulfillment of duty?  
+In this case, the SC held that the justifying circumstance of self-defense nor the mitigating circumstance of incomplete self-defense cannot be considered. The element that is absent is unlawful aggression. Whether self-defense is invoked as a justifying circumstance or merely a mitigating circumstance, unlawful aggression is an indispensable element.  
+The victim's act of advancing menacingly towards the police while allegedly armed placed the life and limb of the police officers in actual and imminent danger. Hence, the police officers - including the accused - fired at the victim. This act of the victim can be considered as unlawful aggression. However, the moment the victim was fired at and he slumped face down on the ground, there was no longer a reason for the accused Ulep to fire at him. At this point, unlawful aggression had ceased to exist. Since unlawful aggression is absent, there can be neither self- defense nor incomplete self-defense.  
+What about fulfillment of duty? Fulfillment of duty under Article 11(5) has only two elements:  
+    1. That the offender acted in the due performance of his duty; and 
+    2. That the resulting felony is the unavoidable consequence of the due performance of such duty.
+
+In his case, the first element was present. It was the people who called on the assistance of the police. The accused was there to perform his duty. However, the second element is absent. Killing the accused is not an unavoidable consequence. The victim was already on the ground, wounded. There was no need for the accused to fire at the head of the victim. Therefore, the second element being absent, there is no justifying circumstance of fulfillment of duty.  
+However, the privileged mitigating circumstance of incomplete fulfillment of duty may be appreciated. It is privileged since there are only two elements and presence of one constitutes a majority. Here, the SC downgraded the crime to Homicide for want of treachery, with the privileged mitigating circumstance of incomplete fulfillment of duty.
+
+
+
+
+
+
+
+
+
+
+
+
+
