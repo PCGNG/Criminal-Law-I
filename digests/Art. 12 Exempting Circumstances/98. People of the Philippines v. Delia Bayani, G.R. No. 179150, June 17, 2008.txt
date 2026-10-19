@@ -1,0 +1,44 @@
+### Facts:
+•  The Information & Arrest: Delia Bayani was charged before the Regional Trial Court (RTC) with the illegal sale of 6.41 grams of shabu (methylamphetamine hydrochloride) allegedly committed on March 7, 2003. 
+•  The Buy-Bust Operation: Acting on an intelligence report that Bayani was habitually dealing in illegal drugs, police operatives organized a buy-bust operation. PO3 Bernardo acted as the poseur-buyer. When PO3 Bernardo approached Bayani at her residence and requested to purchase shabu, Bayani readily produced and handed over the sachets of drugs in exchange for marked money, leading to her immediate arrest. 
+•  Lower Court Proceedings: The RTC convicted Bayani as charged, sentencing her to life imprisonment. The Court of Appeals (CA) affirmed the conviction in toto, rejecting her defense that she was merely a victim of police instigation. 
+
+### Issue:
+Whether the buy-bust operation conducted against the accused amounted to unlawful instigation (which would warrant an acquittal) rather than lawful entrapment.
+
+### Ruling:  
+The Supreme Court denied the petition and affirmed the decision of the Court of Appeals, upholding Bayani’s conviction for the illegal sale of dangerous drugs. 
+
+*Entrapment vs. Instigation Revisited:*
+The Court reiterated the classic distinction:
+o	In instigation, government agents induce, incite, or lure an accused into committing an offense that they would otherwise have no intention of committing (a "trap for the unwary innocent"). 
+o	In entrapment, the criminal design or intent originates in the mind of the accused, and law enforcement officers merely employ ruses and schemes to trap or capture a lawbreaker in flagrante delicto (a "trap for the unwary criminal"). 
+
+*Validity of Decoy Solicitations:*
+
+A police officer’s act of soliciting drugs from the accused during a buy-bust operation, or what is known as a "decoy solicitation," is not prohibited by law and does not render invalid the buy-bust operations. The sale of contraband is a kind of offense habitually committed, and the solicitation simply furnishes evidence of the criminal’s course of conduct. In People v. Sta. Maria, the Court clarified that a "decoy solicitation" is not tantamount to inducement or instigation:
+
+It is no defense to the perpetrator of a crime that facilities for its commission were purposely placed in his way, or that the criminal act was done at the "decoy solicitation" of persons seeking to expose the criminal, or that detectives feigning complicity in the act were present and apparently assisting its commission. Especially is this true in that class of cases where the office is one habitually committed, and the solicitation merely furnishes evidence of a course of conduct. 
+
+As here, the solicitation of drugs from appellant by the informant utilized by the police merely furnishes evidence of a course of conduct. The police received an intelligence report that appellant has been habitually dealing in illegal drugs. They duly acted on it by utilizing an informant to effect a drug transaction with appellant. There was no showing that the informant induced the appellant to sell illegal drugs to him.
+
+Conversely, the law deplores instigation or inducement, which occurs when the police or its agent devises the idea of committing the crime and lures the accused into executing the offense. Instigation absolves the accused of any guilt, given the spontaneous moral revulsion from using the powers of government to beguile innocent but ductile persons into lapses that they might otherwise resist.
+
+Sufficiency of Evidence:
+In the present case, PO3 Bernardo testified that appellant stood in front of her house and was in possession of drugs readily available for anyone who would buy them. PO3 Bernardo did not even have to employ any act of instigation or inducement, such as repeated requests for the sale of prohibited drugs or offers of exorbitant prices.
+
+In addition, PO3 Bernardo was able to identify the accused, the boodle money, and the two packets of crystalline substance, which tested positive for methylamphetamine hydrochloride.26 The essential elements for the prosecution for illegal sale of shabu were established: (1) the identity of the buyer and the seller, the object of the sale and the consideration; and (2) the delivery of the thing sold and payment therefor. In short, the delivery of the illicit drug to the poseur-buyer and the receipt by the seller of the marked money, as relayed by PO3 Bernardo, successfully consummated the buy-bust transaction.
+
+### Notes:
+In United Sates v. Phelps, we acquitted the accused from the offense of smoking opium after finding that the government employee, a BIR personnel, actually induced him to commit the crime in order to persecute him. Smith, the BIR agent, testified that Phelps’ apprehension came after he overheard Phelps in a saloon say that he like smoking opium on some occasions. Smith’s testimony was disregarded. We accorded significance to the fact that it was Smith who went to the accused three times to convince him to look for an opium den where both of them could smoke this drug. The conduct of the BIR agent was condemned as "most reprehensible."
+
+In People v. Abella, we acquitted the accused of the crime of selling explosives after examining the testimony of the apprehending police officer who pretended to be a merchant. The police officer offered "a tempting price, x x x a very high one" causing the accused to sell the explosives. We found there was inducement, "direct, persistent and effective" by the police officer and that outside of his testimony, there was no evidence sufficient to convict the accused.
+
+In People v. Lua Chu and Uy Se Tieng, [W]e convicted the accused after finding that there was no inducement on the part of the law enforcement officer. We stated that the Customs secret serviceman smoothed the way for the introduction of opium from Hong Kong to Cebu after the accused had already planned its importation and ordered said drug. We ruled that the apprehending officer did not induce the accused to import opium but merely entrapped him by pretending to have an understanding with the Collector of Customs of Cebu to better assure the seizure of the prohibited drug and the arrest of the surreptitious importers.
+
+### Fallo:
+ Delia Bayani y Botanes is found GUILTY of violation of Section 5, Article II of Republic Act No 9165.
+
+
+
+
