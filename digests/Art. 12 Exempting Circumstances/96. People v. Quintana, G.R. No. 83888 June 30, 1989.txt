@@ -1,0 +1,36 @@
+### Facts
+
+The Operation: The Narcotics Command (NARCOM) received a tip from an informant that accused-appellant Jose Quintana y Calimag was a drug pusher. A team composed of Sgt. Angelito Manalo, CIC Roberto Genido, and Pat. Allan Alcantara set up an operation in Bacoor, Cavite. 
+
+The Encounter: Pat. Alcantara and the informant approached Quintana. According to the testimony of the NARCOM operatives themselves, Alcantara told Quintana that he was in need of dried marijuana leaves and requested Quintana to buy marijuana for him. Quintana agreed, left the place, and allegedly returned with the contraband, leading to his arrest and the confiscation of a marked PHP 100 bill. 
+
+Lower Court Decision: The trial court convicted Quintana of violating the Dangerous Drugs Act and sentenced him to life imprisonment. Notably, on appeal to the Supreme Court, even the Solicitor General filed a manifestation in lieu of an appellee's brief recommending acquittal due to serious flaws in the prosecution's case. 
+
+### Issue
+Whether the police operation constituted lawful entrapment (where ways and means are resorted to catch a lawbreaker) or unlawful instigation (where the criminal intent originates in the mind of the law enforcement officer), and whether the accused's guilt was proven beyond reasonable doubt. 
+
+### Held & Doctrine
+The Supreme Court reversed the decision of the lower court, acquitted the accused-appellant on the ground of reasonable doubt, and ordered his immediate release. 
+
+Entrapment vs. Instigation:
+There is a wide difference between entrapment and instigation, for while in the latter case the instigator practically induces the will be accused into the commission of the offense and himself becomes a co-principal, in entrapment ways and means are resorted to for the purpose of trapping and capturing the law breaker in the execution of his criminal plan.
+
+Instigation and inducement must be distinguished from entrapment. The general rule is that instigation and inducement to commit a crime, for the purpose of filing criminal charges, is to be condemned as immoral, while entrapment, which is the employment of means and ways for the purpose of trapping and capturing the law breaker, is sanctioned and permissible. And the reason is obvious. Under the first instance, no crime has been committed, and to induce one to commit it makes of the instigator a co-criminal. Under the last instance, the crime has already been committed and all that is done is to entrap and capture the law breaker.
+
+Application to the Case:
+There is here a clear case of instigation, not entrapment. By his own declaration, Alcantara has admitted that he induced Quintana to buy marijuana leaves for him, which Quintana allegedly did although, curiously enough, he had not known Alcantara before.10The trial court dismissed the defense of instigation by observing that Quintana had been placed under surveillance two weeks before. But we do not see the connection. The surveillance did not necessarily lead to entrapment as the trial judge seems to suggest by some mysterious logic. What the Court clearly sees is that Quintana did not sell but was asked by Alcantara to buy the marijuana leaves for him.
+
+Public Policy on Instigation:
+The Court reiterated that instigation is a public wrong and violative of constitutional due process. No conviction can be sustained when the criminal design is planted by government agents on an otherwise innocent person who would not have committed the crime otherwise.
+
+### Q:
+Why did the Supreme Court acquit Quintana?	
+
+### A: 
+The Supreme Court acquitted Jose Quintana primarily because the police operation against him constituted unlawful instigation rather than lawful entrapment, coupled with the prosecution's failure to prove his guilt beyond reasonable doubt.
+
+Specifically, the acquittal was anchored on the following grounds:
+•	Criminal Intent Originated from the Police: During the trial, the prosecution's own witnesses (the NARCOM operatives) admitted that the police officer, Pat. Alcantara, approached Quintana and requested or induced him to procure marijuana. Under Philippine jurisprudence, when the criminal design or intent originates in the mind of the law enforcement officer—who practically instigates or manufactures the crime rather than merely providing an opportunity to catch an active criminal—it is illegal instigation.
+•	Violation of Due Process: Instigation is contrary to public policy and violates due process. The law will not punish a person for an offense that was incited or planted by government agents upon an individual who would not have committed it otherwise.
+•	Concession by the Government: Even the Solicitor General recognized the fatal flaw in the state's case and filed a manifestation in lieu of an appellee's brief explicitly recommending Quintana's acquittal.
+
