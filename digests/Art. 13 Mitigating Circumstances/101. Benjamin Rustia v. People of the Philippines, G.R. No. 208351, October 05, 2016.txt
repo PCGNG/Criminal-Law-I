@@ -1,1 +1,33 @@
-Benjamin Rustia v. People of the Philippines, G.R. No. 208351, October 05, 2016
+### Facts:
+Ambrocio Cristin (victim) went to the Barangay Hall of Malvar, Santiago City to meet accused-appellants Rustia, Jr., Rustia, Sr., and Faustino, in order to talk to them about the land that victim Cristin had bought from a certain Agcaoile. Since the Barangay Captain was out, accused-appellants and victim Cristin left the Barangay Hall. They were arguing.
+
+Accused-apppellant Rustia, Jr. suddenly restrained the victim Cristin on his waist. Accused appellants Rustia, Sr. and Faustino helped accused-appellant Rustia, Jr. restrain both hands of the victim. They all "grappled", and fell on the ground.
+
+When the victim was lying on the ground, accused-appellant Rustia, Jr. took the victim's gun that was tucked inside the victim's waist. Accused-appellant Rustia, Jr. then cocked the gun and pointed it at the victim Cristin. The latter immediately raised his arms to surrender, saying, "Madinak lumaban" (I will not fight). However, accused appellant Rustia, Jr. shot the victim Cristin. Accused-appellant Rustia, Jr. started to walk away, but returned and fired another shot at the victim. Accused appellants Rustia, Jr., Rustia, Sr., and Faustino then boarded their tricycle, and left the place. The events were witnessed by [Buenaventura], Pablo and Samin.
+
+Afterwards, the witnesses Buenaventura and Samin brought the victim Cristin to the Flores Hospital. Cristin died. The cause of death of victim Cristin was a gunshot wound on the victim's neck.
+
+### Issue:  
+SHOULD THE RTC AND CA HAVE CONSIDERED INCOMPLETE SELF-DEFENSE AS A SPECIAL MITIGATING CIRCUMSTANCE? (no)
+
+### Ruling:
+The claim of incomplete self-defense must fail for being unsupported by the evidence. This privileged mitigating circumstance requires the indispensable element of unlawful aggression, the nature of which we have explained in People v. Dulin:
+
+x x x The test for the presence of unlawful aggression under the circumstances is whether or not the aggression from the victim put in real peril the life or personal safety of the person defending himself; the peril must not be an imagined or imaginary threat. Accordingly, the accused must establish the concurrence of three elements of unlawful aggression, namely: (a) there must be a physical or material attack or assault; (b) the attack or assault must be actual, or, at least imminent; and (c) the attack or assault must be unlawful. 
+
+Unlawful aggression is of two kinds: (a) actual or material unlawful aggression; and (b) imminent unlawful aggression. Actual or material unlawful aggression means an attack with physical force or with a weapon, an offensive act that positively determines the intent of the aggressor to cause the injury. Imminent unlawful aggression means an attack that is impending or at the point of happening; it must not consist in a mere threatening attitude, nor must it be merely imaginary, but must be offensive and positively strong (like aiming a revolver at another with intent to shoot or opening a knife and making a motion as if to attack). Imminent unlawful aggression must not be a mere threatening attitude of the victim, such as pressing his right hand to his hip where a revolver was holstered, accompanied by an angry countenance, or like aiming to throw a pot.
+
+The burden of proving unlawful aggression belonged to the petitioners. According to them, unlawful aggression manifested itself when Ambrocio reached for the gun tucked in his waist. Yet, they did not thereby establish that Ambrocio had really reached for his gun and actually taken it out. What we have on this defense was instead the sole recollection of Benjamin, Jr., which, being uncorroborated even by the other petitioners, was accorded scant consideration by both the RTC and the CA. It is remarkable at least that none of the three disinterested eyewitnesses saw Ambrocio reaching for the gun first. Thus, the claim of incomplete self defense is rejected.
+
+### Ratio Decidendi
+For self-defense to be recognized as a justifying circumstance under Article 11(1), or as a privileged mitigating circumstance under Article 13(1) and Article 69 of the Revised Penal Code, unlawful aggression is a condition sine qua non. If unlawful aggression is not established, there is nothing to prevent or repel, and there is no basis to consider incomplete self-defense.
+
+Here, the defense’s version that Cristin drew his gun first was an uncorroborated assertion contradicted by disinterested eyewitnesses who confirmed that Benjamin Jr. initiated the physical assault by grabbing Cristin around the waist before forcibly disarming him. Because Cristin committed no prior unlawful aggression, the primordial requirement failed; hence, incomplete self-defense cannot serve as a mitigating circumstance to reduce the penalty. 
+
+### Fallo
+"WHEREFORE, the Court:
+(1) DECLARES petitioner BENJAMIN RUSTIA, JR. GUILTY beyond reasonable doubt of HOMICIDE
+(2) ACQUITS petitioners BENJAMIN RUSTIA, SR. and FAUSTINO RUSTIA for insufficiency of evidence;
+
+### Question
+Why is Benjamin Rustia not entitled to the privileged mitigating circumstance of incomplete self-defense?
