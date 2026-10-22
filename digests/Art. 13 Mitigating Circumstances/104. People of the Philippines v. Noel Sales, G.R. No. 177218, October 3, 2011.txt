@@ -1,0 +1,24 @@
+### Facts:
+On September 20, 2002, in Tinambac, Camarines Sur, brothers Noemar Sales (9 years old) and Noel Sales, Jr. (8 years old) returned home after being away for several days without parental permission, having gone to Naga City to attend the fluvial procession of Our Lady of Peñafrancia. Furious upon their return—and suspecting they had taken a pedicab—their father, accused-appellant Noel T. Sales, decided to punish them. 
+Sales tied the hands and feet of both boys to a coconut tree and repeatedly struck them with a piece of wood measuring about one meter long and one and a half inches thick. When brought back inside the house, Noemar collapsed, exhibited difficulty in breathing, complained of chest pain, and lost consciousness. He was taken to a local quack doctor who declared him dead. Noemar was buried the following day without an autopsy, while the municipal health officer subsequently issued a death certificate indicating cardio-pulmonary arrest. Noel Jr. survived with muscular contusions, facial hematoma, and wrist abrasions requiring medical attention. 
+Sales voluntarily surrendered to the police. He was charged in two consolidated Informations: Parricide for the death of Noemar, and Slight Physical Injuries for the injuries inflicted on Noel Jr. 
+The Regional Trial Court (RTC) convicted Sales of both offenses, imposing reclusion perpetua for parricide. The Court of Appeals (CA) affirmed the conviction. On appeal to the Supreme Court, Sales argued that: 
+1.	He had no intention of killing his son and was merely administering parental discipline; 
+2.	Noemar’s death was caused by a pre-existing medical condition (a weak heart or epilepsy), not the beating; and 
+3.	At the very least, he was entitled to the mitigating circumstance of lack of intent to commit so grave a wrong (praeter intentionem) under Article 13, paragraph 3 of the Revised Penal Code (RPC).
+
+### Issue: Can the mitigating circumstance of lack of intent to commit so grave a wrong (praeter intentionem) be appreciated in favor of the accused?
+### Ruling: NO
+
+To hold a person criminally liable for a felony different from that which was intended, two conditions must concur:
+1.	That an intentional felony has been committed; and
+2.	That the wrong done to the aggrieved party is the direct, natural, and logical consequence of the felony committed. 
+
+Sales committed an unlawful act by severely beating his children. The physical trauma inflicted upon the 9-year-old child was the proximate cause of his collapse and demise. The defense's uncorroborated theory that the victim died of epilepsy or heart failure cannot overcome the direct causal link between the brutal assault and the resulting death.
+
+### Ratio Decidendi:
+ 
+### Fallo:
+
+### Question: 
+Compare the decision of the Supreme Court in the said cases.  Why did the Supreme Court hold that Rodel Urbano is entitled to the mitigating circumstance of lack of intent to commit so grave a wrong while Noel Sales is not?
