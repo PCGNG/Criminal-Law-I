@@ -1,0 +1,66 @@
+### Facts:
+Rudipico Pogay (Pogay) and Dominador Panday (Panday) saw Rodulfo Gulane walking about five (5) meters away from them with Oloverio trailing behind him. Oloverio allegedly tapped Gulane’s right shoulder and hacked him on the chest and extremities with a bolo until Gulane collapsed on the ground. Oloverio then allegedly took Gulane’s money from his pocket.
+
+Pogay heard Oloverio shouting the words, "Patay na ang datu sa Brgy. San Pablo!" ("The rich man in San Pablo is already dead!") Gulane managed to tell Oloverio, "Man luba ka man, Ling?" ("Ling, why did you stab me?") After, Gulane died. Panday proceeded to inform Gulane’s family of the incident. 
+
+In his defense, Oloverio alleged that at the time and day of the incident, Gulane had been accusing him of having an incestuous relationship with his mother. He allegedly kept his cool and told Gulane to go home, but the latter continued to mock him by asking in a loud voice, "How many times did you have sexual intercourse with your mother?" He allegedly asked Gulane to go home again but the latter angrily replied, "Who are you to tell me to go home?" Gulane not only threatened to molest accused-appellant’s daughter but also accused him in public of having incestuous relations with his mother. Gulane was said to have insulted accused-appelant in full view of his immediate superior, the barangay captain.
+
+### Issue
+May the mitigating circumstance of passion or obfuscation under Article 13, paragraph 6 of the Revised Penal Code be appreciated in favor of Oloverio even if the victim's provocative acts did not occur immediately before the killing? 
+
+### Ruling
+Yes. The SC ruled that Oloverio is entitled to the mitigating circumstance of passion and obfuscation, in addition to voluntary surrender. 
+
+Verbatim Legal Basis and Quotations from the Supreme Court
+"Passion and obfuscation as a mitigating circumstance need not be felt only in the seconds before the commission of the crime. It may build up and strengthen over time until it can no longer be repressed and will ultimately motivate the commission of the crime." 
+
+"To be able to successfully plead the mitigating circumstance of passion and obfuscation, the accused must be able to prove the following elements: 
+1.	that there be an act, both unlawful and sufficient to produce such condition of mind; and 
+2.	that said act which produced the obfuscation was not far removed from the commission of the crime by a considerable length of time, during which the perpetrator might recover his normal equanimity." 
+
+"It has been held that '[T]here is passional obfuscation when the crime was committed due to an uncontrollable burst of passion provoked by prior unjust or improper acts, or due to a legitimate stimulus so powerful as to overcome reason.' 'The obfuscation must originate from lawful feelings. The turmoil and unreason which naturally result from a quarrel or fight should not be confused with the sentiment or excitement in the mind of a person injured or offended to such a degree as to deprive him of sanity and self-control.'" 
+
+"Both the trial court and the Court of Appeals narrowed its understanding of passion and obfuscation to refer only to the emotions accused-appellant felt in the seconds before a crime is committed. It failed to understand that passion may linger and build up over time as repressed anger enough to obfuscate reason and self-control." 
+
+"Considering that there are two (2) mitigating circumstances in accused-appellant's favor, the imposable penalty must be that which is next lower to that prescribed by law. Article 64 (5) of the Revised Penal Code provides: 
+ARTICLE 64. Rules for the Application of Penalties Which Contain Three Periods. — ... 
+x x x x
+5.	When there are two or more mitigating circumstances and no aggravating circumstances are present, the court shall impose the penalty next lower to that prescribed by law, in the period that it may deem applicable, according to the number and nature of such circumstances." 
+
+### Ratio Decidendi
+For passion or obfuscation (Article 13, paragraph 6 of the RPC) to mitigate criminal liability, the act producing the emotional outburst must be unlawful, sufficient, and not separated from the felony by an interval wherein the offender could have regained normal equanimity.
+
+The requirement that the provocative act must not be far removed from the commission of the crime does not impose a rigid temporal rule confining the obfuscation strictly to seconds or minutes preceding the assault. Passion may accumulate, linger, and intensify over time through sustained, highly offensive acts that continually undermine an individual's self-restraint. Considering the gross disparity in local standing between Gulane (a prominent community leader) and Oloverio (a lowly watchman), Gulane's persistent public accusations of incest and threats against Oloverio’s daughter constituted a powerful, lawful stimulus that overwhelmed Oloverio's reasoning. 
+
+Because treachery was not proven, the crime was homicide under Article 249 of the RPC. With two mitigating circumstances (passion and obfuscation, and voluntary surrender) and no aggravating circumstances, Article 64, paragraph 5 mandates the reduction of the penalty by one degree, lowering reclusion temporal to prision mayor. 
+
+
+### Question: 
+What are the different rules/principles regarding passion or obfuscation as expressed by the Supreme Court in the case of Marcelino Oloverio?
+In the relatively recent case of People v. Constantino, such a plea was likewise rejected. There the killing took place after four days. As pointed out by Justice Romualdez in People v. Alanguilang: "In order that the circumstance of obfuscation can be considered, it is necessary to establish the existence of an act both unlawful and sufficient to produce such a condition of mind; and that said act which produced the obfuscation was not far removed from the commission of the crime by a considerable length of time, during which the perpetrator might recover his normal equanimity."
+
+Reference may also be made to People v. Dagatan, where this Court could not consider the presence of this mitigating circumstance as the act that caused the resentment "took place long before the commission of the crime."
+
+People v. Gervacio had another way of putting it, "a time not far removed from the commission of the crime." The lower court, therefore, did not commit any error in refusing to credit appellant with the mitigating circumstance of passion and obfuscation.
+
+This court clarifies in People v. Bautista: The turmoil and unreason which naturally result from a quarrel or fight should not be confused with the sentiment or excitement in the mind of a person injured or offended to such a degree as to deprive him of his sanity and self control, because the cause of this condition of mind must necessarily have preceded the commission of the offense. This court has also ruled that acts done in the spirit of revenge cannot be considered acts done with passion and obfuscation.
+
+In People v. Caber, Francisco Caber was seen chasing Teodoro Ramirez with a bladed weapon, locally known as a pisao, and stabbing Ramirez twice, which resulted in his death. Caber tried to argue that he stabbed Ramirez in a fit of passion and obfuscation and alleged that Ramirez raped his wife three (3) days before the incident. This court rejected the claim: Even assuming, however, that he really killed Ramirez because of passion or obfuscation in order to avenge the wrong done to his wife by the victim, still he cannot be credited with this circumstance as he would then have acted "in the spirit of revenge." Furthermore, although accused-appellant's wife was allegedly raped by Ramirez on November 17, 1994, the stabbing incident in question took place three days later or on November 20, 1994. Thus, the act which was supposed to have caused passion or obfuscation on the part of the accused-appellant was so far removed from the date of the stabbing. In United States v. Sarikala, the Court ruled that the lapse of more than 24 hours, reckoned from the commission of the act which produced the passion or obfuscation up to the time of the commission of the felony, constituted a considerable period of time after which such circumstance would no longer be deemed present.
+
+
+### Question: 
+Why did the Supreme Court rule that Marcelino Oloverio is entitled to the mitigating circumstance of passion or obfuscation?
+
+For passion and obfuscation to be mitigating, the same must originate from lawful feelings. The turmoil and unreason that naturally result from a quarrel or fight should not be confused with the sentiment or excitement in the mind of a person injured or offended to such a degree as to deprive him of his sanity and self-control. 
+
+The excitement which is inherent in all persons who quarrel and come to blows does not constitute obfuscation. Moreover, the act producing obfuscation must not be far removed from the commission of the crime by a considerable length of time, during which the accused might have regained his normal equanimity. Thus, it has been held that where at least half an hour elapsed between the previous fight and the killing, the accused cannot be given the benefit of the attenuating circumstance of obfuscation.
+
+Gulane not only threatened to molest accused-appellant’s daughter but also accused him in public of having incestuous relations with his mother. Gulane was said to have insulted accused-appelant in full view of his immediate superior, the barangay captain. 
+
+Both victim and accused-appellant lived in the small locality of Palompon, Leyte. As with any small town, it was a place where a person’s degrading remarks against another could be made the measure of the latter’s character. Gulane’s insults would have been taken into serious consideration by the town’s residents because of his wealth and stature in the community. 
+
+There was neither a reason given why Gulane acted that way towards accused-appellant nor any evidence to show that accused-appellant had previously wronged him. 
+
+The prosecution did not deny that Gulane insulted accused-appellant on various occasions. The witnesses could not state with reasonable certainty that Gulane did not provoke accused-appellant a few minutes before the incident; they could only testify to the incident itself and the seconds which preceded it.
+
+In view of these considerations, we find that the mitigating circumstance of passion and obfuscation is present in this case.
