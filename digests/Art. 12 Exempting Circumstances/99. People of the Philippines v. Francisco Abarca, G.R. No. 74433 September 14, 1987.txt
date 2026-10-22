@@ -1,0 +1,32 @@
+99. People of the Philippines v. Francisco Abarca, G.R. No. 74433 September 14, 1987
+### Facts
+•	The Incident: On December 17, 1984, inside a pub/disco in Barangay Rizal, Surigao del Sur, accused-appellant Francisco Abarca, an ex-constabulary soldier, was drinking with his wife and a friend. An altercation ensued between Abarca and a PC lieutenant, Lt. Luciano Mascarinas, because Abarca resented the latter's dancing with Abarca's wife or a remark made during the dance.
+•	The Escalation: Lt. Mascarinas allegedly slapped or struck Abarca during the heated argument. Enraged and humiliated, Abarca left the establishment, went home to get his M-16 armalite rifle, and returned to look for Mascarinas.
+•	The Tragedy: Upon returning, Abarca failed to find Mascarinas, who had already left. Frustrated and blinded by anger, Abarca fired his rifle indiscriminately into the crowded establishment. A stray bullet hit and killed a 9-year-old child, Rowena Robles, who was sitting at a nearby table, and wounded another bystander.
+•	Lower Court Proceedings: The Regional Trial Court convicted Abarca of Murder (qualified by treachery and evident premeditation) for the death of the child and sentenced him to reclusion perpetua.
+
+### Issues
+1.	Whether Abarca can be convicted of Murder for the death of the child, considering he originally intended to kill Lt. Mascarinas (aberratio ictus or mistake in the blow).
+2.	Whether the mitigating circumstance of sufficient and immediate provocation (originating from Lt. Mascarinas slapping him) should apply to reduce his criminal liability.
+
+### Ruling
+The Supreme Court modified the trial court's decision, lowering the conviction from Murder to Homicide (with respect to the child's death), and appreciated the mitigating circumstance of passion or obfuscation/provocation.
+•	On the Death of the Bystander (Proximate Cause / Aberratio Ictus): The Court affirmed that Abarca is fully criminally liable for the death of young Rowena Robles, even though she was not his intended target. Under Article 4 of the Revised Penal Code, criminal liability is incurred by any person committing a felony (attempted/frustrated murder or grave threats against Mascarinas), although the wrongful act done be different from that which he intended. The indiscriminate firing was the proximate cause of the child's death.
+•	Reduction from Murder to Homicide: The Court held that treachery (alevosia) could not be appreciated to elevate the crime to Murder. Although the attack was sudden as to the child, the child was merely a casual bystander caught in the tragic crossfire; treachery must be deliberately adopted against the victim killed. Furthermore, the qualifying circumstance of evident premeditation was absent because the retaliation happened moments after the provocation without a sufficient cooling-off period.
+•	On Provocation and Passion: The Court heavily factored in the humiliation Abarca suffered when he was publicly slapped or assaulted by Lt. Mascarinas minutes before. This act constituted sufficient and immediate provocation, which produced passion and obfuscation, serving to mitigate his criminal penalty significantly.
+
+### Question
+Explain the concept of “death or physical injuries inflicted under exceptional circumstance,” as an absolutory cause
+During the trial, Francisco Abarca invoked a defense inspired by the principles of Article 247. He argued that he acted under exceptional circumstances because:
+•	His wife was dancing intimately or socializing with Lt. Mascarinas.
+•	Mascarinas allegedly made offensive remarks or advances, and subsequently slapped Abarca in public.
+•	Abarca claimed that the public humiliation of seeing his wife compromised and being physically assaulted by a military officer drove him to extreme emotional distress, which he equated to the passion and shock contemplated under exceptional circumstances.
+
+3. The Supreme Court's Ruling on the Defense
+The Supreme Court squarely rejected the application of Article 247 or any similar absolutory cause, explaining why Abarca's situation did not fit the legal definition:
+•	Absence of Sexual Infidelity: The plain text and spirit of Article 247 strictly require that the spouse be surprised in the act of committing sexual intercourse (or acts closely approximating carnal knowledge amounting to betrayal of the marital bed). Merely dancing with another person, or even exchanging inappropriate remarks, does not constitute the specific marital betrayal required by law.
+•	The Cooling-Off Period: Even if emotional distress were present, Article 247 requires that the reaction be immediate—meaning the offender catches the spouse in flagrante delicto and strikes instantly. In Abarca's case, he was slapped, left the disco, walked all the way home, retrieved an M-16 armalite rifle, and returned to the establishment. This passage of time shattered any claim of an instantaneous, highly passionate reaction to a sudden discovery.
+•	The Innocent Bystander Rule: The Court emphasized that Article 247 applies exclusively when the violence is directed against the erring spouse or the paramour. It can never be stretched to excuse or minimize the killing of an innocent third party or bystander (such as the 9-year-old child, Rowena Robles) who was hit by stray bullets during a blind, indiscriminate rampage.
+
+### Summary
+While Abarca was granted the ordinary mitigating circumstance of passion or obfuscation because he had just been publicly slapped and humiliated by Lt. Mascarinas (which reduced his crime from Murder to Homicide), the Supreme Court ruled that the strict statutory concept of "death inflicted under exceptional circumstances" was completely inapplicable to his case.
