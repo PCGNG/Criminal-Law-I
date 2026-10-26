@@ -1,0 +1,51 @@
+Facts
+On the evening of May 21, 1982, in Balbalan, Kalinga-Apayao, Elpidio Dalsen, an incumbent member of the Sangguniang Bayan of Balbalan, was sitting near the window inside the house of his relative, Raymundo Gundan, conversing with others present.
+
+Suddenly, gunshots were fired from the darkness outside the house directed at the window. Dalsen was struck by two rifle bullets—one penetrating the right arm and another perforating his chest, which caused fatal internal hemorrhages. An eye-witness outside the house, Keithley Buyagan, recognized accused-appellant Donald Balansi running away from the scene immediately after the shooting carrying an Armalite rifle. Balansi was a member of the Integrated National Police (INP) assigned to the Kalinga-Apayao Police Station.
+
+Balansi was charged with Murder qualified by treachery and attended by evident premeditation and dwelling. During the trial, the defense interposed denial and alibi, claiming that Balansi was asleep in his barracks at the police station at the time of the shooting. The Regional Trial Court (RTC) of Bulanao, Tabuk, Kalinga-Apayao, rejected his alibi, convicted him of Murder, and appreciated treachery as the qualifying circumstance, alongside the aggravating circumstances of dwelling and nighttime, with no mitigating circumstances. Balansi was sentenced to reclusion perpetua. He appealed the conviction to the Supreme Court.
+
+Issues
+1.	Whether the positive identification of the accused-appellant by the prosecution witnesses was sufficient to overcome his defense of alibi.
+2.	Whether the crime committed was Murder qualified by treachery (alevosia).
+3.	Whether the aggravating circumstances of dwelling (morada) and nighttime (nocturnidad) were correctly appreciated.
+
+Held
+1.	Yes. The positive, categorical identification made by credible eyewitnesses who saw the accused fleeing the scene carrying the fatal weapon completely destroyed his defense of alibi. Moreover, the police barracks where the appellant claimed to be were easily accessible from the scene of the crime.
+2.	Yes. Treachery was present. The attack was sudden, unexpected, and executed while the victim was seated conversing inside a house, completely oblivious to danger, affording him no opportunity to defend himself.
+3.	Yes. Dwelling was correctly appreciated as a generic aggravating circumstance even though the gunman fired from outside the house. Nighttime was likewise appreciated as an aggravating circumstance.
+
+Ratio:
+"Dwelling" is considered an aggravating circumstance because primarily of the sanctity of privacy the law accords to human abode. According to one commentator, one's dwelling place is a "sanctuary worthy of respect"26 and that one who slanders another in the latter's house is more guilty than if he who offends him elsewhere. However, one does not lose his right of privacy where he is offended in the house of another because as his invited guest, he, the stranger, is sheltered by the same roof and protected by the same intimacy of life it affords. It may not be his house, but it is, even for a brief moment, "home" to him. He is entitled to respect even for that short moment.
+
+It is with more reason in this case. The late Elpidio Dalsen died in the house of his very parents who raised him until he could be on his own.
+
+Under the circumstances, we affirm the lower court, but only insofar as it held the accused-appellant responsible for taking the life of Elpidio Dalsen. We hold him liable for simple homicide aggravated by dwelling. 
+
+Appreciation of Dwelling Fired From Outside: The Supreme Court affirmed that the aggravating circumstance of dwelling (morada) is present even if the shooter does not physically cross the threshold or step inside the building, provided the bullets are fired from outside into the interior of the house where the victim is resting, conversing, or residing. The sanctity of the home as a sanctuary of family life is violated just as effectively when the offender fires from outside into the home of the victim.
+
+Treachery (Alevosia): The victim was completely unsuspecting, sitting by the window in conversation with his relatives. The sudden firing of high-powered rifle rounds from the darkness outside directly and specially ensured the consummation of the killing without any risk to the assailant arising from any defense the victim might make.
+
+Nighttime (Nocturnidad): Darkness was deliberately sought and taken advantage of to facilitate concealment, surprise the victim through an unlit exterior approach, and facilitate the gunman's immediate escape.
+
+Positive Identification Over Alibi: Alibi is an inherently weak defense and cannot prevail over positive identification. To succeed with an alibi, the accused must establish not only that he was elsewhere when the crime happened, but that it was physically impossible for him to be at the scene of the crime. Here, the distance between the barracks and the victim's house did not establish physical impossibility.
+
+Why did the Supreme Court appreciate the aggravating circumstance of disregard of dwelling to a mere house guest?
+1. The Protection Attaches to the Sanctuary of the Structure
+The aggravating circumstance of dwelling does not depend on strict legal title, ownership, or permanent residency. Rather, it is anchored on the inviolability of the place as a sanctuary of shelter and repose:
+•	A dwelling is defined broadly in penal jurisprudence as the building or structure exclusively used for rest, comfort, and privacy.
+•	When an occupant or host opens their home to a guest, that sanctuary and the expectation of safety and peace extend to everyone legitimately sheltered under that roof.
+•	The offender demonstrates an enhanced perversity and disrespect for the peace of the home by breaching that sanctuary, regardless of whether the target of the assault is the homeowner or an invited guest staying or resting therein.
+
+2. Settled Jurisprudential Precedent
+The doctrine applied in People v. Balansi and similar cases traces back to landmark rulings affirming that temporary presence inside a house does not strip a victim of the protection of morada:
+•	People v. Basa (83 Phil. 622) / People v. Alcala (46 Phil. 739): The Supreme Court expressly recognized that dwelling is aggravating when the victim is a guest in another person’s house. The Court reasoned that an invited visitor enjoys the peace and protection of the host’s roof; invading that peace violates the very principle of sanctuary underlying Article 14, paragraph 3.
+•	People v. Ambis (68 Phil. 645): The circumstance was appreciated where the victim was sleeping as an invited guest in the house of a relative. The Court stressed that one does not need to be the owner or tenant of the house to be covered by the circumstance of dwelling, provided the victim is lawfully residing or staying there at the time of the commission of the crime.
+
+3. Firing From Outside Into the House
+In Balansi, this principle was coupled with the doctrine on firing from the exterior:
+•	The shooter remained in the dark outside and fired through the window into the interior where the victim was seated conversing.
+•	The Court reiterated that physical entry across the threshold is not necessary. Firing into the interior of a house breaches the quiet and security of the domicile just as effectively as stepping inside. Because the victim was peacefully seated inside a private home with his hosts, the perversity of violating that domestic sanctuary attended the killing.
+Key Requisite: Absence of Provocation
+The only limitation where dwelling cannot be appreciated against an offender attacking a guest (or anyone inside) is when the victim gives immediate and sufficient provocation from within the dwelling. In Balansi, the victim was merely engaged in peaceful conversation inside his relative's home and offered no provocation to the assailant outside, making the appreciation of dwelling legally proper.
+
