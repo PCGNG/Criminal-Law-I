@@ -1,0 +1,61 @@
+Facts 
+On June 27, 1993, Elpidio Malicse, Sr. went to the residence of his sister, Isabelita Iguiron, in Pandacan, Manila. After a heated verbal confrontation during which Elpidio slapped Isabelita, he temporarily left the premises but subsequently returned to seek reconciliation. Upon his return, he was met with hostility. When Elpidio kicked the door open, a violent physical altercation ensued. 
+Salvador Iguiron struck Elpidio with a rattan stick. While Elpidio and Salvador grappled, Titus Iguiron sprayed a substance onto Elpidio's face. As Elpidio struggled to escape, petitioner Gary Fantastico struck him with a tomahawk axe, and petitioner Rolando "Rolly" Villanueva struck him from behind with a lead pipe, causing him to collapse to the ground. While Elpidio lay defenseless on the ground shielding his face and pleading for mercy, the assailants continued beating him with lethal weapons. The assault ceased only when a female bystander fainted and neighbors intervened to take the bleeding victim to the Philippine General Hospital. Elpidio sustained multiple lacerated wounds to the head and bilateral fractures on his legs. 
+An Information was filed charging Gary Fantastico, Rolando Villanueva, and several others with Attempted Murder, alleging that with intent to kill, treachery, and taking advantage of superior strength, they commenced the commission of murder directly by overt acts, but failed to perform all acts of execution because the injuries inflicted were not mortal due to causes other than their spontaneous desistance. 
+The Regional Trial Court (RTC) of Manila, Branch 11, acquitted Titus Iguiron, Saligan Iguiron, and Tommy Ballesteros, but convicted petitioners Gary Fantastico and Rolando Villanueva of Attempted Murder. The Court of Appeals (CA) affirmed the conviction. Petitioners elevated the case to the Supreme Court via a Petition for Review on Certiorari under Rule 45. 
+
+Issues
+1.	Whether the Information sufficiently alleged the crime of Attempted Murder despite using the phrase "injuries inflicted ... are not necessarily mortal." 
+2.	Whether petitioners are guilty beyond reasonable doubt of Attempted Murder, specifically regarding the presence of intent to kill and the qualifying circumstances of treachery and abuse of superior strength. 
+3.	Whether the penalty imposed by the lower courts was correct under the Indeterminate Sentence Law. 
+
+Held 
+1.	Yes. The Information was sufficient. An attempted felony does not require the infliction of mortal wounds; the essence of an attempt is that the offender commenced the execution by overt acts but did not perform all acts of execution due to an independent cause. 
+2.	Yes. Petitioners are guilty of Attempted Murder. Intent to kill was established by the use of lethal weapons and the nature of the injuries. While treachery was absent, the qualifying circumstance of abuse of superior strength was present, properly qualifying the crime to Attempted Murder. 
+3.	No. The penalty imposed required modification in accordance with Article 51 of the Revised Penal Code (RPC) and the Indeterminate Sentence Law (ISL). 
+IV. Ratio Decidendi
+•	Sufficiency of the Information: Under Article 6, paragraph 3 of the RPC, an attempt occurs when the offender commences the commission of a felony directly by overt acts and does not perform all the acts of execution which should produce the felony by reason of some cause or accident other than his own spontaneous desistance. Where the wounds inflicted are non-mortal, the perpetrator has not performed all the acts of execution; hence, the crime remains in the attempted stage. The phrase "injuries... are not necessarily mortal" accurately described the non-consummation of all acts of execution and did not negate the categorical allegation of intent to kill. 
+•	Intent to Kill: Intent to kill is a state of mind inferred from external overt acts. The Court found manifest intent to kill from: 
+1.	The deadly nature of the weapons used (a tomahawk axe and a lead pipe); 
+2.	The location of the blows directed at vulnerable body parts (the head and vital areas); and
+3.	The relentless manner of the assault, which persisted even after the victim fell to the ground unarmed, halting only because of outside commotion and intervention. 
+•	Absence of Treachery vs. Presence of Abuse of Superior Strength: 
+o	Treachery was absent: The encounter was preceded by an initial dispute and the victim's aggressive kicking of the door. The attack was spontaneous and reactive, lacking the deliberate and conscious adoption of a mode of execution designed to ensure execution without risk to the attackers. 
+o	Abuse of superior strength was present: There was a notorious inequality of forces. Multiple assailants armed with deadly weapons (tomahawk, lead pipe, and rattan stick) combined their collective physical strength to overwhelm, strike down, and continuously beat a solitary, unarmed, and inebriated victim. The assailants purposely took advantage of this marked superiority, qualifying the crime to murder under Article 248 of the RPC. 
+•	Penalty Calibration:
+o	Under Article 51 of the RPC, the penalty for an attempted felony is two degrees lower than that prescribed for the consummated felony. Consummated murder is penalized by reclusion perpetua to death; two degrees lower is prisión mayor. 
+o	In the absence of generic mitigating or aggravating circumstances, the medium period of prisión mayor (8 years and 1 day to 10 years) serves as the maximum term under the ISL. 
+o	The minimum term must be selected from the penalty next lower in degree, which is prisión correccional (6 months and 1 day to 6 years). Thus, the penalty was adjusted to 6 years of prisión correccional as minimum, to 8 years and 1 day of prisión mayor as maximum. 
+
+Fallo
+"WHEREFORE, the petition is DENIED. The Decision of the Court of Appeals dated August 31, 2009 and its Resolution dated January 7, 2010 in CA-G.R. CR No. 31719 are AFFIRMED with the MODIFICATION that petitioners Gary Fantastico and Rolando Villanueva are hereby sentenced to suffer the indeterminate penalty of six (6) years of prisión correccional, as minimum, to eight (8) years and one (1) day of prisión mayor, as maximum. 
+Petitioners are also ORDERED to pay P17,300.00 as actual damages, as well as P10,000.00 moral damages as originally ordered by the RTC. In addition, interest is imposed on all damages awarded at the rate of six percent (6%) per annum from date of finality of judgment until fully paid. SO ORDERED." 
+
+What aggravating circumstance attended the commission of the crime in this case? Explain.
+In Fantastico v. Malicse (G.R. No. 190912, January 12, 2015), the Supreme Court ruled that the crime was attended by the qualifying circumstance of taking advantage of superior strength (abuse of superior strength under Article 14, paragraph 15, in relation to Article 248 of the Revised Penal Code), while rejecting the alleged circumstance of treachery (alevosia).
+1. Appreciation of Abuse of Superior Strength
+To appreciate the aggravating or qualifying circumstance of taking advantage of superior strength, jurisprudence requires the concurrence of two elements:
+1.	An unequal ratio of forces (physical, numerical, or by weapon superiority) between the attackers and the offended party; and
+2.	The attackers purposely used, took advantage of, or exploited this excessive disparity to facilitate the commission of the offense or weaken the defense of the victim.
+The Supreme Court held that both elements were present based on the following facts:
+•	Notorious Inequality of Weapons and Numbers: The victim, Elpidio Malicse, Sr., was alone, unarmed, and inebriated. In stark contrast, the assailants were multiple and armed with lethal instruments: Gary Fantastico brandished and struck with a tomahawk axe, Rolando Villanueva attacked from behind with a lead pipe, and Salvador Iguiron struck with a rattan stick, alongside Titus Iguiron who sprayed a substance into the victim's eyes.
+•	Exploitation of Helplessness: The assailants did not merely outnumber and out-arm the victim; they actively exploited this superiority. Even after Elpidio fell to the ground completely subdued, unarmed, and pleading for mercy while shielding his head, petitioners continued to deliver blows with their lethal weapons to vulnerable areas, breaking both of his legs and fracturing his skull. The Court stressed that the attackers purposely used their combined strength and deadly weapons to overwhelm and render the victim incapable of mounting any defense.
+2. Rejection of Treachery (Alevosia)
+While the Information charged both treachery and abuse of superior strength, the Supreme Court ruled that treachery was absent:
+•	Lack of Conscious Adoption of Means: For treachery to exist under Article 14, paragraph 16 of the RPC, the offender must consciously and deliberately adopt modes, means, or methods of attack that tend directly and specially to ensure the execution of the crime without risk to themselves arising from the defense the victim might make.
+•	Spontaneous Altercation: The attack arose out of an escalating, violent neighborhood dispute. Elpidio had earlier quarreled with and slapped his sister Isabelita, left, and then returned, forcibly kicking the door open. The subsequent confrontation was heated and reactive; the attackers did not plan, scheme, or premeditate an ambush or surprise attack.
+Because treachery was negated by the impromptu, heated nature of the encounter, the qualifying circumstance that elevated the felony from attempted homicide to attempted murder was taking advantage of superior strength.
+
+Why was treachery not appreciated in this case?
+The Supreme Court ruled that treachery (alevosia) was not present in Fantastico v. Malicse because the attack arose out of a spontaneous altercation initiated by the victim himself, negating the element of a deliberate and conscious adoption of a treacherous mode of attack.
+1. The Legal Standards for Treachery
+Under Article 14, paragraph 16 of the Revised Penal Code, treachery requires the concurrence of two indispensable conditions:
+1.	At the time of the attack, the victim was not in a position to defend himself; and
+2.	The offender consciously and deliberately adopted the particular means, methods, or forms of attack employed by him to ensure the execution of the crime without risk to himself arising from any defense the victim might make.
+The second condition is critical: treachery cannot be presumed simply because the assault was severe, swift, or from behind. It requires proof that the assailants reflected on and purposefully selected that specific method of assault to catch the victim unawares and helpless.
+2. Specific Factual Reasons Why Treachery Failed in This Case
+•	Preceding Altercation and Forewarning: The confrontation was not a surprise ambush. Prior to the physical assault, there had already been a heated quarrel between Elpidio Malicse, Sr. and his sister, Isabelita, where Elpidio actually slapped her. After leaving briefly, Elpidio returned in an agitated state and violently kicked the door open. Having actively initiated the hostile confrontation, Elpidio was sufficiently forewarned of imminent danger and retaliation.
+•	Spontaneous and Impromptu Attack: The Supreme Court emphasized that where an attack is preceded by an altercation or a heated confrontation, it is generally considered an impromptu, spur-of-the-moment reaction born of anger, rather than a coldly planned or consciously adopted scheme. The assailants reacted to Elpidio’s hostile forced entry; their retaliation was sudden and reactive, not pre-arranged.
+•	Attack From Behind Does Not Automatically Equate to Treachery: While Rolando Villanueva struck the victim from behind with a lead pipe, jurisprudence dictates that an attack from behind does not automatically establish alevosia if it happens during a fluid, ongoing melee or immediately following a mutual confrontation where the victim provoked or initiated the hostility.
+Because the prosecution failed to prove that the petitioners consciously conceived, reflected upon, and deliberately chose their mode of assault to eliminate all risk to themselves, the legal test for treachery was not satisfied.
+
