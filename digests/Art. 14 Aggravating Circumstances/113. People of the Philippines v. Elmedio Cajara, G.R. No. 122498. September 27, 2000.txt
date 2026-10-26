@@ -1,0 +1,51 @@
+113. People of the Philippines v. Elmedio Cajara, G.R. No. 122498. September 27, 2000
+Facts 
+On May 18, 1994, 16-year-old Marita B. Cajote arrived in Basey, Samar, and stayed with her sister. On May 19, 1994, she went to the house of her older half-sister, Merly "Meling" Tagana, who was living with her common-law husband, accused-appellant Elmedio Cajara (alias "Elming"), and their two small children in a single-room dwelling. 
+
+On May 30, 1994, at around 2:00 AM, while Marita was asleep, Cajara woke her up, held her hands over her head, and threatened to kill her if she made any noise. Despite her struggles, he pulled down her pants and underwear, inserted his fingers and then his penis into her vagina. When Marita cried for help, Meling intervened, grabbed Cajara, and punched him in the eye. Cajara retaliated by punching Meling on the mouth and kicking her to the floor. While Meling held her crying child helplessly, Cajara resumed the sexual assault on Marita. Marita escaped shortly thereafter and reported the incident to her other sisters and barangay officials. A medical examination revealed a healed laceration of her hymen at the 4 o'clock position. 
+
+The Information charged Cajara with qualified rape under Article 335 of the Revised Penal Code, as amended by Republic Act No. 7659, alleging the victim's minority (16 years old) and relationship by affinity (alleging Cajara was her brother-in-law). 
+
+The Regional Trial Court (RTC), Branch 30, Basey, Samar convicted Cajara of qualified rape and sentenced him to death. The case was elevated to the Supreme Court on automatic review. 
+
+Issues 
+1.	Whether relationship by affinity can be appreciated as a qualifying circumstance under Article 335 of the Revised Penal Code (as amended by R.A. 7659) when the offender and the victim's sibling are merely common-law spouses. 
+2.	Whether the qualifying circumstance of the crime being committed in full view of a relative can be appreciated when it was not specifically alleged in the Information. 
+3.	Whether the presence of the generic aggravating circumstance of reiteracion (habituality) can affect or increase the penalty where the felony is punished by a single indivisible penalty (reclusion perpetua). 
+
+Held 
+1.	No. Relationship by affinity requires a valid, lawful marriage. Since the accused and the victim's sister were mere common-law spouses without a legal marriage, no relationship by affinity within the third civil degree was created. 
+2.	No. A qualifying circumstance must be expressly pleaded in the Information; otherwise, appreciating it violates the constitutional right of the accused to be informed of the nature and cause of the accusation against him. 
+3.	No. Under Article 63 of the Revised Penal Code, when the law prescribes a single indivisible penalty (such as reclusion perpetua for simple rape), it must be applied regardless of the presence of mitigating or aggravating circumstances, including reiteracion. 
+
+Ratio Decidendi
+•	Affinity Requires Lawful Marriage: Affinity is the legal relationship that arises from a valid contract of marriage between each spouse and the blood relatives of the other. Because Elmedio Cajara and Merly Tagana were merely cohabiting as common-law spouses without marriage, no legal tie of affinity was created between Cajara and Marita. Consequently, the qualifying circumstance under Article 335 (relationship by affinity within the third civil degree) cannot be sustained. 
+
+•	Right to be Informed of Qualifying Circumstances: Even though the rape occurred in the presence of Marita's sister, this circumstance was not alleged in the Information. Qualifying circumstances must be explicitly set forth in the complaint or information to apprise the accused adequately. An unalleged circumstance cannot be used to qualify the offense to carry the capital punishment (death penalty). 
+
+•	Application of Single Indivisible Penalty: With the qualifying circumstances excluded, the crime committed was simple rape under Article 335, paragraph 1 of the RPC, punishable by reclusion perpetua. While Cajara had previous convictions establishing reiteracion under Article 14, paragraph 10 of the RPC, reiteracion is a generic aggravating circumstance. Pursuant to Article 63 of the RPC, generic aggravating and mitigating circumstances do not modify or elevate a single indivisible penalty. 
+
+•	Virginity Not an Element of Rape: The finding of a healed laceration did not contradict the rape charge. Virginity is not an element of rape, and the victim was subjected to repeated sexual penetration during the assault, which accounted for the physical findings. 
+
+Fallo
+"WHEREFORE, the conviction of accused-appellant ELMEDIO CAJARA is MODIFIED. He is found guilty of simple rape under Art. 335, par. 1, of The Revised Penal Code and sentenced to reclusion perpetua. He is further ordered to pay the victim Marita B. Cajote P50,000.00 as civil indemnity and another P50,000.00 as moral damages, and to pay the costs." 
+
+Why did the Supreme Court rule that the aggravating circumstance of reiteracion is present in this case?
+Under Article 14, paragraph 10 of the Revised Penal Code (RPC), the generic aggravating circumstance of reiteración (habituality) is present when the offender has been previously punished for an offense to which the law attaches an equal or greater penalty than that attached by law to the second offense, or for two or more offenses to which it attaches a lighter penalty. 
+The Supreme Court ruled that reiteración was present in People v. Cajara based on the following grounds:
+1. Concrete Record of Prior Convictions and Punishments Served
+The prosecution established through official court and prison records that accused-appellant Elmedio Cajara had previously been convicted of and punished for multiple severe offenses: 
+•	Frustrated murder in 1975; and 
+•	Multiple convictions in 1989 for murder, homicide, frustrated homicide, trespass to dwelling, and illegal possession of firearms. 
+His cumulative prison terms for these previous convictions were commuted to 23 years' imprisonment and a fine of ₱200,000.00, after which he was granted a conditional pardon by the President on November 8, 1991. Because he had already served punishment for these prior crimes before committing the rape on May 30, 1994, the statutory requirement of prior penal service was fully satisfied. 
+2. Distinction from Recidivism (Reincidencia)
+The Court recognized reiteración rather than reincidencia (recidivism under Art. 14, par. 9) because of the difference in crime titles:
+•	Recidivism requires that the prior offenses and the subsequent offense be embraced under the same title of the Revised Penal Code.
+•	Reiteración, on the other hand, applies where the prior crimes are under different titles or categories, provided the offender has served sentence for:
+1.	An offense carrying an equal or greater penalty; or
+2.	Two or more offenses carrying lighter penalties. 
+Since Cajara's previous convictions included murder, homicide, illegal possession of firearms, and trespass to dwelling, and his subsequent offense was rape under Title Eleven (Crimes Against Chastity, as then classified under the RPC), the previous offenses and the new offense did not fall under the exact same title, satisfying the definition of reiteración rather than recidivism. 
+3. Ultimate Practical Effect in the Case
+Although the Supreme Court found reiteración to be legally present, it did not increase the penalty from reclusion perpetua to death. 
+Pursuant to Article 63 of the Revised Penal Code, when the crime is punished by a single indivisible penalty—such as reclusion perpetua for simple rape under Article 335, paragraph 1—the indivisible penalty must be applied regardless of any mitigating or aggravating circumstances attendant to the crime. Consequently, reiteración operated purely as a matter of judicial finding without altering the non-capital sentence. 
+
