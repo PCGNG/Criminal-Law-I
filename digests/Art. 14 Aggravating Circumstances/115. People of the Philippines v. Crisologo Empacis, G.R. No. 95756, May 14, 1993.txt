@@ -1,0 +1,52 @@
+Facts
+At around 9:00 PM on September 16, 1986, Fidel Saromines and his wife, Camila, were preparing to close their small sari-sari store located in their house in Kanguha, Dumanjug, Cebu. Accused-appellant Crisologo Empacis and his companion Romualdo Langomez arrived, pretending to be bona fide customers wanting to buy sardines and rice. Camila served them, and the two ate inside the premises. 
+After finishing their meal, Langomez demanded cigarettes. As Fidel handed them over, Langomez announced a hold-up and ordered Fidel to surrender his money. Fidel initially reached for ₱12,000.00 wrapped in cellophane, but suddenly resisted, prompting a struggle. Langomez drew a knife and stabbed Fidel about three times; Empacis joined in and also stabbed Fidel. 
+
+Hearing his father's cries for help, Fidel’s 13-year-old son, Peter, grabbed a pinuti (a long bolo) and struck Empacis twice—hitting him on the right shoulder and neck. Gunshots were also fired from outside the house by confederates to create a diversion. Empacis and Langomez fled with the money. Fidel died shortly thereafter from four stab wounds, two of which fatally penetrated his lungs and heart. 
+Empacis sought treatment for his bolo wounds at a local medical clinic, claiming he had been attacked near the public market. Following up on the crime the next morning, police officers tracked him to the market and arrested him. 
+
+The Regional Trial Court (RTC) of Cebu City, Branch 11, convicted Empacis of the special complex crime of Robbery with Homicide under Article 294, paragraph 1 of the Revised Penal Code (RPC), sentenced him to reclusion perpetua (the death penalty being suspended under the 1987 Constitution at the time), and appreciated four generic aggravating circumstances: dwelling, nighttime, craft or fraud, and taking advantage of superior strength. Empacis appealed his conviction to the Supreme Court. 
+
+Issues
+1.	Whether conspiracy was sufficiently established between Empacis and Langomez to hold Empacis criminally liable as a co-principal for Robbery with Homicide. 
+2.	Whether the generic aggravating circumstance of craft or fraud (artificio o engaño) was properly appreciated. 
+3.	Whether the generic aggravating circumstances of nighttime (nocturnidad), abuse of superior strength, and dwelling (morada) were attendant in the commission of the crime. 
+
+Held 
+1.	Yes. Conspiracy was fully established. The accused-appellant and his companion acted in concert—arriving together under the same pretense, simultaneously attacking the victim with bladed weapons, and fleeing together with the stolen money. 
+2.	Yes. The aggravating circumstance of craft or fraud was properly appreciated. The perpetrators feigned being hungry customers seeking food and cigarettes as a stratagem to gain entrance to the house/store and catch the victims off guard. 
+3.	Yes. The generic aggravating circumstances of nighttime, abuse of superior strength, and dwelling were all correctly appreciated.
+
+Ratio:
+The aggravating circumstance of craft or fraud23 was properly appreciated against Empacis. He and Romualdo pretended to be bona fide customers of the victim's store and on his pretext gained entry into the latter's store and later, into another part of his dwelling. This Court has held stratagems and ruses of this sort to constitute the aggravating circumstance of fraud or craft, e.g: where the accused —
+
+a) pretended to be constabulary soldiers and by that ploy gained entry into the residence of their prey whom they thereafter robbed and killed;
+b) pretended to be needful of medical treatment, and through this artifice, entered the house of the victim whom they thereupon robbed and killed;
+c) pretended to be wayfarers who had lost their way and by this means gained entry into a house, in which they then perpetrated the crime of robbery with homicide;
+d) pretended to be customer wanting to buy a bottle of wine;
+e) pretended to be co-passengers of the victim in a public utility vehicle;
+f) posed as customers wishing to buy cigarettes; and as being thristy, asking for drink of water.
+
+The Court also agrees that nighttime was properly appreciated as an aggravating circumstance against the accused. To be sure, nighttime is not per se aggravating.30 It must be shown that nocturnity was deliberately and purposely sought to facilitate, or that it actually facilitated, the commission of the crime.31 In the case at bar, the lateness of the hour no doubt precluded the presence of other customers who could have deterred the felons, or come to the aid of the victim. All things considered, there is adequate showing that nocturnity was deliberately sought by the robbers and did in reality facilitate the perpetration of the felony.
+
+For the aggravating circumstance of superior strength to be deemed present in a case, it does not suffice to prove superiority in number on the part of the malefactors;32 it must appear that they purposely employed excessive force, force out of proportion to the means of defense available to the person attacked.33 In this case, the evidence shows that Empacis helped his co-accused by also stabbing the victim; he and his companion took advantage of their combined strength and their bladed weapons to overcome their unarmed victim and assure the success of their felonious design to make off with his money.
+That the crime was "committed in the dwelling of the offended party, . . . the latter . . . not (having) given provacation," was also correctly appreciated as an aggravating circumstance.
+
+What aggravating circumstances were appreciated by the Supreme Court in this case?
+In People v. Empacis (G.R. No. 95756, May 14, 1993), the Supreme Court appreciated four generic aggravating circumstances:
+
+1. Craft or Fraud (Artificio o Engaño — Art. 14, Par. 14, RPC)
+•	Basis: The perpetrators employed intellectual trickery, artifice, and cunning to facilitate the commission of the crime without arousing early suspicion.
+•	Application: Accused-appellant Crisologo Empacis and his co-conspirator, Romualdo Langomez, feigned being innocent, hungry customers needing food (sardines and rice) and cigarettes late in the evening. This ruse deceived the victims into allowing them inside their premises, putting the victims completely off their guard before the perpetrators announced the hold-up and launched their assault.
+
+2. Dwelling (Morada — Art. 14, Par. 3, RPC)
+•	Basis: The crime was committed inside the private dwelling place of the victim, who gave no immediate or positive provocation.
+•	Application: Although the victims operated a small sari-sari store on the premises, the store was an integral part of their family home. The Supreme Court affirmed that conducting a small trade or store inside a residence does not strip the building of its character as a home—the private sanctuary of family life—especially when the crime occurred after ordinary business hours as the store was closing.
+
+3. Nighttime (Nocturnidad — Art. 14, Par. 6, RPC)
+•	Basis: Darkness was deliberately sought or taken advantage of to facilitate the commission of the robbery, weaken potential defenses, and facilitate impunity or flight.
+•	Application: The crime was executed at around 9:00 PM, deliberately timed when the victims were closing up for the night and when neighbors or passersby would no longer be around to deter the perpetrators or provide immediate assistance to the victims.
+
+4. Taking Advantage of Superior Strength (Abuse of Superior Strength — Art. 14, Par. 15, RPC)
+•	Basis: There was a marked, notorious inequality of forces between the attackers and the victim, which was purposefully exploited to overpower the offended party.
+•	Application: Two adult men (Empacis and Langomez), both armed with deadly, sharp bladed weapons, simultaneously assaulted and stabbed a single, unarmed victim (Fidel Saromines) inside his home, combining their physical strength and weapons to ensure he could not effectively defend himself.
