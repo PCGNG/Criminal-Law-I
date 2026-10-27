@@ -1,0 +1,56 @@
+### **People of the Philippines v. Robert Dinglasan y Mangino @ "Obet," et al.**
+
+**G.R. No. 101312 | 267 SCRA 26 | January 28, 1997 | Panganiban, J. | Third Division**
+
+---
+
+#### **I. Facts**
+
+At around 5:00 in the afternoon of September 5, 1990, along Camia Street, Jabson Site, Rosario, Pasig, Metro Manila, Efren Lasona was standing near a bakery conversing with Rolando Quintanilla. Suddenly, a group of armed young men arrived, which included accused-appellant Robert Dinglasan (alias "Obet"), Reynaldo Tapia, Manolo Bongalos, and an individual known only as "Jetlee."
+
+Manolo Bongalos and Jetlee blocked Lasona's path. Accused-appellant Robert Dinglasan immediately approached Lasona from behind, put his arms around him, and held/restrained his hands and body to immobilize him. While Lasona was held completely defenseless in Dinglasan's grip, Tapia, Bongalos, and Jetlee repeatedly attacked and stabbed Lasona with sharp, pointed weapons, while Jetlee also aimed an arrow/dart (*pana*). Quintanilla ran to seek assistance, while another eyewitness, Rosario Santos, directly observed the fatal assault from a few meters away. Lasona sustained 11 stab wounds, four of which penetrated his right chest and lungs, causing massive internal hemorrhaging that resulted in his death.
+
+Dinglasan was arrested, while his co-accused remained at large. Dinglasan was charged with **Murder** under Article 248 of the Revised Penal Code. During trial, Dinglasan interposed the defense of **denial and alibi**, claiming that he was at home sleeping at the time of the incident and did not flee when police later arrived. The Regional Trial Court (RTC) of Pasig (Branch 152) rejected his defense, convicted him of Murder qualified by treachery, found conspiracy, and sentenced him to *reclusion perpetua*, ordering him to pay civil indemnity and funeral expenses. Dinglasan appealed to the Supreme Court.
+
+---
+
+#### **II. Issues**
+
+1. Whether the positive identification of accused-appellant by eyewitnesses was sufficient to overcome his defense of denial and alibi.
+2. Whether non-flight by the accused-appellant is conclusive proof of his innocence.
+3. Whether conspiracy was sufficiently established to hold Dinglasan liable as a principal for Murder, even if he did not personally deliver any stab blows.
+4. Whether the killing was attended by the qualifying circumstance of **treachery (*alevosia*)**.
+
+---
+
+#### **III. Held**
+
+1. **Yes.** Eyewitnesses Rolando Quintanilla and Rosario Santos categorically identified Dinglasan and detailed his direct participation in restraining the victim. Positive, clear, and credible eyewitness identification prevails over bare denial and alibi.
+2. **No.** Non-flight does not automatically negate guilt or establish innocence; it may simply stem from bravado or a mistaken belief that no eyewitnesses would come forward.
+3. **Yes.** Conspiracy was established beyond reasonable doubt by the concerted actions of the assailants showing unity of purpose and execution. Holding the victim to render him immobile while his companions repeatedly stabbed him makes the appellant a co-conspirator and principal by direct participation.
+4. **Yes.** Treachery was present. Restraining the victim from behind, thereby depriving him of any opportunity to defend himself, evade the attack, or retaliate, qualifies the killing to Murder.
+
+---
+
+#### **IV. Ratio Decidendi**
+
+* **Credibility of Witnesses and Deference to the Trial Court:**
+The Supreme Court reiterated the well-entrenched doctrine that the factual findings and assessments of witness credibility by the trial court are entitled to the highest respect on appeal. The trial judge had the direct, unique opportunity to observe the demeanor, deportment, and manner of testifying of the witnesses under cross-examination. Absent any showing of arbitrariness, oversight, or misinterpretation of material facts, appellate courts will not disturb those findings.
+* **Alibi vs. Positive Identification:**
+Alibi is considered an inherently weak and easily fabricated defense. For alibi to prosper, the accused must establish not only that he was elsewhere when the crime occurred, but that it was physically impossible for him to be at the scene of the crime at the time of its commission. Since Dinglasan lived in the very same barangay/vicinity where the stabbing occurred, physical impossibility was completely negated.
+* **Non-Flight Not Inconsistent with Guilt:**
+The Supreme Court discarded Dinglasan’s argument that his decision to stay home and not flee from the authorities proved his innocence. The Court ruled that while flight indicates a consciousness of guilt, non-flight is not conclusive proof of innocence. A guilty party may remain at the scene or in the vicinity out of brazen confidence, miscalculation, or the assumption that no one would dare testify against him.
+* **Conspiracy and Principle of Direct Participation:**
+* Direct proof of a prior agreement is not required to establish conspiracy; it may be deduced from the acts of the perpetrators before, during, and after the commission of the crime, demonstrating a common design and synchronized objective.
+* In a conspiracy, the act of one is the act of all. Dinglasan did not merely stand by as a passive bystander. By placing his arms around the victim and pinning the victim's arms to his body, he deliberately neutralized Lasona's ability to resist or parry the blows. This concerted act facilitated the lethal assault by his co-conspirators.
+
+
+* **Treachery (*Alevosia*):**
+Treachery attended the killing because the accused employed means and methods of execution that ensured the consummation of the crime without risk to themselves arising from any defense the victim could have made. Seizing and immobilizing an unsuspecting victim from behind while armed companions deliver fatal stabs to his chest is a classic manifestation of treachery.
+
+---
+
+#### **V. Fallo**
+
+> *"WHEREFORE, the appeal is DISMISSED. The decision of the Regional Trial Court finding appellant Robert Dinglasan y Mangino guilty beyond reasonable doubt of the crime of murder and sentencing him to reclusion perpetua and to pay the heirs of the deceased civil indemnity in the amount of P50,000.00, plus P12,000.00 as funeral expenses, is hereby AFFIRMED in toto. Costs against appellant.*
+> *SO ORDERED."*
