@@ -1,0 +1,61 @@
+### **People of the Philippines v. Melquiades Fernandez alias "Moding" and Federico Conrado**
+
+**G.R. No. L-62116 | 183 SCRA 511 | March 22, 1990 | Padilla, J. | Second Division**
+
+---
+
+#### **I. Facts**
+
+On the afternoon of January 13, 1982, at around 2:00 PM, 15-year-old househelper Rebecca Soriano was taking a bath inside the ground-floor bathroom of her employer’s (Teofilo Malong) residence in Barrio Taloy, Malasiqui, Pangasinan. While she was naked, two men—accused Melquiades Fernandez and his nephew Federico Conrado—barged inside.
+
+One of the men tightly wound a piece of cloth around Rebecca's neck to stifle her cries, while the other forcibly held her arms behind her back. Melquiades Fernandez raped her first while Conrado held her down. Immediately thereafter, Conrado raped her while Fernandez pinned her hands. Before fleeing, one of the assailants scooped up mud and smeared/plastered it directly onto Rebecca's vagina.
+
+Weeping and naked, Rebecca ran upstairs and immediately reported the outrage to her employer's daughter, Amelita Malong, who observed Rebecca’s condition and saw the mud plastered across her private parts. Rebecca was taken that same afternoon to the police station and to the San Carlos General Hospital, where medical examination confirmed fresh hymenal lacerations and the presence of a dead sperm cell.
+
+Both accused were charged with Rape before the Court of First Instance (now RTC) of Pangasinan. They interposed alibi: Fernandez claimed he was weaving baskets at his house (located just 150 meters away), while Conrado claimed he was spraying mango trees in Barrio Malimpuec (about 9 kilometers away, accessible in 30 minutes).
+
+The trial court rejected their alibis, found conspiracy, convicted both accused of two crimes of rape, appreciated the aggravating circumstance of **cruelty or ignominy**, and sentenced each to suffer two penalties of death. Fernandez later withdrew his appeal in view of the 1987 Constitution, leaving Conrado as the sole appellant. On appeal, Conrado contended that:
+
+1. The trial court erred in convicting them of two counts of rape under an information allegedly charging only one;
+2. The trial court erred in finding the aggravating circumstance of cruelty or ignominy; and
+3. The death penalty was improperly imposed.
+
+---
+
+#### **II. Issues**
+
+1. Whether accused-appellant can be convicted of two counts of rape where conspiracy was proven and both men took turns raping the victim.
+2. Whether the act of plastering mud on the victim’s vagina immediately after the rape constitutes the aggravating circumstance of **ignominy (*ignominia*)** or **cruelty (*ensañamiento*)**.
+3. What proper penalty should be imposed under the 1987 Constitution.
+
+---
+
+#### **III. Held**
+
+1. **Yes.** In multiple rapes committed by several persons acting in conspiracy, each participant is criminally liable not only for the rape personally executed by him, but also as a co-conspirator for each of the rapes committed by his co-accused. Furthermore, failure to object to duplicity of offenses in the Information prior to trial constitutes a waiver.
+2. **Ignominy, NOT Cruelty.** The Supreme Court held that the trial court improperly conflated cruelty and ignominy. The act of smearing mud on the victim's genitalia did not increase physical pain (cruelty), but it added moral disgrace, humiliation, and obloquy to the crime; hence, it was properly appreciated as **ignominy** under Article 14, Paragraph 17 of the Revised Penal Code.
+3. **Modified to *Reclusion Perpetua*.** Under Section 19(1), Article III of the 1987 Constitution (prohibiting the death penalty at the time), the two death penalties were automatically reduced to two terms of *reclusion perpetua*.
+
+---
+
+#### **IV. Ratio Decidendi**
+
+* **Cruelty (*Ensañamiento*) vs. Ignominy (*Ignominia*):**
+The Supreme Court clarified the distinct legal nature of these two aggravating circumstances:
+* **Cruelty (Art. 14, Par. 21, RPC):** Pertains to physical suffering. It exists when the culprit deliberately and inhumanly augments the victim's suffering by causing unnecessary physical pain before the consummation of the ultimate felony.
+* **Ignominy (Art. 14, Par. 17, RPC):** Pertains to the **moral order**. It involves the employment of means or the creation of circumstances that bring disgrace, contempt, insult, or extreme humiliation to the victim, adding obloquy to the natural effects of the criminal act.
+* **Application:** Plastering mud over the naked vagina of a 15-year-old girl immediately following sequential sexual assaults does not augment physical torment, but it is an act of sheer degradation designed to humiliate, defile, and heap moral indignity upon her person. Therefore, the applicable aggravating circumstance is **ignominy**, not cruelty.
+
+
+* **Conspiracy in Multiple Rapes:**
+Where two or more assailants conspire and assist one another—one holding the victim while the other violates her, and then exchanging roles—each accused is guilty as a principal by direct participation for the rape he personally executed, and as a co-conspirator for the rape executed by his companion. Consequently, each was guilty of two separate crimes of rape.
+* **Waiver of Defect in Information (Duplicity):**
+Even assuming the Information was duplicitous, the appellant waived the objection by entering a plea of not guilty and proceeding to trial without moving to quash the Information under Rule 117 of the Rules of Court.
+
+---
+
+#### **V. Fallo**
+
+> *"WHEREFORE, the appealed judgment, as above modified, is AFFIRMED. With costs against the accused-appellant Federico Conrado.*
+> *SO ORDERED."*
+> *(Penalties reduced to two terms of reclusion perpetua in light of the 1987 Constitution, with civil indemnity increased to ₱20,000.00).*
