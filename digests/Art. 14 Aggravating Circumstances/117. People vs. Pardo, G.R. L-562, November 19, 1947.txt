@@ -1,0 +1,60 @@
+People of the Philippines v. Antonio Pardo
+G.R. No. L-562 | 79 Phil. 568 | November 19, 1947 | Tuason, J.
+### Facts
+Between 7:00 and 8:00 PM on March 27, 1946, in the City of Zamboanga, appellant Antonio Pardo entered a tiendecita (small store and bar) owned by a certain Agapito and demanded a bottle of beer. The proprietor informed him that they were out of beer. Angered by the refusal, Pardo drew a .45-caliber automatic pistol and fired a shot directly into the chest of Silvestre Capurro, an employee and bartender of the establishment, killing him instantly.
+
+Hearing the gunshot, Francisco Miller, who was outside the store, stepped toward the open doorway to investigate what had transpired. Upon seeing Miller at the door, Pardo immediately fired a second shot, striking Miller in the abdomen. Miller died several hours later from internal hemorrhage caused by the gunshot wound.
+
+Pardo was charged with two separate counts of Murder before the Court of First Instance of Zamboanga. In the trial regarding the killing of Silvestre Capurro, the trial court convicted Pardo of Murder qualified by treachery (alevosia), and found the aggravating circumstances of dwelling (morada) and nighttime (nocturnidad) to have attended the commission of the crime, without any mitigating circumstance. Consequently, the trial court sentenced Pardo to the capital penalty of death. Pardo appealed to the Supreme Court, challenging the finding of treachery and the appreciation of the aggravating circumstances.
+
+
+### Issues
+1.	Whether the killing of Silvestre Capurro was attended by the qualifying circumstance of treachery (alevosia).
+
+2.	Whether the generic aggravating circumstance of dwelling (morada) was properly appreciated considering that the offense took place inside a commercial store/bar open to the public where the victim was employed and resided.
+
+3.	Whether the generic aggravating circumstance of nighttime (nocturnidad) was properly appreciated.
+
+### Held
+1.	Yes. Treachery was present. The assault was sudden, unexpected, and unprovoked, leaving the victim entirely defenseless and without any means of escape or resistance.
+ 
+
+2.	No. The circumstance of dwelling was erroneously appreciated. A store or bar open to the public is not a private dwelling within the contemplation of Article 14, paragraph 3 of the Revised Penal Code (RPC).
+
+3.	No. Nighttime was not properly appreciated because darkness was not deliberately sought or taken advantage of to facilitate the crime or ensure impunity.
+
+
+### Ratio Decidendi
+•	Inapplicability of Dwelling (Morada):
+
+The Supreme Court ruled that dwelling cannot be appreciated as an aggravating circumstance when the offense is committed in a store, bar, or commercial establishment open to the public during business hours:
+
+
+o	The rationale underlying morada under Article 14, paragraph 3 of the RPC is the violation of the sanctity, peace, and security of the private domicile—a place of privacy, repose, and family retreat.
+
+o	A place of public concourse and trade, where patrons and strangers are freely admitted to buy goods or drinks, does not enjoy the special protection and domestic immunity accorded to a private home.
+
+o	Even if the victim or proprietor sleeps or lives on the premises, the commercial portion accessible to customers during operating hours lacks the character of a private residence required for dwelling.
+
+•	Treachery (Alevosia):
+
+Treachery was established because the victim, Silvestre Capurro, was an unarmed bartender simply standing behind the counter when appellant was informed that there was no beer. The sudden drawing of a concealed firearm and the immediate firing of a shot directly into Capurro’s chest occurred without warning, affording him no opportunity to evade the attack or mount any defense.
+
+   “Treachery is undeniably present in this case and it should be considered not as an aggravating but as a qualifying circumstance to elevate to crimes to murders. When the appellant fired the fatal shots, his victims were inside the building and did not have the slightest intimation of his devilish plan. He was not even seen by Burchfield or Cañete. He was thus afforded every opportunity to insure the commission of his crimes without any danger to himself.”
+
+•	Nighttime (Nocturnidad):
+
+Nighttime does not aggravate criminal liability per se simply because the offense occurred after sunset. To appreciate nocturnidad, the prosecution must show that the offender purposely sought or took advantage of the darkness to facilitate the commission of the crime, minimize risk of defense, or conceal his identity/escape. Here, the crime was an impulsive act of rage inside an illuminated store/bar; darkness was merely incidental.
+
+  "The aggravating circumstance of nocturnity is likewise unavailable. It is apparent that night time was not sought to insure the commission of the crimes or for the purpose of immunity. From the evidence of the prosecution itself, it appears that the notion to kill Captain Burchfield was conceived only shortly before its commission, prompted by the punishment inflicted on Miguel Nuñal by the Captain as a result of Nuñal making trouble in and outside the show. Moreover, it is a settled rule that nocturnity may not be taken as an aggravating circumstance separate and independent of that of treachery. (U.S. vs. Salgado, 11 Phil., 56; People vs. Bumanglag, 56 Phil., 10; People vs. Madrid No. 41967, Nov. 9 1934 People vs. Banguy, 52 Phil., 87.) The reason for this rule is that night time forms part of the peculiar treacherous means and manner adopted to insure the execution of the crime."
+
+### Fallo
+"The trial court found the aggravating circumstances of dwelling and nocturnity to have attended the commission of the crime, with no mitigating circumstance to balance them, and sentenced the appellant to the capital penalty. We are unable to agree with these findings.
+
+The aggravating circumstances of dwelling and nighttime must be discarded... With no mitigating or aggravating circumstances present, the penalty for murder, which is reclusion temporal in its maximum period to death, should be applied in its medium period, which is reclusion perpetua.
+
+The judgment of the lower court is modified so that the appellant is sentenced to reclusion perpetua, with the accessories of the law, and to pay the heirs of the deceased the indemnity of P2,000, with costs."
+
+### Q:
+Why did the Supreme Court not appreciate the aggravating circumstance of nightime?
+
