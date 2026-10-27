@@ -1,0 +1,64 @@
+### **People of the Philippines v. Joel Aquino y Cendaña @ "Akong"**
+
+**G.R. No. 201092 | 713 SCRA 693 | January 15, 2014 | Leonardo-De Castro, J. | First Division**
+
+---
+
+#### **I. Facts**
+
+On the evening of September 5, 2002, Jesus Lita, accompanied by his ten-year-old son, Jefferson, went out aboard his black Kawasaki tricycle. Along the way, accused Joel Aquino alias "Akong," together with Noynoy Almoguera (alias "Negro"), Rodnal, and three others, boarded the tricycle and asked to be brought to Aquino's nipa hut in San Rafael IV, City of San Jose del Monte, Bulacan. At the hut, the adults engaged in a *shabu* session while Jefferson watched television.
+
+After consuming the drugs, Almoguera demanded ₱500.00 from Jesus, but Jesus replied that he had no money. Aquino angrily shouted at Jesus to pay. Tensions rose, and the group eventually prepared to leave. Jesus drove his tricycle, with Almoguera and another companion seated behind him on the motorcycle, while Aquino, Rodnal, and young Jefferson rode inside the sidecar.
+
+While the tricycle was in motion, Aquino pointed a weapon at Jefferson to keep him quiet, while Almoguera suddenly stabbed Jesus in the side. Jesus was incapacitated and transferred inside the sidecar, while Aquino took the handlebars and drove the tricycle to a friend's house, where the group stabbed Jesus again using the victim's own knife. They then drove to a grassy, unlit area, threw Jesus's body onto the ground, and abandoned him. The perpetrators kept the tricycle. Dr. Richard Ivan Viray, who conducted the autopsy, determined that Jesus died of hemorrhagic shock due to multiple stab wounds.
+
+Jefferson was threatened and brought to Aquino's house, but was able to return home to his mother the following day and recounted everything. Two separate Informations were filed against Aquino before the Regional Trial Court (RTC) of Malolos, Bulacan:
+
+1. **Criminal Case No. 483-M-2003** for **Murder** (under Article 248 of the Revised Penal Code); and
+2. **Criminal Case No. 484-M-2003** for **Violation of R.A. No. 6539** (*Anti-Carnapping Act of 1972*).
+
+Aquino interposed the defense of denial and alibi, claiming he was working as a mason/laborer at his uncle's house at the time of the incident. The RTC convicted Aquino of Murder (qualified by treachery and abuse of superior strength) and Carnapping. The Court of Appeals (CA) affirmed the convictions with modification, ordering that Aquino suffer *reclusion perpetua* without eligibility for parole for the murder charge. Aquino appealed to the Supreme Court.
+
+---
+
+#### **II. Issues**
+
+1. Whether the positive identification of the accused by the lone minor eyewitness (the victim's 10-year-old son) was sufficient to overcome Aquino's defense of denial and alibi.
+2. Whether the qualifying circumstance of **treachery (*alevosia*)** and the aggravating circumstance of **abuse of superior strength** attended the killing.
+3. Whether the taking of the tricycle constituted **simple carnapping** or the special complex crime of **carnapping with homicide** under R.A. No. 6539.
+4. Whether the Court of Appeals erred in sentencing the appellant to *reclusion perpetua* **without eligibility for parole**.
+
+---
+
+#### **III. Held**
+
+1. **Yes.** The testimony of the minor eyewitness was categorical, consistent, and credible, having directly witnessed the stabbing and disposal of his father's body while seated right beside the accused. Denial and alibi cannot prevail over positive, credible identification.
+2. **Yes, as to Treachery; No, as to separate Abuse of Superior Strength.** Treachery attended the killing, but abuse of superior strength was absorbed by treachery.
+3. **Simple Carnapping only.** There was no special complex crime of carnapping with homicide because the original criminal intent was not to carnap the tricycle; the taking of the vehicle was a mere afterthought executed when the murder was already *fait accompli*.
+4. **Yes, the CA erred.** The phrase *"without eligibility for parole"* was deleted because there were no generic aggravating circumstances to justify the application of the maximum period or the restriction under R.A. No. 9346.
+
+---
+
+#### **IV. Ratio Decidendi**
+
+* **Treachery (*Alevosia*):**
+Treachery was clearly established. Jesus was driving the tricycle at night, focusing on the road. The assailants were seated behind him on the motorcycle and inside the sidecar. The sudden stabbing from behind and from his blind side while navigating the vehicle afforded the victim absolutely no opportunity to defend himself, evade the assault, or retaliate.
+* **Absorption of Abuse of Superior Strength:**
+The trial court and appellate court erred in treating abuse of superior strength as an independent aggravating circumstance. It is settled rule in criminal law that **when the circumstance of abuse of superior strength concurs with treachery, the former is absorbed in the latter**. Superiority of force was merely part of the treacherous means employed to ensure execution without risk.
+* **Simple Carnapping vs. Carnapping with Homicide:**
+* To sustain a conviction for the special complex crime of **carnapping with homicide**, the prosecution must establish that the original intent of the offenders was to carnap the motor vehicle, and that the killing was committed in the course of the carnapping or on the occasion thereof.
+* In this case, the violence and eventual killing arose out of a dispute over an unpaid debt of ₱500.00 following a drug session. The taking and keeping of the tricycle occurred only *after* the victim was already stabbed and his body dumped in a grassy lot. The taking was an afterthought rather than the primary motive; hence, Aquino was liable for two separate offenses: **Murder** and **Simple Carnapping**.
+
+
+* **Eligibility for Parole under Article 63 of the RPC:**
+Under Article 248 of the RPC, Murder is penalized by *reclusion perpetua* to death. Under Article 63, paragraph 2, when the law prescribes a penalty composed of two indivisible penalties and there are neither mitigating nor aggravating circumstances, the lesser penalty (*reclusion perpetua*) shall be applied. Because no generic aggravating circumstance was present (treachery was the qualifying circumstance and superior strength was absorbed), the penalty is ordinary *reclusion perpetua*, which retains eligibility for parole. Under R.A. No. 9346, the phrase "without eligibility for parole" applies only when the death penalty would have been warranted had it not been prohibited (i.e., when generic aggravating circumstances attend the crime).
+
+---
+
+#### **V. Fallo**
+
+The Supreme Court **AFFIRMED with MODIFICATIONS** the Court of Appeals Decision:
+
+1. In **Criminal Case No. 483-M-2003** (Murder), Joel Aquino was found **GUILTY** and sentenced to ***reclusion perpetua*** (with eligibility for parole restored).
+2. In **Criminal Case No. 484-M-2003** (Carnapping under R.A. No. 6539), appellant was found **GUILTY** of simple carnapping and sentenced to an indeterminate penalty of **fourteen (14) years and eight (8) months, as minimum, to seventeen (17) years and four (4) months, as maximum**.
+3. Appellant was ordered to pay civil indemnity, moral damages, exemplary damages, and actual damages, plus legal interest of **6% per annum** from the date of finality of the judgment until fully paid.
