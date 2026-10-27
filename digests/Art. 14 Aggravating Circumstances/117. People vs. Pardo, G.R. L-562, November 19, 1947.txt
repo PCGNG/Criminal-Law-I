@@ -57,4 +57,40 @@ The judgment of the lower court is modified so that the appellant is sentenced t
 
 ### Q:
 Why did the Supreme Court not appreciate the aggravating circumstance of nightime?
+In ***People v. Pardo* (79 Phil. 568)**, the Supreme Court discarded the aggravating circumstance of **nighttime (*nocturnidad*)** because the prosecution failed to prove that the darkness of night was **deliberately sought** (*purposely sought*) or **specially taken advantage of** by the accused to facilitate the crime or ensure impunity.
 
+The Court anchored its ruling on the following fundamental principles:
+
+---
+
+### 1. Nighttime is Not Aggravating *Per Se*
+
+Under Philippine criminal law (Article 14, Paragraph 6 of the Revised Penal Code), the mere chronological fact that an offense occurred between sunset and sunrise is **not enough** to aggravate criminal liability. For *nocturnidad* to be appreciated, it must satisfy one of two jurisprudential tests:
+
+* It was **especially sought** by the offender (*por razón del tiempo*); or
+* It was **taken advantage of** to facilitate the commission of the crime, to weaken the victim's defense, or to conceal the perpetrator’s identity or escape.
+
+---
+
+### 2. The Killing Was Impulsive, Not Premeditated
+
+The shooting of Silvestre Capurro inside the *tiendecita* (store/bar) was born out of a sudden, spontaneous fit of temper.
+
+* Pardo entered the establishment simply intending to buy a bottle of beer.
+* When he was told there was no beer available, he became enraged on the spot, drew his pistol, and shot the bartender.
+* Because the attack was a momentary and spur-of-the-moment act of violence rather than a planned execution, nighttime was purely **accidental and incidental** to the crime. Pardo did not wait for or select the night hour to commit the killing.
+
+---
+
+### 3. The Premises Were Illuminated
+
+The incident occurred inside a commercial shop/bar that was open for business and lit to serve customers.
+
+* There was no cover of darkness inside the establishment that could have served to obscure the assailant's identity, ambush the victim from the shadows, or facilitate concealment.
+* Where a place of assault is sufficiently lighted, the legal rationale for nighttime—which depends on darkness aiding the perpetrator—ordinarily ceases to apply.
+
+---
+
+### Key Takeaway
+
+As the Supreme Court consistently reiterates, when darkness is merely coincidental and plays no actual role in facilitating the assault or providing cover for the assailant, **nighttime cannot be appreciated as an aggravating circumstance**. In *Pardo*, because the encounter was an unplanned outburst in an open, lighted shop, the Court struck down the trial court's appreciation of *nocturnidad*.
