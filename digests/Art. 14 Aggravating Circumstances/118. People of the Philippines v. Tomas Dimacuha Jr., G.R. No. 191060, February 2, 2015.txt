@@ -1,0 +1,27 @@
+118. People of the Philippines v. Tomas Dimacuha Jr., G.R. No. 191060, February 2, 2015
+### Facts
+On February 22, 2004, in Sta. Rita, Batangas City, Nicanor Morfe Agon was fatally shot while driving his Pajero vehicle. Agon was tracked as he left a local cockpit. As his vehicle slowed down to turn into a narrow street leading toward the highway, he was ambushed and fired upon multiple times by armed men, sustaining six gunshot wounds (two of which proved fatal).
+An Information for Murder was filed against several individuals, including Tomas Dimacuha, Jr., Edgar Allen Alvarez, Rodel Caballero, Luis Evangelista, and others. The Information alleged conspiracy, evident premeditation, treachery, aid of armed men, consideration or reward, and the use of motor vehicles. Because Dimacuha and several co-accused remained at large, the trial proceeded only against Alvarez and Caballero, who both pleaded not guilty.
+The prosecution established through witness testimony (notably from co-conspirators turned state witnesses and eyewitnesses) that Alvarez and Caballero were part of a contract-killing/armed group known as "Black Shark," which planned, surveilled, and executed the hit on Agon for a fee. The Regional Trial Court (RTC) of Batangas City convicted Alvarez and Caballero of Murder qualified by treachery and evident premeditation, sentencing them to reclusion perpetua. The Court of Appeals (CA) affirmed the conviction with modifications to the civil damages.
+
+### Issue
+1.	Whether the qualifying/aggravating circumstances of treachery and evident premeditation were established.
+
+### Held
+Yes. Treachery qualified the killing to Murder, while evident premeditation was properly appreciated as a generic aggravating circumstance.
+
+### Ratio
+Treachery (Alevosia):
+Treachery was present because the armed ambush was deliberately planned and carried out at a spot where the victim's vehicle had to slow down. The assault was sudden, unprovoked, and executed in such a manner that the victim was rendered completely defenseless and unable to retaliate or flee.
+
+Evident Premeditation:
+Evident premeditation was fully established by showing: (1) the time when the offenders determined to commit the crime (the surveillance and meetings of the "Black Shark" group days ahead); (2) an act manifestly indicating that the culprits clung to their determination; and (3) a sufficient interval of time between the determination and execution to allow them to reflect upon the consequences of their acts. Because treachery already qualified the crime to Murder, evident premeditation was appreciated as a generic aggravating circumstance.
+
+The fatal shooting of Agon was attended by treachery, a qualifying circumstance listed under Article 248 and notably, alleged in the Information. For treachery to be properly appreciated, two conditions must be present: (1) at the time of the assault, the victim was not in a position to defend himself; and (2) the offender consciously adopted the particular means, methods, or forms of attack employed by him.11 These conditions were present in the killing of Agon. The assault upon Agon was deliberate, swift and sudden, denying him the opportunity to protect or defendhimself. He was unarmed and unaware of the plot of appellants to kill him. Moreover, the means, method or manner of execution of the attack was deliberately and consciously adopted by appellants, the same being in accordance with their group’s plan to liquidate Agon. As aptly ruled by the RTC:
+
+The prosecution evidence show that herein accused, together with their group deliberately executed their aggression without any risk arising from their victim, who was caught unaware, helpless and defenseless. At the time the group commenced their aggression, Nick Agon was entirely unsuspecting, as he was on board his Mitsubishi Pajero traversing a narrow street leading to the highway. He (Agon) was surprised when Theo and George Vitan suddenly approached from the right side of his vehicle and promptly fired at him successively. This manner purposely adopted by the duo coupled with the help given by their comrades to ensure the commission of the crime clearly constitutes treachery; x x x.
+
+It must be noted as wellthat the evidence adduced by the prosecution is also sufficient to establish the presence of the aggravating circumstance of evident premeditation, which has the following elements: (1) the time when the offender determined to committhe crime; (2) an act manifestly indicating that the accused clung to his determination; and (3) a sufficient lapse of time between determination and execution to allow himself time to reflect upon the consequences of his act. Vitan testified that the plan to kill Agon was conceived a day before the victim was fatally shot. Appellants and their cohorts therefore, had adequate time to reflect on the consequences of their contemplated crime prior to its execution. The period of time when appellants planned tokill Agon and the time when they implemented such plan afforded them the opportunity for meditation and reflection on the consequences of the murder they committed.
+
+### Q
+Why did the Supreme Court rule that treachery attended the commission of the crime in the said cases?
