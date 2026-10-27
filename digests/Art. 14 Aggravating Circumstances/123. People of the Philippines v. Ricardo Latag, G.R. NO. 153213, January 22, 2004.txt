@@ -1,0 +1,61 @@
+### **People of the Philippines v. Ricardo Latag alias "Cardo"**
+
+**G.R. No. 153213 | 420 SCRA 712 | January 22, 2004 | Panganiban, J. | First Division**
+
+---
+
+#### **I. Facts**
+
+At around 8:00 in the evening on December 31, 1999 (New Year’s Eve), Alejandro Atienza, Armando Lumbera, Norberto Africa, Alfredo Lumbera, and several others, together with the victim, Judie Acosta, gathered at the back of the house of Carlos Librea in Barangay Tanguay, Lipa City. The group was seated around a long table celebrating and drinking gin to welcome the new year. Judie Acosta was seated on the left side of the table.
+
+Suddenly, a gunshot was heard coming from the left side of the table. Immediately after the blast, Atienza looked toward the origin of the sound and saw accused-appellant Ricardo Latag standing behind the San Francisco shrubs (which served as a yard fence), holding a caliber .22 firearm. Judie Acosta cried out, *"Kuya Caloy, may tama ako,"* having been shot in the left back portion near his armpit. Latag then fled eastward while still holding the firearm. Acosta was rushed to the hospital by his father but died shortly thereafter from hemorrhagic shock caused by the gunshot wound that perforated his left lung, diaphragm, stomach, and descending thoracic aorta.
+
+Latag was charged with **Murder** qualified by treachery under Article 248 of the Revised Penal Code before the Regional Trial Court (RTC) of Lipa City (Branch 12). Latag entered a plea of not guilty and raised the defense of **denial and alibi**, asserting that he was drinking with friends elsewhere and returned home at around 11:00 PM. He further alleged that Atienza had an axe to grind against him due to a prior stabbing incident between them. The RTC convicted Latag of Murder qualified by treachery, sentenced him to *reclusion perpetua*, and ordered him to pay civil indemnity and actual damages. Latag appealed to the Supreme Court.
+
+---
+
+#### **II. Issues**
+
+1. Whether the positive identification of accused-appellant by the lone eyewitness was credible and sufficient to overcome his defense of denial and alibi.
+2. Whether the qualifying circumstance of **treachery (*alevosia*)** was proven beyond reasonable doubt.
+3. What crime was committed and what penalty should be imposed.
+
+---
+
+#### **III. Held**
+
+1. **Yes.** The eyewitness identification made by Atienza was clear, categorical, and credible. The scene was adequately illuminated by an electric bulb hanging between the table and the shrubs. Latag failed to substantiate his claim of ill-motive or hostility on the part of the witness.
+2. **No.** Treachery was **not proven**. The prosecution’s lone eyewitness did not see the commencement of the assault or how the shooting began; he merely looked toward the direction of the gunfire *after* the shot was already fired. Treachery cannot be presumed.
+3. **Homicide only.** In the absence of proof of treachery or any other qualifying circumstance, the crime committed is **Homicide** under Article 249 of the Revised Penal Code, not Murder.
+
+---
+
+#### **IV. Ratio Decidendi**
+
+* **Positive Identification Over Alibi:**
+* The Supreme Court sustained the credibility of Atienza's eyewitness testimony. Visibility was sufficient because an electric bulb was positioned between the drinking table and the San Francisco shrubs (which were only seven to ten meters away).
+* The defense of alibi is inherently weak and cannot prevail against categorical, positive identification. Furthermore, the appellant failed to demonstrate that it was physically impossible for him to be at the scene of the crime, as both locations were within the same municipality/vicinity.
+
+
+* **Strict Proof Required for Treachery (*Alevosia*):**
+* For treachery to be appreciated, two conditions must concur:
+1. The employment of means of execution that gives the person attacked no opportunity to defend himself or retaliate; and
+2. The said means of execution was **deliberately or consciously adopted**.
+
+
+* **Treachery Cannot Be Presumed:** Treachery must be established as cleanly and conclusively as the crime itself. It cannot be deduced from mere presumptions or conjectures.
+* **The Rule on Failure to Witness the Commencement of the Attack:**
+Where the lone eyewitness did not see how the attack commenced—such as here, where Atienza only looked up and saw the accused holding the gun *after* hearing the initial fatal gunshot—the Court cannot assume that the attack was sudden, unexpected, or consciously adopted without risk to the assailant. The witness observed only the aftermath and the flight of the shooter, not the initial stance or the immediate prelude to the shooting.
+* Because there was a complete absence of direct evidence regarding the manner in which the assault began, any doubt must be resolved in favor of the accused, precluding the appreciation of treachery.
+
+
+* **Reclassification from Murder to Homicide:**
+Since the Information charged Murder qualified by treachery, but treachery was unproven, the accused could only be convicted of the necessarily included crime of **Homicide** under Article 249 of the Revised Penal Code.
+
+---
+
+#### **V. Fallo**
+
+> *"WHEREFORE, the appeal is partly GRANTED. Accused-appellant Ricardo Latag is hereby found GUILTY of HOMICIDE and sentenced to an indeterminate penalty of nine (9) years and four (4) months of prision mayor as minimum, to sixteen (16) years and four (4) months of reclusion temporal as maximum.*
+> *The award of civil indemnity is AFFIRMED in the amount of P50,000.00, but the award of actual damages is REDUCED to P28,420.00 (the amount substantiated by receipts), plus P25,000.00 as temperate damages. Costs against appellant.*
+> *SO ORDERED."*
