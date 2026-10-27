@@ -1,0 +1,73 @@
+119. People of the Philippines v. Roland Molina, G.R. Nos. 134777-78, July 24, 2000
+People of the Philippines v. Roland Molina
+G.R. Nos. 134777-78 | 336 SCRA 400 | July 24, 2000 | Per Curiam | En Banc
+
+
+I. Facts
+On the evening of March 4, 1996, brothers Joseph Bon-ao and Angelito Bon-ao, together with their cousin Danny Vidal, attended the town fiesta in Lagangilang, Abra. Around 11:30 PM, as they were walking toward the gate of the Abra State Institute of Sciences and Technology (ASIST), they encountered a group of young men that included accused-appellant Roland Molina (alias "Sleepy").
+
+One member of Molina’s group yelled the derogatory remark "kuba, kuba" (hunchback), referring to Joseph Bon-ao, who was a hunchback. Offended, Joseph and his companions confronted the group. Molina identified himself and warned them not to mess with him. When Joseph’s group clarified that if Molina was not the one who insulted Joseph, they would simply leave, they turned their backs to walk away.
+
+As Joseph completed his turn, Molina suddenly lunged forward from behind and stabbed Joseph once in the back with a sharp knife, piercing his right lung and severing a rib. When Angelito rushed to his brother's defense, Molina stabbed Angelito three times (one wound perforating the posterior chest wall, which was potentially fatal). Molina and his companions then fled the scene. Joseph was declared dead on arrival at the hospital, while Angelito survived due to timely surgical and medical intervention.
+
+Molina was charged in two separate Informations before the Regional Trial Court (RTC) of Bangued, Abra:
+
+
+1.	Criminal Case No. 1757 for Murder (for the death of Joseph Bon-ao); and
+
+2.	Criminal Case No. 1758 for Frustrated Murder (for the near-fatal stabbing of Angelito Bon-ao).
+
+During trial, it was revealed that Molina had previously been convicted by final judgment by the same RTC on October 9, 1996, of Attempted Homicide in an earlier case (Criminal Case No. 1133). The RTC convicted Molina of Murder (sentencing him to Death due to the aggravating circumstance of recidivism) and Frustrated Murder. The case was elevated to the Supreme Court on automatic review.
+
+
+II. Issues
+1.	Whether the attacks on Joseph and Angelito Bon-ao were attended by the qualifying circumstance of treachery (alevosia).
+
+2.	Whether the generic aggravating circumstance of recidivism (reincidencia) under Article 14, Paragraph 9 of the Revised Penal Code was correctly appreciated even though it was not alleged in the Information.
+
+3.	Whether the conviction for Frustrated Murder (as opposed to Attempted Murder) in the stabbing of Angelito was proper.
+
+4.	What proper penalties and civil liabilities should be imposed.
+
+III. Held
+1.	Yes. Treachery was present in both attacks. The victims were completely defenseless, having turned their backs to walk away after concluding the verbal exchange, making the sudden rear assault treacherous.
+
+2.	Yes. Recidivism was properly appreciated despite the absence of an allegation in the Information because the defense failed to object when evidence of his previous final conviction was introduced during trial, and the appellant himself admitted it.
+
+3.	Yes. The crime committed against Angelito was Frustrated Murder because the accused performed all acts of execution that would produce felony as a consequence (inflicting a fatal chest wound), but it was not produced by reason of causes independent of the perpetrator's will (timely medical surgery).
+
+4.	Sentence Modified: While the conviction for Murder and Frustrated Murder was affirmed, because of the strict requirements under prevailing death penalty jurisprudence and the need for executive review, the death sentence was reviewed in light of the totality of the record (with damages modified).
+
+IV. Ratio Decidendi
+•	Treachery (Alevosia):
+
+Treachery exists when the offender commits any of the crimes against person, employing means, methods, or forms in the execution thereof that tend directly and specially to ensure its execution without risk to himself arising from the defense which the offended party might make.
+
+Here, although there was an initial verbal confrontation, the exchange had peacefully terminated. The victims had turned around and begun walking away when Molina swiftly and without warning struck Joseph in the back. The attack was executed from behind while the victim was in a vulnerable, retreating posture.
+
+•	Recidivism Not Alleged in the Information:
+
+
+o	General Rule: Under Article 14, paragraph 9 of the RPC, a recidivist is one who, at the time of his trial for one crime, shall have been previously convicted by final judgment of another crime embraced in the same title of the RPC. Procedural rules generally require that aggravating circumstances be alleged in the Information and proven by attaching certified true copies of the prior judgment.
+
+o	The Exception Applied: Under the procedural jurisprudence applicable at the time of trial, if the accused fails to object to the introduction of evidence regarding a prior conviction—or expressly admits it during the proceedings—the court may validly appreciate recidivism as a generic aggravating circumstance even if omitted from the charging Information.
+
+o	Because Molina and his counsel raised no objection when confronted with the RTC's own prior judgment convicting him of Attempted Homicide (both crimes falling under Title Eight, Crimes Against Persons), recidivism was legally appreciated.
+
+•	Frustrated Murder vs. Attempted Murder:
+
+The subjective and objective phases of the felony were fully performed. The wound inflicted on Angelito's posterior chest wall was described by the attending surgeon as fatal had there been no timely medical intervention. Since the mortal result was prevented by causes independent of the actor's will (prompt medical treatment), the offense reached the frustrated stage.
+
+V. Fallo
+"WHEREFORE, the Decision of the Regional Trial Court of Bangued, Abra, Branch 2... is hereby AFFIRMED with MODIFICATIONS:
+
+
+1.	In Criminal Case No. 1757, accused-appellant Roland Molina is found GUILTY beyond reasonable doubt of MURDER...;
+
+2.	In Criminal Case No. 1758, accused-appellant is found GUILTY of FRUSTRATED MURDER...;
+
+3.	The awards of damages are MODIFIED in accordance with prevailing jurisprudence...
+
+SO ORDERED."
+
+Why did the Supreme Court rule that treachery attended the commission of the crime in the said cases?
