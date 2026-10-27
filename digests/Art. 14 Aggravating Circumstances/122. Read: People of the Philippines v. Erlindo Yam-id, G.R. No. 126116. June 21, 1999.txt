@@ -1,0 +1,71 @@
+### **People of the Philippines v. Erlindo Yam-id alias "Ely"**
+
+**G.R. No. 126116 | 308 SCRA 651 | June 21, 1999 | Melo, J. | En Banc**
+
+---
+
+#### **I. Facts**
+
+On the morning of April 1, 1994, in Pinamungajan, Cebu, six-year-old Jerry Tejamo and his eight-year-old brother, Julius, were walking together when their neighbor, accused-appellant Erlindo Yam-id, armed with a bolo, suddenly chased them. Julius managed to run ahead, but Yam-id caught up with Jerry. Yam-id stabbed the child in the back, grabbed him by the hair, hacked his nape, and delivered another stab blow to his back as the child lay on the ground, killing him instantly. Yam-id then knelt over Jerry's lifeless body and sucked blood from the boy's neck wound.
+
+Julius ran home and informed his mother, Aniceta. Aniceta awakened her husband, Danilo Tejamo, and both rushed toward the scene. Along the way, they met Yam-id, still holding the bloody bolo. When Danilo inquired about his son, Yam-id shouted, *"I will kill all of you!"* and hacked Danilo. Danilo tried to parry the blows but was struck on the bridge of his nose and on his head, causing him to collapse. As Yam-id held Danilo by the collar to deliver a fatal strike, the tip of the bolo accidentally pierced Yam-id's own stomach. Bleeding from his self-inflicted wound, Yam-id dropped the weapon and fled to his house. Danilo was rushed to the hospital and survived.
+
+Two criminal cases were filed against Yam-id before the Regional Trial Court (RTC) of Toledo City:
+
+1. **Criminal Case No. TCS-2381** for **Murder** (for the death of 6-year-old Jerry Tejamo); and
+2. **Criminal Case No. TCS-2382** for **Frustrated Homicide** (for the attack on Danilo Tejamo).
+
+During trial, Yam-id claimed self-defense, alleging that Danilo was the aggressor who shot him. The RTC rejected Yam-id's version, convicted him of Murder (qualified by treachery and attended by evident premeditation) and sentenced him to the mandatory penalty of **Death** under R.A. No. 7659. The RTC also convicted him of Frustrated Homicide.
+
+On automatic review before the Supreme Court, the Public Attorney’s Office (PAO) abandoned the theory of self-defense and raised the exempting circumstance of **insanity**, arguing that Yam-id suffered from schizophrenia, as evidenced by the bizarre act of sucking the child's blood and his self-inflicted wound.
+
+---
+
+#### **II. Issues**
+
+1. Whether an appellant may raise the defense of insanity for the first time on appeal.
+2. Whether the exempting circumstance of **insanity** under Article 12, Paragraph 1 of the Revised Penal Code (RPC) was established.
+3. Whether the killing of Jerry Tejamo was qualified by **treachery (*alevosia*)** and attended by **evident premeditation**.
+4. Whether the assault on Danilo Tejamo constituted **Frustrated Homicide** or **Attempted Homicide**.
+5. What proper penalties should be imposed.
+
+---
+
+#### **III. Held**
+
+1. **Yes.** In criminal cases, particularly those involving the death penalty, an appeal opens the entire record for review. The Court may consider any defense or circumstance favorable to the accused even if not raised before the trial court.
+2. **No.** Insanity was **not proven**. The law presumes sanity, and the burden rests on the defense to prove complete deprivation of reason and intelligence at the exact time of the commission of the crime. Sucking blood and bizarre behavior show depravity or moral perversity, not legal insanity.
+3. **Treachery was present; Evident Premeditation was absent.** The killing of a 6-year-old child by an armed adult is inherently treacherous. However, evident premeditation was not proven because there was no evidence showing when the offender determined to commit the crime, acts clinging to that determination, or sufficient lapse of time for reflection.
+4. **Attempted Homicide only.** The medical evidence showed that Danilo's injuries (hacks on the nose and scalp) were non-fatal and did not endanger his life; hence, the felony remained at the attempted stage.
+5. **Death penalty reduced to *reclusion perpetua*.** Absent any generic aggravating circumstances to balance against the single qualifying circumstance of treachery, the capital penalty could not be imposed.
+
+---
+
+#### **IV. Ratio Decidendi**
+
+* **Strict Burden of Proof for the Defense of Insanity:**
+* Under Article 12(1) of the RPC, insanity is an exempting circumstance in the nature of a confession and avoidance. The defense must prove by clear and convincing evidence that the accused was **completely deprived of reason, intelligence, and free will at the precise moment of committing the felony**.
+* Mental illness or abnormalities must be distinguished from passion, moral perversity, cruel eccentricity, or emotional breakdown.
+* The macabre act of kneeling over a child's body to suck blood may demonstrate extreme cruelty, depravity, or wickedness, but without credible psychiatric or medical expert testimony establishing complete insanity at the time of the attack, it does not overcome the legal presumption that human acts are voluntary and sane. Furthermore, raising it as an afterthought only on appeal weakened its credibility.
+
+
+* **Treachery in the Killing of Children:**
+Settled jurisprudence dictates that the slaughter of a defenseless child of tender years (here, a six-year-old) by an adult armed with a lethal bolo automatically constitutes **treachery (*alevosia*)**. A child lacks both the physical capacity to defend himself and the mental capacity to foresee or ward off danger; hence, an armed assault against him directly and specially ensures execution without any risk from any possible defense.
+* **Absence of Evident Premeditation:**
+The trial court anchored evident premeditation merely on the presence of prior "bad blood" or a land dispute between the families. The Supreme Court held that prior animosity or disputes alone are insufficient. Evident premeditation requires proof of:
+1. The time when the offender determined to commit the crime;
+2. An act manifestly indicating that the culprit clung to his determination; and
+3. A sufficient lapse of time between the determination and execution to allow him to dispassionately reflect upon the consequences.
+Since none of these elements were established by the prosecution, evident premeditation could not be appreciated.
+
+
+* **Frustrated vs. Attempted Homicide:**
+To convict an assailant of frustrated homicide, the wound inflicted must be mortal—such that it would have caused the death of the victim were it not for timely medical assistance independent of the perpetrator's will. Because the medical officer testified that Danilo’s head and nose lacerations were superficial and not fatal, the crime committed was only **Attempted Homicide**, as Yam-id commenced the commission of the felony directly by overt acts but did not perform all acts of execution which should produce it.
+
+---
+
+#### **V. Fallo**
+
+> *"WHEREFORE, the appealed decision is hereby MODIFIED, finding accused-appellant GUILTY of MURDER in Criminal Case No. TCS-2381 and sentencing him to suffer the reduced penalty of RECLUSION PERPETUA. He is likewise ordered to indemnify the parents of the victim the sum of Fifty Thousand (₱50,000.00) Pesos and to pay actual damages in the amount of Forty Thousand (₱40,000.00) Pesos.*
+> *In Criminal Case No. TCS-2382, accused-appellant is found guilty of ATTEMPTED HOMICIDE instead and sentenced to two (2) months and one (1) day of arresto mayor, as minimum, to two (2) years, four (4) months and one (1) day of prision correccional, as maximum.*
+> *SO ORDERED."*
