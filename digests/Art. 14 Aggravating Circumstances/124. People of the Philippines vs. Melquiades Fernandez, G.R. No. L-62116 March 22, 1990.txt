@@ -4,7 +4,7 @@
 
 ---
 
-#### **I. Facts**
+#### Facts
 
 On the afternoon of January 13, 1982, at around 2:00 PM, 15-year-old househelper Rebecca Soriano was taking a bath inside the ground-floor bathroom of her employer’s (Teofilo Malong) residence in Barrio Taloy, Malasiqui, Pangasinan. While she was naked, two men—accused Melquiades Fernandez and his nephew Federico Conrado—barged inside.
 
@@ -22,7 +22,7 @@ The trial court rejected their alibis, found conspiracy, convicted both accused 
 
 ---
 
-#### **II. Issues**
+#### Issues
 
 1. Whether accused-appellant can be convicted of two counts of rape where conspiracy was proven and both men took turns raping the victim.
 2. Whether the act of plastering mud on the victim’s vagina immediately after the rape constitutes the aggravating circumstance of **ignominy (*ignominia*)** or **cruelty (*ensañamiento*)**.
@@ -30,7 +30,7 @@ The trial court rejected their alibis, found conspiracy, convicted both accused 
 
 ---
 
-#### **III. Held**
+#### Held
 
 1. **Yes.** In multiple rapes committed by several persons acting in conspiracy, each participant is criminally liable not only for the rape personally executed by him, but also as a co-conspirator for each of the rapes committed by his co-accused. Furthermore, failure to object to duplicity of offenses in the Information prior to trial constitutes a waiver.
 2. **Ignominy, NOT Cruelty.** The Supreme Court held that the trial court improperly conflated cruelty and ignominy. The act of smearing mud on the victim's genitalia did not increase physical pain (cruelty), but it added moral disgrace, humiliation, and obloquy to the crime; hence, it was properly appreciated as **ignominy** under Article 14, Paragraph 17 of the Revised Penal Code.
@@ -38,7 +38,7 @@ The trial court rejected their alibis, found conspiracy, convicted both accused 
 
 ---
 
-#### **IV. Ratio Decidendi**
+#### Ratio
 
 * **Cruelty (*Ensañamiento*) vs. Ignominy (*Ignominia*):**
 The Supreme Court clarified the distinct legal nature of these two aggravating circumstances:
@@ -54,7 +54,7 @@ Even assuming the Information was duplicitous, the appellant waived the objectio
 
 ---
 
-#### **V. Fallo**
+#### Fallo
 
 > *"WHEREFORE, the appealed judgment, as above modified, is AFFIRMED. With costs against the accused-appellant Federico Conrado.*
 > *SO ORDERED."*
