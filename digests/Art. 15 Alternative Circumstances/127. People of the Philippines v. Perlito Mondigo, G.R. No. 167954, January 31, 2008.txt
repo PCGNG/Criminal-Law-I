@@ -4,7 +4,7 @@
 
 ---
 
-#### **Facts**
+#### Facts
 
 Appellant Perlito Mondigo was charged before the Regional Trial Court (RTC) of Malolos, Bulacan, with two separate offenses: **Murder** (for the fatal hacking of Damaso Delima) and **Frustrated Murder** (for the hacking of Damaso’s son, Anthony Delima).
 
@@ -17,7 +17,7 @@ The RTC rejected the claim of self-defense, convicting appellant of Murder for D
 
 ---
 
-#### **Issues**
+#### Issues
 
 1. Whether appellant successfully proved the justifying circumstance of self-defense.
 2. Whether treachery (*alevosia*) attended the attack against:
@@ -29,7 +29,7 @@ The RTC rejected the claim of self-defense, convicting appellant of Murder for D
 
 ---
 
-#### **Ruling**
+#### Ruling
 
 ##### **1. Failure to Prove Self-Defense**
 
@@ -55,7 +55,7 @@ The only evidence presented was appellant's own testimony that he had consumed "
 
 ---
 
-#### **Key Doctrine**
+#### Key Doctrine
 
 > **1. Treachery Evaluated Per Victim:**
 > *The presence of treachery in an attack against one victim does not automatically transpose to an attack against another victim in the same incident. Treachery must be proved distinctly and conclusively as to each victim by showing how the aggression commenced and developed. If the inception of the attack is not witnessed, treachery cannot be presumed.*
