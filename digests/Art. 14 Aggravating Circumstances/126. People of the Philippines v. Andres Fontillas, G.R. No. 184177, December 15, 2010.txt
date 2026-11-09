@@ -1,1 +1,52 @@
+### **People of the Philippines v. Andres C. Fontillas alias "Anding"**
 
+**G.R. No. 184177 | December 15, 2010 | Leonardo-De Castro, *J.***
+
+---
+
+#### **Facts**
+
+Accused-appellant Andres C. Fontillas was charged before the Regional Trial Court (RTC) of Iba, Zambales, with the crime of qualified (incestuous) rape committed against his biological daughter, AAA, who was then 13 years old.
+
+* **The Incident (December 8, 2001):** Around 11:00 p.m., AAA was sleeping with her younger brother BBB inside their shanty in Bamban, Masinloc, Zambales. She was awakened by her father's arrival and coughing. Seeing that he was drunk from a drinking spree with friends, AAA helped him enter and allowed him to lie down beside them.
+* Sometime later, AAA was roused when appellant began removing her shorts. She cried, but appellant warned her not to make noise. After removing his own pants, appellant pinned her hands and feet (*inipit*), covered her mouth, and threatened that if she reported the incident, he would kill the person to whom she reported it. Overcome with fear, AAA could not resist as appellant inserted his penis into her vagina, causing her pain.
+* After appellant left the following morning, AAA went to her Aunt CCC and Uncle DDD to report the rape. She was brought to the police station and subsequently placed under the protective custody of the DSWD Home for Girls in Olongapo City.
+* **Medical Findings:** The medico-legal officer examined AAA on December 10, 2001 (two days later) and noted healed/"old" hymenal lacerations at the 6 and 8 o’clock positions, admitting one finger with ease.
+* **Defense Theory:** Appellant raised denial and alibi, claiming he got excessively drunk during a drinking spree, could not recall what transpired, and only remembered waking up at 6:00 a.m. by the door. In the alternative, he argued that his extreme intoxication should at least mitigate his criminal liability.
+
+The RTC convicted appellant of qualified rape and imposed the death penalty. On automatic review, the Court of Appeals affirmed the conviction but reduced the penalty to *reclusion perpetua* pursuant to Republic Act No. 9346.
+
+---
+
+#### **Issues**
+
+1. Whether the prosecution proved accused-appellant's guilt beyond reasonable doubt despite his denial, the nature of the threat (not directed at the victim herself), and the presence of "old" hymenal lacerations.
+2. Whether appellant’s alleged intoxication on the night of the incident should be appreciated as an alternative mitigating circumstance under Article 15 of the Revised Penal Code.
+
+---
+
+#### **Ruling**
+
+##### **1. Guilt Proven Beyond Reasonable Doubt**
+
+* **Positive and Credible Testimony:** AAA gave a candid, consistent, and straightforward account of how she was ravished by her own father. It is settled doctrine that when a woman, particularly a minor child, claims she was raped by her biological father, her testimony is entitled to full faith and credit, as no daughter would falsely subject herself and her father to such infamy absent any ill motive.
+* **Nature of Threat and Intimidation:** The threat made by appellant—that he would kill the person to whom she would report the ordeal—was sufficient intimidation. It is of no moment that the death threat was not directed at AAA herself; it still instilled genuine terror that someone else would be harmed because of her. Furthermore, the moral ascendancy of a father over a 13-year-old child substitute for physical violence or intimidation in rape cases.
+* **Hymenal Laceration Findings:** The presence of "old" hymenal lacerations did not weaken AAA's credibility. The medical examination took place two days after the assault, and lacerations in mucosal tissues can heal rapidly. Moreover, the crime of rape requires merely the slightest penetration of the female organ; a fresh hymenal tear is not an indispensable element.
+* **Denial and Alibi:** Bare denial is a weak defense that cannot overcome positive, affirmative testimony from a credible witness.
+
+##### **2. Rejection of Intoxication as a Mitigating Circumstance**
+
+Under Article 15 of the Revised Penal Code, intoxication is considered an alternative circumstance. It is mitigating only when:
+
+1. It is not habitual;
+2. It is not subsequent to the plan to commit the felony (not intentional); and
+3. The accused proves that the quantity of alcohol consumed was of such degree as to blur reason and impair mental faculties.
+
+Appellant utterly failed to meet this burden. He presented no evidence showing that his drinking was non-habitual, nor did he offer clear and convincing proof—such as corroboration from his drinking companions—that he consumed alcohol in an amount sufficient to deprive him of mental discernment. Consequently, intoxication could not be appreciated in his favor.
+
+---
+
+#### **Key Doctrine**
+
+> **Requisites for Intoxication as a Mitigating Circumstance (Art. 15, RPC):**
+> *To be appreciated as a mitigating circumstance, the defense must establish with clear and convincing proof that: (1) the intoxication was not habitual; (2) it was not subsequent to the plan to commit the crime; and (3) the amount of alcohol consumed was sufficient to impair mental faculties and blur reason. Self-serving assertions of memory loss or drunkenness, without corroboration as to the quantity of liquor consumed and the absence of habituality, will not suffice.*
