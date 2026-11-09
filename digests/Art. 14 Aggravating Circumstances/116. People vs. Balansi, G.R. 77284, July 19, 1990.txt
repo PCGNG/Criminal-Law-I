@@ -1,34 +1,67 @@
+### 
 Facts
-On the evening of May 21, 1982, in Balbalan, Kalinga-Apayao, Elpidio Dalsen, an incumbent member of the Sangguniang Bayan of Balbalan, was sitting near the window inside the house of his relative, Raymundo Gundan, conversing with others present.
+On the late afternoon of January 30, 1984, a wedding celebration was taking place in Balinciagao, Pasil, Kalinga-Apayao. The victim, Elpidio Dalsen (Provincial Development Officer of Kalinga-Apayao), was resting and asleep inside the house of his parents. 
 
-Suddenly, gunshots were fired from the darkness outside the house directed at the window. Dalsen was struck by two rifle bullets—one penetrating the right arm and another perforating his chest, which caused fatal internal hemorrhages. An eye-witness outside the house, Keithley Buyagan, recognized accused-appellant Donald Balansi running away from the scene immediately after the shooting carrying an Armalite rifle. Balansi was a member of the Integrated National Police (INP) assigned to the Kalinga-Apayao Police Station.
+Witness Beatrice Canao saw the accused-appellant, Bonifacio Balansi alias "Ban-os" (a Barangay Captain and member of the Civilian Home Defense Force [CHDF]), standing armed with a Garand rifle by the entrance of the house. Moments after Canao exited the house, two gunshots rang out. She then saw Balansi descending the stairs. Another witness, Yulo Asbok, encountered Balansi coming down with the rifle and grappled with him for possession of the firearm. Balansi fled the scene and hid for four days before surrendering. Inside the second floor of the house, Dalsen was found dead with fatal gunshot wounds. 
 
-Balansi was charged with Murder qualified by treachery and attended by evident premeditation and dwelling. During the trial, the defense interposed denial and alibi, claiming that Balansi was asleep in his barracks at the police station at the time of the shooting. The Regional Trial Court (RTC) of Bulanao, Tabuk, Kalinga-Apayao, rejected his alibi, convicted him of Murder, and appreciated treachery as the qualifying circumstance, alongside the aggravating circumstances of dwelling and nighttime, with no mitigating circumstances. Balansi was sentenced to reclusion perpetua. He appealed the conviction to the Supreme Court.
+The defense claimed that Balansi was only investigating the commotion in his capacity as a CHDF member, did not shoot the victim, and fled because he was being blamed. 
 
-Issues
-1.	Whether the positive identification of the accused-appellant by the prosecution witnesses was sufficient to overcome his defense of alibi.
-2.	Whether the crime committed was Murder qualified by treachery (alevosia).
-3.	Whether the aggravating circumstances of dwelling (morada) and nighttime (nocturnidad) were correctly appreciated.
+The Regional Trial Court convicted Balansi of Murder qualified by treachery, evident premeditation, and taking advantage of superior strength/means to weaken the defense, sentencing him to death and ordering him to pay ₱590,000.00 in damages. 
 
-Held
-1.	Yes. The positive, categorical identification made by credible eyewitnesses who saw the accused fleeing the scene carrying the fatal weapon completely destroyed his defense of alibi. Moreover, the police barracks where the appellant claimed to be were easily accessible from the scene of the crime.
-2.	Yes. Treachery was present. The attack was sudden, unexpected, and executed while the victim was seated conversing inside a house, completely oblivious to danger, affording him no opportunity to defend himself.
-3.	Yes. Dwelling was correctly appreciated as a generic aggravating circumstance even though the gunman fired from outside the house. Nighttime was likewise appreciated as an aggravating circumstance.
 
-Ratio:
-"Dwelling" is considered an aggravating circumstance because primarily of the sanctity of privacy the law accords to human abode. According to one commentator, one's dwelling place is a "sanctuary worthy of respect"26 and that one who slanders another in the latter's house is more guilty than if he who offends him elsewhere. However, one does not lose his right of privacy where he is offended in the house of another because as his invited guest, he, the stranger, is sheltered by the same roof and protected by the same intimacy of life it affords. It may not be his house, but it is, even for a brief moment, "home" to him. He is entitled to respect even for that short moment.
+### Issues
+1.	Whether circumstantial evidence was sufficient to prove the guilt of the accused beyond reasonable doubt. 
 
-It is with more reason in this case. The late Elpidio Dalsen died in the house of his very parents who raised him until he could be on his own.
+2.	Whether the killing was attended by treachery and evident premeditation to qualify the crime to Murder. 
 
-Under the circumstances, we affirm the lower court, but only insofar as it held the accused-appellant responsible for taking the life of Elpidio Dalsen. We hold him liable for simple homicide aggravated by dwelling. 
+3.	Whether the generic aggravating circumstance of dwelling (morada) should be appreciated, considering the victim was killed in the house of his parents and not his own separate dwelling. 
 
-Appreciation of Dwelling Fired From Outside: The Supreme Court affirmed that the aggravating circumstance of dwelling (morada) is present even if the shooter does not physically cross the threshold or step inside the building, provided the bullets are fired from outside into the interior of the house where the victim is resting, conversing, or residing. The sanctity of the home as a sanctuary of family life is violated just as effectively when the offender fires from outside into the home of the victim.
+### Ruling
+1. Sufficiency of Circumstantial Evidence
+Yes. Under Section 4 (now Section 5), Rule 133 of the Rules of Court, circumstantial evidence is sufficient for conviction if:
 
-Treachery (Alevosia): The victim was completely unsuspecting, sitting by the window in conversation with his relatives. The sudden firing of high-powered rifle rounds from the darkness outside directly and specially ensured the consummation of the killing without any risk to the assailant arising from any defense the victim might make.
 
-Nighttime (Nocturnidad): Darkness was deliberately sought and taken advantage of to facilitate concealment, surprise the victim through an unlit exterior approach, and facilitate the gunman's immediate escape.
+1.	There is more than one circumstance;
 
-Positive Identification Over Alibi: Alibi is an inherently weak defense and cannot prevail over positive identification. To succeed with an alibi, the accused must establish not only that he was elsewhere when the crime happened, but that it was physically impossible for him to be at the scene of the crime. Here, the distance between the barracks and the victim's house did not establish physical impossibility.
+2.	The facts from which the inferences are derived are proven; and
+
+3.	The combination of all the circumstances is such as to produce a conviction beyond reasonable doubt. 
+
+Although no eyewitness saw the actual pulling of the trigger: 
+
+
+•	Balansi was seen holding a long rifle outside the door right before the shooting; 
+
+•	Gunshots rang out immediately thereafter; 
+
+•	He was seen descending the stairs from the second floor where the victim lay dead; 
+
+•	A witness wrestled the rifle from him at the scene; and 
+
+•	He fled and hid for four days.
+
+Flight is a silent admission of guilt ("The wicked flee when no man pursueth, but the righteous are bold as a lion"), rebutting his claim of innocent official investigation. 
+
+
+2. Absence of Qualifying Circumstances (Treachery and Evident Premeditation)
+No qualifying circumstances were proven.
+
+
+•	Treachery: Cannot be presumed. It must be proven as conclusively as the crime itself. Because no eyewitness testified to the exact manner in which the attack commenced, treachery cannot be appreciated merely from the fact that the victim was shot. 
+
+•	Evident Premeditation: There was no proof of the time when the offender determined to commit the crime, an act manifestly indicating that he clung to his determination, and a sufficient lapse of time between determination and execution to allow for reflection. 
+
+Consequently, the crime committed is only Homicide, not Murder.
+
+
+3. Appreciation of Dwelling as an Aggravating Circumstance
+Yes. Even if the house belonged to the victim's parents, dwelling is aggravating. 
+
+The Court reaffirmed the doctrine in People v. Basa (83 Phil. 622): the rationale behind dwelling as an aggravating circumstance is the violation of the sanctity of privacy and peace that the law accords to a human abode. One does not have to be the titled owner or exclusive tenant; an invited guest or a relative sleeping in the house of another enjoys the protection and sanctuary of that roof. The intruder who enters to kill commits a greater breach of social peace and demonstrates greater perversity. 
+
+
+### Dispositive Portion
+The Supreme Court AFFIRMED WITH MODIFICATION the conviction, finding Bonifacio Balansi guilty of Homicide aggravated by dwelling (with no mitigating circumstances). He was sentenced to an indeterminate penalty of 8 years and 1 day of prisión mayor (as minimum) to 17 years, 4 months, and 1 day of reclusión temporal (as maximum), and ordered to pay the awarded damages. 
 
 Why did the Supreme Court appreciate the aggravating circumstance of disregard of dwelling to a mere house guest?
 1. The Protection Attaches to the Sanctuary of the Structure
