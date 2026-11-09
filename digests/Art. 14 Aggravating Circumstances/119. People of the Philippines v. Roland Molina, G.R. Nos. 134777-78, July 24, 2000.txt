@@ -1,9 +1,4 @@
-119. People of the Philippines v. Roland Molina, G.R. Nos. 134777-78, July 24, 2000
-People of the Philippines v. Roland Molina
-G.R. Nos. 134777-78 | 336 SCRA 400 | July 24, 2000 | Per Curiam | En Banc
-
-
-I. Facts
+### Facts
 On the evening of March 4, 1996, brothers Joseph Bon-ao and Angelito Bon-ao, together with their cousin Danny Vidal, attended the town fiesta in Lagangilang, Abra. Around 11:30 PM, as they were walking toward the gate of the Abra State Institute of Sciences and Technology (ASIST), they encountered a group of young men that included accused-appellant Roland Molina (alias "Sleepy").
 
 One member of Molina’s group yelled the derogatory remark "kuba, kuba" (hunchback), referring to Joseph Bon-ao, who was a hunchback. Offended, Joseph and his companions confronted the group. Molina identified himself and warned them not to mess with him. When Joseph’s group clarified that if Molina was not the one who insulted Joseph, they would simply leave, they turned their backs to walk away.
@@ -20,7 +15,7 @@ Molina was charged in two separate Informations before the Regional Trial Court 
 During trial, it was revealed that Molina had previously been convicted by final judgment by the same RTC on October 9, 1996, of Attempted Homicide in an earlier case (Criminal Case No. 1133). The RTC convicted Molina of Murder (sentencing him to Death due to the aggravating circumstance of recidivism) and Frustrated Murder. The case was elevated to the Supreme Court on automatic review.
 
 
-II. Issues
+### Issues
 1.	Whether the attacks on Joseph and Angelito Bon-ao were attended by the qualifying circumstance of treachery (alevosia).
 
 2.	Whether the generic aggravating circumstance of recidivism (reincidencia) under Article 14, Paragraph 9 of the Revised Penal Code was correctly appreciated even though it was not alleged in the Information.
@@ -29,7 +24,7 @@ II. Issues
 
 4.	What proper penalties and civil liabilities should be imposed.
 
-III. Held
+### Held
 1.	Yes. Treachery was present in both attacks. The victims were completely defenseless, having turned their backs to walk away after concluding the verbal exchange, making the sudden rear assault treacherous.
 
 2.	Yes. Recidivism was properly appreciated despite the absence of an allegation in the Information because the defense failed to object when evidence of his previous final conviction was introduced during trial, and the appellant himself admitted it.
@@ -38,7 +33,7 @@ III. Held
 
 4.	Sentence Modified: While the conviction for Murder and Frustrated Murder was affirmed, because of the strict requirements under prevailing death penalty jurisprudence and the need for executive review, the death sentence was reviewed in light of the totality of the record (with damages modified).
 
-IV. Ratio Decidendi
+### Ratio Decidendi
 •	Treachery (Alevosia):
 
 Treachery exists when the offender commits any of the crimes against person, employing means, methods, or forms in the execution thereof that tend directly and specially to ensure its execution without risk to himself arising from the defense which the offended party might make.
@@ -58,7 +53,7 @@ o	Because Molina and his counsel raised no objection when confronted with the RT
 
 The subjective and objective phases of the felony were fully performed. The wound inflicted on Angelito's posterior chest wall was described by the attending surgeon as fatal had there been no timely medical intervention. Since the mortal result was prevented by causes independent of the actor's will (prompt medical treatment), the offense reached the frustrated stage.
 
-V. Fallo
+### Fallo
 "WHEREFORE, the Decision of the Regional Trial Court of Bangued, Abra, Branch 2... is hereby AFFIRMED with MODIFICATIONS:
 
 
