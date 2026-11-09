@@ -6,37 +6,95 @@
   <title>Criminal Law I Review by PCGNG</title>
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
   <style>
-    * { box-sizing: border-box; margin: 0; padding: 0; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
-    body { display: flex; flex-direction: column; height: 100vh; background: #0b1329; color: #1e293b; overflow: hidden; }
+    * { 
+      box-sizing: border-box; 
+      margin: 0; 
+      padding: 0; 
+      font-family: "Century Gothic", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; 
+    }
+    
+    body { 
+      display: flex; 
+      flex-direction: column; 
+      height: 100vh; 
+      background: #0b1329; 
+      color: #1e40af; 
+      overflow: hidden; 
+    }
 
-    /* Top Navigation Header */
-    header { padding: 12px 24px; background: #111e38; border-bottom: 1px solid #1e3a8a; display: flex; justify-content: space-between; align-items: center; gap: 12px; flex-wrap: wrap; z-index: 10; }
-    header h1 { font-size: 1.15rem; color: #ff5376; font-weight: 700; letter-spacing: -0.01em; }
-    .controls { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; }
-    select, button.nav-btn, label.upload-btn { padding: 8px 14px; border-radius: 6px; background: #1d283a; color: #f1f5f9; border: 1px solid #3b82f6; cursor: pointer; font-size: 0.88rem; font-weight: 500; transition: all 0.2s ease; }
-    select:hover, button.nav-btn:hover, label.upload-btn:hover { background: #25344f; border-color: #ff5376; }
-    button.nav-btn:disabled { opacity: 0.4; cursor: not-allowed; border-color: #1e3a8a; }
+    /* Top Navigation Bar */
+    header { 
+      padding: 12px 24px; 
+      background: #111e38; 
+      border-bottom: 1px solid #1e3a8a; 
+      display: flex; 
+      justify-content: space-between; 
+      align-items: center; 
+      gap: 12px; 
+      flex-wrap: wrap; 
+      z-index: 10; 
+    }
+    header h1 { 
+      font-size: 1.15rem; 
+      color: #ff5376; 
+      font-weight: 700; 
+      letter-spacing: -0.01em; 
+    }
+    .controls { 
+      display: flex; 
+      gap: 8px; 
+      align-items: center; 
+      flex-wrap: wrap; 
+    }
+    select, button.nav-btn, label.upload-btn { 
+      padding: 8px 14px; 
+      border-radius: 6px; 
+      background: #1d283a; 
+      color: #f1f5f9; 
+      border: 1px solid #3b82f6; 
+      cursor: pointer; 
+      font-size: 0.88rem; 
+      font-weight: 500; 
+      transition: all 0.2s ease; 
+    }
+    select:hover, button.nav-btn:hover, label.upload-btn:hover { 
+      background: #25344f; 
+      border-color: #ff5376; 
+    }
+    button.nav-btn:disabled { 
+      opacity: 0.4; 
+      cursor: not-allowed; 
+      border-color: #1e3a8a; 
+    }
     input[type="file"] { display: none; }
 
     /* Outer Container */
-    .split-container { display: flex; flex: 1; overflow: hidden; background: #070c1b; padding: 14px 16px; gap: 14px; position: relative; }
-
-    /* Independent Floating White Panes */
-    .pane-card { 
+    .split-container { 
+      display: flex; 
       flex: 1; 
-      background: #ffffff; 
-      border-radius: 14px; 
-      border: 1px solid #e2e8f0; 
-      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15); 
-      overflow-y: auto; 
-      padding: 32px 36px; 
-      line-height: 1.7; 
-      text-align: justify;
-      color: #334155;
-      font-size: 0.95rem;
+      overflow: hidden; 
+      background: #070c1b; 
+      padding: 14px 16px; 
+      gap: 14px; 
+      position: relative; 
     }
 
-    /* Primary Headings */
+    /* Left & Right Eye-Friendly Light Green Cards */
+    .pane-card { 
+      flex: 1; 
+      background-color: #edf7ee; 
+      border-radius: 14px; 
+      border: 1px solid #c8e6c9; 
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2); 
+      overflow-y: auto; 
+      padding: 32px 36px; 
+      line-height: 1.75; 
+      text-align: justify;
+      color: #1d4ed8; 
+      font-size: 0.96rem;
+    }
+
+    /* Primary Heading */
     .pane-card h1, .pane-card h2 { 
       color: #ff5376 !important; 
       font-size: 1.55rem;
@@ -46,79 +104,110 @@
       text-align: left; 
     }
 
-    /* Subtitles / Intro Paragraphs */
+    /* Subtitles and Topic Tags */
     .pane-subtitle { 
-      color: #64748b; 
+      color: #2563eb; 
       font-size: 0.95rem; 
       margin-bottom: 4px; 
       text-align: left;
     }
-    .pane-subtitle-italic { 
-      color: #64748b; 
-      font-style: italic; 
-      font-size: 0.92rem; 
-      margin-bottom: 22px; 
-      text-align: left; 
-      line-height: 1.5;
-    }
-
-    /* Topic Tag */
     .topic-tag { 
       color: #0284c7; 
       font-size: 0.9rem; 
-      font-weight: 600; 
-      margin-bottom: 20px; 
+      font-weight: 700; 
+      margin-bottom: 16px; 
       display: inline-block; 
       text-align: left;
     }
 
-    /* Section Subheadings (HELD, FACTS, ISSUES) */
-    .section-label { 
-      color: #0f172a; 
-      font-size: 1.15rem; 
-      font-weight: 800; 
-      margin-top: 26px; 
-      margin-bottom: 14px; 
-      letter-spacing: 0.04em; 
+    /* Text & Provision Styling */
+    .pane-card p { 
+      margin-bottom: 16px; 
+      color: #1e40af; 
+    }
+    .pane-card strong { 
+      color: #1e3a8a; 
+      font-weight: 700; 
+    }
+    .pane-card em { 
+      font-style: italic; 
+      color: #1d4ed8; 
+    }
+
+    /* Blockquote for Treachery & Special Definitions */
+    .pane-card blockquote {
+      margin: 14px 0 16px 20px;
+      padding-left: 14px;
+      border-left: 3px solid #60a5fa;
+      color: #1e3a8a;
+      font-style: italic;
+      font-size: 0.93rem;
+    }
+
+    /* Color-Coded Badges with Symbols for Digest Sections */
+    .badge-facts {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      background: #ccfbf1;
+      color: #0f766e;
+      border-left: 4px solid #0d9488;
+      padding: 4px 12px;
+      border-radius: 4px;
+      font-weight: 800;
+      font-size: 0.95rem;
+      letter-spacing: 0.05em;
+      margin: 22px 0 12px 0;
       text-transform: uppercase;
       text-align: left;
     }
-
-    /* Left Pane Statutory Provision List */
-    .pane-card p { margin-bottom: 16px; }
-    .pane-card strong { color: #0f172a; font-weight: 700; }
-    .pane-card em { font-style: italic; color: #475569; }
-
-    /* Left Pane Indented Definition Quotes */
-    .pane-card blockquote {
-      margin: 12px 0 16px 20px;
-      padding-left: 14px;
-      border-left: 3px solid #93c5fd;
-      color: #475569;
-      font-style: italic;
-      font-size: 0.92rem;
-    }
-
-    /* Right Pane Outlined Section Cards */
-    .decision-card {
-      background: #ffffff;
-      border: 1px solid #e2e8f0;
-      border-radius: 10px;
-      padding: 18px 22px;
-      margin-bottom: 18px;
-      box-shadow: 0 1px 3px rgba(0, 0, 0, 0.02);
-    }
-    .decision-card-title {
-      font-weight: 700;
-      color: #0f172a;
-      font-size: 1rem;
-      margin-bottom: 10px;
+    .badge-issue {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      background: #f3e8ff;
+      color: #6b21a8;
+      border-left: 4px solid #9333ea;
+      padding: 4px 12px;
+      border-radius: 4px;
+      font-weight: 800;
+      font-size: 0.95rem;
+      letter-spacing: 0.05em;
+      margin: 22px 0 12px 0;
+      text-transform: uppercase;
       text-align: left;
     }
-    .decision-card-body {
-      color: #334155;
-      line-height: 1.65;
-      font-size: 0.93rem;
+    .badge-held {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      background: #ffe4e6;
+      color: #be123c;
+      border-left: 4px solid #e11d48;
+      padding: 4px 12px;
+      border-radius: 4px;
+      font-weight: 800;
+      font-size: 0.95rem;
+      letter-spacing: 0.05em;
+      margin: 22px 0 12px 0;
+      text-transform: uppercase;
+      text-align: left;
+    }
+    .badge-ratio {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      background: #fef3c7;
+      color: #b45309;
+      border-left: 4px solid #d97706;
+      padding: 4px 12px;
+      border-radius: 4px;
+      font-weight: 800;
+      font-size: 0.95rem;
+      letter-spacing: 0.05em;
+      margin: 22px 0 12px 0;
+      text-transform: uppercase;
+      text-align: left;
     }
 
     /* Overview Case List Styling */
@@ -127,17 +216,29 @@
     .case-link-list a { 
       display: block; 
       padding: 10px 14px; 
-      background: #f8fafc; 
-      border: 1px solid #e2e8f0; 
+      background: #ffffff; 
+      border: 1px solid #c8e6c9; 
       border-radius: 8px; 
-      color: #0284c7; 
+      color: #1d4ed8; 
       text-decoration: none; 
       font-weight: 600; 
       transition: background 0.15s ease, border-color 0.15s ease; 
     }
-    .case-link-list a:hover { background: #f1f5f9; border-color: #ff5376; }
+    .case-link-list a:hover { background: #dcfce7; border-color: #ff5376; }
 
-    .back-overview-btn { display: inline-block; margin-top: 24px; padding: 10px 18px; background: #1d283a; color: #ff5376; border: 1px solid #3b82f6; border-radius: 6px; cursor: pointer; font-size: 0.9rem; text-decoration: none; font-weight: 600; }
+    .back-overview-btn { 
+      display: inline-block; 
+      margin-top: 24px; 
+      padding: 10px 18px; 
+      background: #1d283a; 
+      color: #ff5376; 
+      border: 1px solid #3b82f6; 
+      border-radius: 6px; 
+      cursor: pointer; 
+      font-size: 0.9rem; 
+      text-decoration: none; 
+      font-weight: 600; 
+    }
     .back-overview-btn:hover { background: #25344f; color: #ffffff; border-color: #ff5376; }
 
     /* Floating Scroll Arrow Button */
@@ -201,7 +302,7 @@
     <!-- Left Pane: Notes / Provisions -->
     <div class="pane-card" id="leftPaneContent">
       <h2>📑 Topic Overview</h2>
-      <p style="color:#64748b;">Select a topic above to view provision notes.</p>
+      <p style="color:#2563eb;">Select a topic above to view provision notes.</p>
     </div>
 
     <!-- Right Pane: Case Digest -->
@@ -219,6 +320,23 @@
     const USER = "PCGNG";
     const REPO = "Criminal-Law-I";
     let topicsData = {};
+
+    // Automatically color-codes headings and plain text sections (Facts, Issue, Held, Ruling, Ratio)
+    function stylizeLegalSections(html) {
+      return html
+        .replace(/<h[2-4][^>]*>\s*(📌\s*)?(Facts?)\s*<\/h[2-4]>/gi, '<div class="badge-facts">📌 Facts</div>')
+        .replace(/<h[2-4][^>]*>\s*(❓\s*)?(Issues?)\s*<\/h[2-4]>/gi, '<div class="badge-issue">❓ Issue</div>')
+        .replace(/<h[2-4][^>]*>\s*(🔨\s*)?(Held|Ruling)\s*<\/h[2-4]>/gi, '<div class="badge-held">🔨 $2</div>')
+        .replace(/<h[2-4][^>]*>\s*(💡\s*)?(Ratio|Ratio Decidendi)\s*<\/h[2-4]>/gi, '<div class="badge-ratio">💡 $2</div>')
+        .replace(/(<p>|^)\s*(📌\s*)?<strong>\s*(Facts?)\s*:?<\/strong>/gi, '$1<div class="badge-facts">📌 Facts</div><br>')
+        .replace(/(<p>|^)\s*(❓\s*)?<strong>\s*(Issues?)\s*:?<\/strong>/gi, '$1<div class="badge-issue">❓ Issue</div><br>')
+        .replace(/(<p>|^)\s*(🔨\s*)?<strong>\s*(Held|Ruling)\s*:?<\/strong>/gi, '$1<div class="badge-held">🔨 $3</div><br>')
+        .replace(/(<p>|^)\s*(💡\s*)?<strong>\s*(Ratio|Ratio Decidendi)\s*:?<\/strong>/gi, '$1<div class="badge-ratio">💡 $3</div><br>')
+        .replace(/<p>\s*Facts\s*<\/p>/gi, '<div class="badge-facts">📌 Facts</div>')
+        .replace(/<p>\s*Issue\s*<\/p>/gi, '<div class="badge-issue">❓ Issue</div>')
+        .replace(/<p>\s*(Held|Ruling)\s*<\/p>/gi, '<div class="badge-held">🔨 $1</div>')
+        .replace(/<p>\s*(Ratio|Ratio Decidendi)\s*<\/p>/gi, '<div class="badge-ratio">💡 $1</div>');
+    }
 
     async function loadTopics() {
       const topicSelector = document.getElementById('topicSelector');
@@ -296,22 +414,23 @@
     async function loadTopicNotesIntoLeftPane(topicName) {
       const topicInfo = topicsData[topicName];
       const leftPane = document.getElementById('leftPaneContent');
-      leftPane.innerHTML = `<h2>📑 ${topicName}</h2><p style="color:#64748b;">Loading notes...</p>`;
+      leftPane.innerHTML = `<h2>📑 ${topicName}</h2><p style="color:#2563eb;">Loading notes...</p>`;
 
       try {
         const res = await fetch(topicInfo.topicNotePath);
         if (res.ok) {
           const text = await res.text();
-          leftPane.innerHTML = `<h2>📑 ${topicName}</h2><hr style="margin:16px 0 20px; border:0; border-top:1px solid #e2e8f0;">` + marked.parse(text);
+          const parsed = marked.parse(text);
+          leftPane.innerHTML = `<h2>📑 ${topicName}</h2><hr style="margin:16px 0 20px; border:0; border-top:1px solid #c8e6c9;">` + stylizeLegalSections(parsed);
         } else {
           throw new Error("No custom notes");
         }
       } catch (err) {
         leftPane.innerHTML = `
           <h2>📑 ${topicName}</h2>
-          <hr style="margin:16px 0 20px; border:0; border-top:1px solid #e2e8f0;">
+          <hr style="margin:16px 0 20px; border:0; border-top:1px solid #c8e6c9;">
           <p class="pane-subtitle">No custom overview text file found for this topic yet.</p>
-          <p style="color:#94a3b8; font-size:0.85rem; margin-top:10px;">Tip: Create a text file named <b>${topicName}.txt</b> inside your root <b>digests/</b> folder on GitHub to display your notes here.</p>
+          <p style="color:#64748b; font-size:0.85rem; margin-top:10px;">Tip: Create a text file named <b>${topicName}.txt</b> inside your root <b>digests/</b> folder on GitHub to display your notes here.</p>
         `;
       }
     }
@@ -332,7 +451,7 @@
       contentBox.innerHTML = `
         <h2>📋 Case List: ${selectedTopic}</h2>
         <p class="pane-subtitle" style="margin-bottom:16px;">Select any case below to view its full text digest on this screen.</p>
-        <hr style="margin:14px 0 20px; border:0; border-top:1px solid #e2e8f0;">
+        <hr style="margin:14px 0 20px; border:0; border-top:1px solid #c8e6c9;">
         <ul class="case-link-list">${caseListHTML}</ul>
       `;
     }
@@ -362,21 +481,23 @@
       document.getElementById('nextBtn').disabled = (idx === cases.length - 1);
 
       const contentBox = document.getElementById('digestContent');
-      contentBox.innerHTML = `<h2>${item.title}</h2><div class="topic-tag">Topic: ${item.topic}</div><p style="color:#64748b;">Loading case digest file...</p>`;
+      contentBox.innerHTML = `<h2>${item.title}</h2><div class="topic-tag">Topic: ${item.topic}</div><p style="color:#2563eb;">Loading case digest file...</p>`;
 
       try {
         const res = await fetch(item.digestPath);
         if (!res.ok) throw new Error("File not found");
         const text = await res.text();
+        const parsed = marked.parse(text);
+        const styledText = stylizeLegalSections(parsed);
         
-        const backButtonHTML = `<hr style="margin:32px 0 16px 0; border:0; border-top:1px solid #e2e8f0;"><button onclick="goToOverview()" class="back-overview-btn">⬅️ Back to Case List</button>`;
+        const backButtonHTML = `<hr style="margin:32px 0 16px 0; border:0; border-top:1px solid #c8e6c9;"><button onclick="goToOverview()" class="back-overview-btn">⬅️ Back to Case List</button>`;
         
-        contentBox.innerHTML = `<h2>${item.title}</h2><div class="topic-tag">Topic: ${item.topic}</div><hr style="margin:8px 0 20px; border:0; border-top:1px solid #e2e8f0;">` + marked.parse(text) + backButtonHTML;
+        contentBox.innerHTML = `<h2>${item.title}</h2><div class="topic-tag">Topic: ${item.topic}</div><hr style="margin:8px 0 20px; border:0; border-top:1px solid #c8e6c9;">` + styledText + backButtonHTML;
       } catch (err) {
         contentBox.innerHTML = `
           <h2>${item.title}</h2>
           <div class="topic-tag">Topic: ${item.topic}</div>
-          <hr style="margin:8px 0 20px; border:0; border-top:1px solid #e2e8f0;">
+          <hr style="margin:8px 0 20px; border:0; border-top:1px solid #c8e6c9;">
           <p style="color:#ef4444;">Digest file not found at <code>${item.digestPath}</code></p>
           <button onclick="goToOverview()" class="back-overview-btn">⬅️ Back to Case List</button>
         `;
@@ -408,8 +529,10 @@
       if (file) {
         const reader = new FileReader();
         reader.onload = e => {
-          const backButtonHTML = `<hr style="margin:32px 0 16px 0; border:0; border-top:1px solid #e2e8f0;"><button onclick="goToOverview()" class="back-overview-btn">⬅️ Back to Case List</button>`;
-          document.getElementById('digestContent').innerHTML = `<h2>${file.name}</h2><hr style="margin:8px 0 20px; border:0; border-top:1px solid #e2e8f0;">` + marked.parse(e.target.result) + backButtonHTML;
+          const parsed = marked.parse(e.target.result);
+          const styledText = stylizeLegalSections(parsed);
+          const backButtonHTML = `<hr style="margin:32px 0 16px 0; border:0; border-top:1px solid #c8e6c9;"><button onclick="goToOverview()" class="back-overview-btn">⬅️ Back to Case List</button>`;
+          document.getElementById('digestContent').innerHTML = `<h2>${file.name}</h2><hr style="margin:8px 0 20px; border:0; border-top:1px solid #c8e6c9;">` + styledText + backButtonHTML;
         };
         reader.readAsText(file);
       }
