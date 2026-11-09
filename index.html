@@ -6,59 +6,167 @@
   <title>Criminal Law I Review by PCGNG</title>
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
   <style>
-    * { box-sizing: border-box; margin: 0; padding: 0; font-family: system-ui, -apple-system, sans-serif; }
-    body { display: flex; flex-direction: column; height: 100vh; background: #0b1329; color: #1e293b; }
-    
-    /* Top Header & Navigation */
-    header { padding: 12px 24px; background: #111e38; border-bottom: 1px solid #1e3a8a; display: flex; justify-content: space-between; align-items: center; gap: 12px; flex-wrap: wrap; }
-    header h1 { font-size: 1.15rem; color: #f472b6; }
+    * { box-sizing: border-box; margin: 0; padding: 0; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
+    body { display: flex; flex-direction: column; height: 100vh; background: #0b1329; color: #1e293b; overflow: hidden; }
+
+    /* Top Navigation Header */
+    header { padding: 12px 24px; background: #111e38; border-bottom: 1px solid #1e3a8a; display: flex; justify-content: space-between; align-items: center; gap: 12px; flex-wrap: wrap; z-index: 10; }
+    header h1 { font-size: 1.15rem; color: #ff5376; font-weight: 700; letter-spacing: -0.01em; }
     .controls { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; }
-    select, button.nav-btn, label.upload-btn { padding: 8px 12px; border-radius: 6px; background: #1d283a; color: #f1f5f9; border: 1px solid #3b82f6; cursor: pointer; font-size: 0.88rem; }
-    select:hover, button.nav-btn:hover, label.upload-btn:hover { background: #25344f; border-color: #f472b6; }
+    select, button.nav-btn, label.upload-btn { padding: 8px 14px; border-radius: 6px; background: #1d283a; color: #f1f5f9; border: 1px solid #3b82f6; cursor: pointer; font-size: 0.88rem; font-weight: 500; transition: all 0.2s ease; }
+    select:hover, button.nav-btn:hover, label.upload-btn:hover { background: #25344f; border-color: #ff5376; }
     button.nav-btn:disabled { opacity: 0.4; cursor: not-allowed; border-color: #1e3a8a; }
     input[type="file"] { display: none; }
-    
-    /* Two-Pane Layout */
-    .split-container { display: flex; flex: 1; overflow: hidden; background: #e2e8f0; }
-    .pane { flex: 1; overflow-y: auto; padding: 28px; line-height: 1.7; text-align: justify; }
-    
-    /* Left Pane: White background with high-contrast text */
-    .left-pane { border-right: 1px solid #cbd5e1; background: #ffffff; color: #1e293b; font-size: 0.95rem; }
-    
-    /* Right Pane: Light background container with pure white digest card */
-    .right-pane { background: #f1f5f9; }
-    .digest-card { 
-      max-width: 760px; 
-      margin: 0 auto; 
+
+    /* Outer Container */
+    .split-container { display: flex; flex: 1; overflow: hidden; background: #070c1b; padding: 14px 16px; gap: 14px; position: relative; }
+
+    /* Independent Floating White Panes */
+    .pane-card { 
+      flex: 1; 
       background: #ffffff; 
-      color: #1e293b;
-      padding: 28px; 
-      border-radius: 8px; 
-      border: 1px solid #cbd5e1; 
-      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
-      white-space: pre-wrap; 
-      font-size: 0.95rem; 
+      border-radius: 14px; 
+      border: 1px solid #e2e8f0; 
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15); 
+      overflow-y: auto; 
+      padding: 32px 36px; 
+      line-height: 1.7; 
+      text-align: justify;
+      color: #334155;
+      font-size: 0.95rem;
     }
-    
-    /* Headings: Retain signature hot-pink color */
-    .digest-card h1, .digest-card h2, .digest-card h3, .left-pane h2, .left-pane h3 { 
-      color: #f472b6 !important; 
+
+    /* Primary Headings */
+    .pane-card h1, .pane-card h2 { 
+      color: #ff5376 !important; 
+      font-size: 1.55rem;
+      font-weight: 700; 
+      line-height: 1.35;
       margin-bottom: 8px; 
-      margin-top: 14px; 
       text-align: left; 
     }
-    
-    /* Subheadings (Facts, Issues, Held) & Emphasized Text */
-    .digest-card strong, .left-pane strong { color: #0f172a; font-weight: 700; }
-    .digest-card em, .left-pane em { font-style: italic; color: #be185d; }
-    
-    /* Back Button */
-    .back-overview-btn { display: inline-block; margin-top: 24px; padding: 10px 16px; background: #1d283a; color: #f472b6; border: 1px solid #3b82f6; border-radius: 6px; cursor: pointer; font-size: 0.9rem; text-decoration: none; font-weight: 500; }
-    .back-overview-btn:hover { background: #25344f; color: #ffffff; border-color: #f472b6; }
-    
-    @media (max-width: 800px) { 
-      .split-container { flex-direction: column; } 
-      .left-pane { border-right: none; border-bottom: 1px solid #cbd5e1; } 
+
+    /* Subtitles / Intro Paragraphs */
+    .pane-subtitle { 
+      color: #64748b; 
+      font-size: 0.95rem; 
+      margin-bottom: 4px; 
+      text-align: left;
+    }
+    .pane-subtitle-italic { 
+      color: #64748b; 
+      font-style: italic; 
+      font-size: 0.92rem; 
+      margin-bottom: 22px; 
+      text-align: left; 
+      line-height: 1.5;
+    }
+
+    /* Topic Tag */
+    .topic-tag { 
+      color: #0284c7; 
+      font-size: 0.9rem; 
+      font-weight: 600; 
+      margin-bottom: 20px; 
+      display: inline-block; 
+      text-align: left;
+    }
+
+    /* Section Subheadings (HELD, FACTS, ISSUES) */
+    .section-label { 
+      color: #0f172a; 
+      font-size: 1.15rem; 
+      font-weight: 800; 
+      margin-top: 26px; 
+      margin-bottom: 14px; 
+      letter-spacing: 0.04em; 
+      text-transform: uppercase;
+      text-align: left;
+    }
+
+    /* Left Pane Statutory Provision List */
+    .pane-card p { margin-bottom: 16px; }
+    .pane-card strong { color: #0f172a; font-weight: 700; }
+    .pane-card em { font-style: italic; color: #475569; }
+
+    /* Left Pane Indented Definition Quotes */
+    .pane-card blockquote {
+      margin: 12px 0 16px 20px;
+      padding-left: 14px;
+      border-left: 3px solid #93c5fd;
+      color: #475569;
+      font-style: italic;
+      font-size: 0.92rem;
+    }
+
+    /* Right Pane Outlined Section Cards */
+    .decision-card {
+      background: #ffffff;
+      border: 1px solid #e2e8f0;
+      border-radius: 10px;
+      padding: 18px 22px;
+      margin-bottom: 18px;
+      box-shadow: 0 1px 3px rgba(0, 0, 0, 0.02);
+    }
+    .decision-card-title {
+      font-weight: 700;
+      color: #0f172a;
+      font-size: 1rem;
+      margin-bottom: 10px;
+      text-align: left;
+    }
+    .decision-card-body {
+      color: #334155;
+      line-height: 1.65;
+      font-size: 0.93rem;
+    }
+
+    /* Overview Case List Styling */
+    .case-link-list { list-style: none; padding: 0; margin-top: 16px; }
+    .case-link-list li { margin-bottom: 10px; }
+    .case-link-list a { 
+      display: block; 
+      padding: 10px 14px; 
+      background: #f8fafc; 
+      border: 1px solid #e2e8f0; 
+      border-radius: 8px; 
+      color: #0284c7; 
+      text-decoration: none; 
+      font-weight: 600; 
+      transition: background 0.15s ease, border-color 0.15s ease; 
+    }
+    .case-link-list a:hover { background: #f1f5f9; border-color: #ff5376; }
+
+    .back-overview-btn { display: inline-block; margin-top: 24px; padding: 10px 18px; background: #1d283a; color: #ff5376; border: 1px solid #3b82f6; border-radius: 6px; cursor: pointer; font-size: 0.9rem; text-decoration: none; font-weight: 600; }
+    .back-overview-btn:hover { background: #25344f; color: #ffffff; border-color: #ff5376; }
+
+    /* Floating Scroll Arrow Button */
+    .fab-scroll {
+      position: absolute;
+      bottom: 24px;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 44px;
+      height: 44px;
+      background: #1e293b;
+      color: #ffffff;
+      border: 1px solid #334155;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.35);
+      z-index: 20;
+      transition: background 0.2s, transform 0.2s;
+    }
+    .fab-scroll:hover { background: #0f172a; transform: translateX(-50%) scale(1.08); }
+    .fab-scroll svg { width: 20px; height: 20px; fill: currentColor; }
+
+    @media (max-width: 850px) { 
+      .split-container { flex-direction: column; padding: 8px; } 
+      .pane-card { padding: 20px; }
+      .fab-scroll { display: none; }
     }
   </style>
 </head>
@@ -90,16 +198,21 @@
   </header>
 
   <div class="split-container">
-    <!-- Left Pane: Topic Notes -->
-    <div class="pane left-pane" id="leftPaneContent">
-      <h2 style="color:#f472b6;">📚 Topic Overview</h2>
-      <p style="color:#475569;">Select a topic to view notes.</p>
+    <!-- Left Pane: Notes / Provisions -->
+    <div class="pane-card" id="leftPaneContent">
+      <h2>📑 Topic Overview</h2>
+      <p style="color:#64748b;">Select a topic above to view provision notes.</p>
     </div>
 
-    <!-- Right Pane: Case List or Case Digest -->
-    <div class="pane right-pane">
-      <div class="digest-card" id="digestContent">Select a topic to begin.</div>
+    <!-- Right Pane: Case Digest -->
+    <div class="pane-card" id="rightPaneContent">
+      <div id="digestContent">Select a topic to begin.</div>
     </div>
+
+    <!-- Floating Scroll Indicator Button -->
+    <button class="fab-scroll" onclick="scrollPanesDown()" title="Scroll Down">
+      <svg viewBox="0 0 24 24"><path d="M12 15.586l4.293-4.293a1 1 0 0 1 1.414 1.414l-5 5a1 1 0 0 1-1.414 0l-5-5a1 1 0 1 1 1.414-1.414L12 15.586z"/></svg>
+    </button>
   </div>
 
   <script>
@@ -183,22 +296,22 @@
     async function loadTopicNotesIntoLeftPane(topicName) {
       const topicInfo = topicsData[topicName];
       const leftPane = document.getElementById('leftPaneContent');
-      leftPane.innerHTML = `<h2 style="color:#f472b6;">📚 ${topicName}</h2><p style="color:#475569;">Loading topic notes...</p>`;
+      leftPane.innerHTML = `<h2>📑 ${topicName}</h2><p style="color:#64748b;">Loading notes...</p>`;
 
       try {
         const res = await fetch(topicInfo.topicNotePath);
         if (res.ok) {
           const text = await res.text();
-          leftPane.innerHTML = `<h2 style="color:#f472b6;">📚 ${topicName}</h2><hr style="margin:16px 0; border:0; border-top:1px solid #cbd5e1;">` + marked.parse(text);
+          leftPane.innerHTML = `<h2>📑 ${topicName}</h2><hr style="margin:16px 0 20px; border:0; border-top:1px solid #e2e8f0;">` + marked.parse(text);
         } else {
           throw new Error("No custom notes");
         }
       } catch (err) {
         leftPane.innerHTML = `
-          <h2 style="color:#f472b6;">📚 ${topicName}</h2>
-          <hr style="margin:16px 0; border:0; border-top:1px solid #cbd5e1;">
-          <p style="color:#475569;">No custom overview text file found for this topic yet.</p>
-          <p style="color:#64748b; font-size:0.85rem; margin-top:10px;">Tip: Create a text file named <b>${topicName}.txt</b> inside your root <b>digests/</b> folder on GitHub to display your notes here.</p>
+          <h2>📑 ${topicName}</h2>
+          <hr style="margin:16px 0 20px; border:0; border-top:1px solid #e2e8f0;">
+          <p class="pane-subtitle">No custom overview text file found for this topic yet.</p>
+          <p style="color:#94a3b8; font-size:0.85rem; margin-top:10px;">Tip: Create a text file named <b>${topicName}.txt</b> inside your root <b>digests/</b> folder on GitHub to display your notes here.</p>
         `;
       }
     }
@@ -212,15 +325,15 @@
       document.getElementById('nextBtn').disabled = true;
 
       let caseListHTML = topicInfo.cases.length > 0 
-        ? topicInfo.cases.map((c, i) => `<li style="margin-bottom: 10px;"><a href="#" onclick="selectCaseFromOverview(${i}); return false;" style="color: #0284c7; text-decoration: none; font-weight: 500;">${c.title}</a></li>`).join('')
+        ? topicInfo.cases.map((c, i) => `<li><a href="#" onclick="selectCaseFromOverview(${i}); return false;">${c.title}</a></li>`).join('')
         : '<li>No cases uploaded for this topic yet.</li>';
 
       const contentBox = document.getElementById('digestContent');
       contentBox.innerHTML = `
-        <h2 style="color:#f472b6;">📋 Case List for ${selectedTopic}</h2>
-        <p style="color:#475569; font-size:0.9rem; margin-bottom:16px;">Select any case below to view its full text digest on this screen. Your topic notes remain visible on the left!</p>
-        <hr style="margin:12px 0; border:0; border-top:1px solid #cbd5e1;">
-        <ul style="padding-left: 20px; line-height: 1.8; margin-top: 14px; text-align: left;">${caseListHTML}</ul>
+        <h2>📋 Case List: ${selectedTopic}</h2>
+        <p class="pane-subtitle" style="margin-bottom:16px;">Select any case below to view its full text digest on this screen.</p>
+        <hr style="margin:14px 0 20px; border:0; border-top:1px solid #e2e8f0;">
+        <ul class="case-link-list">${caseListHTML}</ul>
       `;
     }
 
@@ -249,21 +362,21 @@
       document.getElementById('nextBtn').disabled = (idx === cases.length - 1);
 
       const contentBox = document.getElementById('digestContent');
-      contentBox.innerHTML = `<h2 style="color:#f472b6;">${item.title}</h2><p style="color:#0284c7; font-size:0.85rem; margin-bottom:12px;">Topic: ${item.topic}</p><p style="color:#475569;">Loading case digest file...</p>`;
+      contentBox.innerHTML = `<h2>${item.title}</h2><div class="topic-tag">Topic: ${item.topic}</div><p style="color:#64748b;">Loading case digest file...</p>`;
 
       try {
         const res = await fetch(item.digestPath);
         if (!res.ok) throw new Error("File not found");
         const text = await res.text();
         
-        const backButtonHTML = `<hr style="margin:32px 0 16px 0; border:0; border-top:1px solid #cbd5e1;"><button onclick="goToOverview()" class="back-overview-btn">⬅️ Back to Case List</button>`;
+        const backButtonHTML = `<hr style="margin:32px 0 16px 0; border:0; border-top:1px solid #e2e8f0;"><button onclick="goToOverview()" class="back-overview-btn">⬅️ Back to Case List</button>`;
         
-        contentBox.innerHTML = `<h2 style="color:#f472b6;">${item.title}</h2><p style="color:#0284c7; font-size:0.85rem; margin-bottom:12px;">Topic: ${item.topic}</p><hr style="margin:12px 0; border:0; border-top:1px solid #cbd5e1;">` + marked.parse(text) + backButtonHTML;
+        contentBox.innerHTML = `<h2>${item.title}</h2><div class="topic-tag">Topic: ${item.topic}</div><hr style="margin:8px 0 20px; border:0; border-top:1px solid #e2e8f0;">` + marked.parse(text) + backButtonHTML;
       } catch (err) {
         contentBox.innerHTML = `
-          <h2 style="color:#f472b6;">${item.title}</h2>
-          <p style="color:#0284c7; font-size:0.85rem; margin-bottom:12px;">Topic: ${item.topic}</p>
-          <hr style="margin:12px 0; border:0; border-top:1px solid #cbd5e1;">
+          <h2>${item.title}</h2>
+          <div class="topic-tag">Topic: ${item.topic}</div>
+          <hr style="margin:8px 0 20px; border:0; border-top:1px solid #e2e8f0;">
           <p style="color:#ef4444;">Digest file not found at <code>${item.digestPath}</code></p>
           <button onclick="goToOverview()" class="back-overview-btn">⬅️ Back to Case List</button>
         `;
@@ -295,11 +408,18 @@
       if (file) {
         const reader = new FileReader();
         reader.onload = e => {
-          const backButtonHTML = `<hr style="margin:32px 0 16px 0; border:0; border-top:1px solid #cbd5e1;"><button onclick="goToOverview()" class="back-overview-btn">⬅️ Back to Case List</button>`;
-          document.getElementById('digestContent').innerHTML = `<h2 style="color:#f472b6;">${file.name}</h2><hr style="margin:12px 0; border:0; border-top:1px solid #cbd5e1;">` + marked.parse(e.target.result) + backButtonHTML;
+          const backButtonHTML = `<hr style="margin:32px 0 16px 0; border:0; border-top:1px solid #e2e8f0;"><button onclick="goToOverview()" class="back-overview-btn">⬅️ Back to Case List</button>`;
+          document.getElementById('digestContent').innerHTML = `<h2>${file.name}</h2><hr style="margin:8px 0 20px; border:0; border-top:1px solid #e2e8f0;">` + marked.parse(e.target.result) + backButtonHTML;
         };
         reader.readAsText(file);
       }
+    }
+
+    function scrollPanesDown() {
+      const right = document.getElementById('rightPaneContent');
+      const left = document.getElementById('leftPaneContent');
+      if (right) right.scrollBy({ top: 350, behavior: 'smooth' });
+      if (left) left.scrollBy({ top: 350, behavior: 'smooth' });
     }
 
     loadTopics();
