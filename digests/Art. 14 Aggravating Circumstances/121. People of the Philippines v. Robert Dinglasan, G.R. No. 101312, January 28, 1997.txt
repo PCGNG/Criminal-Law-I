@@ -4,7 +4,7 @@
 
 ---
 
-#### **I. Facts**
+#### Facts
 
 At around 5:00 in the afternoon of September 5, 1990, along Camia Street, Jabson Site, Rosario, Pasig, Metro Manila, Efren Lasona was standing near a bakery conversing with Rolando Quintanilla. Suddenly, a group of armed young men arrived, which included accused-appellant Robert Dinglasan (alias "Obet"), Reynaldo Tapia, Manolo Bongalos, and an individual known only as "Jetlee."
 
@@ -14,7 +14,7 @@ Dinglasan was arrested, while his co-accused remained at large. Dinglasan was ch
 
 ---
 
-#### **II. Issues**
+#### Issues
 
 1. Whether the positive identification of accused-appellant by eyewitnesses was sufficient to overcome his defense of denial and alibi.
 2. Whether non-flight by the accused-appellant is conclusive proof of his innocence.
@@ -23,7 +23,7 @@ Dinglasan was arrested, while his co-accused remained at large. Dinglasan was ch
 
 ---
 
-#### **III. Held**
+#### Held
 
 1. **Yes.** Eyewitnesses Rolando Quintanilla and Rosario Santos categorically identified Dinglasan and detailed his direct participation in restraining the victim. Positive, clear, and credible eyewitness identification prevails over bare denial and alibi.
 2. **No.** Non-flight does not automatically negate guilt or establish innocence; it may simply stem from bravado or a mistaken belief that no eyewitnesses would come forward.
@@ -32,7 +32,7 @@ Dinglasan was arrested, while his co-accused remained at large. Dinglasan was ch
 
 ---
 
-#### **IV. Ratio Decidendi**
+#### Ratio
 
 * **Credibility of Witnesses and Deference to the Trial Court:**
 The Supreme Court reiterated the well-entrenched doctrine that the factual findings and assessments of witness credibility by the trial court are entitled to the highest respect on appeal. The trial judge had the direct, unique opportunity to observe the demeanor, deportment, and manner of testifying of the witnesses under cross-examination. Absent any showing of arbitrariness, oversight, or misinterpretation of material facts, appellate courts will not disturb those findings.
@@ -50,7 +50,7 @@ Treachery attended the killing because the accused employed means and methods of
 
 ---
 
-#### **V. Fallo**
+#### Fallo
 
 > *"WHEREFORE, the appeal is DISMISSED. The decision of the Regional Trial Court finding appellant Robert Dinglasan y Mangino guilty beyond reasonable doubt of the crime of murder and sentencing him to reclusion perpetua and to pay the heirs of the deceased civil indemnity in the amount of P50,000.00, plus P12,000.00 as funeral expenses, is hereby AFFIRMED in toto. Costs against appellant.*
 > *SO ORDERED."*
