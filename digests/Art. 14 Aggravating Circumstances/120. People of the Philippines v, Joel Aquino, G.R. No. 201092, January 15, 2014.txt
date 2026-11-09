@@ -1,4 +1,4 @@
-#### **Facts**
+#### Facts
 
 On the evening of September 5, 2002, Jesus Lita, accompanied by his ten-year-old son, Jefferson, went out aboard his black Kawasaki tricycle. Along the way, accused Joel Aquino alias "Akong," together with Noynoy Almoguera (alias "Negro"), Rodnal, and three others, boarded the tricycle and asked to be brought to Aquino's nipa hut in San Rafael IV, City of San Jose del Monte, Bulacan. At the hut, the adults engaged in a *shabu* session while Jefferson watched television.
 
@@ -15,7 +15,7 @@ Aquino interposed the defense of denial and alibi, claiming he was working as a 
 
 ---
 
-#### **Issues**
+#### Issues
 
 1. Whether the positive identification of the accused by the lone minor eyewitness (the victim's 10-year-old son) was sufficient to overcome Aquino's defense of denial and alibi.
 2. Whether the qualifying circumstance of **treachery (*alevosia*)** and the aggravating circumstance of **abuse of superior strength** attended the killing.
@@ -24,7 +24,7 @@ Aquino interposed the defense of denial and alibi, claiming he was working as a 
 
 ---
 
-#### **Held**
+#### Held
 
 1. **Yes.** The testimony of the minor eyewitness was categorical, consistent, and credible, having directly witnessed the stabbing and disposal of his father's body while seated right beside the accused. Denial and alibi cannot prevail over positive, credible identification.
 2. **Yes, as to Treachery; No, as to separate Abuse of Superior Strength.** Treachery attended the killing, but abuse of superior strength was absorbed by treachery.
@@ -33,7 +33,7 @@ Aquino interposed the defense of denial and alibi, claiming he was working as a 
 
 ---
 
-#### **Ratio Decidendi**
+#### Ratio Decidendi
 
 * **Treachery (*Alevosia*):**
 Treachery was clearly established. Jesus was driving the tricycle at night, focusing on the road. The assailants were seated behind him on the motorcycle and inside the sidecar. The sudden stabbing from behind and from his blind side while navigating the vehicle afforded the victim absolutely no opportunity to defend himself, evade the assault, or retaliate.
@@ -49,7 +49,7 @@ Under Article 248 of the RPC, Murder is penalized by *reclusion perpetua* to dea
 
 ---
 
-#### **Fallo**
+#### Fallo
 
 The Supreme Court **AFFIRMED with MODIFICATIONS** the Court of Appeals Decision:
 
