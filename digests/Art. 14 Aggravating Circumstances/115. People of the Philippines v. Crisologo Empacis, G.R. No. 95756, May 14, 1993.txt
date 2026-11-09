@@ -1,4 +1,4 @@
-Facts
+### Facts
 At around 9:00 PM on September 16, 1986, Fidel Saromines and his wife, Camila, were preparing to close their small sari-sari store located in their house in Kanguha, Dumanjug, Cebu. Accused-appellant Crisologo Empacis and his companion Romualdo Langomez arrived, pretending to be bona fide customers wanting to buy sardines and rice. Camila served them, and the two ate inside the premises. 
 After finishing their meal, Langomez demanded cigarettes. As Fidel handed them over, Langomez announced a hold-up and ordered Fidel to surrender his money. Fidel initially reached for ₱12,000.00 wrapped in cellophane, but suddenly resisted, prompting a struggle. Langomez drew a knife and stabbed Fidel about three times; Empacis joined in and also stabbed Fidel. 
 
@@ -7,17 +7,17 @@ Empacis sought treatment for his bolo wounds at a local medical clinic, claiming
 
 The Regional Trial Court (RTC) of Cebu City, Branch 11, convicted Empacis of the special complex crime of Robbery with Homicide under Article 294, paragraph 1 of the Revised Penal Code (RPC), sentenced him to reclusion perpetua (the death penalty being suspended under the 1987 Constitution at the time), and appreciated four generic aggravating circumstances: dwelling, nighttime, craft or fraud, and taking advantage of superior strength. Empacis appealed his conviction to the Supreme Court. 
 
-Issues
+### Issues
 1.	Whether conspiracy was sufficiently established between Empacis and Langomez to hold Empacis criminally liable as a co-principal for Robbery with Homicide. 
 2.	Whether the generic aggravating circumstance of craft or fraud (artificio o engaño) was properly appreciated. 
 3.	Whether the generic aggravating circumstances of nighttime (nocturnidad), abuse of superior strength, and dwelling (morada) were attendant in the commission of the crime. 
 
-Held 
+### Held 
 1.	Yes. Conspiracy was fully established. The accused-appellant and his companion acted in concert—arriving together under the same pretense, simultaneously attacking the victim with bladed weapons, and fleeing together with the stolen money. 
 2.	Yes. The aggravating circumstance of craft or fraud was properly appreciated. The perpetrators feigned being hungry customers seeking food and cigarettes as a stratagem to gain entrance to the house/store and catch the victims off guard. 
 3.	Yes. The generic aggravating circumstances of nighttime, abuse of superior strength, and dwelling were all correctly appreciated.
 
-Ratio:
+### Ratio:
 The aggravating circumstance of craft or fraud23 was properly appreciated against Empacis. He and Romualdo pretended to be bona fide customers of the victim's store and on his pretext gained entry into the latter's store and later, into another part of his dwelling. This Court has held stratagems and ruses of this sort to constitute the aggravating circumstance of fraud or craft, e.g: where the accused —
 
 a) pretended to be constabulary soldiers and by that ploy gained entry into the residence of their prey whom they thereafter robbed and killed;
@@ -32,7 +32,7 @@ The Court also agrees that nighttime was properly appreciated as an aggravating 
 For the aggravating circumstance of superior strength to be deemed present in a case, it does not suffice to prove superiority in number on the part of the malefactors;32 it must appear that they purposely employed excessive force, force out of proportion to the means of defense available to the person attacked.33 In this case, the evidence shows that Empacis helped his co-accused by also stabbing the victim; he and his companion took advantage of their combined strength and their bladed weapons to overcome their unarmed victim and assure the success of their felonious design to make off with his money.
 That the crime was "committed in the dwelling of the offended party, . . . the latter . . . not (having) given provacation," was also correctly appreciated as an aggravating circumstance.
 
-What aggravating circumstances were appreciated by the Supreme Court in this case?
+### What aggravating circumstances were appreciated by the Supreme Court in this case?
 In People v. Empacis (G.R. No. 95756, May 14, 1993), the Supreme Court appreciated four generic aggravating circumstances:
 
 1. Craft or Fraud (Artificio o Engaño — Art. 14, Par. 14, RPC)
