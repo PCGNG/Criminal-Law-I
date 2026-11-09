@@ -1,1 +1,63 @@
+### **People of the Philippines v. Perlito Mondigo y Abemalez**
 
+**G.R. No. 167954 | January 31, 2008 | Carpio, *J.***
+
+---
+
+#### **Facts**
+
+Appellant Perlito Mondigo was charged before the Regional Trial Court (RTC) of Malolos, Bulacan, with two separate offenses: **Murder** (for the fatal hacking of Damaso Delima) and **Frustrated Murder** (for the hacking of Damaso’s son, Anthony Delima).
+
+* **The Incident (April 4, 1999):** In the afternoon, Anthony Delima, his father Damaso Delima, and several companions were having a drinking spree in front of a store in Barangay Sta. Cruz, Guiguinto, Bulacan. Appellant Mondigo joined the group and drank beer.
+* Moments later, appellant slipped out unnoticed, went back to his house nearby, and retrieved a 22-inch bolo. Returning silently while Anthony was seated and conversing with the group, appellant suddenly hacked Anthony on the left side of his head, causing a 15.25-centimeter laceration that fractured his skull and rendered him unconscious.
+* Damaso rushed toward appellant to stop him, but appellant turned on Damaso and attacked him with the bolo. When a neighbor, Lumagi, responded to shouts for help, she witnessed appellant repeatedly hacking Damaso, who was already flat on his back on the ground with his arms raised in a futile attempt to ward off blows. Damaso sustained multiple hacking and stab wounds that caused his immediate death. Anthony survived due to prompt medical intervention.
+* **Defense Theory:** Appellant invoked **self-defense**. He claimed that an argument arose during the drinking session; that Anthony struck him with a flat bar; and that Damaso lunged at him with a bolo. Appellant alleged he merely wrested the bolo away from Damaso and swung it in defense. Alternatively, he claimed that **intoxication** should mitigate his criminal liability.
+
+The RTC rejected the claim of self-defense, convicting appellant of Murder for Damaso's death and Serious Physical Injuries for the assault on Anthony. The Court of Appeals (CA) affirmed the conviction for Murder and upgraded the offense against Anthony to Frustrated Murder.
+
+---
+
+#### **Issues**
+
+1. Whether appellant successfully proved the justifying circumstance of self-defense.
+2. Whether treachery (*alevosia*) attended the attack against:
+* (a) Anthony Delima (to sustain Frustrated Murder); and
+* (b) Damaso Delima (to sustain Murder).
+
+
+3. Whether the alternative circumstance of intoxication should be credited in appellant's favor as a mitigating circumstance.
+
+---
+
+#### **Ruling**
+
+##### **1. Failure to Prove Self-Defense**
+
+When an accused invokes self-defense, the burden of proof shifts to him to establish by clear and convincing evidence: (1) unlawful aggression on the part of the victim; (2) reasonable necessity of the means employed to prevent or repel it; and (3) lack of sufficient provocation on his part.
+
+* **No Unlawful Aggression:** Appellant’s claim that he was ganged up on was uncorroborated and contradicted by physical evidence. Anthony suffered a deep, 15.25-cm incised/lacerated skull fracture—an injury typical of a heavy bladed weapon (bolo), not a flat bar.
+* **Aggression Ceased / Retaliation:** Even assuming *arguendo* that Damaso initially attacked with a bolo, once appellant successfully disarmed Damaso, the alleged unlawful aggression ceased. Hacking a defenseless, disarmed victim lying on the ground is not self-defense, but retaliation.
+
+##### **2. Treachery as to Anthony, but None as to Damaso**
+
+* **Present in the Attack on Anthony (Frustrated Murder):** Treachery was clearly established. Appellant left the gathering quietly, armed himself, and struck Anthony suddenly from behind while Anthony was sitting and engaged in a casual drinking conversation. Anthony was completely defenseless and had no forewarning. Because appellant performed all acts of execution that would have caused death were it not for timely medical care, the crime is Frustrated Murder.
+* **Absent in the Attack on Damaso (Downgraded to Homicide):** Treachery cannot be presumed; it must be proved as conclusively as the crime itself. The prosecution must establish how the assault began and developed. Here, no witness saw the initial confrontation between appellant and Damaso. Lumagi only saw the intermediate/final stages when Damaso was already on the ground. The fact that treachery attended the initial assault against Anthony does not automatically imply it attended the subsequent attack against Damaso. In the absence of qualifying circumstances, the killing of Damaso constitutes **Homicide**.
+
+##### **3. Intoxication Not Mitigating**
+
+Under Article 15 of the Revised Penal Code, for intoxication to be mitigating, the defense must prove that:
+
+1. It is not habitual;
+2. It is not subsequent to the plan to commit the felony; and
+3. The accused was intoxicated to such a degree that his mental faculties were impaired and reason clouded.
+
+The only evidence presented was appellant's own testimony that he had consumed "about 3 to 4 bottles of beer". Given the relatively low alcohol content of beer, the moderate volume consumed, and the absence of any independent evidence indicating that appellant's mental faculties were blurred, intoxication was not appreciated.
+
+---
+
+#### **Key Doctrine**
+
+> **1. Treachery Evaluated Per Victim:**
+> *The presence of treachery in an attack against one victim does not automatically transpose to an attack against another victim in the same incident. Treachery must be proved distinctly and conclusively as to each victim by showing how the aggression commenced and developed. If the inception of the attack is not witnessed, treachery cannot be presumed.*
+> **2. Standards for Mitigating Intoxication (Art. 15, RPC):**
+> *Consuming three to four bottles of beer does not suffice to establish mitigating intoxication. The defense must positively prove non-habituality and establish that the alcohol intake was sufficient to impair the offender's discernment and mental faculties.*
