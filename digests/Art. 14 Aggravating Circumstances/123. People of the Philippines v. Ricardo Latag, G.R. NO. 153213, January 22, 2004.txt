@@ -4,7 +4,7 @@
 
 ---
 
-#### **I. Facts**
+#### Facts
 
 At around 8:00 in the evening on December 31, 1999 (New Year’s Eve), Alejandro Atienza, Armando Lumbera, Norberto Africa, Alfredo Lumbera, and several others, together with the victim, Judie Acosta, gathered at the back of the house of Carlos Librea in Barangay Tanguay, Lipa City. The group was seated around a long table celebrating and drinking gin to welcome the new year. Judie Acosta was seated on the left side of the table.
 
@@ -14,7 +14,7 @@ Latag was charged with **Murder** qualified by treachery under Article 248 of th
 
 ---
 
-#### **II. Issues**
+#### Issue
 
 1. Whether the positive identification of accused-appellant by the lone eyewitness was credible and sufficient to overcome his defense of denial and alibi.
 2. Whether the qualifying circumstance of **treachery (*alevosia*)** was proven beyond reasonable doubt.
@@ -22,7 +22,7 @@ Latag was charged with **Murder** qualified by treachery under Article 248 of th
 
 ---
 
-#### **III. Held**
+#### Held
 
 1. **Yes.** The eyewitness identification made by Atienza was clear, categorical, and credible. The scene was adequately illuminated by an electric bulb hanging between the table and the shrubs. Latag failed to substantiate his claim of ill-motive or hostility on the part of the witness.
 2. **No.** Treachery was **not proven**. The prosecution’s lone eyewitness did not see the commencement of the assault or how the shooting began; he merely looked toward the direction of the gunfire *after* the shot was already fired. Treachery cannot be presumed.
@@ -30,7 +30,7 @@ Latag was charged with **Murder** qualified by treachery under Article 248 of th
 
 ---
 
-#### **IV. Ratio Decidendi**
+#### Ratio
 
 * **Positive Identification Over Alibi:**
 * The Supreme Court sustained the credibility of Atienza's eyewitness testimony. Visibility was sufficient because an electric bulb was positioned between the drinking table and the San Francisco shrubs (which were only seven to ten meters away).
@@ -54,7 +54,7 @@ Since the Information charged Murder qualified by treachery, but treachery was u
 
 ---
 
-#### **V. Fallo**
+#### Fallo
 
 > *"WHEREFORE, the appeal is partly GRANTED. Accused-appellant Ricardo Latag is hereby found GUILTY of HOMICIDE and sentenced to an indeterminate penalty of nine (9) years and four (4) months of prision mayor as minimum, to sixteen (16) years and four (4) months of reclusion temporal as maximum.*
 > *The award of civil indemnity is AFFIRMED in the amount of P50,000.00, but the award of actual damages is REDUCED to P28,420.00 (the amount substantiated by receipts), plus P25,000.00 as temperate damages. Costs against appellant.*
