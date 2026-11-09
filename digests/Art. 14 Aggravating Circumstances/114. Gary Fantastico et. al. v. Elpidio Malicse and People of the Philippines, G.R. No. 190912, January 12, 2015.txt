@@ -1,15 +1,15 @@
-###Facts 
+### Facts 
 On June 27, 1993, Elpidio Malicse, Sr. went to the residence of his sister, Isabelita Iguiron, in Pandacan, Manila. After a heated verbal confrontation during which Elpidio slapped Isabelita, he temporarily left the premises but subsequently returned to seek reconciliation. Upon his return, he was met with hostility. When Elpidio kicked the door open, a violent physical altercation ensued. 
 Salvador Iguiron struck Elpidio with a rattan stick. While Elpidio and Salvador grappled, Titus Iguiron sprayed a substance onto Elpidio's face. As Elpidio struggled to escape, petitioner Gary Fantastico struck him with a tomahawk axe, and petitioner Rolando "Rolly" Villanueva struck him from behind with a lead pipe, causing him to collapse to the ground. While Elpidio lay defenseless on the ground shielding his face and pleading for mercy, the assailants continued beating him with lethal weapons. The assault ceased only when a female bystander fainted and neighbors intervened to take the bleeding victim to the Philippine General Hospital. Elpidio sustained multiple lacerated wounds to the head and bilateral fractures on his legs. 
 An Information was filed charging Gary Fantastico, Rolando Villanueva, and several others with Attempted Murder, alleging that with intent to kill, treachery, and taking advantage of superior strength, they commenced the commission of murder directly by overt acts, but failed to perform all acts of execution because the injuries inflicted were not mortal due to causes other than their spontaneous desistance. 
 The Regional Trial Court (RTC) of Manila, Branch 11, acquitted Titus Iguiron, Saligan Iguiron, and Tommy Ballesteros, but convicted petitioners Gary Fantastico and Rolando Villanueva of Attempted Murder. The Court of Appeals (CA) affirmed the conviction. Petitioners elevated the case to the Supreme Court via a Petition for Review on Certiorari under Rule 45. 
 
-###Issues
+### Issues
 1.	Whether the Information sufficiently alleged the crime of Attempted Murder despite using the phrase "injuries inflicted ... are not necessarily mortal." 
 2.	Whether petitioners are guilty beyond reasonable doubt of Attempted Murder, specifically regarding the presence of intent to kill and the qualifying circumstances of treachery and abuse of superior strength. 
 3.	Whether the penalty imposed by the lower courts was correct under the Indeterminate Sentence Law. 
 
-###Held 
+### Held 
 1.	Yes. The Information was sufficient. An attempted felony does not require the infliction of mortal wounds; the essence of an attempt is that the offender commenced the execution by overt acts but did not perform all acts of execution due to an independent cause. 
 2.	Yes. Petitioners are guilty of Attempted Murder. Intent to kill was established by the use of lethal weapons and the nature of the injuries. While treachery was absent, the qualifying circumstance of abuse of superior strength was present, properly qualifying the crime to Attempted Murder. 
 3.	No. The penalty imposed required modification in accordance with Article 51 of the Revised Penal Code (RPC) and the Indeterminate Sentence Law (ISL). 
@@ -27,7 +27,7 @@ o	Under Article 51 of the RPC, the penalty for an attempted felony is two degree
 o	In the absence of generic mitigating or aggravating circumstances, the medium period of prisión mayor (8 years and 1 day to 10 years) serves as the maximum term under the ISL. 
 o	The minimum term must be selected from the penalty next lower in degree, which is prisión correccional (6 months and 1 day to 6 years). Thus, the penalty was adjusted to 6 years of prisión correccional as minimum, to 8 years and 1 day of prisión mayor as maximum. 
 
-###Fallo
+### Fallo
 "WHEREFORE, the petition is DENIED. The Decision of the Court of Appeals dated August 31, 2009 and its Resolution dated January 7, 2010 in CA-G.R. CR No. 31719 are AFFIRMED with the MODIFICATION that petitioners Gary Fantastico and Rolando Villanueva are hereby sentenced to suffer the indeterminate penalty of six (6) years of prisión correccional, as minimum, to eight (8) years and one (1) day of prisión mayor, as maximum. 
 Petitioners are also ORDERED to pay P17,300.00 as actual damages, as well as P10,000.00 moral damages as originally ordered by the RTC. In addition, interest is imposed on all damages awarded at the rate of six percent (6%) per annum from date of finality of judgment until fully paid. SO ORDERED." 
 
