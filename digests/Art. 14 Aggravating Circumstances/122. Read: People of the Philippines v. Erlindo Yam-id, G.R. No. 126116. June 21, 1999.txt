@@ -4,7 +4,7 @@
 
 ---
 
-#### **I. Facts**
+#### Facts
 
 On the morning of April 1, 1994, in Pinamungajan, Cebu, six-year-old Jerry Tejamo and his eight-year-old brother, Julius, were walking together when their neighbor, accused-appellant Erlindo Yam-id, armed with a bolo, suddenly chased them. Julius managed to run ahead, but Yam-id caught up with Jerry. Yam-id stabbed the child in the back, grabbed him by the hair, hacked his nape, and delivered another stab blow to his back as the child lay on the ground, killing him instantly. Yam-id then knelt over Jerry's lifeless body and sucked blood from the boy's neck wound.
 
@@ -21,7 +21,7 @@ On automatic review before the Supreme Court, the Public Attorney’s Office (PA
 
 ---
 
-#### **II. Issues**
+#### Issues
 
 1. Whether an appellant may raise the defense of insanity for the first time on appeal.
 2. Whether the exempting circumstance of **insanity** under Article 12, Paragraph 1 of the Revised Penal Code (RPC) was established.
@@ -31,7 +31,7 @@ On automatic review before the Supreme Court, the Public Attorney’s Office (PA
 
 ---
 
-#### **III. Held**
+#### Held
 
 1. **Yes.** In criminal cases, particularly those involving the death penalty, an appeal opens the entire record for review. The Court may consider any defense or circumstance favorable to the accused even if not raised before the trial court.
 2. **No.** Insanity was **not proven**. The law presumes sanity, and the burden rests on the defense to prove complete deprivation of reason and intelligence at the exact time of the commission of the crime. Sucking blood and bizarre behavior show depravity or moral perversity, not legal insanity.
@@ -41,7 +41,7 @@ On automatic review before the Supreme Court, the Public Attorney’s Office (PA
 
 ---
 
-#### **IV. Ratio Decidendi**
+#### Ratio
 
 * **Strict Burden of Proof for the Defense of Insanity:**
 * Under Article 12(1) of the RPC, insanity is an exempting circumstance in the nature of a confession and avoidance. The defense must prove by clear and convincing evidence that the accused was **completely deprived of reason, intelligence, and free will at the precise moment of committing the felony**.
@@ -64,7 +64,7 @@ To convict an assailant of frustrated homicide, the wound inflicted must be mort
 
 ---
 
-#### **V. Fallo**
+#### Fallo
 
 > *"WHEREFORE, the appealed decision is hereby MODIFIED, finding accused-appellant GUILTY of MURDER in Criminal Case No. TCS-2381 and sentencing him to suffer the reduced penalty of RECLUSION PERPETUA. He is likewise ordered to indemnify the parents of the victim the sum of Fifty Thousand (₱50,000.00) Pesos and to pay actual damages in the amount of Forty Thousand (₱40,000.00) Pesos.*
 > *In Criminal Case No. TCS-2382, accused-appellant is found guilty of ATTEMPTED HOMICIDE instead and sentenced to two (2) months and one (1) day of arresto mayor, as minimum, to two (2) years, four (4) months and one (1) day of prision correccional, as maximum.*
