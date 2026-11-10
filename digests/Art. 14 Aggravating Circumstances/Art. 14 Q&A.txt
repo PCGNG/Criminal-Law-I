@@ -106,16 +106,29 @@ The circumstance of contempt of or insult to public authority, can exist only wh
 Night-time  becomes circumstance only when (1) it is specially sought by the offender; (2) the offender takes advantage of it; or (3) it facilitates the commission of the crime by insuring the offender's immunity from identification or capture. In the case at bar, there is no showing to suggest that Chi to purposely sought the cover of darkness to perpetrate the crime or to conceal his identity. (Central Bar Q&A by Judge Rowena Alejandria, 2024)  an  aggravating
 
 ---
-### Question:
+###RECIDIVISM (Art. 14(9))
 
+###Question:
+Juan de Castro already had three (3) previous convictions by final judgment for theft when he was found guilty of Robbery with Homicide. In the last case, the trial judge considered against the accused both recidivism and habitual delinquency. The accused appealed and contended that in his last conviction, the trial court cannot consider against him a finding of recidivism and, again, of habitual delinquency. Is the appeal meritorious? Explain. (2001 BAR)
 *ANSWER*
-
+NO. The appeal is not meritorious. Recidivism and habitual delinquency are correctly considered in this case because the basis of recidivism is different from that of habitual delinquency.
+Juan is a recidivist because he had been previously convicted by final judgment for theft and again found guilty of Robbery with Homicide, which are both crimes against property, embraced under the same Title (Title Ten, Book Two) of the RPC. The implication is that he is specializing in the commission of crimes against property, hence aggravating in the conviction for Robbery with Homicide.
+Habitual delinquency, which brings about an additional penalty when an offender is convicted a third time or more for specified crimes, is correctly considered because Juan had already three (3) previous convictions by final judgment for theft and again convicted for Robbery with Homicide. And the crimes specified as basis for habitual delinquency includes, inter alia, theft and robbery. (UPLC Suggested Answers)
 
 ---
+### HABITUAL DELINQUENCY
 ### Question:
-
+Who	is	a	habitual	delinquent?		
 *ANSWER*
+Habitual Delinquent is one who within a period of 10 years from his last conviction or release shall have been found guilty of any of these crimes such as Serious and Less Serious Physical injuries, Estafa, Robbery Theft and falsification for the third time or oftener.
 
+### Question:
+Distinguish habitual delinquency from recidivism as to the crimes committed, the period of time the crimes are committed, the number of crimes committed and their effects in relation to the penalty to be imposed on a convict. (2012 BAR)
+*ANSWER*
+As	to	crimes	committed,	in	recidivism,	the crimes are embraced in the same title of the PC. In HD, the crimes are limited to Serious and Less Serious Physical injuries, Estafa, Robbery Theft and falsification.
+As to period of time, in recidivism, accused was convicted of the 1st crime by final judgment at the time of the trial of the 2nd crime. In HD, accused was convicted within 10 years after conviction or release.
+As to number of crimes committed, in recidivism, there must be at least 2 crimes committed, in HD, at least 3 crimes are committed.
+As to effects in the penalty, recidivism is a generic aggravating circumstance, the penalty applied to the 2nd crime committed will be imposed in the maximum circumstances. HD is a special aggravating circumstance, additional penalty will be imposed, not subject to the offset rule. (Central Bar Q&A by Judge Rowena Alejandria, 2025)  unless  offset by mitigating
 
 
 
