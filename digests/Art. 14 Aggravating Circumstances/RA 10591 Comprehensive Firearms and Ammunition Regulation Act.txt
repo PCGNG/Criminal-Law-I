@@ -14,3 +14,44 @@ Under Sec 29, first paragraph of RA 10591, if the use of a loose firearm is inhe
 ### QUESTION 2:
 X killed Y by stabbing Y, and was arrested. The knife he used was confiscated. He was holding a bag and the police seized the bag. When the bag was opened, it contained a caliber 0.45 pistol. It was also confiscated as X was not able to give a permit to carry.  X was charged with two (2) crimes, one is Homicide for killing Y and the other one is lllegal Possession of Loose Firearms under RA 10591. Are the charges correct?
 *Answer:* A: YES. The charges are correct. If the use of a loose firearm is not inherent in the commission of the crime, Under Sec 29, paragraph 3 of RA 10591, such use of loose firearm shall constitute as a distinct and separate offense from Homicide. In the said case, X killed Y by stabbing Y, therefore, the use of loose firearm is not inherent in the commission of the act of killing. Therefore, it will constitute as a separate and distinct charge. X shall be prosecuted with Homicide and violation of RA 10591.
+
+### QUESTION 3:
+Jesusa, a mayoralty candidate of the Municipality of Jaen, Nueva Ecija during the 2019 local elections, was ambushed and gunned down by Jhudas, a gun for hire. Jhudas was arrested at a COMELEC checkpoint just after the incident. The firearm he used, a baby Armalite, was verified to be without any license. During the interrogation, Jhudas admitted that Pontio, the rival mayoralty candidate of Jesusa, paid him Php 1,000,000.00 to assassinate Jesusa. Due to Jhudas' admission, coupled with the sworn statement of an eyewitness, the prosecutor filed two Informations, one for Murder and one for Illegal Possession of Firearm, against both Jhudas and Pontio.
+
+Do	you	agree	with	the	prosecutor’s	charges	against	Jhudas	and	Pontio?	Explain	briefly.	(2022 BAR)
+
+*Answer:* A: YES. The charges against Jhudas for Murder and Illegal Possession of Firearms are correct. When Jhudas gunned down Jesusa upon Pontio's inducement by paying him Php 1,000,000.00, the crime committed was murder. The use of unlicensed firearm in the commission of the crime is an aggravating circumstance. Where murder was committed, the penalty for illegal possession of firearms is no longer imposable since it becomes merely a special aggravating circumstance. (People v. Gaborne, G.R. No. 210710, 27 July 2016)  
+
+Jhudas may likewise be liable for violation of R.A. 10951 as he was caught in flagrante delicto in possession of an unlicensed firearm when he was apprehended at the checkpoint, which is a separate occasion/offense from the crime of Murder he committed.  
+
+Pontio, on the other hand, shall be liable for Murder committed by Jhudas as principal by inducement. (People v. Gaborne, G.R. No. 210710, 27 Jul. 2016). (Bar Q&A by Judge Alejandria, 2023)
+
+### QUESTION 3:
+Wielding loose firearms, Rene and Roan held up a bank. After taking the bank's money, the robbers ran towards their getaway car, pursued by the bank security guards. As the security guards were closing in on the robbers, the two fired their firearms at the pursuing security guards. As a result, one of the security guards was hit on the head causing his immediate death.  
+For the taking of the bank's money and killing of the security guard with the use of loose firearms, the robbers were charged in court in two separate Information, one for robbery with homicide attended by the aggravating circumstance of use of loose firearms, and the other for illegal possession of firearms.
+Are the indictments correct? (2018 BAR)
+
+*Answer:* YES. The indictment for Robbery with homicide is correct. Robbery with homicide, a special complex crime, is primarily a crime against property and not against persons, homicide being a mere incident of the robbery with the latter being the main purpose of the criminal.  
+
+The indictment for illegal possession of firearm is wrong. In the case of People v. Gaborne (G.R. No. 210710, 27 July 2016) the Supreme Court clarified the issue, to wit:
+
+In view of the amendments introduced by R.A. No. 8294 and R.A. No. 10591, to Presidential Decree No. 1866, 14 separate prosecutions for homicide and illegal possession are no longer in order. Instead, illegal possession of firearm is merely to be taken as an aggravating circumstance in the crime of murder. It is clear from the foregoing that where murder results from the use of an unlicensed firearm, the crime is not qualified illegal possession but, murder. In such a case, the use of the unlicensed firearm is not considered as a separate crime but shall be appreciated as a mere aggravating circumstance. Thus, where murder was committed, the penalty for illegal possession of firearms is no longer imposable since it becomes merely a special aggravating circumstance. The intent of Congress is to treat the offense of illegal possession of firearm and the commission of homicide or murder with the use of unlicensed firearm as a single offense. (People v. Gaborne, G.R. No. 210710, 27 Jul. 2016) (UPLC Suggested Answers)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
