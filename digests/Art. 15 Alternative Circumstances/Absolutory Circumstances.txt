@@ -1,0 +1,54 @@
+### QUESTION
+Ms. E was charged with the complex crime of Estafa through Falsification of Public Documents before the trial court. Prior to her arraignment, Ms. E moved for the dismissal of the criminal case against her, pointing out that the private offended party is her biological father, and that such relationship is an absolutory cause under Art. 332 of the RPC. Is Ms. E's contention correct? Explain. (2019 BAR)
+*Answer*
+NO.	Ms.	E’s	contention	is	incorrect.	While	Art. 332 of the RPC provides an absolutory cause for the crimes of theft, swindling or estafa, and malicious mischief against defendants, the exemption does not apply to complex crimes. (UPLC Suggested Answers)
+
+---
+### QUESTION:
+William is the son-in-law of Mercedes who owns several pieces of real property. In 1994, William's wife, Anita, died. In 1996, William caused the preparation of a Special Power of Attorney (SPA) giving him the authority to sell two (2) parcels of land registered in the name of Mercedes. The signature of Mercedes in the SPA was forged and, through this forged SPA and without the consent and knowledge of Mercedes, William succeeded in selling the two (2) parcels for Php2,000,000. He pocketed the proceeds of the sale.  
+Mercedes eventually discovered William's misdeeds and filed a criminal complaint. William was subsequently charged with estafa through falsification of public document. Was the criminal charge proper? (2013 BAR)
+*Answer*
+The criminal charge of estafa through falsification is correct. William forged the signature of his mother-in-law in the Special Power of Attorney, which is a public document, as a necessary means to sell her properties to third parties without delivering the proceeds thereof.
+Although the relationship of affinity created between William and his mother-in-law survived the death of either party to the marriage, the coverage of the absolutory cause under Art. 332(1) of the RPC cannot be applied to him. It is strictly limited to the simple crimes of theft, estafa and malicious mischief. It does not apply where any of the crimes mentioned is. complexed with another crime. This is because when estafa is committed through falsification of a public document, the matter acquires a very serious public dimension and goes beyond the respective rights and liabilities of family members among themselves. Effectively, when the offender resorts to an act that breaches the public interest in the integrity of public documents as a means to violate the property rights of a family member, he is removed from the protective mantle of the absolutory cause under Art. 332. (Intestate Estate of Gonzales Vda. De Carungcong v. People, G.R. No. 181409, 11 Feb. 2010) (UPLC Suggested Answers)
+
+---
+### QUESTION:
+A is married to the sister of B, and the three (3) live together in a house located a Caloocan City. On several occasions, B's dog would bark at A everytime he arrives at past midnight. One time, after arriving in the house at around 2 o'clock in the morning, B's dog barked continuously at A. In a fit of anger, A entered the house, took a bolo and killed the dog. What crime was committed and what is liability of A? Explain. (1989 BAR)
+*Answer:* 
+The crime committed by A is malicious mischief. The elements of this are: (1) the offender caused damages to the property of other (2) the damage caused did not constitute arson or any other crime involving destruction and (3) the damage was caused by the offender (Caballes v. DAR, G.R. No. 78214, 05 Dec. 1988). A's act of killing the dog is characterized by malice, it being a product of anger and resentment.
+However, A is exempt from criminal liability for the crime committed by him because he is the brother-in-law of the offended party and they are both living together under the same roof. Under Art. 332 of the RPC, no criminal, but only civil, liability shall result from the commission of the crime of theft, swindling or malicious mischief committed or caused mutually by, among others, brothers and sisters and brothers-in-law and sisters-in-law, if living together. (UPLC Suggested Answers)
+
+---
+### QUESTION:
+DCB, the daughter of MCB, stole the earrings of XYZ, a stranger. MCB pawned the earrings with TBI Pawnshop as a pledge for P500 loan. During the trial, MCB raised the defense that being the mother of DCB, she cannot be held liable as an accessory. Will MCB's defense prosper? Reason briefly. (2004 BAR)
+*Answer:*
+NO. MCB's defense will not prosper because the exemption from criminal liability of an accessory by virtue of relationship with the principal does not cover accessories who themselves profited from or assisted the offender to profit by the effects or proceeds of the crime. This non-exemption of an accessory, though related to the principal of the crime, is expressly provided in Art. 20 of the RPC. (UPLC Suggested Answers)
+
+---
+### QUESTION:
+When Joey came home from work, he saw a man and a woman making love in the main bedroom. Enraged at the thought that his wife, Abby, was unfaithful to him, he shot the man and woman to death. However, the couple turned out to be the driver and kasambahay. The families of the decedents filed a case of double Homicide against Joey. Joey invoked the defense of mistake of fact, arguing that he thought the persons he shot were his wife and her lover. Thus, he is entitled to the privilege or benefit of Article 247 of the Revised Penal Code, which entitles a legally married person, who having surprised his or her spouse in the act of sexual intercourse, kills or seriously injures the same, to the penalty of destierro for being an exceptional circumstance. Is Joey correct in invoking the defense of mistake of fact? Discuss. (2023 BAR)
+
+*Answer:*
+Joey may invoke Mistake of fact. If the offender surprised a couple in the act of sexual intercourse, believing that the woman to be his wife and killed them, Mistake of fact may be applied provided the requisites of Mistake of fact are present. In this case, the reaction of Joey when he saw a man and a woman having sexual intercourse in the main bedroom is in accordance with human nature to afford him of the benefits of Article 247 of the RPC, which is an absolutory cause. His act was lawful and justifiable, had his belief been true that it was his wife. It cannot be said that he acted with fault, negligence or carelessness because it is human instinct to conclude that it was his wife who was in the main bedroom as such private act is done by a person who is comfortable in the place where the sexual intercourse was done. (Central Bar Q&A by Judge Rowena Alejandria, 2024)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
