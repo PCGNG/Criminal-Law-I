@@ -11,29 +11,34 @@ The basis is disrespect, insult, defiance of public authorities. Therefore, it s
 
 ---
 ### QUESTION 1:
-
+The Mayor and his councilors were eating in a restaurant. They were having lunch. Here comes X and Y, two of their constituents. Upon seeing the Mayor and the Councilors, friends X and Y greeted them. Thereafter, X and Y sat next to them. After taking their orders and while eating, X and Y were discussing about some issues and matters in their office. Later, they were both standing up and shouting at each other, and they were already having a heated argument. The Mayor went to X and Y, told them to pacify and shake hands. The Mayor was telling them, "This is a public place, why are you shouting at each other? Why are you creating a disturbance, a commotion? You stop, the both of you. You shake hands". However, instead of obeying the Mayor, X pulled out his knife and stabbed Y right in front of the Mayor. Y sustained a fatal wound but survived. X is now being prosecuted for Frustrated Homicide. In the Information, it was alleged that the crime was committed in contempt or with insult to the public authorities. Is it present?
 ### **ANSWER**
-
+YES. First element: That a public authority is in the discharge of his duties. Although the Mayor was eating with the councilors, it is not a public act. The moment the Mayor went to these two persons who were fighting against one another and trying to pacify them, the Mayor was already discharge his duties. It is his duty to maintain peace and order in his jurisdiction. The first element is present. Second element: That he is not the person against whom the crime was committed. It was Y. Third element: That the offender knows him to be a public authority. X knows him to be a public authority, that he is the Mayor. In fact, X greeted him. Fourth element: The presence of the public authority did not stop, prevent, or deter the accused from committing the crime. Despite the presence of the Mayor, it did not deter or prevent X from stabbing Y. All the elements are present. The crime was committed in contempt or with insult to the public authorities.
 
 ---
-### QUESTION 1:
+### PEOPLE v. TIONGSON G.R. NO. L-35123-24 | JULY 25, 1984 | CONCEPCION JR., J. 
+#### FACTS:
+Tiongson, together with dela Cruz and Santiago, escaped from the Municipal Jail where they were detained under the charge of Attempted Homicide. While in the act of escaping, Tiongson killed two (2) persons: Pat. Zosimo Gelera, a member of the police force who was guarding him, and PC Constable Aurelio Canela from the PC Detachment who went in pursuit of them. He was charged with the crime two (2) counts of Murder.
 
-### **ANSWER**
+#### ISSUE: W/N treachery, in contempt of or with insult to the public authorities, uninhabited place, and abuse of superior strength are present (NO) 
 
+#### RULING: 
+NO. 
+*Treachery*  
+There is treachery when the offender commits any of the crimes against the person, employing means, methods, or forms in the execution thereof which tend directly and specially to insure its execution, without risk to himself arising from the defense which the offended party might make. Here, it does not appear how and in what position the victim was when he was killed so that it cannot be said for certain that the accused had adopted a mode or means of attack tending directly to insure or facilitate the commission of the offense without risk to himself arising from the defense or retaliation which the victim might put up.
 
+*In Contempt Of Or With Insult To The Public Authorities*
+Pat. Gelera and PC Constable Canela were the very ones against whom the crime were committed. Besides, Pat. Gelera and PC Constable Canela are not persons in authority, but merely agents of a person in authority.
+
+*Uninhabited Place*
+It has not been shown, however, that the offense was committed in an isolated place, far from human habitation. Besides, the record does not show that the place was intentionally sought by the accused to facilitate the commission of the crime. It is necessary that the place of occurrence be where there are no houses at all, a considerable distance from the village or town, or where the houses are a great distance apart.
+
+*Abuse of Superior Strength*
+No direct evidence that the accused employed superior strength in the killing of Pat. Gelera. The accused was then a detainee and was unarmed while Pat. Gelera had his service pistol with him. With respect to PC Constable Canela, the accused was alone against three armed pursuers
 
 ---
-### QUESTION 1:
-
+### QUESTION 2:
+What if in the same problem, instead of the Mayor, this time it is a police officer who tried to mediate and pacify X and Y. But despite the presence of the police officer, X still stabbed Y. In the commission of the crime, is the aggravating circumstance of in contempt of or with insult of public authorities present?  
 ### **ANSWER**
+A: NO. As held in the case of People v. Tiongson, a peace officer, a police officer is not a public authority. A police/peace officer is merely an agent of public authority. Therefore, if the crime was committed in his presence, the SC held that you do not appreciate this second aggravating circumstance of in contempt of or with insult of public authority.
 
-
-
-### QUESTION 1:
-
-### **ANSWER**
-
-
-### QUESTION 1:
-
-### **ANSWER**
