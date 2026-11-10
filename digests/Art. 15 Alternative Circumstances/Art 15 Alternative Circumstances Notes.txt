@@ -1,29 +1,28 @@
 Alternative circumstances are those if present or attendant in the commission of a felony can be appreciated by the court either as an aggravating circumstance or as a mitigating circumstance depending on its effect in the commission of the crime. All the three (3) alternative circumstances under Art. 15 may be considered by the trial court as either aggravating or mitigating:
 
 ### 1. Considered as aggravating 
-- If the prosecution was able to prove all the elements of the said aggravating circumstance, and that the said alternative circumstance facilitated the commission of the crime. 
+    - If the prosecution was able to prove all the elements of the said aggravating circumstance, and that the said alternative circumstance facilitated the commission of the crime. 
 
 ### 2. Considered as mitigating 
-- If the defense was able to prove the said alternative circumstance, it shall  be appreciated  as  a  mitigating circumstance.  
-
+    - If the defense was able to prove the said alternative circumstance, it shall  be appreciated  as  a  mitigating circumstance.  
 They are alternative because they can be considered as either aggravating or mitigating. Under Art. 15, the three (3) alternative circumstances are:
-1. *Relationship*
-2. *Intoxication*
-3. *Degree of Instruction and Education*
+        1. *Relationship*
+        2. *Intoxication*
+        3. *Degree of Instruction and Education*
 
 ### RELATIONSHIP
 Relationship is considered as an alternative circumstance if the offender is related to the offended party as:
-1. his spouse,
-2. ascendant,
-3. descendant,
-4. legitimate, natural, or adopted brother or sister, or
-5. relative by affinity in the same degrees.
+        1. his spouse,
+        2. ascendant,
+        3. descendant,
+        4. legitimate, natural, or adopted brother or sister, or
+        5. relative by affinity in the same degrees.
 
 #### RELATIONSHIP as an AGGRAVATING Circumstance
 
 As a rule, RELATIONSHIP is an aggravating circumstance:
-1. In crime against persons when the crime committed is SERIOUS PHYSICAL INJURIES AND LESS SERIOUS PHYSICAL INJURIES.
-2. When the offender is of a lower degree than that of the offended party and the offended party is of a higher degree than that of the offender.
+      1. In crime against persons when the crime committed is SERIOUS PHYSICAL INJURIES AND LESS SERIOUS PHYSICAL INJURIES.
+      2. When the offender is of a lower degree than that of the offended party and the offended party is of a higher degree than that of the offender.
 
 NOTE: RELATIONSHIP is inherent in the crime of Parricide because it is a crime based on relationships.
 
@@ -41,16 +40,16 @@ Intoxication may be considered either as a mitigating circumstance or an aggrava
 
 ### Intoxication as Mitigating Circumstance:
 For intoxication to be considered as a mitigating circumstance, it is necessary for the defense to show that the intoxication is:
-1. Not habitual on the part of the offender;
-2. Not subsequent to a plan to commit the felony; and
-3. That the intoxication did not affect his mental facilities
+        1. Not habitual on the part of the offender;
+        2. Not subsequent to a plan to commit the felony; and
+        3. That the intoxication did not affect his mental facilities
 
 If these are present, then intoxication shall be considered as a mitigating circumstance.
 
 ### Intoxication as Aggravating Circumstance:
 Intoxication shall be considered as an aggravating circumstance if the prosecution/State was able to prove that:
-1. The intoxication was done habitually by the offender;
-2. The offender has deliberately taken liquor subsequent to a plan to commit the crime because he found in liquor the stimulant, the strength for him to commit the crime.
+        1. The intoxication was done habitually by the offender;
+        2. The offender has deliberately taken liquor subsequent to a plan to commit the crime because he found in liquor the stimulant, the strength for him to commit the crime.
 
 ### DEGREE OF INSTRUCTION AND EDUCATION
 *Degree of Instruction and Education as a Mitigating Circumstance*
