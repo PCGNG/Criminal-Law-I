@@ -1,8 +1,77 @@
 ### CIRCUMSTANCES WHICH AGGRAVATE CRIMINAL LIABILITY
+Aggravating circumstances are those circumstances which, if present or attendant in the commission of the felony, would serve to increase the imposable penalty. The presence of an aggravating circumstance will increase the imposable penalty because it reveals the greater criminality and dangerousness on the part of the offender.  
+NOTE: No matter how many aggravating circumstances attends the commission of the crime, the court cannot impose a penalty beyond the maximum penalty prescribed by law. That is the limit.
 
+#### KINDS OF AGGRAVATING CIRCUMSTANCES:
+1. *Generic aggravating circumstances* are those which apply to all kinds of crimes.  
+        Examples:
+            a. RECIDIVISM - A recidivist is one who, at the time of his trial for one crime, shall have been previously convicted by final judgment of another crime embraced in the same title of this Code.
+            b. NIGHTTIME - Whatever be the crime, if the offender deliberately sought the cover of darkness to ensure the commission of the crime, then nighttime will be considered as an aggravating circumstance.
+
+2. *Specific aggravating circumstances* are those which apply only to certain or particular crimes 
+        Example:
+            Treachery – As expressly provided under paragraph 16 of Art. 14, treachery can be appreciated only in crimes against persons.  
+
+3. *Inherent aggravating circumstances* are those which are considered as ingredients in the commission of the crime. Hence, when they are present, they are no longer to be considered so as to increase the imposable penalty because they are considered as elements in the commission of the crime. They are simply absorbed in the commission of the crime.  
+        Example: 
+            Evident premeditation - The SC ruled that evident premeditation is inherent in all crimes under Title X - Crimes against property.
+
+4. *Special aggravating circumstances* are those which if present in the commission of a felony would require the imposition of the maximum penalty prescribed by law. The moment a special aggravating circumstance is present in the commission of the crime, the maximum penalty prescribed by law shall be the one imposed regardless of mitigating circumstances. It cannot be offset by any mitigating circumstance because it is special.
+        Example: 
+            Quasi-recidivism - The moment an offender is a quasi-recidivist, the maximum penalty prescribed by law for the crime that he has committed shall be the one imposed. No mitigating circumstance shall be considered in his favor except privileged mitigating circumstance.
+            
+5. *Qualifying Aggravating Circumstances* are those which change the nature of the crime to bring about a more serious crime with a higher penalty, or even without changing the nature of the crime, it brings about the imposition of a higher penalty.  
+        Example: 
+            Treachery and all those enumerated under Art. 248 for the crime of Murder are qualifying aggravating circumstances. The presence of any one of them in the act of killing will change the nature of the killing from Homicide to become Murder to bring about a higher penalty of reclusion temporal in case of Homicide to reclusion perpetua to death in case of Murder.  considered  as
+
+---
 *To be appreciated, qualifying and aggravating circumstances must be alleged in the INFORMATION. If not alleged, they may still be considered in the award of damages. Aggravating circumstance cannot be appreciated more than once since it will be prejudicial to the accused. Once a circumstance is used to qualify a crime, the same could no longer be considered anew as an aggravating circumstance. Also, when once circumstance absorbed another, only the former will be appreciated. This is consistent with the rule that only one aggravating circumstances may be used to qualify the crime, while the others will be deemed as generic aggravating circumstances.*
+
+---
 ### Par. 1. - That advantage be taken by the offender of his public position.
 
+
+---
+### Par. 2
+
+
+---
+### Par. 3
+
+
+---
+### Par. 4
+
+
+---
+### Par. 5
+
+
+---
+### Par. 6
+
+
+---
+### Par. 7
+
+
+---
+### Par. 8
+
+
+---
+### Par. 9
+
+
+---
+### Par. 10
+
+
+---
+### Par. 11
+
+
+---
 ### Par. 12 - That the crime be committed by means of inundation, fire, poison, explosion, stranding of a vessel or intentional damage thereto, derailment of a locomotive, or by the use of any other artifice involving great waste and ruin.
 The killing of a victim by means of such circumstances as inundation, fire, poison, or explosion qualifies it as murder.
 *1. By means of fire*
