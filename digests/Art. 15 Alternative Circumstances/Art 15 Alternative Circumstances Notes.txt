@@ -1,1 +1,106 @@
+Alternative circumstances are those if present or attendant in the commission of a felony can be appreciated by the court either as an aggravating circumstance or as a mitigating circumstance depending on its effect in the commission of the crime. All the three (3) alternative circumstances under Art. 15 may be considered by the trial court as either aggravating or mitigating:
+
+### 1. Considered as aggravating 
+- If the prosecution was able to prove all the elements of the said aggravating circumstance, and that the said alternative circumstance facilitated the commission of the crime. 
+
+### 2. Considered as mitigating 
+- If the defense was able to prove the said alternative circumstance, it shall  be appreciated  as  a  mitigating circumstance.  
+
+They are alternative because they can be considered as either aggravating or mitigating. Under Art. 15, the three (3) alternative circumstances are:
+1. *Relationship*
+2. *Intoxication*
+3. *Degree of Instruction and Education*
+
+### RELATIONSHIP
+Relationship is considered as an alternative circumstance if the offender is related to the offended party as:
+1. his spouse,
+2. ascendant,
+3. descendant,
+4. legitimate, natural, or adopted brother or sister, or
+5. relative by affinity in the same degrees.
+
+#### RELATIONSHIP as an AGGRAVATING Circumstance
+
+As a rule, RELATIONSHIP is an aggravating circumstance:
+1. In crime against persons when the crime committed is SERIOUS PHYSICAL INJURIES AND LESS SERIOUS PHYSICAL INJURIES.
+2. When the offender is of a lower degree than that of the offended party and the offended party is of a higher degree than that of the offender.
+
+NOTE: RELATIONSHIP is inherent in the crime of Parricide because it is a crime based on relationships.
+
+#### RELATIONSHIP as a MITIGATING Circumstance
+
+As a rule, relationship is considered as a mitigating circumstance in crimes under Title 10 - Crimes against Property.  
+
+Reason: Under Art. 332 of the RPC, in three (3) crimes against property - Theft, Estafa or Swindling, and Malicious Mischief, relationship is an absolutory cause or an exempting circumstance.  
+
+Therefore, if in the crimes of Theft, Estafa or Swindling, and Malicious Mischief, relationship is an absolutory cause, then, in all other crimes against property, relationship is considered as a mitigating circumstance.  
+According to the SC, the purpose is to ensure harmony in the family.
+
+### INTOXICATION
+Intoxication may be considered either as a mitigating circumstance or an aggravating circumstance. The offender has taken such an amount of liquor, as to affect his capability to appreciate the consequences of his act.
+
+### Intoxication as Mitigating Circumstance:
+For intoxication to be considered as a mitigating circumstance, it is necessary for the defense to show that the intoxication is:
+1. Not habitual on the part of the offender;
+2. Not subsequent to a plan to commit the felony; and
+3. That the intoxication did not affect his mental facilities
+
+If these are present, then intoxication shall be considered as a mitigating circumstance.
+
+### Intoxication as Aggravating Circumstance:
+Intoxication shall be considered as an aggravating circumstance if the prosecution/State was able to prove that:
+1. The intoxication was done habitually by the offender;
+2. The offender has deliberately taken liquor subsequent to a plan to commit the crime because he found in liquor the stimulant, the strength for him to commit the crime.
+
+### DEGREE OF INSTRUCTION AND EDUCATION
+*Degree of Instruction and Education as a Mitigating Circumstance*
+As a rule, a low degree of instruction or education shall be considered as a mitigating circumstance.  *Exception:* The rule shall not apply if the crime committed by the said uneducated or ignorant man, is a crime inherently evil or wrong.  
+A crime which is inherently evil or wrong is as wrong to an ignorant man as to a learned man.
+
+### QUESTION 1:
+An ignorant, uneducated man who had never been to school, does not even know how to write his name and just places his thumb mark. He falsified a public document. Can his low degree of education be considered as a mitigating circumstance?  
+*Answer:* YES. His low degree of education will be considered as a mitigating circumstance.
+
+### QUESTION 2:
+An ignorant, uneducated man who had never been to school, does not even know how to write his name and just places his thumb mark. He killed his neighbor in the course of a fight. Can his low degree of education be considered as a mitigating circumstance? 
+*Answer:* NO. His degree of education will not mitigate his criminal liability because the crime he committed has nothing to do with his low degree of education. No matter how ignorant he is, he knows that he has no right to take the life of another person. Killing is as criminal to a learned person as to an ignorant. It is a crime that is inherently evil or wrong.
+
+### Degree of Instruction and Education as an Aggravating Circumstance
+A high degree of education will be considered as an aggravating circumstance if the offender took advantage of his high degree of education to facilitate the commission of the crime.  
+Example: A lawyer committing Estafa through falsification of a deed of absolute sale, amounting to Estafa through falsification of a public document. The lawyer took advantage of his high learnings in law in order to swindle someone of his property by falsifying deed of absolute sale. Therefore, the lawyer's high degree of education will be considered as an aggravating circumstance.  
+But if the lawyer, in the course of an argument with another person, lost control of himself and stabbed the other person to death, his high degree of education has nothing to do with the act of killing. The lawyer did not take advantage of his high learnings in law to kill that person. Therefore, his high degree of education will not be considered as an aggravating circumstance.
+
+### QUESTION 3:
+X and Y are sisters. X is a Dean's Lister, an honor student with all good grades. On the other hand, Y passed only one (1) subject and in all other subjects, Y failed. Their parents got disappointed with Y and thus, Y was not given allowance for the entire semester as punishment. The best friend of Y will celebrate her birthday party in one of the luxurious clubs in BGC. Y has to attend since it was her best friend who will be celebrating her birthday. Y wanted to buy a gift, but she has no money.  
+Y entered the bedroom of X, and broke the lock of the cabinet, broke the jewelry box and took her sister's expensive necklace. Thereafter, Y sold the necklace for P50,000.00 and used the money in order to buy a gift, and to go to the birthday party. 
+Will the relationship exempt Y from criminal liability or will the relationship merely mitigate Y's criminal liability?  
+*Answer:* The crime committed by Y is Robbery. It is robbery not theft because in the taking of the personal property of her sister, she employed force in breaking the locked cabinet, breaking the sealed jewelry box, and taking the necklace. Since there was force in the act of stealing, the crime committed was Robbery with the use of force under Art. 299, second paragraph. Y is an insider and employed force in order to take necklace with intent to gain.  Since the crime committed by Y is Robbery, relationship is MERELY A MITIGATING CIRCUMSTANCE because relationship is only an absolutory cause under Art. 332 for the crimes of Theft, Estafa or Swindling, and Malicious Mischief.
+
+### QUESTION 4:
+X and Y are common-law spouses and cohabiting as husband and wife. The husband, a gambler, was in need of money. He went inside their bedroom and thereafter, he saw the Rolex watch of his common-law wife. The husband took the watch, valued 2.5M pesos, and sold it. He used the proceeds for his personal benefit. 
+In the commission of the crime, is the common-law husband both criminally and civilly liable or will their relationship exempt him from criminal liability?
+*Answer:* The relationship will EXEMPT him from criminal liability, he shall be liable only civilly. The crime committed was Theft because there was no force employed in the taking of the said Rolex watch of the common-law spouse. Under Art. 332, in the crime of Theft between spouses, relationship is an absolutory cause. The SC ruled that spouses include not only legally married couples, but also include common-law relationships. Since the offender is the common-law spouse of the private offended party, such relationship will absolve him from the criminal liability. In this case, relationship is not a merely mitigating but an absolutory case or an exempting circumstance.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
