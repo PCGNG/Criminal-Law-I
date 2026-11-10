@@ -38,11 +38,13 @@ When an accused invokes self-defense, the burden of proof shifts to him to estab
 * **No Unlawful Aggression:** Appellant’s claim that he was ganged up on was uncorroborated and contradicted by physical evidence. Anthony suffered a deep, 15.25-cm incised/lacerated skull fracture—an injury typical of a heavy bladed weapon (bolo), not a flat bar.
 * **Aggression Ceased / Retaliation:** Even assuming *arguendo* that Damaso initially attacked with a bolo, once appellant successfully disarmed Damaso, the alleged unlawful aggression ceased. Hacking a defenseless, disarmed victim lying on the ground is not self-defense, but retaliation.
 
+---
 ##### **2. Treachery as to Anthony, but None as to Damaso**
 
 * **Present in the Attack on Anthony (Frustrated Murder):** Treachery was clearly established. Appellant left the gathering quietly, armed himself, and struck Anthony suddenly from behind while Anthony was sitting and engaged in a casual drinking conversation. Anthony was completely defenseless and had no forewarning. Because appellant performed all acts of execution that would have caused death were it not for timely medical care, the crime is Frustrated Murder.
 * **Absent in the Attack on Damaso (Downgraded to Homicide):** Treachery cannot be presumed; it must be proved as conclusively as the crime itself. The prosecution must establish how the assault began and developed. Here, no witness saw the initial confrontation between appellant and Damaso. Lumagi only saw the intermediate/final stages when Damaso was already on the ground. The fact that treachery attended the initial assault against Anthony does not automatically imply it attended the subsequent attack against Damaso. In the absence of qualifying circumstances, the killing of Damaso constitutes **Homicide**.
 
+---
 ##### **3. Intoxication Not Mitigating**
 
 Under Article 15 of the Revised Penal Code, for intoxication to be mitigating, the defense must prove that:
