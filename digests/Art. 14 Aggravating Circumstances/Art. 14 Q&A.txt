@@ -1,1 +1,85 @@
+### Art. 14 Aggravating Circumstances Practice Questions:
+
+### Question:
+Name	the	four	(4)	kinds	of	aggravating	circumstances	and	state	their	effect	on	the	penalty	of	crimes	and	nature	thereof.	(1999	BAR)	
+*ANSWER*
+The four (4) kinds of aggravating circumstances are:
+
+#### 1. Generic Aggravating
+    - or those that can generally apply to all crimes, and can be offset by mitigating circumstances, but if not offset, would affect only the maximum of the penalty prescribed by law;
+
+#### 2. Specific Aggravating
+    - or those that  apply only to particular crimes and cannot be offset by mitigating circumstances
+
+#### 3. Qualifying Circumstances
+    - or those that change the nature of the crime to a graver one, or brings about a penalty next higher in degree, and cannot be offset by mitigating circumstances; and
+
+#### 4. Inherent Aggravating
+    - or those that essentially accompany the commission of the crime and do not affect the penalty whatsoever
+
+---
+### Question:
+Distinguish generic aggravating circumstance from qualifying aggravating circumstance (1999 BAR)
+*ANSWER*
+The distinctions between generic aggravating circumstances and qualifying aggravating circumstances are as follows:
+*GENERIC AGGRAVATING CIRCUMSTANCES:
+a. affects the nature of the crime or brings about a penalty higher in degree than that ordinarily prescribed; 
+b. can be offset by ordinary mitigating circumstances; 
+c. need not be alleged in the Information as long as proven during the trial; 
+d. the same shall be considered in imposing the sentence. 
+
+*QUALIFYING CIRCUMSTANCES:
+a. affects the nature of the crime or brings about a penalty higher in degree than that ordinarily prescribed; 
+b. cannot be offset by  mitigating circumstances; 
+c. must be alleged in the Information and proven during trial. (UPLC Suggested Answers) 
+
+---
+### Question:
+When would qualifying circumstances be deemed, if at all, elements of a crime? (2003 BAR)
+*ANSWER*
+A qualifying circumstance would be deemed an element of a crime when:
+1. It changes the nature of the crime, bringing about a more serious crime and heavier penalty; 
+2. It is essential to the crime involved, otherwise some other crime is committed; and 
+3. It is specifically alleged in the information and proven during trial. (UPLC Suggested Answers) 
+
+---
+### Question:
+Bernardo was enraged by his conviction for robbery by Judge Samsonite despite insufficient evidence. Pending his appeal, Bernardo escaped in order to get even with Judge Samsonite. Bernardo learned that the judge regularly slept in his mistress' house every weekend. Thus, he waited for the judge to arrive on Saturday evening at the house of his mistress. It was about 8:00 p.m. when Bernardo entered the house of the mistress. He found the judge and his mistress having coffee in the kitchen and engaging in small talk. Without warning, Bernardo stabbed the judge at least 20 times. The judge instantly died.
+
+Prosecuted and tried, Bernardo was convicted of direct assault with murder. Rule with reasons whether or not the conviction for direct assault with murder was justified, and whether or not the trial court should appreciate the following aggravating circumstances against Bernardo, to wit: (1) disregard of rank and age of the victim, who was 68 years old; (2) dwelling; (3) nighttime; (4) cruelty; and (5) quasi-recidivism. (2017 BAR)
+*ANSWER*
+The phrase "on occasion of such performance" used in Art. 148 of the RPC means "by reason of the past performance of official duty" because the purpose of the law is to allow them to discharge their duties without fear of being assaulted by reason thereof (People v. Renegado, G.R. No. L-27031, 31 May 1974). Attacking Judge Samsonite by reason of past performance of duty of convicting Bernardo based on his assessment of the evidence constitutes qualified direct assault (U.S. v. Garcia, G.R. No. 6820, 16 Oct. 1911). Since the single act of attacking Judge Samsonite constitutes direct assault and murder qualified by the circumstance of treachery, the two shall be merged together to form a complex crime of direct assault with murder. (People v. Dural, G.R. No. 84921, 08 June 1993; People v. Rillorta, G.R. No. 57415, 15 Dec. 1989)
+
+Disregard of rank, being inherent in direct assault, is absorbed. Disregard of age shall not be considered for lack of showing intent to offend or insult the age of Judge Samsonite. (People v. Onabia, G.R. No. 128288, 20 Apr. 1999)
+
+Dwelling and nighttime shall not be appreciated because the presence of treachery in the instant case absorbs these aggravating circumstances.
+
+The crime is not aggravated by cruelty simply because the judge sustained 10 stab wounds. For cruelty to be considered as an aggravating circumstance, it must be proven that in inflicting several stab wounds on the victim, the perpetrator intended to exacerbate the pain and suffering of the victim. The number of wounds on the victim is not proof of cruelty (Simangan v. People, G.R. No. 157984, 08 July 2004). Unless there is proof that when the 2nd or subsequent stabs were made, the Judge was still alive, there is no cruelty to speak of.
+
+A quasi-recidivist is a person who shall commit a felony after having been convicted by final judgment, before beginning to serve such sentence, or while serving the same (Art. 160, RPC). In this case, Bernardo committed the crime while the judgment of conviction is on appeal. Thus, quasi-recidivism cannot be considered since he did not commit the crime after having been convicted by final judgment. (UPLC Suggested Answers)
+
+---
+### Question:
+*ANSWER*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
