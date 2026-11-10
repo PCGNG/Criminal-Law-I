@@ -17,6 +17,7 @@
       display: flex; 
       flex-direction: column; 
       height: 100vh; 
+      width: 100vw;
       background: #0b1329; 
       color: #1e40af; 
       overflow: hidden; 
@@ -33,6 +34,7 @@
       gap: 12px; 
       flex-wrap: wrap; 
       z-index: 10; 
+      flex-shrink: 0;
     }
     header h1 { 
       font-size: 1.15rem; 
@@ -72,6 +74,7 @@
     .split-container { 
       display: flex; 
       flex: 1; 
+      width: 100%;
       overflow: hidden; 
       background: #070c1b; 
       padding: 14px 16px; 
@@ -82,16 +85,20 @@
     /* Left & Right Eye-Friendly Light Green Cards */
     .pane-card { 
       flex: 1; 
+      min-width: 0; /* Prevents text overflow blowouts */
       background-color: #edf7ee; 
       border-radius: 14px; 
       border: 1px solid #c8e6c9; 
       box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2); 
       overflow-y: auto; 
+      overflow-x: hidden;
       padding: 32px 36px; 
       line-height: 1.75; 
       text-align: justify;
       color: #1d4ed8; 
       font-size: 0.96rem;
+      overflow-wrap: break-word;
+      word-wrap: break-word;
     }
 
     /* Primary Heading */
@@ -102,6 +109,7 @@
       line-height: 1.35;
       margin-bottom: 8px; 
       text-align: left; 
+      overflow-wrap: break-word;
     }
 
     /* Subtitles and Topic Tags */
@@ -321,21 +329,28 @@
     const REPO = "Criminal-Law-I";
     let topicsData = {};
 
-    // Automatically color-codes headings and plain text sections (Facts, Issue, Held, Ruling, Ratio)
+    // Formats Roman numerals, numbering, and headings into colored badges with icons
     function stylizeLegalSections(html) {
+      const prefix = `(?:(?:[IVXLCDM]+\\.|\\d+\\.|[A-Z]\\.)\\s*)?`;
+
       return html
-        .replace(/<h[2-4][^>]*>\s*(📌\s*)?(Facts?)\s*<\/h[2-4]>/gi, '<div class="badge-facts">📌 Facts</div>')
-        .replace(/<h[2-4][^>]*>\s*(❓\s*)?(Issues?)\s*<\/h[2-4]>/gi, '<div class="badge-issue">❓ Issue</div>')
-        .replace(/<h[2-4][^>]*>\s*(🔨\s*)?(Held|Ruling)\s*<\/h[2-4]>/gi, '<div class="badge-held">🔨 $2</div>')
-        .replace(/<h[2-4][^>]*>\s*(💡\s*)?(Ratio|Ratio Decidendi)\s*<\/h[2-4]>/gi, '<div class="badge-ratio">💡 $2</div>')
-        .replace(/(<p>|^)\s*(📌\s*)?<strong>\s*(Facts?)\s*:?<\/strong>/gi, '$1<div class="badge-facts">📌 Facts</div><br>')
-        .replace(/(<p>|^)\s*(❓\s*)?<strong>\s*(Issues?)\s*:?<\/strong>/gi, '$1<div class="badge-issue">❓ Issue</div><br>')
-        .replace(/(<p>|^)\s*(🔨\s*)?<strong>\s*(Held|Ruling)\s*:?<\/strong>/gi, '$1<div class="badge-held">🔨 $3</div><br>')
-        .replace(/(<p>|^)\s*(💡\s*)?<strong>\s*(Ratio|Ratio Decidendi)\s*:?<\/strong>/gi, '$1<div class="badge-ratio">💡 $3</div><br>')
-        .replace(/<p>\s*Facts\s*<\/p>/gi, '<div class="badge-facts">📌 Facts</div>')
-        .replace(/<p>\s*Issue\s*<\/p>/gi, '<div class="badge-issue">❓ Issue</div>')
-        .replace(/<p>\s*(Held|Ruling)\s*<\/p>/gi, '<div class="badge-held">🔨 $1</div>')
-        .replace(/<p>\s*(Ratio|Ratio Decidendi)\s*<\/p>/gi, '<div class="badge-ratio">💡 $1</div>');
+        // Markdown Headings (h1 to h4)
+        .replace(new RegExp(`<h[1-4][^>]*>\\s*(?:📌\\s*)?${prefix}(Facts?):?\\s*<\\/h[1-4]>`, 'gi'), '<div class="badge-facts">📌 Facts</div>')
+        .replace(new RegExp(`<h[1-4][^>]*>\\s*(?:❓\\s*)?${prefix}(Issues?):?\\s*<\\/h[1-4]>`, 'gi'), '<div class="badge-issue">❓ Issue</div>')
+        .replace(new RegExp(`<h[1-4][^>]*>\\s*(?:🔨\\s*)?${prefix}(Held|Ruling):?\\s*<\\/h[1-4]>`, 'gi'), '<div class="badge-held">🔨 $1</div>')
+        .replace(new RegExp(`<h[1-4][^>]*>\\s*(?:💡\\s*)?${prefix}(Ratio(?:\\s+Decidendi)?):?\\s*<\\/h[1-4]>`, 'gi'), '<div class="badge-ratio">💡 $1</div>')
+
+        // Bold text within paragraphs
+        .replace(new RegExp(`(<p>|^)\\s*(?:📌\\s*)?<strong>\\s*${prefix}(Facts?):?\\s*<\\/strong>`, 'gi'), '$1<div class="badge-facts">📌 Facts</div><br>')
+        .replace(new RegExp(`(<p>|^)\\s*(?:❓\\s*)?<strong>\\s*${prefix}(Issues?):?\\s*<\\/strong>`, 'gi'), '$1<div class="badge-issue">❓ Issue</div><br>')
+        .replace(new RegExp(`(<p>|^)\\s*(?:🔨\\s*)?<strong>\\s*${prefix}(Held|Ruling):?\\s*<\\/strong>`, 'gi'), '$1<div class="badge-held">🔨 $1</div><br>')
+        .replace(new RegExp(`(<p>|^)\\s*(?:💡\\s*)?<strong>\\s*${prefix}(Ratio(?:\\s+Decidendi)?):?\\s*<\\/strong>`, 'gi'), '$1<div class="badge-ratio">💡 $1</div><br>')
+
+        // Plain text lines wrapped in paragraphs
+        .replace(new RegExp(`<p>\\s*(?:📌\\s*)?${prefix}(Facts?):?\\s*<\\/p>`, 'gi'), '<div class="badge-facts">📌 Facts</div>')
+        .replace(new RegExp(`<p>\\s*(?:❓\\s*)?${prefix}(Issues?):?\\s*<\\/p>`, 'gi'), '<div class="badge-issue">❓ Issue</div>')
+        .replace(new RegExp(`<p>\\s*(?:🔨\\s*)?${prefix}(Held|Ruling):?\\s*<\\/p>`, 'gi'), '<div class="badge-held">🔨 $1</div>')
+        .replace(new RegExp(`<p>\\s*(?:💡\\s*)?${prefix}(Ratio(?:\\s+Decidendi)?):?\\s*<\\/p>`, 'gi'), '<div class="badge-ratio">💡 $1</div>');
     }
 
     async function loadTopics() {
