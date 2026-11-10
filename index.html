@@ -13,14 +13,19 @@
       font-family: "Century Gothic", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; 
     }
     
+    html, body {
+      width: 100%;
+      height: 100%;
+      max-width: 100vw;
+      max-height: 100vh;
+      overflow: hidden;
+      background: #0b1329; 
+      color: #1d4ed8;
+    }
+
     body { 
       display: flex; 
       flex-direction: column; 
-      height: 100vh; 
-      width: 100vw;
-      background: #0b1329; 
-      color: #1e40af; 
-      overflow: hidden; 
     }
 
     /* Top Navigation Bar */
@@ -35,6 +40,7 @@
       flex-wrap: wrap; 
       z-index: 10; 
       flex-shrink: 0;
+      width: 100%;
     }
     header h1 { 
       font-size: 1.15rem; 
@@ -70,35 +76,68 @@
     }
     input[type="file"] { display: none; }
 
+    /* Mark as Read Toggle Button */
+    .read-toggle-btn {
+      padding: 8px 14px;
+      border-radius: 6px;
+      background: #1d283a;
+      color: #94a3b8;
+      border: 1px solid #3b82f6;
+      cursor: pointer;
+      font-size: 0.88rem;
+      font-weight: 600;
+      transition: all 0.2s ease;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+    }
+    .read-toggle-btn:hover:not(:disabled) {
+      background: #25344f;
+      border-color: #ff5376;
+    }
+    .read-toggle-btn.is-read {
+      background: #064e3b;
+      color: #34d399;
+      border-color: #10b981;
+    }
+    .read-toggle-btn:disabled {
+      opacity: 0.4;
+      cursor: not-allowed;
+      border-color: #1e3a8a;
+    }
+
     /* Outer Container */
     .split-container { 
       display: flex; 
-      flex: 1; 
+      flex: 1 1 0%;
+      min-height: 0;
       width: 100%;
-      overflow: hidden; 
       background: #070c1b; 
       padding: 14px 16px; 
       gap: 14px; 
       position: relative; 
+      overflow: hidden;
     }
 
     /* Left & Right Eye-Friendly Light Green Cards */
     .pane-card { 
-      flex: 1; 
-      min-width: 0; /* Prevents text overflow blowouts */
+      flex: 1 1 50%; 
+      min-width: 0;
+      max-width: calc(50% - 7px);
       background-color: #edf7ee; 
       border-radius: 14px; 
       border: 1px solid #c8e6c9; 
       box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2); 
       overflow-y: auto; 
       overflow-x: hidden;
-      padding: 32px 36px; 
+      padding: 28px 30px; 
       line-height: 1.75; 
       text-align: justify;
       color: #1d4ed8; 
       font-size: 0.96rem;
+      word-break: break-word;
       overflow-wrap: break-word;
-      word-wrap: break-word;
+      white-space: normal;
     }
 
     /* Primary Heading */
@@ -130,8 +169,8 @@
 
     /* Text & Provision Styling */
     .pane-card p { 
-      margin-bottom: 16px; 
-      color: #1e40af; 
+      margin-bottom: 14px; 
+      color: #1d4ed8; 
     }
     .pane-card strong { 
       color: #1e3a8a; 
@@ -142,9 +181,25 @@
       color: #1d4ed8; 
     }
 
+    /* Proper List & Enumeration Formatting */
+    .pane-card ol, .pane-card ul {
+      margin: 10px 0 16px 24px;
+      padding-left: 10px;
+      text-align: justify;
+      color: #1d4ed8;
+    }
+    .pane-card li {
+      margin-bottom: 8px;
+      line-height: 1.65;
+    }
+    .pane-card li::marker {
+      color: #1e3a8a;
+      font-weight: bold;
+    }
+
     /* Blockquote for Treachery & Special Definitions */
     .pane-card blockquote {
-      margin: 14px 0 16px 20px;
+      margin: 14px 0 16px 14px;
       padding-left: 14px;
       border-left: 3px solid #60a5fa;
       color: #1e3a8a;
@@ -165,7 +220,7 @@
       font-weight: 800;
       font-size: 0.95rem;
       letter-spacing: 0.05em;
-      margin: 22px 0 12px 0;
+      margin: 20px 0 10px 0;
       text-transform: uppercase;
       text-align: left;
     }
@@ -181,7 +236,7 @@
       font-weight: 800;
       font-size: 0.95rem;
       letter-spacing: 0.05em;
-      margin: 22px 0 12px 0;
+      margin: 20px 0 10px 0;
       text-transform: uppercase;
       text-align: left;
     }
@@ -197,7 +252,7 @@
       font-weight: 800;
       font-size: 0.95rem;
       letter-spacing: 0.05em;
-      margin: 22px 0 12px 0;
+      margin: 20px 0 10px 0;
       text-transform: uppercase;
       text-align: left;
     }
@@ -213,7 +268,7 @@
       font-weight: 800;
       font-size: 0.95rem;
       letter-spacing: 0.05em;
-      margin: 22px 0 12px 0;
+      margin: 20px 0 10px 0;
       text-transform: uppercase;
       text-align: left;
     }
@@ -222,7 +277,9 @@
     .case-link-list { list-style: none; padding: 0; margin-top: 16px; }
     .case-link-list li { margin-bottom: 10px; }
     .case-link-list a { 
-      display: block; 
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
       padding: 10px 14px; 
       background: #ffffff; 
       border: 1px solid #c8e6c9; 
@@ -233,6 +290,10 @@
       transition: background 0.15s ease, border-color 0.15s ease; 
     }
     .case-link-list a:hover { background: #dcfce7; border-color: #ff5376; }
+    .case-link-list a.is-read {
+      border-color: #86efac;
+      background: #f0fdf4;
+    }
 
     .back-overview-btn { 
       display: inline-block; 
@@ -274,7 +335,7 @@
 
     @media (max-width: 850px) { 
       .split-container { flex-direction: column; padding: 8px; } 
-      .pane-card { padding: 20px; }
+      .pane-card { max-width: 100%; flex: 1 1 auto; padding: 18px; }
       .fab-scroll { display: none; }
     }
   </style>
@@ -299,6 +360,12 @@
 
       <button class="nav-btn" id="nextBtn" onclick="changeCase(1)" title="Next Case">Next ▶</button>
 
+      <!-- Mark as Read Toggle Button -->
+      <button class="read-toggle-btn" id="markReadBtn" onclick="toggleReadStatus()" disabled title="Mark as Read/Unread">
+        ⬜ Mark as Read
+      </button>
+
+      <!-- Upload Digest -->
       <label class="upload-btn">
         📄 Upload Digest
         <input type="file" accept=".txt,.md" onchange="uploadDigest(event)">
@@ -328,6 +395,91 @@
     const USER = "PCGNG";
     const REPO = "Criminal-Law-I";
     let topicsData = {};
+
+    // Enable automatic line breaks in marked
+    if (window.marked && marked.setOptions) {
+      marked.setOptions({ breaks: true, gfm: true });
+    }
+
+    // Local Storage helpers for tracking read digests
+    function getReadStorageKey() {
+      return `readCases_${USER}_${REPO}`;
+    }
+
+    function getReadCases() {
+      try {
+        return JSON.parse(localStorage.getItem(getReadStorageKey())) || {};
+      } catch (e) {
+        return {};
+      }
+    }
+
+    function isCaseRead(pathOrTitle) {
+      const readMap = getReadCases();
+      return !!readMap[pathOrTitle];
+    }
+
+    function setCaseReadStatus(pathOrTitle, isRead) {
+      const readMap = getReadCases();
+      if (isRead) {
+        readMap[pathOrTitle] = true;
+      } else {
+        delete readMap[pathOrTitle];
+      }
+      localStorage.setItem(getReadStorageKey(), JSON.stringify(readMap));
+    }
+
+    function updateReadButtonUI(isRead) {
+      const btn = document.getElementById('markReadBtn');
+      if (isRead) {
+        btn.classList.add('is-read');
+        btn.innerHTML = '✅ Read';
+      } else {
+        btn.classList.remove('is-read');
+        btn.innerHTML = '⬜ Mark as Read';
+      }
+    }
+
+    function toggleReadStatus() {
+      const caseSelector = document.getElementById('caseSelector');
+      const topicSelector = document.getElementById('topicSelector');
+      if (caseSelector.value === "overview") return;
+
+      const selectedTopic = topicSelector.value;
+      const idx = parseInt(caseSelector.value);
+      if (!selectedTopic || isNaN(idx) || !topicsData[selectedTopic]) return;
+
+      const item = topicsData[selectedTopic].cases[idx];
+      const identifier = item.digestPath || item.title;
+      const currentlyRead = isCaseRead(identifier);
+      
+      setCaseReadStatus(identifier, !currentlyRead);
+      updateReadButtonUI(!currentlyRead);
+
+      // Refresh case option text in dropdown
+      const opt = caseSelector.options[caseSelector.selectedIndex];
+      if (opt) {
+        opt.textContent = (!currentlyRead ? "✔ " : "") + item.title;
+      }
+    }
+
+    // Formats compressed numbers into proper indented markdown lists
+    function formatEnumerations(rawText) {
+      if (!rawText) return "";
+      
+      let lines = rawText.split('\n');
+      let processed = lines.map(line => {
+        let trimmed = line.trim();
+        if (/^#+/.test(trimmed)) return line;
+
+        if (/:\s*\d+\.\s+/.test(line) || /\b\d+\.\s+.*\b\d+\.\s+/.test(line)) {
+          return line.replace(/(\b\d+\.\s+)/g, '\n\n$1');
+        }
+        return line;
+      });
+
+      return processed.join('\n');
+    }
 
     // Formats Roman numerals, numbering, and headings into colored badges with icons
     function stylizeLegalSections(html) {
@@ -415,9 +567,10 @@
 
       const topicInfo = topicsData[selectedTopic];
       topicInfo.cases.forEach((item, index) => {
+        const readMark = isCaseRead(item.digestPath || item.title) ? "✔ " : "";
         const opt = document.createElement('option');
         opt.value = index;
-        opt.textContent = item.title;
+        opt.textContent = `${readMark}${item.title}`;
         caseSelector.appendChild(opt);
       });
 
@@ -434,8 +587,9 @@
       try {
         const res = await fetch(topicInfo.topicNotePath);
         if (res.ok) {
-          const text = await res.text();
-          const parsed = marked.parse(text);
+          const rawText = await res.text();
+          const preparedText = formatEnumerations(rawText);
+          const parsed = marked.parse(preparedText);
           leftPane.innerHTML = `<h2>📑 ${topicName}</h2><hr style="margin:16px 0 20px; border:0; border-top:1px solid #c8e6c9;">` + stylizeLegalSections(parsed);
         } else {
           throw new Error("No custom notes");
@@ -458,8 +612,22 @@
       document.getElementById('prevBtn').disabled = true;
       document.getElementById('nextBtn').disabled = true;
 
+      // Disable read toggle when on overview screen
+      const readBtn = document.getElementById('markReadBtn');
+      readBtn.disabled = true;
+      readBtn.classList.remove('is-read');
+      readBtn.innerHTML = '⬜ Mark as Read';
+
       let caseListHTML = topicInfo.cases.length > 0 
-        ? topicInfo.cases.map((c, i) => `<li><a href="#" onclick="selectCaseFromOverview(${i}); return false;">${c.title}</a></li>`).join('')
+        ? topicInfo.cases.map((c, i) => {
+            const isRead = isCaseRead(c.digestPath || c.title);
+            return `<li>
+              <a href="#" onclick="selectCaseFromOverview(${i}); return false;" class="${isRead ? 'is-read' : ''}">
+                <span>${isRead ? '✔ ' : ''}${c.title}</span>
+                ${isRead ? '<span style="color:#059669; font-size:0.8rem; font-weight:700;">READ</span>' : ''}
+              </a>
+            </li>`;
+          }).join('')
         : '<li>No cases uploaded for this topic yet.</li>';
 
       const contentBox = document.getElementById('digestContent');
@@ -495,14 +663,20 @@
       document.getElementById('prevBtn').disabled = (idx === 0);
       document.getElementById('nextBtn').disabled = (idx === cases.length - 1);
 
+      // Enable and sync read toggle button
+      const readBtn = document.getElementById('markReadBtn');
+      readBtn.disabled = false;
+      updateReadButtonUI(isCaseRead(item.digestPath || item.title));
+
       const contentBox = document.getElementById('digestContent');
       contentBox.innerHTML = `<h2>${item.title}</h2><div class="topic-tag">Topic: ${item.topic}</div><p style="color:#2563eb;">Loading case digest file...</p>`;
 
       try {
         const res = await fetch(item.digestPath);
         if (!res.ok) throw new Error("File not found");
-        const text = await res.text();
-        const parsed = marked.parse(text);
+        const rawText = await res.text();
+        const preparedText = formatEnumerations(rawText);
+        const parsed = marked.parse(preparedText);
         const styledText = stylizeLegalSections(parsed);
         
         const backButtonHTML = `<hr style="margin:32px 0 16px 0; border:0; border-top:1px solid #c8e6c9;"><button onclick="goToOverview()" class="back-overview-btn">⬅️ Back to Case List</button>`;
@@ -544,7 +718,8 @@
       if (file) {
         const reader = new FileReader();
         reader.onload = e => {
-          const parsed = marked.parse(e.target.result);
+          const preparedText = formatEnumerations(e.target.result);
+          const parsed = marked.parse(preparedText);
           const styledText = stylizeLegalSections(parsed);
           const backButtonHTML = `<hr style="margin:32px 0 16px 0; border:0; border-top:1px solid #c8e6c9;"><button onclick="goToOverview()" class="back-overview-btn">⬅️ Back to Case List</button>`;
           document.getElementById('digestContent').innerHTML = `<h2>${file.name}</h2><hr style="margin:8px 0 20px; border:0; border-top:1px solid #c8e6c9;">` + styledText + backButtonHTML;
