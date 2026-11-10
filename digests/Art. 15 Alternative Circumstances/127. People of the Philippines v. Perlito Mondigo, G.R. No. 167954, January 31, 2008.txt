@@ -31,24 +31,25 @@ The RTC rejected the claim of self-defense, convicting appellant of Murder for D
 
 ### Ruling
 
-#### *1. Failure to Prove Self-Defense*
+### *1. Failure to Prove Self-Defense*
 
 When an accused invokes self-defense, the burden of proof shifts to him to establish by clear and convincing evidence: (1) unlawful aggression on the part of the victim; (2) reasonable necessity of the means employed to prevent or repel it; and (3) lack of sufficient provocation on his part.
 
-* **No Unlawful Aggression:** Appellant’s claim that he was ganged up on was uncorroborated and contradicted by physical evidence. Anthony suffered a deep, 15.25-cm incised/lacerated skull fracture—an injury typical of a heavy bladed weapon (bolo), not a flat bar.
-* **Aggression Ceased / Retaliation:** Even assuming *arguendo* that Damaso initially attacked with a bolo, once appellant successfully disarmed Damaso, the alleged unlawful aggression ceased. Hacking a defenseless, disarmed victim lying on the ground is not self-defense, but retaliation.
+**No Unlawful Aggression:** Appellant’s claim that he was ganged up on was uncorroborated and contradicted by physical evidence. Anthony suffered a deep, 15.25-cm incised/lacerated skull fracture—an injury typical of a heavy bladed weapon (bolo), not a flat bar.
+
+**Aggression Ceased / Retaliation:** Even assuming *arguendo* that Damaso initially attacked with a bolo, once appellant successfully disarmed Damaso, the alleged unlawful aggression ceased. Hacking a defenseless, disarmed victim lying on the ground is not self-defense, but retaliation.
 
 ---
 
-#### *2. Treachery as to Anthony, but None as to Damaso*
+### *2. Treachery as to Anthony, but None as to Damaso*
 
-* **Present in the Attack on Anthony (Frustrated Murder):** Treachery was clearly established. Appellant left the gathering quietly, armed himself, and struck Anthony suddenly from behind while Anthony was sitting and engaged in a casual drinking conversation. Anthony was completely defenseless and had no forewarning. Because appellant performed all acts of execution that would have caused death were it not for timely medical care, the crime is Frustrated Murder.
+**Present in the Attack on Anthony (Frustrated Murder):** Treachery was clearly established. Appellant left the gathering quietly, armed himself, and struck Anthony suddenly from behind while Anthony was sitting and engaged in a casual drinking conversation. Anthony was completely defenseless and had no forewarning. Because appellant performed all acts of execution that would have caused death were it not for timely medical care, the crime is Frustrated Murder.
 
-* **Absent in the Attack on Damaso (Downgraded to Homicide):** Treachery cannot be presumed; it must be proved as conclusively as the crime itself. The prosecution must establish how the assault began and developed. Here, no witness saw the initial confrontation between appellant and Damaso. Lumagi only saw the intermediate/final stages when Damaso was already on the ground. The fact that treachery attended the initial assault against Anthony does not automatically imply it attended the subsequent attack against Damaso. In the absence of qualifying circumstances, the killing of Damaso constitutes **Homicide**.
+**Absent in the Attack on Damaso (Downgraded to Homicide):** Treachery cannot be presumed; it must be proved as conclusively as the crime itself. The prosecution must establish how the assault began and developed. Here, no witness saw the initial confrontation between appellant and Damaso. Lumagi only saw the intermediate/final stages when Damaso was already on the ground. The fact that treachery attended the initial assault against Anthony does not automatically imply it attended the subsequent attack against Damaso. In the absence of qualifying circumstances, the killing of Damaso constitutes **Homicide**.
 
 ---
 
-#### *3. Intoxication Not Mitigating*
+### *3. Intoxication Not Mitigating*
 
 Under Article 15 of the Revised Penal Code, for intoxication to be mitigating, the defense must prove that:
 
@@ -62,8 +63,8 @@ The only evidence presented was appellant's own testimony that he had consumed "
 
 ### Key Doctrine
 
-> **1. Treachery Evaluated Per Victim:**
-> *The presence of treachery in an attack against one victim does not automatically transpose to an attack against another victim in the same incident. Treachery must be proved distinctly and conclusively as to each victim by showing how the aggression commenced and developed. If the inception of the attack is not witnessed, treachery cannot be presumed.*
+**1. Treachery Evaluated Per Victim:**
+*The presence of treachery in an attack against one victim does not automatically transpose to an attack against another victim in the same incident. Treachery must be proved distinctly and conclusively as to each victim by showing how the aggression commenced and developed. If the inception of the attack is not witnessed, treachery cannot be presumed.*
 
-> **2. Standards for Mitigating Intoxication (Art. 15, RPC):**
-> *Consuming three to four bottles of beer does not suffice to establish mitigating intoxication. The defense must positively prove non-habituality and establish that the alcohol intake was sufficient to impair the offender's discernment and mental faculties.*
+**2. Standards for Mitigating Intoxication (Art. 15, RPC):**
+*Consuming three to four bottles of beer does not suffice to establish mitigating intoxication. The defense must positively prove non-habituality and establish that the alcohol intake was sufficient to impair the offender's discernment and mental faculties.*
