@@ -1,0 +1,64 @@
+### **Case Brief: Generoso N. Subayco, Alfredo T. Alcalde, and Eleuterio O. Ibañez v. Sandiganbayan**
+
+*G.R. Nos. 117267-117310, August 22, 1996*
+
+---
+
+### **Facts**
+
+Thousands of demonstrators staged a *Welga ng Bayan* along the national highway in Escalante, Negros Occidental. Local authorities deployed fire trucks, Philippine Constabulary (PC) and Integrated National Police (INP) personnel, and Civilian Home Defense Force (CHDF) members—including T/Sgt. Generoso Subayco (Subayco), C1C Alfredo Alcalde (Alcalde), and C1C Eleuterio Ibañez (Ibañez)—to disperse the crowd.
+
+During the dispersal operation, after fire hoses and tear gas failed to clear the highway and a demonstrator threw back a tear gas canister, military and paramilitary forces opened fire with high-powered rifles from multiple positions—including from atop the Cadiz City firetruck and a weapons carrier—for several minutes while the unarmed demonstrators lay prone on the ground. Twenty demonstrators died of gunshot wounds and twenty-four others sustained serious gunshot injuries. Ballistics examination matched recovered empty shells to the M-16 rifle issued to Ibañez, while eyewitnesses positively identified Subayco and Alcalde among those who fired.
+
+The Sandiganbayan acquitted twenty-five of the tried accused for lack of proof of a general conspiracy, but convicted Subayco, Alcalde, and Ibañez as co-principals by implied conspiracy for multiple counts of Murder, Frustrated Murder, and Attempted Murder. On appeal to the SC, Subayco, Alcalde, and Ibañez denied any conspiracy to kill, claiming that Subayco and Ibañez merely fired warning shots into the air and that Alcalde fired only to prevent rallyists from climbing the firetruck.
+
+---
+
+### **Issue**
+
+Are Generoso Subayco, Alfredo Alcalde, and Eleuterio Ibañez criminally liable as co-principals by implied conspiracy under the Revised Penal Code for the deaths and injuries of all the victims shot during the violent dispersal despite the absence of proof of a prior explicit agreement to kill?
+
+---
+
+### **Ruling**
+
+**Yes.** The Supreme Court ruled verbatim:
+
+> "Conspiracy may be deduced from the mode and manner in which the offense was committed. The concerted acts of the petitioners to achieve the same objective signify conspiracy."
+
+**Legal Basis / Doctrines Relied Upon:**
+
+* **Article 8, Revised Penal Code** (Conspiracy and proposal to commit felony)
+* **Article 17, Revised Penal Code** (Principals)
+* **Article 248, Revised Penal Code** (Murder)
+* *People v. Silong*, 232 SCRA 487 (1994), citing *People v. Villanueva*, 211 SCRA 403 (1992) and *People v. De la Cruz*, 207 SCRA 632 (1992)
+* *People v. Guevarra*, 179 SCRA 740 (1989) (Doctrine of Implied Conspiracy)
+
+---
+
+### **Ratio Decidendi**
+
+An implied conspiracy exists when two or more persons, even without a prior formal agreement, act in concert and simultaneously toward a single unlawful objective as deduced from the mode and manner in which the offense is committed. Where armed military and paramilitary personnel simultaneously fire bursts of rifle fire from different vantage points into a crowd of unarmed demonstrators already lying prone on the ground, their synchronized, deadly conduct establishes a community of criminal design to kill, rendering all participants equally liable as co-principals under Articles 8 and 17 of the Revised Penal Code for every death and injury resulting from the fusillade.
+
+---
+
+### **Fallo**
+
+> "IN VIEW WHEREOF, the Decision of the Sandiganbayan promulgated October 3, 1994 is affirmed. Let copies of this Decision be furnished the Secretary of Justice and the Secretary of Interior and Local Government that they may undertake the necessary efforts to effectuate the early arrest of the other accused in the cases at bar. Costs against petitioners.
+> SO ORDERED."
+
+---
+
+### **Elaborate Answer to Review Question**
+
+**1. Why did the Supreme Court hold that there was an implied conspiracy between and among the accused?**
+
+The Supreme Court upheld the Sandiganbayan's finding of an **implied conspiracy** among Generoso Subayco, Alfredo Alcalde, Eleuterio Ibañez, and their armed companions based on both established doctrinal principles under **Articles 8 and 17 of the Revised Penal Code** and the overwhelming physical and testimonial evidence of their synchronized conduct during the Escalante shooting:
+
+* **A. Legal Basis — Doctrine of Implied Conspiracy (Article 8, RPC; *People v. Silong* and *People v. Guevarra*):**
+Under **Article 8 of the Revised Penal Code**, conspiracy exists when two or more persons come to an agreement concerning the commission of a felony and decide to commit it. In *Subayco*, the Supreme Court reiterated that direct proof of a prior meeting or express agreement is not required to prove conspiracy. Instead, **implied conspiracy** may be deduced from the **mode and manner in which the offense was committed**—specifically, when the simultaneous, coordinated acts of the accused at the scene of the crime reveal a **unity of purpose and a common design** toward the same unlawful objective. Even if the decision to shoot was triggered impulsively or spontaneously during the dispersal operation, the simultaneous execution of deadly acts by multiple armed men supplies the concurrence of wills necessary to bind them in conspiracy.
+* **B. Factual Circumstances Establishing Unity of Purpose:**
+1. **Simultaneous, Multi-Directional Firing at Unarmed Victims:** Once the initial shot rang out, Subayco, Alcalde, Ibañez, and their cohorts fired their high-powered rifles simultaneously from distinct vantage points—including atop the Cadiz City firetruck and from a weapons carrier—aiming directly at the crowd of demonstrators.
+2. **Sustained Fusillade Despite Absence of Threat:** The firing was neither accidental nor a brief defensive burst; it consisted of numerous rounds (with 79 empty shells recovered) sustained over several minutes while the unarmed protesters were already lying flat and prone on the ground, posing no imminent danger to the safety of the military and police personnel.
+3. **Rejection of Individual Alibis and Warning-Shot Defenses:** Eyewitnesses positively identified Subayco and Alcalde firing toward the crowd, while ballistics analysis linked recovered spent shells directly to Ibañez's issued M-16 firearm—refuting their self-serving claims that they merely fired warning shots into the air or acted in self-defense.
+4. **Collective Liability as Co-Principals (Article 17, RPC):** Because their concerted shooting demonstrated a shared criminal intent to mow down the demonstrators, the act of one became the act of all. Consequently, it was no longer necessary to match each individual victim's fatal or non-fatal bullet wound to a specific accused's rifle; Subayco, Alcalde, and Ibañez were properly convicted as **co-principals** for all counts of murder, frustrated murder, and attempted murder arising from their joint assault.
