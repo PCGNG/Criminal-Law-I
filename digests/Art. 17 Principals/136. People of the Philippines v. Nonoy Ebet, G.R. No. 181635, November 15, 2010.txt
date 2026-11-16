@@ -1,0 +1,67 @@
+### **Case Brief: People of the Philippines v. Nonoy Ebet**
+
+*G.R. No. 181635, November 15, 2010*
+
+---
+
+### **Facts**
+
+One evening, armed men entered the residence of spouses Emiliano and Vilma Dela Cruz (Emiliano and Vilma) to rob the household, while Nonoy Ebet (Ebet), also armed with a firearm, stood guard at the front door of the house. Inside the house, Ebet's armed companions demanded money and valuables from the victims, and in the course of the robbery, fatally shot Emiliano and hacked/wounded Vilma. After taking cash and personal belongings, Ebet and his companions fled the scene together.
+
+The RTC convicted Ebet of the special complex crime of Robbery with Homicide, which the CA affirmed. On appeal to the SC, Ebet denied participating in the killing and contended that his mere act of standing by the front door did not make him liable as a principal for the homicide committed inside the house by his companions.
+
+---
+
+### **Issue**
+
+Is Nonoy Ebet criminally liable as a co-principal by direct participation for the special complex crime of Robbery with Homicide under the Revised Penal Code despite not having inflicted the fatal wounds and having only stood guard at the front door of the house?
+
+---
+
+### **Ruling**
+
+**Yes.** The Supreme Court ruled verbatim:
+
+> "Once conspiracy is established between several accused in the commission of the crime of robbery, they would all be equally culpable for the rape or homicide committed by one of them on the occasion of the robbery, unless any one of them proves that he endeavored to prevent the others from committing rape or homicide."
+
+**Legal Basis / Doctrines Relied Upon:**
+
+* **Article 8, Revised Penal Code** (Conspiracy and proposal to commit felony)
+* **Article 17, Revised Penal Code** (Principals)
+* **Article 294, paragraph 1, Revised Penal Code** (Robbery with Homicide)
+* *People v. Escote, Jr.*, 448 Phil. 749 (2003)
+* *People v. De Jesus*, 473 Phil. 405 (2004)
+* *People v. Baron*, G.R. No. 185209, June 28, 2010
+
+---
+
+### **Ratio Decidendi**
+
+When conspiracy is established in the commission of a robbery—evidenced by the concerted acts of the accused in arriving together armed, posting one as an armed lookout at the entrance while others ransack the dwelling, and fleeing together—all conspirators become co-principals under Articles 8 and 17 of the Revised Penal Code. In the special complex crime of Robbery with Homicide under Article 294(1), every conspirator in the robbery is equally liable as a principal for any homicide committed by reason or on the occasion of the robbery, regardless of who actually inflicted the fatal blow, unless a conspirator proves that he endeavored to prevent the killing.
+
+---
+
+### **Fallo**
+
+> "WHEREFORE, the Decision dated August 31, 2007 of the Court of Appeals in CA-G.R. CEB-CR-H.C. No. 00523 is AFFIRMED with MODIFICATIONS. Appellant Nonoy Ebet is found GUILTY beyond reasonable doubt of the crime of Robbery with Homicide, defined and penalized under Article 294(1) of the Revised Penal Code, and is sentenced to suffer the penalty of *reclusion perpetua*, without eligibility for parole.
+> Appellant is further ordered to pay the heirs of Emiliano Dela Cruz the amounts of ₱75,000.00 as civil indemnity, ₱75,000.00 as moral damages, and ₱30,000.00 as exemplary damages, plus ₱25,000.00 as temperate damages, and to pay Vilma Dela Cruz ₱30,000.00 as moral damages, with interest at the rate of 6% per annum on all monetary awards from the finality of this Decision until fully paid.
+> SO ORDERED."
+
+---
+
+### **Elaborate Answer to Review Question**
+
+**1. Why was Nonoy Ebet convicted of the crime of Robbery with Homicide despite not having taken part in the killing, and that his participation in the crime was to stand in the front door of the house that was robbed?**
+
+The Supreme Court held Nonoy Ebet equally liable as a **principal** for the special complex crime of **Robbery with Homicide** based on the interplay of **implied conspiracy (Articles 8 and 17)** and the **special rule governing composite crimes under Article 294(1) of the Revised Penal Code**:
+
+* **A. Ebet Was a Co-Principal by Conspiracy in the Robbery (Articles 8 and 17, RPC):**
+Standing guard as an armed lookout at the front door of a house being robbed is not a passive or minor act—it is an integral, indispensable part of the execution of the robbery. By positioning himself at the main entrance with a firearm, Ebet secured the perimeter, prevented outside intervention, blocked the victims' escape routes, and provided armed moral and physical support to his cohorts ransacking the interior. Coupled with his arrival and simultaneous flight with the armed group, his overt act unmistakably proved an **implied conspiracy** to commit robbery. Under Article 17(1), one who acts as a lookout in a conspiracy to rob is a **principal by direct participation**, as the act of one conspirator is the act of all.
+* **B. Liability of All Robbery Conspirators for Homicide Committed on the Occasion Thereof (Article 294[1], RPC):**
+Under settled jurisprudence governing **Robbery with Homicide**, whenever homicide is committed as a consequence of, or on the occasion of, a robbery, **all those who took part as principals in the robbery will also be held guilty as principals of the special complex crime of Robbery with Homicide**, even if they did not actually take part in the killing or had no original agreement to kill.
+* In *Robbery with Homicide*, the law treats the robbery and the resulting homicide as a single, indivisible felony whose juridical essence is the intent to rob (*animus lucrandi*), with the killing occurring by reason or on the occasion thereof.
+* Because Ebet conspired in the robbery, the law imputes to him the fatal acts of his companions inside the house.
+
+
+* **C. Failure to Prove the Sole Recognized Exception (Endeavoring to Prevent the Killing):**
+The only way a co-conspirator in a robbery can escape liability for a homicide committed by his cohorts is by proving through clear and convincing evidence that **he endeavored to prevent the killing**. Here, Ebet remained at his post at the front door throughout the violent assault inside the house and fled alongside the killers immediately after the shooting. Having made no effort whatsoever to stop his companions from shooting Emiliano Dela Cruz, Ebet could not evade full criminal responsibility as a principal for Robbery with Homicide.
