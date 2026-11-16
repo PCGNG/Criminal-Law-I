@@ -1,1 +1,65 @@
+### **Case Brief: People of the Philippines v. Oscar Castelo**
 
+*G.R. No. L-10774, May 30, 1964*
+
+---
+
+### **Facts**
+
+Manuel P. Monroy acted as the star witness against Oscar Castelo, then Secretary of National Defense, in a Senate Blue Ribbon Committee investigation involving bribery charges. Desiring to silence Monroy after failed attempts to prevent him from testifying, Castelo gave a liquidation order to his trusted bodyguard, Bienvenido Mendoza (*alias* "Ben Ulo"). Mendoza organized and directed an armed group of men—including Augusto Melencio (Castelo's nephew and confidential agent), Jose de Jesus, Hipolito Bonifacio, Rogelio Robles, and "Scarface"—in a slaying expedition. On the night of the attack, the armed group proceeded to Monroy's residence, where Jose de Jesus fatally shot Monroy.
+
+After the killing, when "Scarface" threatened to turn against them and expose the plot, Castelo mobilized military and constabulary forces under his command as Secretary of National Defense to secure him. The trial court convicted Castelo and his co-accused of murder. On appeal to the SC, Castelo interposed an alibi and contended that he did not issue the order to kill Monroy, while the Solicitor General argued that Mendoza acted on his own merely to curry Castelo's favor.
+
+---
+
+### **Issue**
+
+Is Oscar Castelo criminally liable as a principal by inducement under the Revised Penal Code for the murder of Manuel P. Monroy despite not having been present at the scene of the execution?
+
+---
+
+### **Ruling**
+
+**Yes.** The Supreme Court ruled verbatim:
+
+> "Bienvenido Mendoza. — All the confessions point to him as the mastermind, directing his 'boys' in the slaying expedition He in turn had received orders from Castelo"
+
+**Legal Basis / Doctrines Relied Upon:**
+
+* **Article 17(2), Revised Penal Code** (Principals by inducement / directly forcing or inducing others to commit a felony)
+* **Article 248, Revised Penal Code** (Murder qualified by evident premeditation, attended by aggravating circumstances of nighttime and aid of armed men)
+* **Doctrine on Conspiracy and Extrajudicial Confessions:** Interlocking extrajudicial confessions of co-conspirators, corroborated by independent circumstantial evidence and motive, establish conspiracy and the culpability of the inducer.
+
+---
+
+### **Ratio Decidendi**
+
+A person who directly induces another to commit a felony is criminally liable as a principal by inducement under Article 17(2) of the Revised Penal Code on equal footing with the actual perpetrators. Where the evidence—consisting of voluntary, interlocking confessions of co-conspirators corroborated by overwhelming circumstantial proof of strong personal motive, direct command, and post-crime cover-up—establishes beyond reasonable doubt that the accused ordered the liquidation of the victim, the accused is liable as a principal by inducement even if absent during the physical execution of the killing.
+
+---
+
+### **Fallo**
+
+> "JUDGMENT: WHEREFORE, the conviction for murder — qualified by premeditation — all the herein accused-appellants is affirmed. There are aggravating circumstances, like nighttime, aid of armed men, etc.; but for lack of sufficient votes, they are all sentenced to life-imprisonment and to indemnify the heirs of Monroy, jointly and severally, in the sum of six thousand pesos (P6,000.00), and to pay the costs.
+> So ordered."
+
+---
+
+### **Elaborate Answer to Review Question**
+
+**1. What is the factual and legal basis of the decision of the Supreme Court that accused Oscar Castelo is guilty of the crime of murder?**
+
+The Supreme Court's conviction of Oscar Castelo rests on his liability as a **principal by inducement** under **Article 17(2) of the Revised Penal Code** for the crime of **Murder** under **Article 248**.
+
+* **Factual Basis:**
+1. **Compelling Motive:** Manuel Monroy was the star witness against Castelo in a high-profile Senate Blue Ribbon Committee investigation regarding bribery allegations. After efforts to dissuade Monroy from testifying failed, Castelo had a strong, direct personal interest in permanently silencing him.
+2. **Direct Liquidation Order:** Castelo issued the order to liquidate Monroy to his trusted bodyguard and confidant, Bienvenido Mendoza (*alias* "Ben Ulo"), who in turn mobilized and directed the armed hit squad (including Jose de Jesus, who fired the fatal shots).
+3. **Corroborated Voluntary Confessions:** The voluntary confessions of co-conspirators—most notably that of Augusto Melencio, Castelo's own nephew and confidential agent who confessed while out on bail—explicitly confirmed Castelo's instruction to silence Monroy.
+4. **Post-Crime Conduct and Abuse of Official Power:** When one of the conspirators ("Scarface") threatened to defect and expose the crime, Castelo used his authority as Secretary of National Defense to summon Constabulary and Army troops to take custody of him—conduct that betrayed Castelo's guilty connection to the killers rather than innocent official action.
+5. **Failure of Alibi:** Castelo's claim that he escorted his wife to a party at the Jai-Alai from 6:00 p.m. onward did not negate his culpability, both because he was seen leaving the area at around 6:00 p.m. and because physical presence at the murder scene is unnecessary for a principal by inducement.
+
+
+* **Legal Basis:**
+1. **Principal by Inducement (Article 17, par. 2, RPC):** Under the Revised Penal Code, principals include not only those who take a direct part in the execution of the act, but also *"those who directly force or induce others to commit it."* Because Mendoza and his men would not have targeted Monroy—whom they had no personal quarrel with—were it not for Castelo's command and influence as their superior and benefactor, Castelo's order was the determining cause of the crime.
+2. **Conspiracy and Collective Responsibility (Article 8, RPC):** Once conspiracy between the mastermind (Castelo), the coordinator (Mendoza), and the triggermen is proven through their concerted acts and interlocking confessions, the act of one becomes the act of all, rendering Castelo equally liable with the actual gunman.
+3. **Qualification as Murder and Penalty (Article 248, RPC):** The killing was qualified to **Murder** by **evident premeditation**, as the plot was deliberately planned and executed over time. While generic aggravating circumstances such as **nighttime** and **aid of armed men** attended the commission of the offense—which would have warranted the death penalty—the Supreme Court imposed **life imprisonment** (*reclusion perpetua*) due to the lack of the required number of votes to impose death.
