@@ -1,0 +1,61 @@
+### **Case Brief: Jesus O. Typoco, Jr. v. People of the Philippines**
+
+*G.R. No. 221857 (Consolidated with G.R. No. 222020), August 16, 2017*
+
+---
+
+### **Facts**
+
+In implementing a Medical Indigency Program, the Provincial Government of Camarines Norte procured medicines from Cabrera's Drugstore and Medical Supply (CDMS), owned by Angelina Cabrera (Cabrera), under Purchase Request (PR) No. 0628 and Purchase Order (PO) No. 0628 originally dated April 21, 2005, with delivery and inspection evidenced by a Sales Invoice and an Inspection and Acceptance Report dated April 28, 2005. However, a public bidding for the medicines was conducted only later, on May 18, 2005. To conceal that the order had already been placed prior to the bidding, the date on PO No. 0628 was altered from April 21, 2005 to May 20, 2005—a change executed by Buyer II Aida Pandeagua (Pandeagua) upon the instruction of General Services Office OIC Noel Reyes (Reyes), and subsequently approved by Governor Jesus Typoco, Jr. (Typoco).
+
+Typoco, Reyes, Pandeagua, and Cabrera were charged with Falsification of Public Documents under Article 171 of the Revised Penal Code before the Sandiganbayan. The Sandiganbayan acquitted Pandeagua and Cabrera for insufficiency of evidence, but convicted Typoco and Reyes as co-principals acting in conspiracy. On appeal to the SC, Typoco and Reyes contended that conspiracy could not exist between them given the acquittal of their co-accused Pandeagua and Cabrera.
+
+---
+
+### **Issue**
+
+Are Jesus Typoco, Jr. and Noel Reyes criminally liable as co-principals in conspiracy for Falsification of Public Documents under Article 171 of the Revised Penal Code despite the acquittal of their co-accused Aida Pandeagua and Angelina Cabrera?
+
+---
+
+### **Ruling**
+
+**Yes.** The Supreme Court ruled verbatim:
+
+> "To determine conspiracy, there must be a common design to commit a felony. A conspiracy is in its nature a joint offense. The crime depends upon the joint act or intent of two or more persons. Yet, it does not follow that one person cannot be convicted of conspiracy. As long as the acquittal or death of a co-conspirator does not remove the basis of a charge of conspiracy, one defendant may be found guilty of the offense."
+
+**Legal Basis / Doctrines Relied Upon:**
+
+* **Article 8, Revised Penal Code** (Conspiracy and proposal to commit felony)
+* **Article 17, Revised Penal Code** (Principals)
+* **Article 171, paragraphs (5) and (6), Revised Penal Code** (Falsification by public officer, employee, or notary by altering true dates or making alterations/intercalations in a genuine document which change its meaning)
+* *Arias v. Sandiganbayan*, 259 Phil. 794 (1989) & *Bacasmas v. Sandiganbayan*, 713 Phil. 639 (2013) (Inapplicability of the *Arias* doctrine when palpable irregularities appear on the face of the documents)
+
+---
+
+### **Ratio Decidendi**
+
+Conspiracy requires a common design or joint act and intent of two or more persons, so that the acquittal of some co-accused does not bar the conviction of the remaining accused as co-principals so long as the acquittal does not remove the factual and legal basis of the conspiracy between those who remain. Where two public officers perform indispensable, mutually reinforcing official acts that alter the true date of a public procurement document to make it appear that an order occurred after rather than before a public bidding—specifically, one officer directing the alteration and issuing the document, and the approving authority affixing his signature despite glaring alterations on the face of the documents—both are equally liable as co-principals by direct participation under Articles 8 and 17 of the Revised Penal Code.
+
+---
+
+### **Fallo**
+
+> "WHEREFORE, the Decision dated October 15, 2015 and Resolution dated December 8, 2015 of the Sandiganbayan in SB-11-CRM-0159 are hereby AFFIRMED.
+> SO ORDERED."
+
+---
+
+### **Elaborate Answer to Review Question**
+
+**1. Why did the Supreme Court rule that there was a conspiracy between accused Reyes and Typoco despite the acquittal of his co-accused Pandeagua and Cabrera?**
+
+The Supreme Court upheld the finding of conspiracy between Noel Reyes and Jesus Typoco, Jr. on two distinct legal and factual grounds:
+
+* **A. Legal Principle — Acquittal of Some Co-Accused Does Not Invalidate Conspiracy Among the Remaining Accused:**
+While conspiracy is by nature a joint offense requiring the concerted act or intent of at least two persons, the acquittal of one or more co-accused does not automatically absolve the remaining defendants. As the Supreme Court emphasized, **as long as the acquittal of a co-conspirator does not remove the basis of the charge of conspiracy**, the remaining accused may still be validly convicted as co-conspirators. Here, Pandeagua (a rank-and-file Buyer II who merely obeyed her superior's directive to change the date) and Cabrera (the private supplier) were acquitted for insufficiency of evidence regarding their criminal intent. Their acquittal left intact the independent, collaborative participation of **two public officers—Reyes and Typoco**—whose joint official actions sufficed to constitute a conspiracy between them.
+* **B. Factual Basis — Synchronized Official Acts and Inapplicability of the *Arias* Doctrine:**
+The Court found that Reyes and Typoco performed complementary, indispensable acts that brought the falsification to fruition:
+1. **Reyes's Participation:** As Officer-in-Charge of the General Services Office, Reyes ordered Pandeagua to alter the date of PO No. 0628 from April 21, 2005 to May 20, 2005, and thereafter signed and issued the falsified Purchase Order.
+2. **Typoco's Participation:** As Provincial Governor, Typoco had the official duty to review and approve the procurement documents. He approved the altered PO No. 0628 despite the fact that the alteration of the date was visible on the face of the document and clashed glaringly with the supporting procurement records—such as the Purchase Request, the Sales Invoice, and the Inspection and Acceptance Report—which still bore April 2005 dates showing that the medicines had already been ordered, delivered, and inspected weeks *before* the May 18, 2005 public bidding.
+3. **Rejection of the *Arias* Defense:** Typoco could not invoke the *Arias* doctrine (which allows heads of offices to rely to a reasonable extent on their subordinates). Under *Bacasmas v. Sandiganbayan*, when there are patent irregularities on the face of the documents that should prompt a head of office to further examine them, yet he signs and approves them anyway, he tolerates and participates in the irregularity. Together, Reyes's issuance and Typoco's approval perfected the falsification, proving a common design between them as co-principals.
