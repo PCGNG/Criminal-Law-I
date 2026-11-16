@@ -1,0 +1,79 @@
+### **Case Brief: People of the Philippines v. Khaddafy Janjalani, Gamal B. Baharan, Angelo Trinidad, and Rohmat Abdurrohim**
+
+*G.R. No. 188314, January 10, 2011*
+
+---
+
+### **Facts**
+
+On the evening of February 14, 2005, Gamal B. Baharan (Baharan) and Angelo Trinidad (Trinidad), members of the Abu Sayyaf Group (ASG), boarded an RRCG passenger bus along EDSA, Makati City, planted an explosive device inside, and hurriedly alighted before the bomb detonated, killing four passengers and injuring about forty others.
+
+Following their arrest, co-accused Imran Asali (Asali) turned state witness and testified during trial that upon the orders of ASG leaders Khaddafy Janjalani, Abu Solaiman, and Rohmat Abdurrohim *alias* "Abu Zaky" (Rohmat), Rohmat trained Asali and Trinidad in assembling explosives in preparation for waging urban terrorist attacks against the government. Asali further testified that Rohmat personally provided the detonating cord and components used in the bombing, coordinated with him before the attack, and telephoned him the next day to congratulate him on the mission's success, stating, *"Sa wakas nag success din yung tinuro ko sayo"*.
+
+While Baharan, Trinidad, and Asali pleaded guilty to Multiple Murder and Multiple Frustrated Murder, Rohmat pleaded not guilty to both charges. The RTC convicted Baharan, Trinidad, and Rohmat as co-principals acting in conspiracy, which the CA affirmed with modification. On appeal to the SC, Rohmat argued that his guilt was not proven beyond reasonable doubt and that Asali's testimony was insufficient and inadmissible to establish his participation in the conspiracy.
+
+---
+
+### **Issue**
+
+Is Rohmat Abdurrohim criminally liable as a co-principal under the Revised Penal Code for the Multiple Murder and Multiple Frustrated Murder resulting from the bus bombing despite not having been physically present during the planting and detonation of the explosive?
+
+---
+
+### **Ruling**
+
+**Yes.** The Supreme Court ruled verbatim:
+
+> "Hence, where acts of the accused collectively and individually demonstrate the existence of a common design towards the accomplishment of the same unlawful purpose, conspiracy is evident and all the perpetrators will be held liable as principals (People v. Ellado, 353 SCRA 643)."
+
+**Legal Basis / Doctrines Relied Upon:**
+
+* **Article 8, Revised Penal Code** (Conspiracy and proposal to commit felony)
+* **Article 17, Revised Penal Code** (Principals — specifically paragraphs 2 and 3, covering principals by inducement and principals by indispensable cooperation)
+* **Article 248, Revised Penal Code** (Murder)
+* **Rule 130, Section 30, Revised Rules of Court** (Distinction between extrajudicial confessions and judicial admissions/testimony given on the witness stand by a co-conspirator)
+* *People v. Lenantud*, 352 SCRA 544
+* *People v. Ellado*, 353 SCRA 643
+* *People v. Palijon*, 343 SCRA 486 / *People v. Buntag* (Admissibility of a co-conspirator's judicial testimony against co-accused)
+
+---
+
+### **Ratio Decidendi**
+
+Under Article 17 of the Revised Penal Code, criminal liability as a principal is not limited to those who take a direct part in executing the felony, but equally attaches to those who directly induce others to commit it or cooperate in its commission by another act without which it would not have been accomplished. When the collective and individual acts of the accused—from bomb-making instruction and operational instruction to the actual planting of the explosive—demonstrate a common design toward the same unlawful purpose, conspiracy is established, rendering every participant liable as a co-principal under the principle that the act of one is the act of all regardless of physical presence at the scene of the explosion.
+
+---
+
+### **Fallo**
+
+> "WHEREFORE, the Petition is DENIED. The Decision of the Regional Trial Court of Makati, as affirmed with modification by the Court of Appeals, is hereby AFFIRMED.
+> SO ORDERED."
+
+---
+
+### **Elaborate Answer to Review Question**
+
+**What was the legal and factual basis of the conviction of accused Rohmat despite him not having taken part in the bombings perpetrated by his co-accused?**
+
+The Supreme Court sustained Rohmat Abdurrohim's conviction for Multiple Murder and Multiple Frustrated Murder even though he did not board the RRCG bus or detonate the explosive based on clear **legal provisions under the Revised Penal Code and Rules of Court** and **corroborated factual evidence** establishing his indispensable role in the terrorist conspiracy:
+
+* **A. Legal Basis:**
+1. **Liability as Principal Under Article 17 of the Revised Penal Code:**
+The Supreme Court explicitly anchored Rohmat's culpability on **Article 17 of the Revised Penal Code**, which classifies as principals not only *(1) those who take a direct part in the execution of the act*, but also:
+* *(2) Those who directly force or induce others to commit it* (**Principal by Inducement**); and
+* *(3) Those who cooperate in the commission of the offense by another act without which it would not have been accomplished* (**Principal by Indispensable Cooperation**).
+Because Rohmat provided the specialized bomb-making instruction, explosive materials, and operational directives that enabled the bombing to be carried out, his participation fell squarely within Article 17.
+
+
+2. **Doctrine of Conspiracy (*"The Act of One is the Act of All"*):**
+Citing *People v. Lenantud* and *People v. Ellado*, the Court reiterated that where the acts of the accused collectively and individually demonstrate a **common design toward the accomplishment of the same unlawful purpose**, conspiracy is evident and **all perpetrators will be held liable as principals**. Once conspiracy is proven, physical absence from the actual scene of execution does not exculpate a co-conspirator; the act of Baharan and Trinidad in planting and detonating the bomb became legally the act of Rohmat.
+3. **Admissibility of Co-Conspirator Asali's Judicial Testimony (Section 30, Rule 130):**
+Rohmat argued that state witness Asali's statements implicating him were inadmissible under Section 30, Rule 130 of the Rules of Court (which limits extrajudicial statements of a conspirator against a co-conspirator). The Supreme Court rejected this defense, citing *People v. Palijon* and *People v. Buntag*: Section 30, Rule 130 applies **only to extrajudicial acts or declarations**, not to **judicial admissions or testimony given directly on the witness stand** during trial, where Rohmat was afforded full opportunity to cross-examine Asali.
+
+
+* **B. Factual Basis:**
+1. **Direct Bomb-Making Training and Ideological Directive:** Asali categorically testified in open court that upon the orders of ASG leaders (Khaddafy Janjalani, Abu Solaiman, and Rohmat himself), Rohmat personally trained Asali and Trinidad on how to assemble improvised explosive devices specifically to carry out urban bombings against the government.
+2. **Supply of Bomb Components and Operational Coordination:** Rohmat supplied the essential bomb-making components (including the detonating cord) and actively coordinated with Asali before the Valentine's Day attack, after two prior failed attempts.
+3. **Pretrial Stipulations Confirming Prior Association:** During pretrial, both Asali and Trinidad formally stipulated that they knew Rohmat prior to the February 14 bombing incident, and Asali stipulated that Rohmat was the person who taught him how to make explosive devices.
+4. **Post-Bombing Congratulatory Call Confirming Complicity:** The day after the bus explosion, Rohmat telephoned Asali and praised him for executing the attack, saying, *"Sa wakas nag success din yung tinuro ko sayo"* ("At last, what I taught you has finally succeeded")—an unmistakable confirmation of his authorship, inducement, and shared criminal design in the bombing.
+
