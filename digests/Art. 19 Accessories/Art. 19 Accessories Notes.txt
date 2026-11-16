@@ -1,5 +1,56 @@
 An accessory does not know the criminal design of the principal concurred in by an accomplice. What the accessory knows is that a crime has been committed, and despite having knowledge that a crime has been committed, still, he participated after the commission of the crime. He takes part subsequent to the commission of the crime. Hence, his participation is after the fact, after the commission of the crime.
 
+---
 ### ACTS OF AN ACCESSORY 
-First act - By profiting themselves or assisting the offender to profit by the effects of the crime  
+*First act* -- By profiting themselves or assisting the offender to profit by the effects of the crime  
 Either the accessory himself profited or he assisted the principal to profit from the effects or proceeds of the crime.
+
+### P.D. 1612 ANTI-FENCING LAW
+#### ACCESSORY
+1. The crime committed by the principal may be any crime. 
+2. The prosecution has the burden of proving beyond reasonable doubt that the accused charged as an accessory has knowledge that a crime has been committed.
+
+#### FENCE
+1. The crime committed by the principal must only be Robbery or Theft. Fencing will not apply to any other crime.
+2. possession  the  for  a  prima  value  The law does not require that he has knowledge that a crime of Robbery or Theft has been committed because it suffices that it should have been known to him that a thing in his is proceeds of Robbery or Theft.  
+Reason: Under Sec. 5 of PD 1612, the law provides facie presumption of fencing.  
+Under Sec. 5 of PD 1612, any person found in possession of any article, item, object, or anything of which proceeds of Robbery or Thievery, presumes that he is a fence.  is  the  the  law
+
+Example: A valuable ballpen was lost. It was found in the possession of Mario. Mario can be held liable as a fence under PD 1612. He can be charged as a fence because the law presumes that he ought to know that the thing in his possession is the proceeds of Robbery or Thievery. The burden is on him to rebut the presumption provided for by law under Sec. 5 of PD 1612.
+
+---
+*Second Act* -– By concealing or destroying the body of the crime, or the effects or instruments thereof, in order to prevent its discovery.
+Body of the crime/substance of the crime/corpus delicti refers to the fact that a crime has been committed by someone.
+
+*Elements of Body of the Crime*
+1. Proof of occurrence of certain event; and
+2. Proof of a person's criminal responsibility therefor.
+
+Example: X killed Y. After X killed Y, he looked around. He believes no one saw him killed Y. He cut the deceased body of Y into pieces, placed them inside a sack, placed the sack in the trunk of his car, and drove his car near the ocean. Thereafter, he threw the cut pieces of the body of Y into the ocean.
+But unknown to X, all the criminal acts that he did were witnessed by W. W saw the killing. W saw X cutting the body of Y into pieces. W saw X placing the deceased body of Y inside a sack. W followed X as X went to the ocean and threw the cut pieces of the body of Y into the ocean.
+Even if the prosecution could not find the deceased body of Y in the ocean, X can still be convicted. The body of the crime is the fact that W, as a witness, saw everything. W can prove the occurrence of the killing, and W can point to X as the one responsible for the killing of Y. Hence, there still exists the body of the crime/substance of the crime/corpus delicti by reason of the testimony to be provided by W, the witness.
+
+---
+*Third act* -- By harboring, concealing, or assisting in the escape of the principals of the crime, provided the accessory acts with abuse of his public functions or whenever the author of the crime is guilty of treason, parricide, murder, or an attempt to take the life of the Chief Executive, or is known to be habitually guilty of some other crime
+** Two kinds of accessory under the third act**
+1. Public officer - If the accessory who harbors, conceals, or assists in the escape of the principal is a public officer, the crime committed by the principal may be any crime, provided that the act of harboring, concealing, or assisting in the escape of the principal is done by the public officer by abusing his public functions.
+2. Private individual - If, however, the act of harboring, concealing, or assisting in the escape of the principal is done by a private person, what the law requires is that the author of the crime is guilty of Treason. Parricide. Murder. or an Attempt to take the life of the Chief Executive, or is known to be habitually quilty of some other crime.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
