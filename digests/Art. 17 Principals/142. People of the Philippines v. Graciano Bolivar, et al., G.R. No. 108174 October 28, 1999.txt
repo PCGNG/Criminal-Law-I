@@ -1,0 +1,76 @@
+### **Case Brief: People of the Philippines v. Cresenciano Canaguran, Graciano Bolivar, Joel Soberano, Renato Balbon, and Diosdado Barrion**
+
+*G.R. No. 108174, October 28, 1999*
+
+---
+
+### **Facts**
+
+One evening, while Damaso Suelan, Jr. (Damaso) and Rolly Brendia (Rolly) were drinking inside the store of Rodney Balaito (Balaito), Cresenciano Canaguran (Canaguran), Graciano Bolivar (Bolivar), Joel Soberano (Soberano), and Renato Balbon (Balbon) were also drinking nearby. During the gathering, a certain Quirino arrived and handed a .12-gauge pistolized firearm to Canaguran before leaving. Shortly thereafter, Bolivar, Soberano, Balbon, and Canaguran left the store.
+
+Later that night, after Damaso fetched Hugo Callao (Callao) to join their drinking session inside Balaito's hut, a gunshot rang out from outside the bamboo slat fence, fatally hitting Callao and wounding Damaso in the arm. Damaso and Rolly identified Canaguran as the gunman who fired the shot, and saw Canaguran, Bolivar, Soberano, and Balbon running away from the scene.
+
+Separately, a prosecution witness testified that three days prior to the shooting, he overheard Diosdado Barrion (Barrion) conversing behind a plywood divider in his market store with Canaguran, offering ₱2,000.00 to kill Callao because Callao had allegedly eloped with Barrion's niece, to which Canaguran equivocally answered that *"he will try."* Based on these circumstances, familial relationships among the accused, and their presence at the store, the RTC convicted Barrion as a principal by inducement and Bolivar, Soberano, and Balbon as co-principals by conspiracy for Murder with Frustrated Murder (while Canaguran remained at large). Bolivar died pending appeal, leaving Soberano, Balbon, and Barrion before the SC.
+
+---
+
+### **Issue**
+
+Are Diosdado Barrion, Joel Soberano, and Renato Balbon criminally liable as a principal by inducement and as co-principals by conspiracy under the Revised Penal Code for the shooting committed by Cresenciano Canaguran?
+
+---
+
+### **Ruling**
+
+**No.** The Supreme Court ruled verbatim:
+
+> "There is no question that a conspiracy may be deduced from the mode and manner by which the offense was perpetrated, however, a conspiracy must be established by positive and conclusive evidence. It cannot be based on mere conjectures but must be established as a fact."
+
+**Legal Basis / Doctrines Relied Upon:**
+
+* **Article 8, Revised Penal Code** (Conspiracy and proposal to commit felony)
+* **Article 17, paragraphs 2 and 3, Revised Penal Code** (Principals by inducement and principals by indispensable cooperation)
+* *United States v. Indanan*, 24 Phil. 203 (Requisites for conviction as principal by inducement: the inducement must be made directly with the intention of procuring the commission of the crime, and such inducement must be the determining cause thereof)
+* *People v. Jorge*, 231 SCRA 693 / *People v. Campos*, 202 SCRA 387 (Conspiracy must be proved by positive and conclusive evidence beyond reasonable doubt, not by mere conjectures, presence, or familial ties)
+
+---
+
+### **Ratio Decidendi**
+
+Conspiracy and inducement cannot rest on mere conjecture, speculation, familial relationship, or passive presence at the scene of the crime; both must be proven by positive, conclusive evidence beyond reasonable doubt. To convict an accused as a principal by inducement under Article 17(2) of the Revised Penal Code, the prosecution must establish that the inducement was the direct and determining cause of the crime, rather than an equivocal exchange lacking proof of actual compliance or payoff. Likewise, drinking together with the gunman prior to the shooting and running away after gunfire erupts do not, without overt acts of cooperation or moral support during the attack, establish conspiracy.
+
+---
+
+### **Fallo**
+
+> "WHEREFORE, the decision of the Regional Trial Court of Iloilo City, Branch 36 is REVERSED and SET ASIDE. Accused-appellants Joel Soberano, Renato Balbon and Diosdado Barrion are hereby ACQUITTED based on reasonable doubt and are ordered released immediately from confinement unless they are held for some other lawful cause. The criminal case against Graciano Bolivar is hereby DISMISSED.
+> SO ORDERED."
+
+---
+
+### **Elaborate Answers to Review Questions**
+
+**1. Why is Barrion not considered a principal by inducement?**
+
+The Supreme Court held that Diosdado Barrion could not be convicted as a **principal by inducement** under **Article 17(2) of the Revised Penal Code** (*"those who directly force or induce others to commit it"*) because the prosecution failed to establish the two indispensable legal requisites required by settled jurisprudence (*United States v. Indanan*):
+
+* **First Requisite — Direct Intention to Procure the Crime:** The inducement must be made directly with the intention of procuring the commission of the felony through a price, reward, promise, or words of command.
+* **Second Requisite — Determining Cause of the Crime:** Such inducement must be the **determining cause** of the commission of the crime by the material executor—meaning that without the inducement, the perpetrator would not have committed the offense.
+
+Applying these standards, the Court identified fatal evidentiary gaps in the case against Barrion:
+
+1. **Equivocal and Inconclusive Conversation:** The prosecution relied on a lone witness who claimed to have overheard Barrion behind a plywood divider offering ₱2,000.00 to Canaguran to kill Callao. However, the witness admitted he could not see the speakers through the plywood wall and merely identified Barrion by voice, while Canaguran's alleged reply—that **"he will try"**—was entirely equivocal and failed to show a definite acceptance or commitment to execute the killing.
+2. **Absence of Causal Link Between the Alleged Offer and the Shooting:** Even assuming such a conversation took place three days earlier, there was zero evidence that Barrion actually paid the ₱2,000.00, supplied the firearm, or directed the attack on the night of the incident. As the Court emphasized, *"It does not follow by necessary inference that the order of BARRION to CANAGURAN was effective and motivated CANAGURAN's shooting CALLAO."*
+3. **Weakness of Alleged Motive:** The prosecution's theory that Barrion wanted Callao dead because Callao had eloped with Barrion's niece was contradicted by defense testimony showing that the niece had already returned home long before the incident and that Barrion harbored no ill will toward Callao. Without proof that Barrion's words were the moving, controlling force behind Canaguran's act, Barrion could not be held liable as a principal by inducement.
+
+---
+
+**2. Why did the Supreme Court hold that there was no conspiracy in this case?**
+
+The Supreme Court reversed the trial court's finding of conspiracy among Barrion, Soberano, Balbon, Bolivar, and Canaguran because the lower court pieced together unrelated, ambiguous circumstances instead of relying on **positive and conclusive evidence of a common criminal design**:
+
+1. **Conspiracy Requires Positive Proof, Not Conjecture:** Under **Article 8 of the Revised Penal Code**, conspiracy must be proved by the same quantum of evidence required to establish the crime itself—proof beyond reasonable doubt. While conspiracy may be inferred from the mode and manner of execution, the inference must rest on proven overt acts showing a unity of purpose and concerted action, never on surmise.
+2. **Drinking Together Before the Crime Does Not Prove Unity of Design:** The mere fact that Soberano, Balbon, Bolivar, and Canaguran were drinking at Balaito's store earlier that evening, and that an outsider named Quirino handed a .12-gauge pistolized gun to Canaguran, did not show that Soberano and Balbon knew of or agreed to any plan to shoot Callao. None of the appellants handled the weapon or assisted Canaguran in preparing the ambush.
+3. **Absence of Overt Acts During the Shooting:** During the actual shooting, only Canaguran was seen firing the fatal shot from outside the bamboo slat fence. Soberano and Balbon performed no overt act of participation, did not block the victims' escape, did not issue any encouraging shouts, and rendered no moral or material assistance to Canaguran. Settled doctrine holds that **mere presence at or near the scene of a crime does not make one a co-conspirator**.
+4. **Running Away After Gunfire Is Not Proof of Guilt:** Seeing the men run away after a sudden gunshot rang out in the dark is a natural human reaction to danger and commotion, not conclusive proof of a shared criminal plot.
+5. **Familial Ties and Small-Town Association Are Insufficient:** The trial court placed heavy weight on the fact that Barrion, Soberano, Balbon, and Bolivar were related by consanguinity or affinity, or lived in the same small barangay. The Supreme Court squarely rejected this reasoning, ruling that **blood relationship, affinity, or acquaintance among accused persons never establishes conspiracy** in the absence of proof that they intentionally banded together to commit a felony.
