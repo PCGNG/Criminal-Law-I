@@ -1,0 +1,68 @@
+### **Case Brief: People of the Philippines v. Dina Dulay y Pascual**
+
+*G.R. No. 193854, September 24, 2012*
+
+---
+
+### **Facts**
+
+Dina Dulay (Dulay) convinced AAA, a 12-year-old minor, to accompany her under the guise of looking for Dulay's boyfriend and attending a wake. Instead, Dulay brought AAA to a *kubuhan* at the Bulungan Fish Port in Parañaque City, where a man known as *alias* "Speed" instructed Dulay to look for a younger girl and handed Dulay money. Dulay then pulled AAA inside a room, left her with "Speed," and stayed in another room with her boyfriend. Inside the room, "Speed" tied AAA's hands to a wooden bed (*papag*), pointed a knife at her, and had carnal knowledge of her. When AAA saw Dulay peeping into the room and pleaded for help, Dulay ignored her. Afterward, Dulay and "Speed" warned AAA not to tell anyone about the incident.
+
+The RTC convicted Dulay as a co-principal by indispensable cooperation for the crime of Rape under Article 266-A(1)(a) of the Revised Penal Code, which the CA affirmed with modification. On appeal to the SC, Dulay argued that the lower courts erred in holding her liable as a principal by indispensable cooperation in the rape committed by "Speed".
+
+---
+
+### **Issue**
+
+Is Dina Dulay criminally liable as a principal by indispensable cooperation under Article 17(3) of the Revised Penal Code for the crime of rape perpetrated by *alias* "Speed" after she brought and offered the minor victim to him in exchange for money?
+
+---
+
+### **Ruling**
+
+**No.** The Supreme Court ruled verbatim:
+
+> "To be a principal by indispensable cooperation, one must participate in the criminal resolution, a conspiracy or unity in criminal purpose and cooperation in the commission of the offense by performing another act without which it would not have been accomplished."
+
+**Legal Basis / Doctrines Relied Upon:**
+
+* **Article 17, paragraph 3, Revised Penal Code** (Principals by indispensable cooperation)
+* **Article 266-A, paragraph 1(a) in relation to Article 266-B, Revised Penal Code, as amended by R.A. No. 8353** (Rape)
+* **Section 5(a), Article III, Republic Act No. 7610** (Special Protection of Children Against Abuse, Exploitation and Discrimination Act — Engaging in, promoting, facilitating, or inducing child prostitution)
+* **Section 1, Act No. 4103, as amended** (Indeterminate Sentence Law)
+* **Article 100, Revised Penal Code** (Civil liability of persons criminally liable)
+
+---
+
+### **Ratio Decidendi**
+
+Criminal liability as a principal by indispensable cooperation under Article 17(3) of the Revised Penal Code requires two essential elements: (1) participation in the criminal resolution (conspiracy or unity in criminal purpose), and (2) cooperation in the commission of the offense by performing another act *without which the offense would not have been accomplished*. Persuading a minor to accompany the accused and delivering or offering her to a customer in exchange for money are not acts indispensable to the execution of rape, since anyone else—or even the victim herself—could have made such an offer and the rape could still have been committed without the accused's participation. Consequently, while such acts do not make the accused a principal by indispensable cooperation in rape, they squarely constitute the distinct offense of promoting, facilitating, or inducing child prostitution under Section 5(a) of Republic Act No. 7610, as alleged in the ultimate facts of the Information.
+
+---
+
+### **Fallo**
+
+The Supreme Court **DISMISSED** the appeal of appellant Dina Dulay y Pascual, but **MODIFIED** the Decision of the Court of Appeals by ruling that Dulay is **not guilty beyond reasonable doubt of the crime of Rape as a principal by indispensable cooperation**, and instead found her **GUILTY beyond reasonable doubt of violating Section 5(a), Article III of Republic Act No. 7610**. The Court sentenced her to suffer the indeterminate penalty of **fourteen (14) years and eight (8) months of *reclusion temporal*, as minimum, to twenty (20) years of *reclusion temporal*, as maximum**, and ordered her to pay AAA the amount of **₱50,000.00 as civil indemnity**.
+
+---
+
+### **Elaborate Answer to Review Question**
+
+**Why is Dina Dulay not liable as a principal by indispensable cooperation?**
+
+The Supreme Court reversed the lower courts' conviction of Dina Dulay for Rape as a **principal by indispensable cooperation** under **Article 17(3) of the Revised Penal Code** because the prosecution failed to establish the strict statutory standard of **"indispensability"** required by law:
+
+1. **Two Statutory Requisites of Principal by Indispensable Cooperation (Article 17[3], RPC):**
+Under Article 17(3), principals include *"those who cooperate in the commission of the offense by another act without which it would not have been accomplished."* For an accused to be held liable under this classification, two requisites must concur:
+* **First:** Participation in the criminal resolution—that is, an anterior conspiracy or unity of criminal purpose and intention with the actual perpetrator; and
+* **Second:** Cooperation in the commission of the felony by performing another overt act **without which the crime could not have been accomplished** (an act *sine qua non* to the consummation of the offense).
+
+
+2. **Absence of Indispensability in Dulay's Acts:**
+The Court of Appeals had reasoned that Dulay's acts—deceiving AAA into coming with her, bringing AAA to the *kubuhan*, pulling her into the room with "Speed," accepting money, and leaving her alone so "Speed" could freely rape her—prepared the way for the rape and thus made her a principal by indispensable cooperation. The Supreme Court squarely rejected this reasoning:
+* **Not a *Sine Qua Non* to Rape:** Nothing in the evidence showed that the crime of rape could not have been accomplished without Dulay's participation. As the Court explained, *"Anyone could have accompanied AAA and offered the latter's services in exchange for money and AAA could still have been raped. Even AAA could have offered her own services in exchange for monetary consideration and still end up being raped. Thus, this disproves the indispensable aspect of the appellant in the crime of rape."*
+* **Distinction Between Physical Execution of Rape and Procurement:** "Speed" consummated the rape entirely on his own by tying AAA's hands, threatening her with a knife, and having carnal knowledge of her. Dulay did not hold the victim down, supply the weapon, or assist in overcoming AAA's resistance during the sexual assault.
+
+
+3. **Liability Under the Proper Special Penal Law (Section 5[a], R.A. No. 7610):**
+While Dulay could not be convicted as a principal in the crime of Rape under the Revised Penal Code, the Supreme Court held that she did not go unpunished. Because the character of the crime is determined not by the caption or designation in the Information, but by the **recital of ultimate facts** alleged therein—specifically, that Dulay *"delivered and offered for a fee"* 12-year-old AAA to "Speed"—her proven acts satisfied all elements of **child prostitution** under **Section 5(a), Article III of R.A. No. 7610** (acting as a procurer of a child prostitute and facilitating/inducing a minor under 18 years of age to engage in sexual intercourse for money or profit).
