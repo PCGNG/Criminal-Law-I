@@ -1,0 +1,61 @@
+### **Case Brief: People of the Philippines v. Alias Kino Lascano and Alfredo Delabajan**
+
+*G.R. No. 192180, March 21, 2012*
+
+---
+
+### **Facts**
+
+One day, AAA was assaulted by Alias Kino Lascano (Kino) and Alfredo Delabajan (Delabajan), who both threatened to kill her if she refused to obey them. Delabajan tied AAA's hands and held her feet down while Kino raped her. Immediately afterward, Delabajan took his turn and personally raped AAA.
+
+While Kino remained at large, Delabajan was tried and convicted by the RTC and the CA for the sexual assaults committed both by Kino and by himself. On appeal to the SC, Delabajan interposed an alibi and argued that he could not be held criminally liable for the rape perpetrated by Kino.
+
+---
+
+### **Issue**
+
+Is Alfredo Delabajan criminally liable as a co-principal under the Revised Penal Code not only for the rape he personally committed, but also for the rape perpetrated by Alias Kino Lascano?
+
+---
+
+### **Ruling**
+
+**Yes.** The Supreme Court ruled verbatim:
+
+> "We agree with the CA that the appellant and Kino conspired in sexually assaulting AAA. 'Conspiracy exists when the acts of the accused demonstrate a common design towards the accomplishment of the same unlawful purpose.'"
+
+**Legal Basis / Doctrines Relied Upon:**
+
+* **Article 8, Revised Penal Code** (Conspiracy and proposal to commit felony)
+* **Article 17, Revised Penal Code** (Principals)
+* **Article 266-A, paragraph 1, in relation to Article 266-B, Revised Penal Code** (Rape)
+* *People v. Malones*, 469 Phil. 301, 329 (2004)
+* *People v. Dela Torre*, G.R. No. 176637, October 6, 2008, 567 SCRA 651, 657
+
+---
+
+### **Ratio Decidendi**
+
+When two or more accused act in concert and mutually assist one another toward a single criminal objective, conspiracy is established through their coordinated overt acts demonstrating a common design. Under Article 8 in relation to Article 17 of the Revised Penal Code, the presence of conspiracy renders the act of one conspirator the act of all, making each co-principal criminally liable not only for the sexual assault he personally committed, but also for the separate rape committed by his co-conspirator in the course of their joint enterprise.
+
+---
+
+### **Fallo**
+
+> "WHEREFORE, the decision of the Court of Appeals dated May 25, 2006 in CA-G.R. CEB-CR-H.C. No. 00228 is AFFIRMED with the following MODIFICATIONS: (a) Alfredo Delabajan is found guilty beyond reasonable doubt of two (2) counts of rape; and (b) he is further ordered to pay the victim the amount of ₱30,000.00 as exemplary damages for each count of rape.
+> SO ORDERED."
+
+---
+
+### **Elaborate Answer to Review Question**
+
+**1. What is the reason for the decision of the Supreme Court that Alfredo Delabajan conspired with his co-accused Alias Kino Lascano in raping the victim?**
+
+The Supreme Court concluded that Alfredo Delabajan conspired with Alias Kino Lascano based on their synchronized, mutually reinforcing overt acts before and during the sexual assault, which unmistakably demonstrated a **common design toward the accomplishment of the same unlawful purpose**:
+
+* **Joint Threat and Intimidation:** Both Delabajan and Kino acted together in threatening to kill AAA if she refused to submit to their demands, establishing a shared intent to overcome her resistance through force and intimidation.
+* **Active Physical Facilitation of Kino's Assault:** During the first rape, Delabajan did not merely stand by as a passive observer; he actively immobilized AAA by **tying her hands** and **holding her feet** while Kino had carnal knowledge of her. Without Delabajan's indispensable physical restraint of the victim, Kino could not have consummated the crime as easily.
+* **Sequential Execution of the Same Crime:** Immediately after assisting Kino in raping AAA, Delabajan took his own turn and personally raped the victim, confirming that both men were driven by a single, unified criminal objective to sexually assault AAA.
+* **Legal Consequence of Conspiracy (Co-Principal Liability):** Under settled jurisprudence applying **Articles 8 and 17 of the Revised Penal Code**, once conspiracy is established through such concerted acts, **the act of one becomes the act of all**. Consequently, Delabajan was held criminally accountable as a **principal** for **two (2) counts of rape**—one for the rape perpetrated by Kino (in which Delabajan participated as a co-principal by direct participation/indispensable cooperation in conspiracy), and another for the rape that Delabajan himself committed.
+
+
