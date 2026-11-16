@@ -1,0 +1,9 @@
+### KINDS OF PRINCIPALS
+** 1. Principals by direct participation. ** -- He must be necessarily present at the scene of the crime. He is the one who commits the crime; he is the one who executes the criminal act. Without him, no crime is committted.
+** 2. Principal by induction or inducement. ** -- He need not be present at the scene of the crime. Even if he is absent at the scene of the crime, he can still be convicted as principal if the following elements are present:
+        a. The inducement must be made directly with the deliberate intent of procuring the commission of the crime; and
+        b. The inducement is the primary reason or the main consideration why the crime has been committed.
+** 3. Principal by indispensable cooperation. ** -- He must also be present at the scene of the crime. Without his act, the crime will not be accomplished. His participation is indispensable in order to accomplish or consummate the crime. Therefore, he must be present at the scene of the crime.
+
+#### NOTE:
+Both the principal by direct participation and the principal by indispensable cooperation must be present at the scene of the crime, but not a principal by induction or inducement.
