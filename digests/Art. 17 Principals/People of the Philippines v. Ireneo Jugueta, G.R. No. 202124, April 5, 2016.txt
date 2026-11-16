@@ -1,1 +1,61 @@
+### **Case Brief: People of the Philippines v. Ireneo Jugueta**
 
+*G.R. No. 202124, April 5, 2016*
+
+---
+
+### **Facts**
+
+One evening, Ireneo Jugueta, Gilbert Estores, and Roger San Miguel, each armed with a firearm, went together to the nipa hut of Norberto Divina, where Norberto was sleeping with his wife, Maricel, and their minor daughters, Mary Grace and Claudine. The three men ordered Norberto to come out of the house. When Norberto refused and pleaded for mercy, Jugueta, Estores, and San Miguel simultaneously fired shots into the nipa hut. Norberto and Maricel survived, but the gunshots hit and killed their two daughters, Mary Grace and Claudine.
+
+Upon motion of the prosecution after the Provincial Prosecutor found no *prima facie* case against Estores and San Miguel, the charges against them were dismissed, leaving Jugueta as the sole accused tried before the RTC. The RTC convicted Jugueta of Double Murder and Multiple Attempted Murder, which the CA affirmed. On appeal to the SC, Jugueta argued that there was no proof that the fatal bullets came specifically from his firearm, and that his companions had no participation in the shooting.
+
+---
+
+### **Issue**
+
+Is Ireneo Jugueta, together with his armed companions who acted in concert with him in firing at the victims' dwelling, criminally liable as a principal by direct participation under the Revised Penal Code despite the absence of proof as to whose specific firearm discharged the fatal bullets?
+
+---
+
+### **Ruling**
+
+**Yes.** The Supreme Court ruled verbatim:
+
+> "Conspiracy exists when two or more persons come to an agreement regarding the commission of a crime and decide to commit it. Proof of a prior meeting between the perpetrators to discuss the commission of the crime is not necessary as long as their concerted acts reveal a common design and unity of purpose. In such case, the act of one is the act of all. Here, the three men undoubtedly acted in concert as they went to the house of Norberto together, each with his own firearm. It is, therefore, no longer necessary to identify and prove that it is the bullet particularly fired from appellant's firearm that killed the children."
+
+**Legal Basis / Doctrines Relied Upon:**
+
+* **Article 8, Revised Penal Code** (Conspiracy and proposal to commit felony)
+* **Article 17, Revised Penal Code** (Principals)
+* **Article 248, Revised Penal Code** (Murder)
+* *People v. Nazareno*, 698 Phil. 187, 193 (2012)
+* *People v. Adviento, et al.*, 684 Phil. 507, 519 (2012)
+
+---
+
+### **Ratio Decidendi**
+
+When two or more persons act in concert toward the same unlawful purpose, conspiracy is established through their coordinated overt acts, even without proof of a prior formal agreement. Once conspiracy is proven, all conspirators become co-principals by direct participation under Article 17 of the Revised Penal Code, and the act of one becomes the act of all. Consequently, each perpetrator is equally criminally liable for the resulting felonies regardless of the exact degree or physical impact of each individual's blow or shot, making it unnecessary to trace the fatal bullets to a particular firearm.
+
+---
+
+### **Fallo**
+
+> "WHEREFORE, the instant appeal is DISMISSED. The Decision of the Court of Appeals dated January 30, 2012 in CA-G.R. CR HC No. 03252 is AFFIRMED with the following MODIFICATIONS:
+> (1) In Criminal Case No. 7698-G, the Court finds accused-appellant Ireneo Jugueta GUILTY beyond reasonable doubt of two (2) counts of the crime of murder defined under Article 248 of the Revised Penal Code, attended by the aggravating circumstance of dwelling, and hereby sentences him to suffer two (2) terms of *reclusion perpetua* without eligibility for parole under R.A. 9346, and to indemnify the heirs of Mary Grace Divina and Claudine Divina, for each victim, ₱100,000.00 as civil indemnity, ₱100,000.00 as moral damages, ₱100,000.00 as exemplary damages, and ₱50,000.00 as temperate damages, plus interest at the rate of 6% per annum from the finality of this Decision until fully paid;
+> (2) In Criminal Case No. 7702-G, the Court finds accused-appellant Ireneo Jugueta GUILTY beyond reasonable doubt of Multiple Attempted Murder defined and penalized under Article 248 in relation to Article 51 of the Revised Penal Code, attended by the aggravating circumstance of dwelling, and sentences him to suffer the indeterminate penalty of four (4) years and two (2) months of *prision correccional*, as minimum, to ten (10) years of *prision mayor*, as maximum, and to indemnify Norberto Divina and Maricel Divina, for each victim, ₱50,000.00 as civil indemnity, ₱50,000.00 as moral damages, and ₱50,000.00 as exemplary damages, plus interest at the rate of 6% per annum from the finality of this Decision until fully paid.
+> The Prosecutor General is DIRECTED to immediately conduct a REINVESTIGATION on the possible criminal liability of Gilbert Estores and Roger San Miguel regarding the same incident. Likewise, let a copy of this Decision be furnished the Secretary of Justice for his information and guidance.
+> SO ORDERED."
+
+---
+
+### **Elaborate Answer to Review Question**
+
+**1. Why were all the accused held equally liable? What is the basis of the ruling?**
+
+Under the Revised Penal Code, all perpetrators who participate in the execution of a felony pursuant to a conspiracy are held equally liable as **principals by direct participation** under **Article 17(1)**, in relation to **Article 8**.
+
+* **Existence of Implied Conspiracy:** Article 8 of the Revised Penal Code defines conspiracy as existing when two or more persons come to an agreement concerning the commission of a felony and decide to commit it. Jurisprudence settles that direct proof of a prior meeting or explicit agreement is not indispensable. Conspiracy may be inferred from the mode and manner in which the offense was perpetrated—specifically, when the concerted acts of the accused before, during, and after the crime demonstrate a **common design, unity of purpose, and concurrence of sentiments**.
+* **Application to the Accused's Conduct:** In *Jugueta*, Ireneo Jugueta, Gilbert Estores, and Roger San Miguel arrived at Norberto Divina's house together at night, each carrying his own firearm. They collectively demanded that Norberto exit his dwelling, and upon his refusal, they simultaneously fired at the nipa hut where the family was sleeping. These synchronized, mutually reinforcing overt acts unmistakably established that the three men shared a single criminal objective: to kill Norberto and his family.
+* **Doctrine of Collective Criminal Responsibility (*"The Act of One is the Act of All"*):** Once conspiracy is established, the law imputes the criminal act of every conspirator to all the others. Individual participation ceases to be weighed separately; regardless of who fired the exact shot that struck Mary Grace and Claudine, or whether one conspirator's bullets missed entirely, each participant becomes a **co-principal** bearing identical criminal responsibility for every death and injury resulting from their joint assault. Because the prosecution had erroneously dropped the charges against Estores and San Miguel despite clear evidence of their participation as co-principals, the Supreme Court ordered the Prosecutor General to reinvestigate their criminal liability.
