@@ -1,0 +1,75 @@
+### **Case Brief: People of the Philippines v. Restituto Carandang, Henry Milan, and Jackman Chua**
+
+*G.R. No. 175926, July 6, 2011*
+
+---
+
+### **Facts**
+
+One afternoon, three armed men—Restituto Carandang, Henry Milan, and Jackman Chua—arrived together in a green Mitsubishi Lancer at the house of victims Eugenio Gutierrez, Jr. and Ferdinand Ibardolaza, where PO2 Orlando Alonzo was also present. Armed with firearms, the three men alighted from the vehicle, approached the house, and forced their way inside.
+
+During the ensuing commotion inside the residence, Carandang shot Eugenio Gutierrez, Jr., Ferdinand Ibardolaza, and PO2 Orlando Alonzo, resulting in the deaths of Gutierrez and Ibardolaza and the wounding of PO2 Alonzo. Immediately after the shooting, Carandang, Milan, and Chua fled the scene together in the same getaway car.
+
+The RTC convicted Carandang, Milan, and Chua as co-principals for two counts of Murder and one count of Frustrated Murder, which the CA affirmed. On appeal to the SC, Milan and Chua contended that they could not be held equally liable as co-principals because there was insufficient direct evidence proving that they conspired with Carandang in shooting the victims.
+
+---
+
+### **Issue**
+
+Are Henry Milan and Jackman Chua criminally liable as co-principals by direct participation under the Revised Penal Code for the shootings committed by Restituto Carandang despite the lack of direct evidence of an explicit prior agreement to kill the victims?
+
+---
+
+### **Ruling**
+
+**Yes.** The Supreme Court ruled verbatim:
+
+> "Conspiracy exists when two or more persons come to an agreement concerning the commission of a felony and decide to commit it. Conspiracy need not be proved by direct evidence of prior agreement on the commission of the crime. In fact, conspiracy is very rarely proved by direct evidence of an explicit agreement to commit the crime. Thus, the rule is well-settled that conspiracy may be inferred from the conduct of the accused before, during and after the commission of the crime, where such conduct reasonably shows community of criminal purpose or design."
+
+**Legal Basis / Doctrines Relied Upon:**
+
+* **Article 8, Revised Penal Code** (Conspiracy and proposal to commit felony)
+* **Article 17, Revised Penal Code** (Principals)
+* **Article 248, Revised Penal Code** (Murder)
+* *People v. Caballero*, 448 Phil. 514 (2003)
+* *People v. Del Rosario*, 365 Phil. 292 (1999)
+
+---
+
+### **Ratio Decidendi**
+
+Direct evidence of a prior formal agreement is not indispensable to establish conspiracy under Article 8 of the Revised Penal Code. An implied conspiracy may be inferred from the synchronized, coordinated overt acts of the accused before, during, and after the commission of the felony that demonstrate a unity of criminal design and community of purpose. Once conspiracy is proven, all conspirators are deemed co-principals by direct participation under Article 17 of the Revised Penal Code, and the act of one becomes the act of all—rendering every conspirator equally liable for the resulting felonies regardless of who actually pulled the trigger.
+
+---
+
+### **Fallo**
+
+> "WHEREFORE, the Decision of the Court of Appeals dated May 10, 2006 in CA-G.R. CR-H.C. No. 01934 is AFFIRMED with MODIFICATIONS. Appellants Restituto Carandang, Henry Milan and Jackman Chua are found GUILTY beyond reasonable doubt of two (2) counts of Murder (Criminal Case Nos. Q-01-100061 and Q-01-100062) and are sentenced to suffer the penalty of *reclusion perpetua* for each count, and of one (1) count of Frustrated Murder (Criminal Case No. Q-01-100063) and are sentenced to suffer the indeterminate penalty of eight (8) years of *prision mayor*, as minimum, to fourteen (14) years and eight (8) months of *reclusion temporal*, as maximum.
+> Appellants are further ordered to pay jointly and severally:
+> 1. The heirs of Eugenio Gutierrez, Jr. the amounts of ₱75,000.00 as civil indemnity, ₱50,000.00 as moral damages, ₱30,000.00 as exemplary damages, and ₱25,000.00 as temperate damages;
+> 2. The heirs of Ferdinand Ibardolaza the amounts of ₱75,000.00 as civil indemnity, ₱50,000.00 as moral damages, ₱30,000.00 as exemplary damages, and ₱25,000.00 as temperate damages; and
+> 3. PO2 Orlando Alonzo the amounts of ₱50,000.00 as moral damages, ₱30,000.00 as exemplary damages, and ₱25,000.00 as temperate damages.
+> 
+> 
+> All monetary awards shall earn interest at the rate of 6% per annum from the finality of this Decision until fully paid.
+> SO ORDERED."
+
+---
+
+### **Elaborate Answer to Review Question**
+
+**1. Explain how did the Supreme Court resolve the argument of accused Milan and Chua that there is insufficient direct evidence that they conspired with accused Carandang in the latter’s act of shooting the three victims.**
+
+The Supreme Court rejected the defense of Henry Milan and Jackman Chua by applying the settled doctrine of **implied conspiracy** under **Article 8** in relation to **Article 17(1) of the Revised Penal Code**:
+
+* **A. Direct Proof of Prior Agreement Is Not Required:**
+The Court explained that because criminal plots are almost always hatched in secrecy, conspiracy rarely lends itself to direct proof of a formal meeting or explicit verbal agreement. Consequently, under Philippine criminal jurisprudence, conspiracy need not be established by direct evidence; it may be deduced from the **mode, method, and manner** in which the offense was perpetrated, specifically by examining the concerted acts of the accused **before, during, and after** the commission of the crime.
+* **B. Concerted Acts Before, During, and After the Crime:**
+Evaluating the totality of the conduct of Carandang, Milan, and Chua, the Supreme Court found unmistakable proof of a shared criminal design:
+1. **Before the Crime:** Carandang, Milan, and Chua arrived at the victims' residence together aboard the same vehicle, each armed with a firearm—demonstrating prior coordination and readiness to use lethal force.
+2. **During the Crime:** All three alighted from the car together, stormed into the house in unison, and surrounded or confronted the victims. While Carandang fired the shots that killed Gutierrez and Ibardolaza and wounded PO2 Alonzo, Milan and Chua provided armed backup, moral support, and physical intimidation that ensured the execution of the attack and prevented the victims from escaping or defending themselves. Neither Milan nor Chua made any attempt to stop Carandang or dissociate themselves from the assault.
+3. **After the Crime:** Following the shooting, all three men fled the crime scene together in the very same vehicle they arrived in, confirming their unbroken unity of purpose from inception to escape.
+
+
+* **C. Equal Liability as Co-Principals (*"The Act of One is the Act of All"*):**
+Because their synchronized overt acts established an implied conspiracy, the legal consequence under **Article 17(1) of the Revised Penal Code** is collective criminal responsibility. In a conspiracy, the law no longer measures the exact physical contribution of each individual perpetrator—whether one fired the fatal bullets while the others stood guard or brandished weapons. Since the act of one conspirator is legally the act of all, Milan and Chua are criminally liable as **co-principals by direct participation** for both counts of Murder and one count of Frustrated Murder to the exact same extent as Carandang.
