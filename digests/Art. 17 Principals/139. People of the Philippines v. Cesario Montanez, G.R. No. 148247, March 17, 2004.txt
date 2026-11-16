@@ -1,0 +1,62 @@
+### **Case Brief: People of the Philippines v. Cesario Montañez**
+
+*G.R. No. 148257 (cited in query as G.R. No. 148247), March 17, 2004*
+
+---
+
+### **Facts**
+
+One evening, Perlito Ollanes (Perlito) and his brother-in-law, Joven Hintogaya (Joven), were walking home along a trail. Perlito was walking about seven meters ahead of Joven when a sudden gunshot rang out, hitting Perlito in the chest and causing him to fall face down to the ground. Immediately after the shot, Joven saw Cesario Montañez (Montañez)—who was carrying a long firearm in his right arm—approach the fallen Perlito, drop a handwritten note beside him warning others not to follow his ways, and leave the scene.
+
+Moments later, Perlito's brother, Edmundo Ollanes (Edmundo), rushed to the area after hearing the gunfire and cradled the barely breathing victim. Aware that he was on the verge of death, Perlito answered Edmundo's inquiry by stating three times that it was Montañez who shot him before dying on the way to the hospital. Meanwhile, co-accused Daniel Sumaylo (Sumaylo) pleaded guilty to the lesser offense of homicide and subsequently testified for the defense in an attempt to claim sole responsibility for the shooting and exculpate Montañez.
+
+The RTC initially convicted Montañez of Murder as a principal by direct participation, though it later modified its ruling on reconsideration to hold him liable merely as an accomplice. On appeal, the CA set aside the modification and reinstated Montañez's conviction as a principal by direct participation. Before the SC, Montañez denied shooting Perlito and contended that his mere presence at the crime scene did not establish his liability as a principal.
+
+---
+
+### **Issue**
+
+Is Cesario Montañez criminally liable as a principal by direct participation under the Revised Penal Code for the murder of Perlito Ollanes based on interlocking circumstantial evidence and the victim's dying declaration despite the absence of an eyewitness who saw him pull the trigger?
+
+---
+
+### **Ruling**
+
+**Yes.** The Supreme Court ruled that the prosecution's evidence establishes that Montañez is a principal by direct participation in the killing of Perlito. Under settled evidentiary and criminal law principles relied upon by the Court, a conviction as a principal by direct participation may be proved either by direct evidence or by an unbroken chain of circumstantial evidence consistent with the hypothesis of guilt and inconsistent with innocence, especially when corroborated by a victim's admissible dying declaration.
+
+**Legal Basis / Doctrines Relied Upon:**
+
+* **Article 17, paragraph 1, Revised Penal Code** (Principals by direct participation)
+* **Article 248, Revised Penal Code** (Murder qualified by treachery)
+* **Rule 133, Section 4, Revised Rules on Evidence** (Sufficiency of circumstantial evidence when there is more than one circumstance, the facts from which the inferences are derived are proven, and the combination produces conviction beyond reasonable doubt)
+* **Rule 130, Section 37, Revised Rules on Evidence** (Dying declaration made under the consciousness of an impending death)
+* *People v. Delim*, G.R. No. 142773, January 28, 2003 (Doctrine on proof of guilt via circumstantial evidence)
+
+---
+
+### **Ratio Decidendi**
+
+An accused is criminally liable as a principal by direct participation under Article 17(1) of the Revised Penal Code when proven beyond reasonable doubt to have personally executed the criminal act, even without direct eyewitness testimony of the actual shooting. Where multiple, uncontradicted pieces of circumstantial evidence—such as immediate presence beside the freshly shot victim while armed with a firearm and dropping a threatening note explaining the killing—combine with the victim's unequivocal dying declaration identifying the accused as the shooter, these facts form an unbroken chain pointing solely to the accused as the gunman, rendering a co-accused's belated and self-serving confession unworthy of credence.
+
+---
+
+### **Fallo**
+
+The Supreme Court **DISMISSED** the appeal and **AFFIRMED with MODIFICATION** the Decision of the Court of Appeals—which had reinstated the September 19, 1995 Decision of the Regional Trial Court of Tangub City, Branch 16—convicting Cesario Montañez as a **principal** of the crime of **Murder**, sentenced to suffer the penalty of ***reclusion perpetua***, and additionally directed him to pay the heirs of the victim Perlito Ollanes the amount of **₱25,000.00 as exemplary damages**, alongside the other civil indemnities sustained.
+
+---
+
+### **Elaborate Answer to Review Question**
+
+**What is the factual basis of the Court of Appeals and affirmed by the Supreme Court in ruling that Montanez is a principal by direct participation?**
+
+Both the Court of Appeals and the Supreme Court rejected the trial court's amended ruling (which had downgraded Montañez's liability to that of a mere accomplice) and held that he was a **principal by direct participation** under **Article 17(1) of the Revised Penal Code** based on three interlocking factual circumstances corroborated by the victim's dying declaration:
+
+1. **Immediate Presence and Overt Acts at the Scene Right After the Gunshot:**
+Prosecution witness Joven Hintogaya, who was walking just seven meters behind Perlito, heard a sudden gunshot and immediately saw Perlito collapse to the ground. Seconds later, Joven saw Montañez emerge and walk directly up to the fallen victim, drop a piece of paper beside Perlito's body, and swiftly leave the area. That handwritten note explicitly justified the execution by declaring that the victim was "a garbage of society" who was "not worth to live" and warned that two individuals in the locality would be eliminated. Dropping such a warning note beside the mortally wounded victim was the signature act of the executioner, not a mere bystander or secondary participant.
+2. **Possession of a Firearm at the Moment of the Attack:**
+At the exact moment Montañez approached Perlito and left the note, Joven positively observed Montañez carrying a long firearm in his right arm. Because Perlito had just been felled by a single gunshot wound to the chest and no other armed person was seen fleeing the immediate spot, Montañez's possession of the weapon directly linked him to the fatal shot.
+3. **The Victim's Unequivocal Dying Declaration:**
+Moments after Montañez departed, Edmundo Ollanes arrived and lifted his dying brother. Conscious that death was imminent—having explicitly told Edmundo that he was going to die—Perlito answered Edmundo's question by naming **"Cesar Montañez" three times** as the person who shot him. Admitted as a dying declaration under Section 37, Rule 130 of the Rules on Evidence (and corroborated by Joven, who witnessed the two brothers conversing), Perlito's statement directly identified Montañez not merely as someone present at the scene, but as the actual triggerman.
+4. **Credibility of Witnesses and Rejection of Co-Accused Sumaylo's Belated Confession:**
+Neither Joven nor Edmundo harbored any ill motive to falsely impute a capital offense to Montañez. Furthermore, the Supreme Court saw through co-accused Daniel Sumaylo's attempt to take sole blame for the shooting after pleading guilty to the lesser offense of homicide. Sumaylo's narrative—claiming that another person dropped the note and that Montañez was misidentified due to a similar build—was a transparent stratagem designed to spare Montañez from *reclusion perpetua* while Sumaylo served a lighter indeterminate sentence for homicide. Combined, the physical circumstances and dying declaration proved beyond reasonable doubt that Montañez himself fired the treacherous shot, making him a **principal by direct participation**.
