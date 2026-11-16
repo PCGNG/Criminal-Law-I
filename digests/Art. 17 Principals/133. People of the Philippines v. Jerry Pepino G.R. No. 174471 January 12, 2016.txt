@@ -1,0 +1,68 @@
+### **Case Brief: People of the Philippines v. Jerry Pepino**
+
+*G.R. No. 174471, January 12, 2016*
+
+---
+
+### **Facts**
+
+One evening, Jerry Pepino, Preciosa Gomez, and their armed companions barged into the office of Edward Tan (Edward) and Jocelyn Tan (Jocelyn) in Quezon City. At gunpoint, the group bound the employees, seized valuables, and abducted both Edward and Jocelyn, transporting them in separate vehicles to a safehouse in Tagaytay City. During their captivity, Pepino and his cohorts guarded the victims and demanded a ₱40 million ransom for their release.
+
+After four days, Jocelyn was released to raise the ransom money, while Edward remained detained under armed guard. Jocelyn paid ₱700,000.00 to Gomez at a designated drop-off point in Quezon City, after which Edward was finally released.
+
+The RTC convicted Pepino and Gomez of Kidnapping for Ransom and Serious Illegal Detention, which the CA affirmed. On appeal to the SC, Pepino and Gomez denied conspiring with the other abductors, claiming that they acted independently or without a shared criminal design in the abduction and ransom collection.
+
+---
+
+### **Issue**
+
+Are Jerry Pepino and Preciosa Gomez criminally liable as co-principals by conspiracy under the Revised Penal Code for Kidnapping for Ransom and Serious Illegal Detention despite performing distinct roles during the abduction, detention, and ransom collection?
+
+---
+
+### **Ruling**
+
+**Yes.** The Supreme Court ruled verbatim:
+
+> "Conspiracy exists when two or more persons come to an agreement concerning the commission of a felony and decide to commit it. Conspiracy need not be proved by direct evidence and may be inferred from the conduct of the accused before, during and after the commission of the crime, which are indicative of a joint purpose, concerted action and concurrence of sentiments. In conspiracy, the act of one is the act of all."
+
+**Legal Basis / Doctrines Relied Upon:**
+
+* **Article 8, Revised Penal Code** (Conspiracy and proposal to commit felony)
+* **Article 17, Revised Penal Code** (Principals)
+* **Article 267, Revised Penal Code, as amended by R.A. No. 7659** (Kidnapping and serious illegal detention)
+* *People v. Del Rosario*, 365 Phil. 292 (1999)
+* *People v. Castro*, 434 Phil. 206 (2002)
+
+---
+
+### **Ratio Decidendi**
+
+Under Article 8 in relation to Article 17 of the Revised Penal Code, direct proof of an explicit prior agreement is unnecessary to establish conspiracy; it suffices that the accused's synchronized overt acts before, during, and after the crime reveal a unity of criminal design and concurrence of sentiments. In kidnapping for ransom, where the execution of the felony spans multiple stages—abduction, detention, guarding, ransom negotiation, and payoff collection—every participant who performs an indispensable or coordinated act toward the common objective becomes a co-principal, making the act of one the act of all regardless of the specific degree of individual participation.
+
+---
+
+### **Fallo**
+
+> "WHEREFORE, the Decision dated May 26, 2006 of the Court of Appeals in CA-G.R. CR-H.C. No. 01624 is AFFIRMED with MODIFICATIONS. Appellants Jerry Pepino and Preciosa Gomez are found GUILTY beyond reasonable doubt of the crime of Kidnapping for Ransom and Serious Illegal Detention under Article 267 of the Revised Penal Code, as amended by Republic Act No. 7659, and are sentenced to suffer the penalty of *reclusion perpetua*, without eligibility for parole.
+> Appellants are ordered to pay jointly and severally to the victims, spouses Edward and Jocelyn Tan, the following amounts: ₱100,000.00 as civil indemnity, ₱100,000.00 as moral damages, and ₱100,000.00 as exemplary damages, plus the amount of ₱700,000.00 representing the ransom money paid, with interest at the rate of 6% per annum from the finality of this Decision until fully paid.
+> SO ORDERED."
+
+---
+
+### **Elaborate Answer to Review Question**
+
+**1. What is the factual and legal basis of the decision of the Supreme Court that all the accused acted in a conspiracy?**
+
+The Supreme Court's finding that Jerry Pepino, Preciosa Gomez, and their cohorts acted in conspiracy rests on well-settled principles under **Articles 8 and 17 of the Revised Penal Code**, corroborated by their interlocking, sequential overt acts throughout the entire duration of the kidnapping:
+
+* **A. Legal Basis:**
+1. **Implied Conspiracy via Concerted Conduct (Article 8, RPC):** Under Article 8 of the Revised Penal Code, conspiracy exists when two or more persons come to an agreement concerning the commission of a felony and decide to commit it. Jurisprudence holds that direct proof of a formal meeting or express agreement is not required because conspiracies are rarely hatched in the open. Instead, conspiracy may be inferred from the **mode and manner** in which the offense was perpetrated—specifically, from the coordinated acts of the accused **before, during, and after** the commission of the felony showing a **joint purpose, concerted action, and concurrence of sentiments**.
+2. **Division of Labor and Co-Principal Liability (Article 17, RPC):** In complex, continuing crimes such as kidnapping for ransom, conspirators routinely divide tasks—some execute the forcible abduction, others guard the safehouse, and others negotiate or collect the ransom. Once a unity of purpose is established, the law does not weigh the exact physical degree of each participant's contribution. Each conspirator is held criminally liable as a **co-principal** under Article 17 of the Revised Penal Code under the doctrine that **the act of one is the act of all**.
+
+
+* **B. Factual Basis:**
+1. **Coordinated Abduction and Transport:** Pepino and Gomez were positively identified by the victims as part of the armed group that simultaneously entered the spouses' office in Quezon City, hogtied the employees at gunpoint, and forcibly abducted Edward and Jocelyn Tan in separate vehicles.
+2. **Joint Detention and Guarding at the Safehouse:** Both accused transported and detained the victims at the same safehouse in Tagaytay City, where Pepino actively stood guard over the captives and participated in keeping them deprived of their liberty for four days while ransom demands were communicated.
+3. **Ransom Negotiation and Payoff Collection:** After Jocelyn was released specifically to raise the ₱40 million ransom while Edward was kept as leverage, Gomez personally met Jocelyn at the agreed payoff location in Quezon City and received the ₱700,000.00 ransom money—immediately after which Edward was released by Pepino's group.
+4. **Unbroken Continuity of Purpose:** From the initial armed intrusion in Quezon City, to the detention in Tagaytay City, down to the ransom collection and final release of Edward, the actions of Pepino, Gomez, and their companions fit together seamlessly like pieces of a single criminal enterprise, leaving no doubt that they acted with a common design to extort ransom through illegal detention.
