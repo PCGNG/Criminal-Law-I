@@ -1,0 +1,80 @@
+### **Case Brief: People of the Philippines v. Bartolome Tampus and Ida Montesclaros**
+
+*G.R. No. 181084, June 16, 2009*
+
+---
+
+### **Facts**
+
+Ida Montesclaros (Ida) and her 13-year-old daughter, AAA, rented a room in a house owned by barangay tanod Bartolome Tampus (Tampus). One afternoon, while Ida and Tampus were drinking beer in the house, they forced AAA to drink three and a half glasses of beer until she became intoxicated and sleepy. While AAA was lying on the floor, she overheard Tampus ask Ida if he could have sexual intercourse (*"remedyo"*) with AAA. Ida agreed, instructed Tampus to leave as soon as he finished, and left for work, leaving Tampus alone with AAA. AAA fell asleep and awoke with pain in her head and private parts, her panties rolled down to her knees, and blood staining her underwear and shorts. When Ida returned home the next morning, she ignored AAA's crying. Days later, while Ida was at work, Tampus entered the room again, threatened to kill AAA if she reported the first incident, and raped her a second time.
+
+The RTC convicted Tampus as principal of two counts of rape and Ida as an accomplice in the first rape, which the CA affirmed with modification (Tampus died pending appeal before the CA). On appeal to the SC, Ida contended that the lower courts erred in convicting her as an accomplice to the crime of rape.
+
+---
+
+### **Issue**
+
+Is Ida Montesclaros criminally liable merely as an accomplice, rather than as a principal by conspiracy or indispensable cooperation, under the Revised Penal Code for the rape of her minor daughter committed by Bartolome Tampus?
+
+---
+
+### **Ruling**
+
+**Yes.** The Supreme Court ruled verbatim:
+
+> "We affirm the trial and appellate courts in ruling that Ida is liable as an accomplice in the rape of her daughter, ABC. Accomplices are persons who, not being included in Article 17 of the Revised Penal Code, cooperate in the execution of the offense by previous or simultaneous acts."
+
+> "It is settled jurisprudence that the previous acts of cooperation by the accomplice should not be indispensable to the commission of the crime; otherwise, she would be liable as a principal by indispensable cooperation."
+
+**Legal Basis / Doctrines Relied Upon:**
+
+* **Article 17, Revised Penal Code** (Principals)
+* **Article 18, Revised Penal Code** (Accomplices)
+* **Article 335(2), Revised Penal Code** (Rape when the woman is deprived of reason or otherwise unconscious)
+* **Article 13(9), Revised Penal Code** (Mitigating circumstance of illness that diminishes the exercise of willpower without depriving the offender of consciousness of her acts)
+* **Article 110, Revised Penal Code** (Several and subsidiary liability of principals, accomplices, and accessories for civil liability)
+* *People v. Roche*, 386 Phil. 287 (2000) (Requisites of accomplice liability)
+
+---
+
+### **Ratio Decidendi**
+
+Under Article 18 of the Revised Penal Code, a person is liable as an accomplice when she does not fall under Article 17 as a principal, knows of and concurs in the criminal design of the principal by direct participation, and cooperates in the execution of the offense by previous or simultaneous acts that are closely related to, yet not indispensable for, the consummation of the crime. While forcing a minor victim to drink beer until intoxicated, expressly permitting the perpetrator to have sexual intercourse with her, and leaving the victim alone with him directly facilitated the rape, such acts do not make the mother a principal by indispensable cooperation where the perpetrator also forced the victim to drink, already harbored the intent to rape her, and could have consummated the crime even without her consent.
+
+---
+
+### **Fallo**
+
+The Supreme Court **DISMISSED** the instant appeal for lack of merit and **AFFIRMED with MODIFICATION** the Decision of the Court of Appeals in CA-G.R. CR-H.C. No. 00215:
+
+1. Found appellant **Ida Montesclaros** guilty beyond reasonable doubt as an **accomplice** in the crime of simple rape;
+2. Appreciating the mitigating circumstance of mental illness (schizophrenia diminishing her willpower without depriving her of consciousness of her acts under Article 13[9] of the Revised Penal Code), modified her indeterminate prison sentence accordingly; and
+3. Pursuant to Article 110 of the Revised Penal Code, apportioned the total civil liability of **₱100,000.00** (₱50,000.00 civil indemnity and ₱50,000.00 moral damages) according to the degree of participation—allocating **two-thirds (₱66,666.67)** to principal Bartolome Tampus (which was extinguished by reason of his supervening death pending appeal) and **one-third (₱33,333.33)** solely to accomplice Ida Montesclaros, eliminating solidary liability across different classes of offenders.
+
+---
+
+### **Elaborate Answer to Review Question**
+
+**1. What is the legal and factual basis of the ruling of the Supreme Court that accused Montesclaros is liable only as an accomplice and not a principal?**
+
+The Supreme Court sustained Ida Montesclaros's conviction strictly as an **accomplice** under **Article 18 of the Revised Penal Code**—rather than as a co-principal by conspiracy or indispensable cooperation under **Article 17**—based on the settled requisites of accomplice liability (*People v. Roche*) and the non-indispensability of her previous acts:
+
+* **A. Legal Basis — Distinction Between Principal by Indispensable Cooperation (Article 17[3]) and Accomplice (Article 18):**
+Under **Article 18 of the Revised Penal Code**, accomplices are persons who, not being included in Article 17, cooperate in the execution of the offense by **previous or simultaneous acts**. Citing *People v. Roche*, the Supreme Court reiterated that three elements must concur to hold an accused liable as an accomplice:
+1. **Community of design** — knowing the criminal design of the principal by direct participation, the accused concurs with the latter in his purpose;
+2. **Cooperation by previous or simultaneous acts** — the accused supplies material or moral aid before or during the execution of the felony; and
+3. **Relation between the acts** — there is a direct relation between the acts done by the principal and those attributed to the person charged as an accomplice.
+
+
+Crucially, **the previous or simultaneous acts of cooperation by an accomplice must NOT be indispensable to the commission of the crime**. If the crime could not have been accomplished without the accused's cooperation, she becomes a **principal by indispensable cooperation** under Article 17(3); if her cooperation merely facilitated or hastened the consummation of the offense while remaining dispensable, she is liable only as an **accomplice**.
+* **B. Factual Basis — Satisfaction of Accomplice Requisites and Dispensability of Ida's Acts:**
+1. **Proof of All Three Accomplice Elements:**
+* *Community of Design:* When Tampus explicitly asked Ida if he could have sexual intercourse (*"remedyo"*) with her intoxicated 13-year-old daughter, Ida knew of Tampus's criminal design and assented to it by saying yes and instructing him to leave right after finishing.
+* *Previous Acts of Cooperation:* Ida joined Tampus in forcing AAA to drink three and a half glasses of beer until the child became intoxicated and sleepy, and then deliberately left for work, leaving her helpless daughter alone in the room with Tampus so he could carry out his plan.
+* *Direct Relation to the Rape:* Ida's previous acts of intoxicating the victim, granting permission, and leaving the room were closely connected to and directly facilitated Tampus's sexual assault on the unconscious child.
+
+
+2. **Why Her Acts Were Not Indispensable (Ruling Out Principal Liability):**
+The Supreme Court held that Ida's acts of cooperation were **not indispensable** to the commission of the rape for two concrete factual reasons:
+* **First:** It was **both** Ida and Tampus who forced AAA to drink beer—Tampus himself actively participated in intoxicating the victim.
+* **Second:** Tampus already harbored the independent intention to have sexual intercourse with AAA and **could have consummated the rape even without Ida's consent or departure**—as further demonstrated three days later when Tampus entered the room and raped AAA a second time on his own without Ida's permission. Because Tampus did not depend on Ida's acts to execute the felony, Ida was properly held liable only as an **accomplice**.
