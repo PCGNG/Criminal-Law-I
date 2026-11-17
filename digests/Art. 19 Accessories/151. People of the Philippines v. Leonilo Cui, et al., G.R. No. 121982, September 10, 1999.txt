@@ -1,0 +1,72 @@
+### **Case Brief: People of the Philippines v. Leonilo Cui y Baladjay and Beverly Cui y Cantuba, et al.**
+
+*G.R. No. 121982, September 10, 1999*
+
+---
+
+### **Facts**
+
+One evening, ten armed men led by Wilfredo "Toto" Garcia (Garcia) barged into the residence of spouses Johnny and Rose Lim in Cebu City, took cash and jewelry worth ₱20,000.00, and kidnapped their 17-year-old daughter, Stephanie Lim (Stephanie). The abductors detained Stephanie in another house and demanded a ₱1,000,000.00 ransom. The next day, Johnny Lim delivered the ₱1,000,000.00 ransom to Garcia, after which Stephanie was released.
+
+During the police investigation, the Lims' house guard, Eduardo Basingan (Basingan), executed extrajudicial sworn statements claiming that spouses Leonilo Cui and Beverly Cui (the Cuis) participated in planning the kidnapping during a prior meeting at the Cuis' residence. However, Basingan escaped from detention before trial and never took the witness stand to affirm his statements. Meanwhile, independent prosecution witnesses—including police investigators and Lt. Aquino—testified that after the kidnapping, the Cuis admitted receiving ₱10,000.00 from Garcia as their share of the ransom proceeds, which Beverly Cui later turned over to the police along with a bank passbook.
+
+The RTC convicted the Cuis as accomplices to Kidnapping with Ransom. On appeal to the SC, the Cuis argued that Basingan's extrajudicial statements were inadmissible hearsay and that they could not be held liable as accomplices in the kidnapping.
+
+---
+
+### **Issue**
+
+Are spouses Leonilo and Beverly Cui criminally liable merely as accessories, rather than as accomplices under the Revised Penal Code, for the kidnapping for ransom of Stephanie Lim?
+
+---
+
+### **Ruling**
+
+**Yes.** The Supreme Court ruled verbatim:
+
+> "Conviction of an accused as an accessory requires the following elements: (1) that he has knowledge of the commission of the crime; and (2) that he took part in it subsequent to its commission by any of the three modes enumerated in Article 19 of the Revised Penal Code, as amended."
+
+**Legal Basis / Doctrines Relied Upon:**
+
+* **Article 18, Revised Penal Code** (Accomplices)
+* **Article 19, paragraph 1, Revised Penal Code** (Accessories — profiting themselves or assisting the offender to profit by the effects of the crime)
+* **Article 53, Revised Penal Code** (Penalty to be imposed upon accessories to the commission of a consummated felony)
+* **Article 267, Revised Penal Code** (Kidnapping and serious illegal detention)
+* **Rule 130, Section 30, Revised Rules of Court** (*Res inter alios acta* rule — admission by conspirator)
+* **Republic Act No. 4103, as amended** (Indeterminate Sentence Law)
+* *People v. Raquel*, G.R. No. 119005, December 2, 1996 (Inadmissibility of an escaped co-accused's extrajudicial statements as hearsay)
+
+---
+
+### **Ratio Decidendi**
+
+To hold an accused liable as an accomplice under Article 18 of the Revised Penal Code, competent evidence must establish that he cooperated in the execution of the felony by *previous or simultaneous acts* with knowledge of the principal's criminal design. When the sole evidence of an accused's prior participation in planning a kidnapping consists of the extrajudicial sworn statements of an escaped co-accused who never testified in court, such statements are inadmissible hearsay under the *res inter alios acta* rule (Section 30, Rule 130). However, where independent, competent evidence proves beyond reasonable doubt that the accused—having knowledge that the victim had been kidnapped for ransom—took part *subsequent* to the consummation of the crime by knowingly receiving and profiting from a portion of the ransom proceeds, they are criminally liable as accessories under Article 19(1) of the Revised Penal Code.
+
+---
+
+### **Fallo**
+
+The Supreme Court **MODIFIED** the Decision of the Regional Trial Court of Cebu City, Branch 18, dated December 6, 1993, in Criminal Case No. CBU-20464:
+
+1. Convicted appellants **Leonilo Cui and Beverly Cui** as **ACCESSORIES** (instead of accomplices) in the crime of Kidnapping for Ransom, and sentenced each of them to suffer an indeterminate prison term of **two (2) years, four (4) months, and one (1) day of *prision correccional*, as minimum, to eight (8) years and one (1) day of *prision mayor*, as maximum**;
+2. **ACQUITTED** co-accused **Luis Obeso** and **Hilaria Sarte** on the ground of reasonable doubt due to insufficiency of competent evidence against them.
+
+---
+
+### **Elaborate Answer to Review Question**
+
+**1. Why are the Cuis criminally liable only as accessories, not accomplices in the kidnapping of Stephanie Lim?**
+
+The Supreme Court downgraded the criminal liability of spouses Leonilo and Beverly Cui from **accomplices** (under **Article 18**) to **accessories** (under **Article 19 of the Revised Penal Code**) because competent evidence failed to prove any participation *before or during* the kidnapping, and established only their participation *after* the crime was consummated:
+
+1. **Absence of Admissible Evidence of Previous or Simultaneous Cooperation (Article 18, RPC):**
+Under **Article 18 of the Revised Penal Code**, accomplices are persons who, not being included in Article 17 as principals, cooperate in the execution of the offense by **previous or simultaneous acts**.
+* The sole evidence linking the Cuis to the *prior planning* of Stephanie Lim's kidnapping was the extrajudicial sworn statements of house guard Eduardo Basingan (and Police Sgt. Narciso Ouano's testimony recounting Basingan's disclosures), alleging that the plot was hatched at a meeting in the Cuis' residence.
+* However, Basingan escaped from detention prior to trial and never testified in court, depriving the Cuis of their constitutional right to confront and cross-examine him. Under the ***res inter alios acta* rule** and **Section 30, Rule 130 of the Rules of Court**, an extrajudicial confession or declaration of a conspirator cannot be admitted against a co-accused unless the conspiracy is first established by independent evidence and the statement was made *during* the existence of the conspiracy. Because Basingan's statements were executed after the kidnapping had ended and no independent evidence proved a prior conspiracy involving the Cuis, those statements were pure **hearsay** and had zero probative value.
+* Stripped of Basingan's inadmissible statements, the record contained no competent proof that the Cuis participated in planning the abduction, entering the Lim residence, detaining Stephanie, or collecting the ₱1,000,000.00 ransom.
+
+
+2. **Satisfaction of the Elements of an Accessory After the Fact (Article 19[1], RPC):**
+Under **Article 19 of the Revised Penal Code**, accessories are those who, having knowledge of the commission of the crime, and without having participated therein either as principals or accomplices, take part **subsequent to its commission** by any of three specific modes—the first of which is **"by profiting themselves or assisting the offender to profit by the effects of the crime."**
+* Independent of Basingan's inadmissible affidavit, the prosecution presented direct, competent testimony from police officers (including Lt. Aquino) proving that after the kidnapping had already been consummated and the ransom paid, the Cuis knowingly accepted **₱10,000.00** from gang leader Wilfredo "Toto" Garcia as their share of the ransom loot, deposited the money in a bank account, and subsequently surrendered the ₱10,000.00 and bank passbook to police authorities.
+* Because the Cuis had **knowledge** that the money came from the kidnapping for ransom of Stephanie Lim and took part **subsequent to the commission of the felony** by profiting from its proceeds without having participated beforehand or simultaneously, their criminal liability squarely fell under **Article 19(1)** as **accessories** rather than accomplices.
