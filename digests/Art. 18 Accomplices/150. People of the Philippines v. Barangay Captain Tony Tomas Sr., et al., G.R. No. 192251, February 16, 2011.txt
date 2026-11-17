@@ -1,0 +1,70 @@
+### **Case Brief: People of the Philippines v. Barangay Captain Tony Tomas, Sr., Benedicto Doctor, and Nestor Gatchalian**
+
+*G.R. No. 192251, February 16, 2011*
+
+---
+
+### **Facts**
+
+One evening, following a barangay meeting in Burgos, Isabela, Barangay Captain Tony Tomas, Sr. (Tomas), Benedicto Doctor (Doctor), and Nestor Gatchalian (Gatchalian) approached Estelito Marcos (Estelito) while he was standing near a sari-sari store. Tomas and Doctor suddenly struck Estelito on the head with wooden clubs, causing him to fall to the ground. As Estelito lay helpless, Tomas, Doctor, and Gatchalian took turns hitting him with wooden clubs until he died of severe traumatic head injuries.
+
+During trial, eyewitnesses positively identified Tomas and Doctor as the ones who initiated and carried out the fatal assault with clubs, while Gatchalian's participation was shown to be secondary and non-indispensable to the killing. The RTC convicted Tomas, Doctor, and Gatchalian as co-principals by conspiracy for the crime of Murder, which the CA affirmed. On appeal to the SC, Gatchalian argued that the lower courts erred in holding him liable as a co-principal in the absence of proof of conspiracy or indispensable cooperation.
+
+---
+
+### **Issue**
+
+Is Nestor Gatchalian criminally liable as a co-principal by conspiracy, or merely as an accomplice under the Revised Penal Code, for the murder of Estelito Marcos?
+
+---
+
+### **Ruling**
+
+**Accomplice only.** The Supreme Court ruled verbatim:
+
+> "Accomplices are persons who, not being included in Article 17, cooperate in the execution of the offense by previous or simultaneous acts. For one to be considered an accomplice, the following requisites must concur: (1) that there be community of design; that is, knowing the criminal design of the principal by direct participation, he concurs with the latter in his purpose; (2) that he cooperates in the execution by previous or simultaneous act, with the intention of supplying material or moral aid in the execution of the crime in an efficacious way; and (3) that there be a relation between the acts done by the principal and those attributed to the person charged as accomplice."
+
+**Legal Basis / Doctrines Relied Upon:**
+
+* **Article 8, Revised Penal Code** (Conspiracy and proposal to commit felony)
+* **Article 17, Revised Penal Code** (Principals)
+* **Article 18, Revised Penal Code** (Accomplices)
+* **Article 248, Revised Penal Code** (Murder qualified by treachery)
+* *People v. Tamayo*, 44 Phil. 38 (1922) (Distinction between conspirators and accomplices; resolution of doubt in favor of the milder form of criminal liability)
+* *People v. De Vera*, 371 Phil. 563 (1999) (Three requisites of accomplice liability)
+
+---
+
+### **Ratio Decidendi**
+
+Conspiracy requires proof beyond reasonable doubt that the accused participated in the criminal resolution and decided to commit the felony; when reasonable doubt exists as to whether a participant acted as a co-conspirator or as a mere accomplice, the doubt must be resolved in favor of the milder form of responsibility. Where the evidence fails to establish that an accused joined the principals' original plan to kill, and his simultaneous acts during the attack merely lent secondary moral or material support without being indispensable to the consummation of the murder, he is criminally accountable not as a principal under Article 17, but merely as an accomplice under Article 18 of the Revised Penal Code.
+
+---
+
+### **Fallo**
+
+The Supreme Court **AFFIRMED WITH MODIFICATIONS** the Decision of the Court of Appeals in CA-G.R. CR-H.C. No. 03069:
+
+1. Found accused-appellants **Barangay Captain Tony Tomas, Sr.** and **Benedicto Doctor** guilty beyond reasonable doubt as **principals** in the crime of Murder and sentenced them to suffer the penalty of ***reclusion perpetua***;
+2. Found accused-appellant **Nestor Gatchalian** guilty beyond reasonable doubt merely as an **accomplice** in the crime of Murder and sentenced him to suffer the indeterminate penalty of **eight (8) years and one (1) day of *prision mayor*, as minimum, to fourteen (14) years, eight (8) months, and one (1) day of *reclusion temporal*, as maximum**; and
+3. Ordered the accused-appellants to indemnify the heirs of Estelito Marcos in accordance with their respective degrees of participation under Article 110 of the Revised Penal Code, plus legal interest at 6% per annum from finality until fully paid.
+
+---
+
+### **Elaborate Answer to Review Question**
+
+**Why is accused Gatchalian criminally liable as an accomplice and not a principal?**
+
+The Supreme Court modified Nestor Gatchalian's conviction from a **co-principal** (under **Articles 8 and 17**) to an **accomplice** (under **Article 18 of the Revised Penal Code**) based on the absence of proof of an anterior conspiracy and the non-indispensability of his participation in the killing:
+
+1. **Absence of Proof of Conspiracy or Participation in the Criminal Resolution (Article 8, RPC):**
+Under settled jurisprudence, conspiracy is never presumed and must be proved as clearly and convincingly as the commission of the offense itself. While Tomas and Doctor initiated the sudden, treacherous assault on Estelito Marcos and inflicted the fatal blows on his head, the prosecution failed to prove beyond reasonable doubt that Gatchalian had previously agreed with them to kill the victim or that he shared in their original criminal resolution.
+2. **Satisfaction of the Three Requisites of Accomplice Liability (Article 18, RPC; *People v. De Vera*):**
+Although Gatchalian did not conceive the plan to kill Estelito, he could not be absolved of criminal liability because his conduct satisfied all three legal requisites of an **accomplice**:
+* **First — Community of Design:** Seeing Tomas and Doctor assault Estelito, Gatchalian became aware of their unlawful intent to harm the victim and assented to their purpose instead of desisting or intervening to stop the attack.
+* **Second — Cooperation by Simultaneous Acts:** By joining the fray and lending his presence and secondary physical/moral support while Tomas and Doctor struck the victim, Gatchalian cooperated through simultaneous acts in an efficacious way.
+* **Third — Direct Relation Between the Acts:** Gatchalian's simultaneous acts of support were directly connected to and reinforced the principals' ongoing assault against Estelito.
+
+
+3. **Non-Indispensability of His Acts and Resolution of Doubt in Favor of Milder Liability (*People v. Tamayo*):**
+Under **Article 17(3) of the Revised Penal Code**, an accused becomes a principal by indispensable cooperation only if the felony could not have been accomplished without his act. Here, Tomas and Doctor were already armed with wooden clubs and were physically capable of overpowering and fatally beating Estelito on their own—meaning Gatchalian's participation was **dispensable**. Guided by *People v. Tamayo*, whenever the evidence leaves reasonable doubt as to whether an accused acted as a co-conspirator/principal or merely lent secondary assistance, **the doubt must be resolved in favor of the milder form of criminal liability**, rendering Gatchalian liable strictly as an **accomplice**.
