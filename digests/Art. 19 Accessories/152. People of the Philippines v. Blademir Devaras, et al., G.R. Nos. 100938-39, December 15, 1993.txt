@@ -1,0 +1,74 @@
+### **Case Brief: People of the Philippines v. Blademir Devaras, Ronilo Cainghug, and Pablo Devaras**
+
+*G.R. Nos. 100938-39, December 15, 1993*
+
+---
+
+### **Facts**
+
+One evening in Palo, Leyte, brothers Felix and Eliseo Tiu (Felix and Eliseo) were walking home from a benefit dance when Blademir Devaras (Blademir) and Ronilo Cainghug (Ronilo) suddenly attacked them. Blademir hacked Felix on the head and neck with a long bolo (*sundang*), while Ronilo stabbed Eliseo in the abdomen with a small bolo (*pisao*), resulting in the deaths of both brothers.
+
+When Barangay Tanod Chief Felomino Tiu arrived at the scene shortly after the attack, he saw Pablo Devaras (Pablo)—father of Blademir—holding the bloodstained long bolo (*sundang*) used by Blademir to hack Felix. Pablo surrendered the weapon to the barangay authorities, falsely claiming that he was the one who killed Felix and Eliseo.
+
+The RTC convicted Blademir, Ronilo, and Pablo as co-principals acting in conspiracy for two counts of Murder. On appeal to the SC, Pablo contended that he did not participate in the attack and could not be held liable as a co-principal for the deaths of the two victims.
+
+---
+
+### **Issue**
+
+Is Pablo Devaras criminally liable merely as an accessory after the fact, rather than as a co-principal by conspiracy under the Revised Penal Code, for taking possession of the murder weapon and falsely claiming authorship of the killings after the attack?
+
+---
+
+### **Ruling**
+
+**Yes (Accessory only; exempt from penalty under Article 20 of the Revised Penal Code as to his son Blademir, or liable only as an accessory to the murder of Felix Tiu).** The Supreme Court ruled verbatim:
+
+> "To hold an accused guilty as a co-principal by reason of conspiracy, it must be established that he performed an overt act in furtherance of the conspiracy, either by actively participating in the actual commission of the crime, or by lending moral assistance to his co-conspirators by being present at the scene of the crime, or by exerting moral ascendancy over the rest of the conspirators as to move them to executing the conspiracy."
+
+> "As regards Pablo Devaras, there is no evidence at all to show that he participated in the killing of Felix and Eliseo. He was not even seen at the scene of the crime when the hacking and stabbing took place. His only participation was when he took the bloodstained bolo used by his son Blademir in hacking Felix and surrendered it to the authorities, claiming that he was the one who killed the victims. Clearly, Pablo Devaras is only an accessory to the crime of murder of Felix Tiu under Article 19, paragraph 2 of the Revised Penal Code..."
+
+**Legal Basis / Doctrines Relied Upon:**
+
+* **Article 8, Revised Penal Code** (Conspiracy and proposal to commit felony)
+* **Article 17, Revised Penal Code** (Principals)
+* **Article 19, paragraph 2, Revised Penal Code** (Accessories — concealing or destroying the body of the crime, or the effects or instruments thereof, in order to prevent its discovery)
+* **Article 20, Revised Penal Code** (Accessories who are exempt from criminal liability — ascendants, descendants, spouses, or siblings)
+* **Article 248, Revised Penal Code** (Murder)
+* *People v. Berganio*, 110 Phil. 322 (1960) / *People v. Alvarez*, 169 SCRA 730 (1989) (Requisites to establish liability as a co-principal in conspiracy)
+
+---
+
+### **Ratio Decidendi**
+
+Conspiracy requires proof beyond reasonable doubt of an overt act performed in furtherance of a common criminal design—either through active participation in the execution of the felony, moral assistance through presence during the assault, or moral ascendancy moving the perpetrators to act. An accused who was neither present at the scene during the fatal assault nor shown to have agreed to the killing cannot be held liable as a co-principal under Articles 8 and 17 of the Revised Penal Code. However, when he intervenes *subsequent* to the commission of the murder by taking possession of the bloodstained weapon used by his son and falsely claiming responsibility to shield the true perpetrator from discovery and prosecution, he acts as an accessory under Article 19(2) of the Revised Penal Code—though exempted from criminal penalty pursuant to Article 20 by reason of his parental relationship with the principal offender.
+
+---
+
+### **Fallo**
+
+The Supreme Court **MODIFIED** the joint decision of the Regional Trial Court of Palo, Leyte, Branch 7:
+
+1. **AFFIRMED** the conviction of **Blademir Devaras** as principal for the murder of Felix Tiu (Criminal Case No. BN-2481) and **Ronilo Cainghug** as principal for the murder of Eliseo Tiu (Criminal Case No. BN-2482), sentencing each to ***reclusion perpetua*** and ordering them to indemnify the heirs of their respective victims in the amount of **₱50,000.00**; and
+2. **ACQUITTED** **Pablo Devaras** in Criminal Case No. BN-2482 (the murder of Eliseo Tiu), and declared him **EXEMPT from criminal liability** as an **accessory** in Criminal Case No. BN-2481 (the murder of Felix Tiu) pursuant to **Article 20 of the Revised Penal Code**, ordering his immediate release from detention unless held for another lawful cause.
+
+---
+
+### **Elaborate Answer to Review Question**
+
+**Why is accused Pablo Devaras liable only as an accessory?**
+
+The Supreme Court reversed the trial court's conviction of Pablo Devaras as a co-principal and classified his participation strictly as that of an **accessory** under **Article 19(2) of the Revised Penal Code** (ultimately exempting him from penalty under **Article 20**) for the following legal and factual reasons:
+
+1. **Complete Absence of Proof of Conspiracy or Prior/Simultaneous Participation (Articles 8 and 17, RPC):**
+Under settled criminal doctrine, conspiracy is never presumed and cannot rest on mere blood relationship between father and son. To hold an accused liable as a co-principal by reason of conspiracy, the prosecution must prove that he performed an overt act in furtherance of the common criminal design—either by **(a)** actively taking part in the physical execution of the crime, **(b)** lending moral assistance through his presence at the scene during the attack, or **(c)** exerting moral ascendancy over the perpetrators to move them to commit the offense. Here, eyewitnesses confirmed that **only Blademir and Ronilo** attacked Felix and Eliseo; Pablo was not even present at the crime scene when the hacking and stabbing occurred, nor was there any evidence that he instigated, planned, or assisted in the assault.
+2. **Intervention Occurred Strictly *Subsequent* to the Commission of the Felony (Article 19[2], RPC):**
+Under **Article 19 of the Revised Penal Code**, accessories are persons who, having knowledge of the commission of the crime, and without having participated therein either as principals or accomplices, take part **subsequent to its commission** by any of three enumerated modes:
+* *(1)* By profiting themselves or assisting the offender to profit by the effects of the crime;
+* *(2)* **By concealing or destroying the body of the crime, or the effects or instruments thereof, in order to prevent its discovery**; or
+* *(3)* By harboring, concealing, or assisting in the escape of the principal of the crime (subject to the specific conditions of paragraph 3).
+
+
+Pablo intervened only *after* Blademir had already fatally hacked Felix Tiu. With full knowledge that his son had committed the killing, Pablo took possession of the bloodstained long bolo (*sundang*)—the instrument of the crime—and surrendered it to Barangay Tanod Chief Felomino Tiu while falsely confessing that he was the killer. By attempting to substitute himself as the perpetrator and suppress the true authorship of the weapon's use, Pablo sought to **conceal the crime and shield the true principal from discovery and prosecution**, bringing his act squarely under **Article 19(2)** as an **accessory** to the murder of Felix Tiu (while bearing zero connection to Ronilo's separate stabbing of Eliseo Tiu).
+3. **Statutory Exemption from Criminal Liability Under Article 20 of the Revised Penal Code:**
+Finally, although Pablo's post-crime conduct satisfied the elements of an accessory under Article 19(2) with respect to the killing of Felix Tiu, **Article 20 of the Revised Penal Code** expressly provides that the penalties prescribed for accessories shall **not** be imposed upon those who are such with respect to their spouses, **ascendants, descendants**, legitimate, natural, or adopted brothers and sisters, or relatives by affinity within the same degrees (unless they fall under Article 19[1] by profiting or assisting the offender to profit from the effects of the crime). Because Pablo acted solely out of parental affection to protect his son Blademir—an ascendant acting for a descendant—and did not profit from the crime, he was legally **exempt from criminal liability**.
