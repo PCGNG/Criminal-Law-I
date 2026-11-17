@@ -1,0 +1,87 @@
+### **Case Brief: Norma Dizon-Pamintuan v. People of the Philippines**
+
+*G.R. No. 111426, July 11, 1994*
+
+---
+
+### **Facts**
+
+One morning, five armed men entered the residence of Teodoro Encarnacion (Encarnacion) in Quezon City, hog-tied the household members, and carted away cash and assorted pieces of jewelry belonging to Encarnacion and his family. Later that afternoon, Encarnacion reported the robbery to the police, and a few days afterward, police operatives conducted a surveillance operation at the stall of Norma Dizon-Pamintuan (Pamintuan) at thequadrangle/market in Manila, where Pamintuan was engaged in buying and selling jewelry.
+
+During the operation, Pamintuan was found in possession of and displaying for sale several pieces of the stolen jewelry, which Encarnacion's wife positively identified as part of the items taken during the robbery. Pamintuan failed to produce any receipt, permit, or proof of legitimate acquisition for the recovered pieces of jewelry.
+
+The RTC convicted Pamintuan of violating Presidential Decree No. 1612 (Anti-Fencing Law), and the CA affirmed her conviction. On appeal to the SC, Pamintuan contended that the prosecution failed to prove she knew the jewelry came from robbery or theft, and challenged the constitutionality of the statutory presumption of fencing under Section 5 of P.D. No. 1612.
+
+---
+
+### **Issue**
+
+Is Norma Dizon-Pamintuan criminally liable as a principal for the special offense of fencing under Presidential Decree No. 1612—distinct from being an accessory after the fact under Article 19 of the Revised Penal Code—based on her unexplained possession of stolen jewelry and the statutory *prima facie* presumption of fencing?
+
+---
+
+### **Ruling**
+
+**Yes.** The Supreme Court ruled verbatim:
+
+> "Fencing, as defined in Section 2 of P.D. No. 1612 is 'the act of any person who, with intent to gain for himself or for another, shall buy, receive, possess, keep, acquire, conceal, sell or dispose of, or shall buy and sell, or in any other manner deal in any article, item, object or anything of value which he knows, or should be known to him, to have been derived from the proceeds of the crime of robbery or theft.'"
+
+> "While the Anti-Fencing Law imposes the same penalty as that for a principal in the crime of theft or robbery, it is a special law and is *malum prohibitum*. The law does not require proof of conspiracy to commit the crime of robbery or theft. Neither is fencing a continuing offense of robbery or theft, nor is a fence merely an accessory to the crime of robbery or theft under Article 19 of the Revised Penal Code."
+
+**Legal Basis / Doctrines Relied Upon:**
+
+* **Section 2, Presidential Decree No. 1612** (Definition of Fencing)
+* **Section 5, Presidential Decree No. 1612** (*Prima facie* presumption of fencing from mere possession of any good, article, item, object, or anything of value which has been the subject of robbery or thievery)
+* **Article 19, Revised Penal Code** (Distinction between an accessory after the fact in robbery/theft and a principal in the special offense of fencing)
+* **Article III, Section 14(2), 1987 Constitution** (Constitutional presumption of innocence)
+* *People v. Mingoa*, 92 Phil. 856 (1953) (Validity of statutory *prima facie* presumptions where there is a natural and rational evidentiary connection between the fact proved and the ultimate fact presumed)
+
+---
+
+### **Ratio Decidendi**
+
+Unlike an accessory after the fact under Article 19(1) of the Revised Penal Code—whose liability is subordinate to and dependent upon the principal's conviction for robbery or theft—fencing under Presidential Decree No. 1612 is a separate, independent principal offense (*malum prohibitum*) aimed at curbing robbery and theft by eliminating the market for stolen goods. Because actual knowledge that goods are stolen is a mental state rarely susceptible of direct proof, Section 5 of P.D. No. 1612 validly establishes a *prima facie* presumption of fencing from the unexplained possession of stolen property; this presumption does not violate the constitutional presumption of innocence because a rational connection exists between possession of recently stolen items and knowledge of their illicit origin, and the burden of evidence merely shifts to the possessor to offer a satisfactory explanation.
+
+---
+
+### **Fallo**
+
+> "WHEREFORE, the instant petition is DENIED and the challenged decision of the Court of Appeals in CA-G.R. CR No. 11024 is AFFIRMED, subject to the modification of the penalty imposed by the trial court to an indeterminate penalty of imprisonment ranging from **ten (10) years and one (1) day of *prision mayor* maximum, as minimum, to twenty (20) years of *reclusion temporal* maximum, as maximum**.
+> Costs against the petitioner.
+> SO ORDERED."
+
+---
+
+### **Elaborate Answers to Review Questions**
+
+**1. One of the elements of the crime of fencing is that the accused knows or should have known that the said article, item, object, or anything of value has been derived from the proceeds of the crime of robbery or theft. What is the meaning of the term "know" and "should have known"?**
+
+Under **Section 2 of Presidential Decree No. 1612**, the third element of fencing requires that the accused *"knows, or should be known to him,"* that the item dealt with was derived from the proceeds of robbery or theft. In *Dizon-Pamintuan*, the Supreme Court defined the dual standards of scienter as follows:
+
+* **"Know" (Actual Knowledge):** Refers to **actual awareness** or positive cognition on the part of the accused that the specific article, item, or object being bought, received, possessed, kept, or sold was acquired through robbery or theft.
+* **"Should Have Known" (Constructive Knowledge / Reasonable Diligence Standard):** Refers to **constructive knowledge**—meaning that even in the absence of direct, personal knowledge of the robbery or theft, the attendant facts and surrounding circumstances are such that a **reasonably prudent and cautious person**, exercising ordinary care and diligence, would have been put on inquiry and realized that the item came from an unlawful or stolen source. An accused cannot deliberately close their eyes to suspicious circumstances (such as the lack of receipts, unusually low prices, or dubious sellers) and claim ignorance as a defense.
+
+---
+
+**2. Knowledge is a mental state of awareness of facts. How can the prosecution prove that an accused knows or should have known that an article, item, object or anything of value has been derived from the proceeds of the crime of robbery or theft?**
+
+Because knowledge—whether actual or constructive—is an internal mental state locked within the mind of the accused, it is rarely capable of direct proof unless the accused makes an explicit admission. The Supreme Court explained that the prosecution may establish this element through either of two methods:
+
+1. **By Circumstantial Evidence:** By proving external, objective facts surrounding the transaction from which knowledge or culpable failure to inquire may be logically inferred—such as:
+* Purchasing or receiving valuable goods from an unknown, unlicensed, or suspicious individual;
+* Acquiring the items at a price grossly disproportionate to their true market value;
+* Conducting the transaction clandestinely or at odd hours;
+* The absence of official receipts, certificates of ownership, or legitimate documentation; or
+* Engaging in a regulated business (such as buying and selling second-hand jewelry) without securing the mandatory clearance or permit required under Section 6 of P.D. No. 1612.
+
+
+2. **By Reliance on the Statutory *Prima Facie* Presumption (Section 5, P.D. No. 1612):** Section 5 expressly provides that *"mere possession of any good, article, item, object, or anything of value which has been the subject of robbery or thievery shall be prima facie evidence of fencing."* Once the prosecution proves **(a)** that a robbery or theft was committed, and **(b)** that the accused was found in possession of the stolen item, the law automatically presumes all the remaining elements of fencing—including knowledge and intent to gain—unless the accused satisfactorily explains how he came into lawful possession of the property.
+
+---
+
+**3. The Anti-Fencing Law creates a presumption that possession of any good, article, item, object, or anything of value which has been the subject of robbery or thievery shall be prima facie evidence of fencing, does this presumption not violate the constitutional presumption of innocence? Why?**
+
+**No, it does not violate the constitutional presumption of innocence.** Upholding the constitutionality of Section 5 of P.D. No. 1612 (and citing *People v. Mingoa*), the Supreme Court explained why this statutory presumption is valid:
+
+1. **Rational Connection Test:** Under settled constitutional doctrine, a legislature may validly enact a rule of evidence creating a *prima facie* presumption of guilt from proof of a specific basic fact, provided there is a **natural and rational evidentiary connection** between the fact proved and the ultimate fact presumed, and the inference is neither arbitrary nor unnatural. Human experience shows that a person found in possession of recently stolen property is ordinarily either the thief/robber or a knowing recipient/fence, unless he can show a legitimate source.
+2. **Disputable (*Prima Facie*), Not Conclusive Presumption:** Section 5 does **not** create an irrebuttable or conclusive presumption of guilt. It merely creates a **rebuttable (*prima facie*) presumption** that shifts the **burden of evidence** (not the ultimate burden of proof beyond reasonable doubt) to the accused. Because the accused possesses peculiar knowledge of how he acquired the item, he is given full opportunity to overcome the presumption by presenting receipts, credible testimony, or proof of good-faith acquisition. If he fails to offer a satisfactory explanation—as Pamintuan failed to do—the *prima facie* presumption stands and suffices to sustain a conviction beyond reasonable doubt.
