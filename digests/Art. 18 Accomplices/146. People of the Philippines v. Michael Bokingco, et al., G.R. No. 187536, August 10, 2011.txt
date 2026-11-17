@@ -1,0 +1,68 @@
+### **Case Brief: People of the Philippines v. Michael Bokingco and Reynante Col**
+
+*G.R. No. 187536, August 10, 2011*
+
+---
+
+### **Facts**
+
+Michael Bokingco (Bokingco) and Reynante Col (Col) worked as stay-in construction workers at a building owned by Noli Pasion (Pasion) in Angeles City. One afternoon, after Pasion scolded Bokingco for not finishing his work, Bokingco planned to kill Pasion and invited Col to join him, which Col refused.
+
+Early the next morning, while Pasion's wife, Elsa, was inside the master's bedroom, she heard a commotion outside. Upon checking, Elsa saw Bokingco holding a hammer, hitting Pasion's head repeatedly, and kicking him on the floor. Simultaneously, Col stood nearby, held the screen door shut to prevent Elsa from exiting, and verbally threatened her not to go out, telling her that her husband was already dead. Bokingco and Col then fled together. Later, during preliminary investigation, Bokingco executed an extrajudicial confession implicating Col in the plot to kill Pasion and take his money.
+
+The RTC convicted both Bokingco and Col as co-principals by conspiracy for the crime of Murder, which the CA affirmed. On appeal to the SC, Col denied conspiring with Bokingco, arguing that Bokingco's extrajudicial confession was inadmissible against him and that his overt acts did not establish a common criminal design to kill.
+
+---
+
+### **Issue**
+
+Is Reynante Col criminally liable as a co-principal by conspiracy, or merely as an accomplice under the Revised Penal Code, for the murder committed by Michael Bokingco?
+
+---
+
+### **Ruling**
+
+**Accomplice only.** The Supreme Court ruled verbatim:
+
+> "To hold an accused guilty as a co-principal by reason of conspiracy, he must be shown to have performed an overt act in pursuance or furtherance of the complicity. There must be intentional participation in the transaction with a view to the furtherance of the common design and purpose. Once an express or implied conspiracy is proved, all of the conspirators are liable as co-principals regardless of the extent and character of their respective active participation in the commission of the crime or crimes perpetrated in furtherance of the conspiracy because in contemplation of law the act of one is the act of all."
+
+**Legal Basis / Doctrines Relied Upon:**
+
+* **Article 8, Revised Penal Code** (Conspiracy and proposal to commit felony)
+* **Article 17, Revised Penal Code** (Principals)
+* **Article 18, Revised Penal Code** (Accomplices)
+* **Article 248, Revised Penal Code** (Murder — modified to Homicide as to Bokingco due to lack of qualifying circumstances, and Accomplice to Homicide as to Col)
+* **Rule 130, Section 30, Revised Rules of Court** (*Res inter alios acta* rule — admission by conspirator)
+* *People v. Tamayo*, 44 Phil. 38 (1922) (Distinction between conspirators/principals and accomplices; resolution of doubt in favor of the milder form of responsibility)
+* *People v. De Vera*, 371 Phil. 563 (1999) (Requisites of accomplice liability: community of design, cooperation by previous or simultaneous acts, and relation between the principal's acts and those of the accomplice)
+
+---
+
+### **Ratio Decidendi**
+
+Conspiracy must be proven by positive and conclusive evidence beyond reasonable doubt, and an extrajudicial confession of a co-accused is inadmissible against another accused under the *res inter alios acta* rule absent independent proof of conspiracy. Where the evidence fails to prove that an accused joined the principal's decision to kill, but shows that he came to know of the assault while it was occurring and concurred in its execution by holding a screen door shut to prevent the victim's wife from intervening—an act of assistance that was efficacious yet not indispensable to the killing—any doubt as to the degree of his participation must be resolved in favor of the milder form of criminal liability, rendering him liable merely as an accomplice under Article 18 of the Revised Penal Code.
+
+---
+
+### **Fallo**
+
+> "WHEREFORE, the Decision of the Court of Appeals dated December 16, 2008 in CA-G.R. CR-H.C. No. 03051 is hereby MODIFIED. Appellant Michael Bokingco is found GUILTY beyond reasonable doubt of the crime of Homicide and is sentenced to suffer the indeterminate penalty of eight (8) years and one (1) day of *prision mayor*, as minimum, to fourteen (14) years, eight (8) months and one (1) day of *reclusion temporal*, as maximum. Appellant Reynante Col is found GUILTY beyond reasonable doubt as an ACCOMPLICE to the crime of Homicide and is sentenced to suffer the indeterminate penalty of two (2) years, four (4) months and one (1) day of *prision correccional*, as minimum, to eight (8) years and one (1) day of *prision mayor*, as maximum. Both appellants are ordered to pay jointly and severally the heirs of Noli Pasion ₱50,000.00 as civil indemnity and ₱50,000.00 as moral damages, with interest at 6% per annum from the finality of this Decision until fully paid.
+> SO ORDERED."
+
+---
+
+### **Elaborate Answer to Review Question**
+
+**1. Why did the Supreme Court rule that accused Col did not conspire with the other accused in the crime's commission?**
+
+The Supreme Court reversed the lower courts' finding of conspiracy against Reynante Col based on strict evidentiary rules and the doctrinal distinction between **co-principals in a conspiracy (Articles 8 and 17)** and **accomplices (Article 18 of the Revised Penal Code)**:
+
+* **A. Inadmissibility of Bokingco's Extrajudicial Confession Against Col (*Res Inter Alios Acta* Rule):**
+To prove that Col agreed to kill Pasion beforehand, the prosecution relied heavily on Bokingco's extrajudicial confession executed during preliminary investigation, wherein Bokingco claimed he and Col planned to kill Pasion and take his money. Under **Section 30, Rule 130 of the Rules of Court**, the act or declaration of a conspirator relating to the conspiracy and during its existence may be given in evidence against the co-conspirator **only after the conspiracy is shown by evidence other than such act or declaration**. Because Bokingco repudiated his confession during trial and testified instead that Col had actually **refused** his invitation to kill Pasion, and because no independent evidence proved a prior agreement between them, Bokingco's extrajudicial confession was legally inadmissible against Col.
+* **B. Absence of Proof of Prior Agreement or Unity of Criminal Resolution:**
+Conspiracy exists when two or more persons come to an agreement concerning the commission of a felony and decide to commit it. Here, the evidence established that Bokingco alone harbored a grudge against Pasion (for scolding him over unfinished work) and unilaterally resolved to kill him. When Bokingco broached the idea to Col the afternoon before the incident, Col declined. Thus, Col did not participate in the **criminal resolution**—he never decided that Pasion should be killed.
+* **C. Col's Act of Blocking the Screen Door Was Simultaneous Aid, Not Conspiracy or Indispensable Cooperation:**
+Examining Col's actual conduct during the attack—holding the screen door shut to keep Pasion's wife inside the bedroom and warning her not to come out while Bokingco was already beating Pasion with a hammer—the Supreme Court applied the classic distinction laid down in *People v. Tamayo* and *People v. De Vera*:
+1. **Conspirators vs. Accomplices:** Conspirators are the *authors* of the crime who decide upon its commission; **accomplices** merely *concur* in a criminal design already conceived by the principal by supplying previous or simultaneous moral or material aid.
+2. **Not Indispensable to the Killing:** Bokingco had already inflicted fatal hammer blows upon Pasion before Elsa reached the door, and there was no showing that Elsa could have physically overpowered Bokingco or prevented the killing had Col not held the screen door. Thus, Col's act was **not indispensable** to the consummation of the homicide (ruling out principal liability under Article 17[3]).
+3. **Resolution of Doubt in Favor of Milder Liability:** Because Col's act of blocking the door and fleeing with Bokingco showed knowledge of and concurrence in Bokingco's ongoing assault without proving a shared original intent to kill, the Supreme Court resolved the doubt in favor of the lesser form of responsibility—holding Col liable strictly as an **accomplice** under **Article 18 of the Revised Penal Code**.
