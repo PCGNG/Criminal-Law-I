@@ -1,0 +1,71 @@
+### **Case Brief: Mel Dimat v. People of the Philippines**
+
+*G.R. No. 181184, January 25, 2012*
+
+---
+
+### **Facts**
+
+One evening, three armed men forcibly took a Nissan Safari vehicle belonging to Sonia Delgado (Delgado) in Metro Manila. Later, police officers investigating carnapping incidents spotted the stolen Nissan Safari—bearing a different license plate—being driven along a street in Manila by Mel Dimat (Dimat), who operated a buy-and-sell business for second-hand vehicles.
+
+When intercepted and questioned by police, Dimat presented a Deed of Sale showing he purchased the vehicle for ₱850,000.00 from a certain Edgardo Co (Co) along with a Certificate of Registration (CR) and Official Receipt (OR). However, verification with the Land Transportation Office (LTO) and Philippine National Police Traffic Management Group (PNP-TMG) revealed that the vehicle's engine and chassis numbers were tampered with, the true numbers matched Delgado's stolen Nissan Safari, and the CR and OR presented by Dimat were spurious.
+
+The RTC convicted Dimat of violating Presidential Decree No. 1612 (Anti-Fencing Law), and the CA affirmed his conviction with modification as to the penalty. On appeal to the SC, Dimat claimed that he bought the vehicle in good faith without knowing it was stolen and lacked criminal intent to commit fencing.
+
+---
+
+### **Issue**
+
+Is Mel Dimat criminally liable as a principal for the special offense of fencing under Presidential Decree No. 1612—distinct from being an accessory after the fact under Article 19 of the Revised Penal Code—despite his claim of good faith and lack of actual knowledge or criminal intent that the motor vehicle he purchased and possessed was stolen?
+
+---
+
+### **Ruling**
+
+**Yes.** The Supreme Court ruled verbatim:
+
+> "The elements of 'fencing' are: 1) a robbery or theft has been committed; 2) the accused, who is not a principal or accomplice in the crime of robbery or theft, buys, receives, possesses, keeps, acquires, conceals, sells or disposes, or buys and sells, or in any manner deals in any article, item, object or anything of value, which has been derived from the proceeds of the said crime; 3) the accused knows or should have known that the said article, item, object or anything of value has been derived from the proceeds of the crime of robbery or theft; and 4) there is, on the part of the accused, intent to gain for himself or for another."
+
+> "Obviously, the mens rea of 'fencing' is the knowledge or constructive knowledge that the item was derived from the proceeds of robbery or theft. But fencing is malum prohibitum, and P.D. 1612 creates a prima facie presumption of fencing from evidence of possession by the accused of any good, article, item, object or anything of value which has been the subject of robbery or theft; and prescribes a higher penalty based on the value of the property."
+
+**Legal Basis / Doctrines Relied Upon:**
+
+* **Section 2(a), Presidential Decree No. 1612** (Definition and elements of Fencing)
+* **Section 5, Presidential Decree No. 1612** (*Prima facie* presumption of fencing from mere possession of stolen property)
+* **Section 6, Presidential Decree No. 1612** (Mandatory requirement for stores, establishments, or entities dealing in second-hand articles to secure a clearance or permit from the station commander before offering such items for sale)
+* **Article 19, Revised Penal Code** (Distinction between an accessory after the fact under the RPC and a principal offender in the special law offense of fencing)
+* *Tan v. People*, 372 Phil. 93 (1999) / *Dizon-Pamintuan v. People*, G.R. No. 111426, July 11, 1994 (Nature of fencing as *malum prohibitum* and validity of the *prima facie* presumption of fencing)
+
+---
+
+### **Ratio Decidendi**
+
+Unlike an accessory after the fact under Article 19(1) of the Revised Penal Code—whose liability is subordinate to the principal crime of robbery or theft—fencing under Presidential Decree No. 1612 is a distinct, independent principal offense that is *malum prohibitum*. Under Section 2(a) of P.D. No. 1612, actual knowledge that the property was stolen is not required; it suffices that the accused *should have known* of its illicit origin from the surrounding circumstances. Moreover, under Section 5 of P.D. No. 1612, mere possession of a stolen vehicle constitutes *prima facie* evidence of fencing, shifting the burden of evidence to the possessor to prove good-faith acquisition—a defense negated where a seasoned car dealer fails to verify the vehicle's LTO registration and engine/chassis numbers and fails to secure the mandatory police clearance required by Section 6 of the law.
+
+---
+
+### **Fallo**
+
+> "WHEREFORE, the Court DENIES the petition and AFFIRMS the decision of the Court of Appeals in CA-G.R. CR 29094 dated October 26, 2007 and its resolution dated January 8, 2008, with MODIFICATION that petitioner Mel Dimat is sentenced to suffer the indeterminate penalty of **imprisonment from ten (10) years and one (1) day of *prision mayor* maximum, as minimum, to twenty (20) years of *reclusion temporal* maximum, as maximum**.
+> SO ORDERED."
+
+---
+
+### **Elaborate Answer to Review Question**
+
+**Why did the Supreme Court reject Dimat’s claim that he is not criminally liable because he did not know that he bought a stolen vehicle and that he did not have any criminal intent to commit the crime of Fencing?**
+
+The Supreme Court rejected Mel Dimat's defenses of lack of actual knowledge and absence of criminal intent based on four interlocking legal and factual grounds under **Presidential Decree No. 1612 (Anti-Fencing Law)**:
+
+1. **Fencing Is *Malum Prohibitum*—Criminal Intent Is Not Required:**
+Unlike felonies under the Revised Penal Code (including liability as an **accessory** under **Article 19[1]**, which requires *dolo* or criminal intent to profit from a known felony), fencing under P.D. No. 1612 is a special statutory offense classified as ***malum prohibitum***. Because it is prohibited by special law for reasons of public policy—specifically to stamp out carnapping, robbery, and theft by cutting off the market for stolen goods—the prosecution does not need to prove moral turpitude or general criminal intent (*mens rea* in the traditional *mala in se* sense); it suffices that the prohibited act was voluntarily committed with the statutory elements present.
+2. **Constructive Knowledge (*"Should Have Known"*) Suffices Under Section 2(a) of P.D. No. 1612:**
+Section 2(a) does not require proof that the accused had *actual, personal knowledge* of the carnapping or robbery. It expressly penalizes one who deals in property which he **"knows, or should be known to him,"** to have been derived from the proceeds of robbery or theft.
+* As an experienced businessman engaged in buying and selling second-hand motor vehicles, Dimat was held to a heightened standard of prudence and diligence.
+* Had Dimat conducted even the most basic due diligence expected of a used-car buyer—checking the authenticity of the Certificate of Registration and Official Receipt with the LTO and inspecting the engine and chassis numbers with the PNP-TMG—he would have immediately discovered that the documents were fake and that the serial numbers had been tampered with. His failure to make these routine inquiries defeated any claim of good faith, establishing that he **should have known** the Nissan Safari was stolen.
+
+
+3. **Failure to Overcome the Statutory *Prima Facie* Presumption of Fencing (Section 5, P.D. No. 1612):**
+Section 5 of P.D. No. 1612 expressly provides that **mere possession of any good, article, item, object, or anything of value which has been the subject of robbery or thievery shall be *prima facie* evidence of fencing**. Once the prosecution proved that Delgado's Nissan Safari was forcibly taken at gunpoint and was subsequently found in Dimat's possession bearing tampered serial numbers and fake plates, the law presumed all elements of fencing—including knowledge and intent to gain. Dimat failed to rebut this presumption because he could not produce the alleged seller, Edgardo Co, nor substantiate the legitimacy of the spurious CR and OR.
+4. **Non-Compliance with the Mandatory Police Clearance Requirement (Section 6, P.D. No. 1612):**
+Finally, Section 6 of P.D. No. 1612 requires all stores, establishments, or entities dealing in the buy-and-sell of second-hand articles to secure a **clearance or permit** from the station commander of the Integrated National Police (now PNP) before offering such items for sale to the public. Dimat's total failure to comply with this statutory safeguard—coupled with his possession of a vehicle with altered chassis and engine numbers—conclusively negated his plea of good faith and confirmed his criminal liability as a fence.
