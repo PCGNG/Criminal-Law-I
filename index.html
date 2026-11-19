@@ -350,6 +350,9 @@
         <option value="">Loading topics...</option>
       </select>
 
+      <!-- Sync Button (forces refresh from GitHub when new files are added) -->
+      <button class="nav-btn" onclick="loadTopics(true)" title="Sync new files from GitHub">🔄</button>
+
       <!-- Prev / Next Navigation -->
       <button class="nav-btn" id="prevBtn" onclick="changeCase(-1)" title="Previous Case">◀ Prev</button>
       
@@ -456,7 +459,6 @@
       setCaseReadStatus(identifier, !currentlyRead);
       updateReadButtonUI(!currentlyRead);
 
-      // Refresh case option text in dropdown
       const opt = caseSelector.options[caseSelector.selectedIndex];
       if (opt) {
         opt.textContent = (!currentlyRead ? "✔ " : "") + item.title;
@@ -505,10 +507,52 @@
         .replace(new RegExp(`<p>\\s*(?:💡\\s*)?${prefix}(Ratio(?:\\s+Decidendi)?):?\\s*<\\/p>`, 'gi'), '<div class="badge-ratio">💡 $1</div>');
     }
 
-    async function loadTopics() {
+    function populateTopicDropdown() {
       const topicSelector = document.getElementById('topicSelector');
+      const topicNames = Object.keys(topicsData);
+      topicSelector.innerHTML = '';
+
+      topicNames.forEach(topicName => {
+        const opt = document.createElement('option');
+        opt.value = topicName;
+        opt.textContent = topicName;
+        topicSelector.appendChild(opt);
+      });
+
+      if (topicNames.length > 0) {
+        topicSelector.value = topicNames[0];
+        onTopicChange();
+      }
+    }
+
+    async function loadTopics(forceRefresh = false) {
+      const topicSelector = document.getElementById('topicSelector');
+      const cacheKey = `topicsCache_${USER}_${REPO}`;
+
+      // Load from localStorage cache first to avoid GitHub API 60/hr rate limit
+      if (!forceRefresh) {
+        const cached = localStorage.getItem(cacheKey);
+        if (cached) {
+          try {
+            topicsData = JSON.parse(cached);
+            if (Object.keys(topicsData).length > 0) {
+              populateTopicDropdown();
+              return;
+            }
+          } catch (e) {
+            localStorage.removeItem(cacheKey);
+          }
+        }
+      }
+
+      topicSelector.innerHTML = '<option>Loading topics...</option>';
+
       try {
         const res = await fetch(`https://api.github.com/repos/${USER}/${REPO}/contents/digests`);
+        if (res.status === 403) {
+          topicSelector.innerHTML = '<option>GitHub API rate limit reached (try later)</option>';
+          return;
+        }
         if (!res.ok) throw new Error("Could not access digests directory");
         const items = await res.json();
 
@@ -519,8 +563,6 @@
         }
 
         topicsData = {};
-        topicSelector.innerHTML = '';
-
         for (const folder of folders) {
           const topicName = folder.name;
           topicsData[topicName] = { cases: [], topicNotePath: `digests/${topicName}.txt` };
@@ -539,17 +581,10 @@
               });
             });
           }
-
-          const opt = document.createElement('option');
-          opt.value = topicName;
-          opt.textContent = topicName;
-          topicSelector.appendChild(opt);
         }
 
-        if (folders.length > 0) {
-          topicSelector.value = folders[0].name;
-          onTopicChange();
-        }
+        localStorage.setItem(cacheKey, JSON.stringify(topicsData));
+        populateTopicDropdown();
 
       } catch (e) {
         topicSelector.innerHTML = '<option>Failed to load topics</option>';
@@ -612,7 +647,6 @@
       document.getElementById('prevBtn').disabled = true;
       document.getElementById('nextBtn').disabled = true;
 
-      // Disable read toggle when on overview screen
       const readBtn = document.getElementById('markReadBtn');
       readBtn.disabled = true;
       readBtn.classList.remove('is-read');
@@ -663,7 +697,6 @@
       document.getElementById('prevBtn').disabled = (idx === 0);
       document.getElementById('nextBtn').disabled = (idx === cases.length - 1);
 
-      // Enable and sync read toggle button
       const readBtn = document.getElementById('markReadBtn');
       readBtn.disabled = false;
       updateReadButtonUI(isCaseRead(item.digestPath || item.title));
