@@ -1,4 +1,4 @@
-Facts:
+### Facts:
 Appellant Eduardo Gonzales and his brother, co-accused Edmundo Gonzales (who remained at large), were charged with Murder for the killing of Eligio Donato in San Carlos City, Pangasinan.
  
 The prosecution established that the victim went to the house of the Gonzales brothers upon Edmundo's invitation. When Donato arrived, Eduardo met him armed with a .22 caliber long-barrel firearm. Eduardo fired at Donato from a distance. When Donato attempted to grapple for the weapon to save himself, Eduardo shot him multiple times—firing six shots in total, three of which hit Donato (in the arm, left thigh, and left chest). The gunshot wound to the chest proved fatal before medical treatment could be administered. 
@@ -6,21 +6,21 @@ The prosecution established that the victim went to the house of the Gonzales br
 Eduardo claimed self-defense. He contended that while watching television, Donato barged in armed with a handgun, hurled threats and invectives, and refused to calm down. Eduardo claimed he was forced to retrieve his own firearm, and during their struggle for possession, his gun accidentally discharged three times. 
 The Regional Trial Court (RTC) rejected Eduardo’s claim of self-defense, finding the prosecution eyewitness credible and noting that the physical evidence (absence of powder burns, indicating the victim was not shot at point-blank range) directly contradicted the claim of a close grapple. The RTC convicted Eduardo of Murder qualified by treachery and sentenced him to reclusion perpetua. The Court of Appeals (CA) affirmed the conviction.
 
-Issue: 
+### Issue: 
 Whether accused-appellant Eduardo Gonzales proved by clear and convincing evidence that he acted in legitimate self-defense.
-Ruling: 
+### Ruling: 
 1. No. The accused failed to establish the indispensable element of unlawful aggression. 
 When an accused invokes self-defense, he admits to the killing, and the burden of evidence shifts to him to prove the justifying circumstance by clear and convincing evidence. 
 •	Absence of Unlawful Aggression: Unlawful aggression is a condition sine qua non. It requires an actual, sudden, and unexpected physical attack or an imminent, offensive threat showing positively the intent to cause injury. The records established that Donato went to the house unarmed upon invitation, and Eduardo met him armed with a firearm and fired first. Donato's subsequent effort to wrest the gun away was merely an instinctive defensive attempt to survive Eduardo's assault, not unlawful aggression. 
 •	Disproportionate Force: Even assuming arguendo that an altercation occurred, firing six rounds with a firearm and hitting the unarmed victim three times—including a fatal shot directly through the chest—was entirely disproportionate and negated reasonable necessity of the means employed. 
 
-Ratio Decidendi:
+### Ratio Decidendi:
 
-Dispositive:
+### Dispositive:
 The decision of the Court of Appeals convicting Eduardo Gonzales of Murder and sentencing him to reclusion perpetua was affirmed, with the awards of damages modified to include exemplary damages in accordance with prevailing jurisprudence.
-Question:
+### Question:
 Why are the accused in these cases not entitled to self-defense?
-Answer:
+*Answer:*
 In People v. Eduardo Gonzales (G.R. No. 195534, June 13, 2012), the Supreme Court denied the plea of self-defense because the accused failed to satisfy the legal and evidentiary requirements set forth under Article 11, paragraph 1 of the Revised Penal Code (RPC).
 
 1. Failure to Prove Unlawful Aggression (The Primary Requisite)
