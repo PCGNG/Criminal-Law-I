@@ -1,4 +1,4 @@
-### Facts:
+### Facts
 Accused-appellants Bingky Campos and Danny "Boy" Acabo were charged with Murder before the Regional Trial Court (RTC) of Dumaguete City for the death of Romeo F. Gador on August 19, 2001. 
 
 According to the prosecution, Romeo was sitting outside a house conversing with a companion when Bingky and Danny approached. Without warning, Danny held Romeo by the arms from behind, while Bingky stabbed Romeo once in the chest with a long, sharp-pointed weapon. The appellants then fled, and Romeo died shortly thereafter from the fatal stab wound. 
@@ -6,12 +6,13 @@ According to the prosecution, Romeo was sitting outside a house conversing with 
 The defense offered a different version, pleading self-defense. Danny claimed that while walking to their uncle's house, they were intercepted by four unidentified men who mauled Bingky. Bingky fled, after which the men turned toward Danny and kicked him in the buttocks. Danny testified that when two of the men rushed at him, he pulled out a knife and thrust it blindly toward one of them to make his escape. 
 
 The RTC rejected the claim of self-defense, found conspiracy and treachery present, convicted both accused of Murder, and sentenced them to reclusion perpetua. The Court of Appeals (CA) affirmed the conviction in toto. 
-### Issue: 
+
+### Issue
 1.	Whether appellants sufficiently proved that they acted in legitimate self-defense under Article 11, paragraph 1 of the Revised Penal Code.
 2.	Whether the killing was attended by treachery to qualify the crime to Murder. 
 3.	Whether conspiracy between Bingky Campos and Danny Acabo was adequately established. 
 
-### Ruling: 
+### Ruling
 1. No. The defense failed to establish the indispensable element of unlawful aggression. 
 A plea of self-defense admits the killing, shifting the burden of proof to the accused to establish all its requisites by clear and convincing evidence: 
 •	Requisites: (a) Unlawful aggression on the part of the victim; (b) Reasonable necessity of the means employed to prevent or repel it; and (c) Lack of sufficient provocation on the part of the person defending himself. 
@@ -24,7 +25,7 @@ Treachery exists when the offender commits any of the crimes against persons emp
 3. Yes. Conspiracy was clearly proven. 
 Conspiracy exists when two or more persons come to an agreement concerning the commission of a felony and decide to commit it. It may be inferred from the coordinated conduct of the perpetrators showing unity of design and execution. Here, Danny held the victim’s arms to prevent resistance while Bingky inflicted the fatal thrust, and both fled together immediately after. In conspiracy, the act of one is the act of all, and it is immaterial who delivered the fatal blow. 
 
-### Ratio Decidendi:
+### Ratio
 
 Dispositive:
 ### Question:
