@@ -1,0 +1,40 @@
+Facts:
+Appellant Eduardo Gonzales and his brother, co-accused Edmundo Gonzales (who remained at large), were charged with Murder for the killing of Eligio Donato in San Carlos City, Pangasinan.
+ 
+The prosecution established that the victim went to the house of the Gonzales brothers upon Edmundo's invitation. When Donato arrived, Eduardo met him armed with a .22 caliber long-barrel firearm. Eduardo fired at Donato from a distance. When Donato attempted to grapple for the weapon to save himself, Eduardo shot him multiple times—firing six shots in total, three of which hit Donato (in the arm, left thigh, and left chest). The gunshot wound to the chest proved fatal before medical treatment could be administered. 
+
+Eduardo claimed self-defense. He contended that while watching television, Donato barged in armed with a handgun, hurled threats and invectives, and refused to calm down. Eduardo claimed he was forced to retrieve his own firearm, and during their struggle for possession, his gun accidentally discharged three times. 
+The Regional Trial Court (RTC) rejected Eduardo’s claim of self-defense, finding the prosecution eyewitness credible and noting that the physical evidence (absence of powder burns, indicating the victim was not shot at point-blank range) directly contradicted the claim of a close grapple. The RTC convicted Eduardo of Murder qualified by treachery and sentenced him to reclusion perpetua. The Court of Appeals (CA) affirmed the conviction.
+
+Issue: 
+Whether accused-appellant Eduardo Gonzales proved by clear and convincing evidence that he acted in legitimate self-defense.
+Ruling: 
+1. No. The accused failed to establish the indispensable element of unlawful aggression. 
+When an accused invokes self-defense, he admits to the killing, and the burden of evidence shifts to him to prove the justifying circumstance by clear and convincing evidence. 
+•	Absence of Unlawful Aggression: Unlawful aggression is a condition sine qua non. It requires an actual, sudden, and unexpected physical attack or an imminent, offensive threat showing positively the intent to cause injury. The records established that Donato went to the house unarmed upon invitation, and Eduardo met him armed with a firearm and fired first. Donato's subsequent effort to wrest the gun away was merely an instinctive defensive attempt to survive Eduardo's assault, not unlawful aggression. 
+•	Disproportionate Force: Even assuming arguendo that an altercation occurred, firing six rounds with a firearm and hitting the unarmed victim three times—including a fatal shot directly through the chest—was entirely disproportionate and negated reasonable necessity of the means employed. 
+
+Ratio Decidendi:
+
+Dispositive:
+The decision of the Court of Appeals convicting Eduardo Gonzales of Murder and sentencing him to reclusion perpetua was affirmed, with the awards of damages modified to include exemplary damages in accordance with prevailing jurisprudence.
+Question:
+Why are the accused in these cases not entitled to self-defense?
+Answer:
+In People v. Eduardo Gonzales (G.R. No. 195534, June 13, 2012), the Supreme Court denied the plea of self-defense because the accused failed to satisfy the legal and evidentiary requirements set forth under Article 11, paragraph 1 of the Revised Penal Code (RPC).
+
+1. Failure to Prove Unlawful Aggression (The Primary Requisite)
+Unlawful aggression is an indispensable condition sine qua non; without it, self-defense cannot exist, whether complete or incomplete.
+•	The Victim Was Unarmed and Invited: The victim, Eligio Donato, went to the accused’s residence upon the invitation of Eduardo’s brother (Edmundo). Donato carried no weapon.
+•	The Accused Initiated the Offensive: Eduardo met Donato with a firearm already drawn and fired the first shot from a distance.
+•	The Victim's Defensive Struggle Is Not Aggression: While Eduardo claimed Donato attacked him, the Court found that Donato’s act of grappling for the gun occurred only after Eduardo had already fired at him. An act of self-preservation to deflect a firearm wielded by an assailant does not constitute unlawful aggression.
+2. Physical and Forensic Evidence Disproved the Defense Narrative
+When an accused invokes self-defense, he carries the burden of proving it by clear and convincing evidence. Eduardo's claim of an accidental discharge during a close-contact wrestling match for the gun was completely refuted by the forensic findings:
+•	Absence of Gunpowder Burns: The medico-legal examination revealed that Donato had no gunpowder stippling or tattooing around his wounds, establishing that he was not shot at point-blank range, as would have inevitably occurred during a hand-to-hand grapple over a firearm.
+•	Multiple Gunshot Wounds: Eduardo fired six shots, hitting Donato three times (arm, left thigh, and left chest). Firing multiple rounds from a distance completely discredited the theory of accidental discharges during a struggle.
+3. Lack of Reasonable Necessity of the Means Employed
+Even if an altercation had taken place, the means employed by Eduardo failed the test of rational equivalence:
+•	Confronting an unarmed visitor with a loaded firearm and repeatedly pulling the trigger until three bullets entered vital and non-vital parts of his body was grossly disproportionate.
+•	The severity and number of the wounds indicated a determined effort to kill rather than a defensive effort to neutralize an actual threat.
+4. Failure to Overcome the Inverted Burden of Proof
+In Philippine criminal law, invoking self-defense operates as an admission that the accused killed the victim. The regular presumption of innocence is effectively replaced by an obligation on the accused to rely on the strength of his own evidence rather than the weakness of the prosecution's. Because Eduardo presented only uncorroborated, self-serving testimony that was contradicted by physical forensic evidence and credible eyewitness accounts, his defense collapsed.
