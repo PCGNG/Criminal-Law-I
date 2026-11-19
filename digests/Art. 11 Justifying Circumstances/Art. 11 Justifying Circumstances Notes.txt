@@ -1,5 +1,5 @@
 ### Art. 11. Justifying Circumstances. - The following do not incur any criminal liability:
-* 1. Anyone who acts in defense of his person or rights, provided that the following circumstances concur: *
+*1. Anyone who acts in defense of his person or rights, provided that the following circumstances concur:*
       First. Unlawful Aggression;
       Second. Reasonable necessity of the means employed to prevent or repeal it; 
       Third. Lack of sufficient provocation on the part of the person defending himself.
@@ -14,7 +14,7 @@ This otherwise known as self-defense. Self-defense does not only include defense
 ### First Element - Unlawful Aggression
 The SC said, the primordial element of self-defense is unlawful aggression. The unlawful aggression coming from the said offended party is material because without the unlawful aggression coming from the victim, there is no need for the accused to defend his life and limb. Hence, first and foremost, there must be an unlawful aggression coming from the victim. 
 
-* Elements of Unlawful Aggression. * The unlawful aggression has three elements:
+*Elements of Unlawful Aggression.* The unlawful aggression has three elements:
 1. There must be a physical or material attack or assault; 
 2. The attack or assault must be actual or at least imminent; and 
 3. The attack or assault must be unlawful.
@@ -39,11 +39,11 @@ NOTE: The maxim behind self-defense is "Stand ground when in the right". The law
 ### QUESTION: 
 X was walking after withdrawing his salary from the ATM. He happily went towards home then suddenly three (3) men A, B and C, surrounded him. These men all pointed an icepick on X, telling him, "We saw you getting money from the ATM, give us your bag". X held tightly unto the bag and ran away. The three (3) men chased X and caught up with him, they then ganged up on X. All of them boxed and kicked him until X was down on the ground. When X was down on the ground, A forcible took his bag. A then went on top of X and was about to stab him with the icepick, but X was able to grab a huge piece of stone and hit A's head two (2) times. A bled and lost consciousness, the other men left. Seeing that he wounded A, X brought him to the hospital. It was the severe damage on the head that caused the death of the holdupper A.  
 X is not being prosecuted for the death of the holdupper A. X raised self-defense. Are all the elements of self-defense present?
-* ANSWER *
+*ANSWER*
 ### YES. 
-* First element: * There was unlawful aggression. A, B, and C surrounded X and ganged up on X. A was also about to stab X with an icepick. These acts placed X's life and limb in actual and imminent danger. Therefore, there is unlawful aggression on the part of the victim - the holdupper A.
-* Second Element: * The means employed by X was reasonable and rational to repel the unlawful aggression. X was unarmed, A was about to stab him with an icepick, the only thing he could do to protect his life and limb was to use the stone he grabbed. It was rational, it was reasonable to hit the holdupper, otherwise, he could have been stabbed and could have died. Therefore, the second element is also present.
-* Third Element: * Lack of sufficient provocation on the part of the person defending himself. There was no provocation at all coming from X, he was merely on his way home.  
+* First element: There was unlawful aggression. A, B, and C surrounded X and ganged up on X. A was also about to stab X with an icepick. These acts placed X's life and limb in actual and imminent danger. Therefore, there is unlawful aggression on the part of the victim - the holdupper A.
+* Second Element: The means employed by X was reasonable and rational to repel the unlawful aggression. X was unarmed, A was about to stab him with an icepick, the only thing he could do to protect his life and limb was to use the stone he grabbed. It was rational, it was reasonable to hit the holdupper, otherwise, he could have been stabbed and could have died. Therefore, the second element is also present.
+* Third Element: Lack of sufficient provocation on the part of the person defending himself. There was no provocation at all coming from X, he was merely on his way home.  
 All the elements of self-defense being present, X has to be acquitted of the crime charged by reason of self- defense.
 
 ### GANAL JR. v. PEOPLE G.R. NO. 248130 | DECEMBER 2, 2020 | LAZARO-JAVIER, J.
@@ -53,13 +53,13 @@ When Follante went to the house of Ganal, Jr., he brought with him stones around
 W/N Ganal, Jr. acted in self-defense (YES)  
 #### RULING: 
 YES. All the elements of self-defense are present:
-* Unlawful Aggression *
+*Unlawful Aggression*
 Here, stones were hurled at the roof of the adjacent houses of Ganal, Jr. and his father. The father went out to check and saw Follante with his uncle, Alvarez. The father approached and asked them to go home because his wife was suffering from hypertension and should not be disturbed. However, Alvarez replied that he did not care if the wife died - that he would kill all of them. Thereafter, Alvarez managed to push open the gate and hit Ganal, Sr. with a stone on the chest. Armed with a knife tucked in his waistband and holding two (2) stones, Alvarez turned to Ganal, Jr. and advanced towards him. Despite the warning shot of Ganal, Jr., Alvarez continued moving closer to Ganal, Jr. who was then constrained to shoot him.
-*  Reasonable necessity of the means employed to prevent or repel unlawful aggression *
+* Reasonable necessity of the means employed to prevent or repel unlawful aggression*
 The right of a person to take life in self-defense arises from his belief in the necessity for doing so; and his belief and the reasonableness thereof are to be judged in the light of the circumstances as they then appeared to him, not in the light of circumstances as they would appear to others or based on the belief that others may or might entertain as to the nature and imminence of the danger and the necessity to kill.  
 Here, Ganal, Jr. was overcome by the instinct of self- preservation upon seeing that Alvarez brashly entered his property and even knocked his father unconscious for getting in the way. Alvarez was determined to inflict injury on him as he brought two (2) large stones and knife for the purpose.  
 Ganal, Jr. first tried to simply scare off Alvarez by firing a warning shot. However, Alvarez was unfazed and still continued to advance towards him with malevolent intent. And even after Ganal, Jr. shot him, the latter did not even falter but instead threatened to kill Ganal, Jr. and his family. In that particular instance, Ganal, Jr. must have thought that his actions were so futile because Alvarez was still standing there and shouting threats. He then must have felt he had to end it once and for all - kill or be killed.
-* Lack of sufficient provocation on the part of the person making the defense *
+*Lack of sufficient provocation on the part of the person making the defense*
 It is undisputed that it was Alvarez who went to Ganal, Jr.'s house and instigated the incident. 
 
 ### PEOPLE v. OLARBE G.R. NO. 227421 | JULY 23, 2018 | BERSAMIN, J.
@@ -95,6 +95,64 @@ The rule is that the reasonable necessity of the means employed to repel or prev
 
 ### NOTE:
 Here, Leo and his wife were going home on board a motorcycle. Suddenly, two (2) men namely, Ceasar, armed with a balisong and his son, Charles, armed with a gun blocked their path. Leo sensed danger and so he swerved his motorcycle to the left. Thereafter, Leo alighted from his motorcycle and ran towards the house of his father. Ceasar and Charles, however, did not stop. Charles followed Leo, he destroyed the bamboo fence, pointed a gun at the people around and shouted for Leo to come out of the house. Instead of Leo coming out it was Leo's father, Leonardo, who came out. Leonardo tried to pacify Charles, however, during this time, Ceasar arrived and stabbed Leonardo in the chest. Although he was wounded, Leonardo was able to run to the house, but at that particular moment, Ceasar still followed. Sensing that his father was about to be killed, Leo came out of the house and chased Ceasar. Ceasar then tried to stab Leo with his balisong, but Leo saw a bolo on top of the table, took it and hacked Ceasar. Ceasar died.
+The first hack was on the right hand of Ceasar, causing the latter to drop the balisong on the ground, but then Ceasar picked up the balisong and was about to strike again. Leo stabbed him this time on the abdomen. This caused the death of Ceasar. Leo was charged with the crime of Homicide.  
+Leo raised self-defense, that he merely acted in self- defense and in defense of his father. Both the RTC and the CA convicted the accused of Homicide, but appreciated the privileged mitigating circumstance of incomplete self-defense stating that the second element was absent.  
+The SC, through Justice Lopez, acquitted Leo. According to the SC, there was unlawful aggression because Ceasar attacked and pursued the father of Leo. Thereafter, Ceasar turned to stab Leo. At that particular moment, Leo has the right to repel the unlawful aggression in order to protect his life and the life of his father. Hence, there was unlawful aggression which placed the life and limb of Leo and his father in actual and imminent danger;  
+The third element was also present. There was no provocation coming from Leo, the attack originated from both Ceasar and his son. At the time when Leo and his wife were going home, suddenly their path was blocked. Not only that, but when Leo was already in his father's house, Ceasar still pursued him and tried to kill him and the father. Therefore, the SC said there was no provocation coming from the accused Leo.
+So, it was confirmed that the first and third elements are present. How about the second element?  
+Although the RTC and CA stated that the second element is absent, the SC said that it is present. The SC said that Leo used reasonable means in order to defend himself and the life of his father. According to the SC, based on the evidence presented, after Leo hacked Ceasar's hand, the balisong fell on the ground, but still Ceasar didn't stop. Ceasar picked up the balisong, therefore, at that moment, the unlawful aggression did not cease to exist. He picked up the balisong, which means he still wanted to attack Leo. The act of Ceasar of picking up the balisong showed his aggravated determination to kill Leo and his father. It is evident based on the facts that it was the instinct of self- preservation that prevailed upon Leo when he stabbed Ceasar. He stabbed Ceasar in the act of self-defense. Hence, the SC acquitted Leo Abuyo.
+
+### QUESTION: 
+X stabbed Y with a kitchen knife. Y managed to escape but sustained minor injuries. Y was able to run away to the safety of his house, but X followed him. Upon reaching his house, Y took a bolo. Armed with the bolo, Y went out of his house, and dared X to come forward and fight with him. There was a struggle between X and Y, and in the course of the struggle, Y killed X.  
+Y is now charged with the crime of Homicide. Y, on his part, said that he merely acted in self-defense. Is Y entitled to the justifying circumstance of self- defense?
+*ANSWER*
+NO. *First element:* Unlawful aggression on the part of the victim is immediately absent. There were two stages in the fight. The first stage was when X stabbed Y, inflicting upon Y minor injuries with the use of a kitchen knife. The second stage, when Y was able to run away to the safety of his house. Y then took a bolo and challenged X to a fight.  
+Since the fight ensued based on the challenge made by Y on X, in that case, Y became the unlawful aggressor. The unlawful aggression that has been commenced by X ceased to exist the moment Y reached his house, took the bolo, came out and challenged X. Y became the challenger/ the unlawful aggressor. Hence, Y cannot raise the defense of self-defense in order to free him from criminal and civil liability.
+
+### QUESTION
+About 3 o'clock in the morning, the husband came out to fish. The moment the husband came out, here comes the neighbor. The neighbor went to the house, entered the bedroom, undressed the wife, and had carnal knowledge of the wife. The wife allowed it because she thought it was her husband who came back. After the carnal knowledge, the neighbor dressed himself up and before leaving, told the wife, "Maria salamat, sa uulitin". Thereafter, when the neighbor said that, Maria was awakened. It was not the voice of her husband, she was mad. She then got a bolo and as the neighbor was leaving, she stabbed the neighbor to death.  
+She was charged with the crime of Homicide for having killed the neighbor. Maria now claims defense of her honor and chastity. Is there self-defense? Or defense of one's honor and chastity so as to free Maria from criminal liability.
+*Answer*
+NO. In this case, there was unlawful aggression, however, at the time that Maria had stabbed the neighbor, the said unlawful aggression already ceased. It was already done. The carnal knowledge was already done. The first element being absent, the claim of defense of one's honor and chastity is absent. Thus, Maria can be held criminally liable for the crime of Homicide, but she can raise the mitigating circumstance of sudden impulse of passion and obfuscation.  
+
+### PEOPLE v. JAURIGUE C.A. NO. 384 | FEBRUARY 21, 1946 | DE JOYA, J. 
+### FACTS
+At 8'o clock in the evening, Jaurigue entered the chapel of the Seventh Day Adventists to attend religious services. Capina then sat beside Jaurigue and placed his hand on the upper part of her right thigh. Avelina Jaurigue, conscious of her personal dignity and honor, suddenly grabbed his fan knife and stabbed Amado once at the base of the left side of the neck resulting to his death. After the incident, she voluntarily surrendered to the police authorities. She was charged with the crime of Homicide. In her defense, Jaurigue interposed that she acted in the legitimate defense of her honor.
+ISSUE:
+W/N Jaurigue acted in the legitimate defense of her honor, therefore, she should be completely  absolved of all criminal responsibility (NO) 
+RULING:
+NO. The attempt to rape a woman constitutes an unlawful aggression sufficient to put her in a state of legitimate defense, inasmuch as a woman's honor cannot but be esteemed as a right as precious, if not more, than her very existence; and it is evident that a woman who, thus imperiled, wounds nay kills the offender, should be afforded exemption from criminal liability, since such killing cannot be considered a crime from the moment it became the only means left for her to protect her honor from so great an outrage.
+When the deceased sat by the side of defendant and appellant on the same bench, near the door of the barrio chapel and placed his hand on the upper portion of her right thigh, without her consent, the said chapel was lighted with electric lights, and there were already several people, about ten of them, inside the chapel, including her own father and the barrio lieutenant; there was and there could be no possibility of her being raped. And when she gave a thrust at the base of the left side of his neck inflicting upon him a mortal wound 41/2 inches deep, causing his death a few moments later, the means employed by her in the defense of her honor was evidently excessive; and under the facts and circumstances of the case, she cannot be legally declared completely exempt from criminal liability.
+
+### NOTE:
+In the case of People v. Jaurigue, inside a chapel, the victim placed his hand on the lap of Jaurigue, the latter then stabbed the said man at the base of the neck. The man died. Jaurigue is now being charged of the crime of Homicide. She argued that she was merely acting on the defense of her honor and chastity.  
+The SC said that the self-defense of one's honor and chastity will not lie in her favor. The act of the said victim placing his hand on the right thigh of Jaurigue cannot be considered as unlawful aggression because at that moment, she was inside a chapel, wherein it was fully lighted, filled with people, and even his father who was the minister was there. At that particular moment, it was very unlikely for the victim to have placed an attack on Jaurigue's chastity. The first element being absent, the SC said self-defense will not lie in her favor.
+
+### PEOPLE v. TOLEDO G.R. NO. 158057 | SEPTEMBER 24, 2004 | CALLEJO, J. 
+FACTS:
+Guarte and his group were having a drinking spree at his parent's house. Toledo approached the group and requested them to refrain from making any noise. That night, Guarte heard someone throwing stones at their house. Upon checking, he saw that it was Toledo. Thereafter, Guarte got up and proceeded to Toledo's house in order to ask why he was throwing stones. However, Toledo did not respond and without any warning, he stabbed Guarte with a bolo on the abdomen. Guarte was then brought to the hospital, but subsequently died. After the incident, Toledo voluntarily surrendered. Toledo was charged with the crime of Homicide. In his defense, he interposed self-defense and accident.  
+ISSUE: 
+1. W/N self-defense should be appreciated (NO) 
+2. W/N accident should be appreciated (NO)
+RULING:
+1. NO. To prove self-defense, the petitioner was burdened to prove the essential elements thereof, namely: (i) unlawful aggression on the part of the victim; (ii) lack of sufficient provocation on the part of the petitioner; and (iii) employment by him of reasonable means to prevent or repel the aggression. Unlawful aggression is a condition sine qua non for the justifying circumstances of self- defense, whether complete or incomplete. Unlawful aggression presupposes an actual, sudden, and unexpected attack, or imminent danger thereof, and not merely a threatening or intimidating attitude.
+In this case, Toledo was not justified in stabbing Guarte. There was no imminent threat to appellant's life necessitating his assault on Guarte. Unlawful aggression is a condition sine qua non for the justifying circumstance of self-defense. For unlawful aggression to be appreciated, there must be an actual, sudden, unexpected attack or imminent danger thereof, not merely a threatening or intimidating attitude. In the absence of such element, Toledo's claim of self-defense must fail.
+2. NO. There is no such defense as accidental self- defense in the realm of criminal law. Self-defense under Art.11, paragraph 1 of the RPC necessarily implies a deliberate and positive overt act of the accused to prevent or repel an unlawful aggression of another with the use of reasonable means. The accused has freedom of action.  
+On the other hand, the basis of exempting circumstances under Art. 12 of the RPC is the complete absence of intelligence, freedom of action, or intent, or the absence of negligence on the part of the accused. The basis of the exemption in Art. 12, paragraph 4 of the RPC is lack of negligence and intent. The accused does not commit either an intentional or culpable felony. The accused commits a crime but there is no criminal liability because of the complete absence of any of the conditions which constitute free will or voluntariness of the act. An accident is a fortuitous circumstance, event or happening; an event happening wholly or partly through human agency, an event which under the circumstances is unusual or unexpected by the person to whom it happens.
+
+### NOTE:
+In the case of People v. Toledo, accused was charged with the crime of Homicide for killing his distant nephew. In the hearing before the RTC, the defense raised by Toledo was that he stabbed the victim purely by accident. According to Toledo, the victim was trying to enter the house, thus, he took a bolo and unfortunately, he accidentally hit the victim. The victim died. He raised the exempting circumstance of accident. The RTC did not consider the defense raised. When the case was appealed, Toledo changed his defense to self-defense. According to Toledo, he killed the victim as an act of self- defense.
+The SC said that the defenses he raised were inconsistent with each other. That there is no such thing as accidental self-defense, you cannot raise accident and self-defense at the same time. Accident is something that has happened when the offender was performing a lawful act but suddenly an injury was caused to another, without fault or intent on his part. It is something that happened outside the sway of things, it cannot be prevented.
+On the other hand, self-defense is a deliberate and overt act done by the offender based on the instinct of self- preservation. In case of self-defense, the offender deliberately attacked and deliberately killed the victim because if he did not do so, he will be the one killed. Hence, self-defense is based on a deliberate and positive overt act done by the offender intentionally based on the instinct of self-preservation. He has to save his own life, that is why he stabbed the unlawful aggressor.  
+So, the SC said that you cannot raise the exempting circumstance of accident and the justifying circumstance of self-defense at the same time because they are inconsistent with one another.
+
+
+
+
+
+
+
+
 
 
 
