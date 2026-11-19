@@ -1,0 +1,30 @@
+Facts:
+On the night of February 20, 2003, petitioner SPO2 Lolito T. Nacnac was on duty as the officer-in-charge of the Dingras Police Station in Ilocos Norte. The victim, SPO1 Doddie Espejo, who had been drinking, arrived at the station in civilian clothes and armed with an M16 rifle.
+
+Espejo confronted Nacnac regarding why an assigned patrol car was parked at another officer's house instead of the station. Nacnac calmly replied that it was because the other officer was using it for an early official dispatch. An agitated Espejo cursed Nacnac ("Ukinnam, padasam man" / "Vulva of your mother, just try it"), cocked his M16 rifle, and pointed it directly at Nacnac's chest.
+
+Believing his life was in mortal danger, Nacnac drew his service firearm (a .45 caliber pistol) and fired once at Espejo, hitting him in the head. Espejo fell to the ground and was later pronounced dead. Nacnac immediately surrendered himself and his firearm to the responding police officers.
+
+The Regional Trial Court (RTC) convicted Nacnac of Homicide, finding that while there was unlawful aggression, the means employed to repel it was not reasonably necessary because Nacnac could have merely shot Espejo in a non-fatal area. The Court of Appeals (CA) affirmed the conviction.
+Issue: 
+Whether petitioner SPO2 Lolito Nacnac acted in legitimate self-defense under Article 11, paragraph 1 of the Revised Penal Code.
+Ruling: 
+Yes. The Supreme Court reversed the decision of the Court of Appeals and acquitted Nacnac on the ground of complete self-defense.
+The Court analyzed the three requisites of self-defense under Article 11(1) of the RPC:
+1.	Unlawful Aggression:
+Unlawful aggression requires an actual, sudden, and unexpected attack or an imminent threat thereof. Cocking an M16 assault rifle and pointing it directly at another person's chest while uttering belligerent, threatening words constitutes clear, actual, and imminent unlawful aggression. An M16 rifle is a high-powered firearm capable of firing automatic bursts in a fraction of a second; Nacnac was not required to wait for Espejo to pull the trigger before taking defensive action.
+2.	Reasonable Necessity of the Means Employed (Rational Equivalence):
+The Supreme Court firmly rejected the reasoning of the lower courts that Nacnac should have aimed at Espejo's arm or leg.
+o	The Standard of Rational Equivalence: The law does not require exact material equality of weapons or perfect aim under mortal stress. It requires only rational equivalence, assessed from the perspective of a defender facing instantaneous peril.
+o	Mortal Terror and Reflex Action: A police officer staring down the barrel of a cocked assault rifle held by an intoxicated colleague cannot be expected to pause, calculate shot trajectories, or aim with surgical precision at a non-vital organ. Drawing and firing his service pistol at the center of mass or head was a reasonable, instinctive, and proportionate reaction to preserve his life.
+3.	Lack of Sufficient Provocation:
+Nacnac gave no provocation. He was discharging his duties quietly at the police headquarters and responded politely to Espejo's inquiries before Espejo initiated the confrontation.
+Because all three requisites concurred, Nacnac was entitled to complete justification and an immediate acquittal.
+
+Ratio Decidendi:
+
+Dispositive:
+Question:
+Explain the elements of self-defense as discussed in the case of Lolito Nacnac.
+Answer:
+
