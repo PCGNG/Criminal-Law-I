@@ -1,5 +1,4 @@
-
-Facts:
+### Facts:
 Around midnight on May 7, 2006, in Sitio Ilaya, Barangay San Roque, Antipolo City, Rodolfo Olarbe and his common-law wife, Juliet Arca, were asleep in their small house. They were awakened by loud knocking and shouts from the victim, Celestino Arca, Juliet’s cousin. Celestino, a known neighborhood tough guy (berdugo) with a reputation for shooting people, hacking cattle, and firing guns indiscriminately, was armed with a 12-gauge shotgun (sumpak) and a bolo.
 
 Celestino kicked the door open, aimed the shotgun at Rodolfo's head, and cursed at him. A physical struggle for the shotgun ensued between Rodolfo and Celestino. Juliet tried to intervene, but Celestino reached for his bolo and hacked Juliet, striking her on the head.
@@ -8,9 +7,9 @@ Rodolfo managed to wrestle the shotgun away from Celestino and fired at him, hit
 
 The Regional Trial Court (RTC) convicted Rodolfo of Murder, holding that although unlawful aggression originated from Celestino, it ceased once Rodolfo disarmed him of the shotgun. The trial court characterized the continued hacking as excessive and vengeful. The Court of Appeals (CA) affirmed the conviction.
 
-Issue: 
+### Issue: 
 Whether accused-appellant Rodolfo Olarbe successfully established the justifying circumstances of self-defense and defense of a stranger/relative under Article 11 of the Revised Penal Code.
-Ruling: 
+### Ruling: 
 Yes. The Supreme Court reversed the conviction and acquitted Rodolfo Olarbe, holding that all requisites of self-defense and defense of a relative/stranger were present.
 1.	Unlawful Aggression Did Not Cease Upon Disarming:
 The Court rejected the mechanical view of the lower courts that unlawful aggression automatically terminates the split second a defender gains possession of the attacker’s primary weapon.
@@ -26,7 +25,7 @@ o	One who is where he has an absolute right to be is entitled to stand his groun
 3.	Lack of Sufficient Provocation:
 Neither Rodolfo nor Juliet gave any provocation. They were peacefully sleeping inside their home when Celestino forcibly broke down their door.
 
-Ratio Decidendi:
+### Ratio Decidendi:
 
 Dispositive:
 The decision of the Court of Appeals was reversed and set aside. Rodolfo Olarbe y Balihon was acquitted of Murder on the ground of complete self-defense and defense of a relative, and his immediate release from the New Bilibid Prison was ordered.
