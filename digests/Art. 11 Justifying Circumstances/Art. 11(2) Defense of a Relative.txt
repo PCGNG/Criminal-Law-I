@@ -1,0 +1,61 @@
+ARTICLE 11. Justifying circumstances. - The following do not incur any criminal liability:  
+xxxx  
+2. Anyone who acts in defense of the person or rights of his spouse, ascendants, descendants, or legitimate, natural or adopted brothers or sisters, or of his relatives by affinity in the same degrees, and those by consanguinity within the fourth civil degree, provided that the first and second requisites prescribed in the next preceding circumstance are present, and the further requisite, in case the provocation was given by the person attacked, that the one making defense had no part therein.
+xxxx
+#### Elements of Art. 11(2) – Defense of a Relative
+1. Unlawful aggression; 
+2. Reasonable necessity of the means employed to prevent or repel it; and 
+3. In case the provocation was given by the person attacked, that the one making defense had no part therein.
+
+#### NOTE: 
+If you see a problem and it appears that it is a defense of a relative, for such defense to lie, it is necessary that the said relative he is defending must be included in the enumeration provided in the second paragraph:
+1. Spouse;
+2. Ascendants; 
+3. Descendants;
+4. Legitimate, natural, adopted brothers/sisters; 
+5. Relatives by affinity within the same degree; and 
+6. Relatives by consanguinity within the fourth civil degree.  
+If the relative being defended is not included in the enumeration of Art. 11(2), then it will fall under defense of a stranger. Before applying the elements, see first if the person or relative being defended falls within the meaning of the relative as enumerated in said paragraph, if so, proceed with the elements.
+*First and second elements - Unlawful aggression; and reasonable necessity of the means employed to prevent or repel it*  
+The first and second elements are the same as that of self-defense.  
+*Third element - In case the provocation was given by the person attacked, that the one making defense had no part therein*
+Even if it is the relative being defended who gave the provocation, there can still be a valid defense of a relative for as long as the relative making the defense is not a party to the said provocation.
+---
+### QUESTION
+It was 6'o clock in the morning and X bought pandesal. While on his way home, he heard a commotion from the other end of the street. There, he saw his 70-year-old father-in-law having an argument with their neighbor, W. They were shouting at each other. W suddenly punched the face of the father-in- law, causing he latter to fall on the ground. X also saw that W was about stab the father-in-law with a knife. At that particular moment, X ran towards them, and thereafter, with the use of his fist, he boxed the face of W. Upon seeing the bleeding head of W, X and the father-in-law brought the former to the hospital. When X was being prosecuted for the crime of Homicide, X's defense was that he merely acted in defense of a relative. Will the defense of a relative lie?  
+*ANSWER:* 
+YES. If the problem involves defense of a relative, the first thing that you have to look into - is the said relative within the meaning of relative based on the enumeration under Art. 11(2)? The father-in-law is a relative by affinity insofar as X is concerned because the former is the father of his wife. If it is a relative by affinity, it must be of the same degree  as  ascendants,  descendants, legitimate/natural/adopted brothers or sisters. In this case, it is of the same degree as an ascendant. Therefore, the said father-in-law is within the meaning of relative under Art. 11(2).
+After you determine that the said relative is within the meaning of relative under Art. 11(2), you now take into consideration whether the elements are present.  
+*First element:* There was unlawful aggression. The act of W when he punched the father-in-law and was about to stab the latter, that act of W placed the life and limb of the father-in-law in actual and imminent danger. Hence, the first element is present.  
+*Second element:* The means used by X is that he merely punched W in order to prevent W from stabbing the father- in-law. It was reasonable in order to prevent the unlawful aggression.  
+*Third element:* Granting for the sake of argument, the father-in-law is the one who provoked W, X has nothing to do with it.  
+Therefore, all the elements of defense of a relative are present. X should be acquitted of the crime charged because he acted in defense of his father-in-law, a relative.
+---
+### QUESTION
+What if in the same problem, instead of X defending the father-in-law, the one he defended is the cousin of his wife. It was the first cousin of his wife who was to be attacked by W, and X punched W. X is now being prosecuted for the crime of Homicide. He raised a defense that he merely acted in defense of a relative. Will defense of relative lie in his favor?
+*ANSWER*
+NO. A first cousin is not within the meaning of a relative under Art. 11(2). The first cousin is a relative by affinity insofar as X is concerned. It must be of same degree as ascendants, descendants, legitimate/natural/adopted brothers or sisters. The said first cousin is not within the enumeration. He is a relative by consanguinity within the fourth degree of the wife, but not that of X. Therefore, defense of a relative will not lie in favor of X.  
+His defense should be defense of a stranger. All the elements of defense of a stranger under Art. 11(3) are present. In this case, X was not ignited by any evil motive. His only intention was to save the life of the first cousin of his wife. Therefore, defense of a stranger will lie in favor of X.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
