@@ -1,0 +1,31 @@
+Facts:
+On the night of March 26, 1997, Glen Remegio, his wife Nilda, and their driver, Noel Jamandre, were traveling along the national highway in Tiaong, Quezon, aboard a passenger-type jeepney. While moving slowly, appellant Melanio Nugas boarded the vehicle from behind.
+
+Once inside, Nugas moved closer to Glen Remegio, who was seated directly behind the driver. Without any verbal altercation, warning, or provocation, Nugas suddenly pulled out a sharp bladed weapon and stabbed Glen once in the neck. Noel, the driver, immediately stopped the jeepney and fled in panic. Nugas then jumped out of the vehicle and escaped into the dark. Glen died shortly thereafter from the fatal stab wound, which pierced his jugular vein.
+
+Nugas was apprehended years later and pleaded self-defense. He claimed that he had boarded the jeepney as a paying passenger; that Glen and Noel accused him of being a thief; that Glen drew a knife and attempted to stab him; and that during their hand-to-hand struggle, he managed to wrest the knife away and accidentally stabbed Glen in the neck before escaping.
+
+The Regional Trial Court (RTC) of Lucena City rejected Nugas' plea of self-defense, convicted him of Murder qualified by treachery, and sentenced him to reclusion perpetua. The Court of Appeals (CA) affirmed the conviction.
+Issue: 
+1.	Whether accused-appellant Melanio Nugas established by clear and convincing evidence that he acted in legitimate self-defense.
+2.	Whether the qualifying circumstance of treachery (alevosia) was properly appreciated.
+
+Ruling: 
+1. No. The defense completely failed to establish unlawful aggression on the part of the victim.
+When an accused invokes self-defense, the burden shifts to him to prove by clear and convincing evidence the concurrence of all three elements under Article 11, paragraph 1 of the Revised Penal Code:
+•	Unlawful Aggression as Condition Sine Qua Non: There can be no self-defense—complete or incomplete—without unlawful aggression. Unlawful aggression requires an actual, sudden, and unexpected attack or an imminent offensive assault indicating a positive determination to cause injury.
+•	Absence of Proof: Nugas' version of events was completely uncorroborated and contradicted by the eyewitness testimony of the victim's wife, Nilda, who was seated directly across from her husband. The victim was merely riding the jeepney peacefully and had no prior encounter or argument with Nugas.
+•	Incredible Defense Narrative: Nugas offered no physical evidence of defensive injuries, scratches, or bruises that would typically result from a life-or-death struggle inside a cramped moving jeepney. His claim of being attacked first was self-serving and unsupported by the record.
+2. Yes. The killing was attended by treachery.
+Treachery exists when the offender commits any crime against persons employing means, methods, or forms of execution that tend directly and specially to ensure its execution without risk to the offender arising from the defense the victim might make.
+•	The attack was sudden, unexpected, and executed from behind inside a moving vehicle.
+•	Glen Remegio was an unarmed passenger enjoying a peaceful ride, completely unaware of any impending harm.
+•	The sudden thrust to the neck gave the victim no opportunity to anticipate the danger, defend himself, or escape.
+
+Ratio Decidendi:
+
+Dispositive:
+Question:
+Why are the accused in these cases not entitled to self-defense?
+Answer:
+The decision of the Court of Appeals convicting Melanio Nugas y Mapait of Murder and sentencing him to reclusion perpetua was affirmed, with the awards of civil indemnity, moral damages, and exemplary damages modified in accordance with prevailing jurisprudence.
