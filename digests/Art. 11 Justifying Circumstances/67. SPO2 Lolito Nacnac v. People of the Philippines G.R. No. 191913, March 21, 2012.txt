@@ -1,4 +1,4 @@
-###  Facts:
+###  Facts
 On the night of February 20, 2003, petitioner SPO2 Lolito T. Nacnac was on duty as the officer-in-charge of the Dingras Police Station in Ilocos Norte. The victim, SPO1 Doddie Espejo, who had been drinking, arrived at the station in civilian clothes and armed with an M16 rifle.
 
 Espejo confronted Nacnac regarding why an assigned patrol car was parked at another officer's house instead of the station. Nacnac calmly replied that it was because the other officer was using it for an early official dispatch. An agitated Espejo cursed Nacnac ("Ukinnam, padasam man" / "Vulva of your mother, just try it"), cocked his M16 rifle, and pointed it directly at Nacnac's chest.
@@ -6,9 +6,11 @@ Espejo confronted Nacnac regarding why an assigned patrol car was parked at anot
 Believing his life was in mortal danger, Nacnac drew his service firearm (a .45 caliber pistol) and fired once at Espejo, hitting him in the head. Espejo fell to the ground and was later pronounced dead. Nacnac immediately surrendered himself and his firearm to the responding police officers.
 
 The Regional Trial Court (RTC) convicted Nacnac of Homicide, finding that while there was unlawful aggression, the means employed to repel it was not reasonably necessary because Nacnac could have merely shot Espejo in a non-fatal area. The Court of Appeals (CA) affirmed the conviction.
-###  Issue: 
+
+###  Issue
 Whether petitioner SPO2 Lolito Nacnac acted in legitimate self-defense under Article 11, paragraph 1 of the Revised Penal Code.
-### Ruling: 
+
+### Ruling 
 Yes. The Supreme Court reversed the decision of the Court of Appeals and acquitted Nacnac on the ground of complete self-defense.
 The Court analyzed the three requisites of self-defense under Article 11(1) of the RPC:
 1.	Unlawful Aggression:
