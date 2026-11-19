@@ -1,4 +1,4 @@
-### Facts:
+### Facts
 On the night of March 26, 1997, Glen Remegio, his wife Nilda, and their driver, Noel Jamandre, were traveling along the national highway in Tiaong, Quezon, aboard a passenger-type jeepney. While moving slowly, appellant Melanio Nugas boarded the vehicle from behind.
 
 Once inside, Nugas moved closer to Glen Remegio, who was seated directly behind the driver. Without any verbal altercation, warning, or provocation, Nugas suddenly pulled out a sharp bladed weapon and stabbed Glen once in the neck. Noel, the driver, immediately stopped the jeepney and fled in panic. Nugas then jumped out of the vehicle and escaped into the dark. Glen died shortly thereafter from the fatal stab wound, which pierced his jugular vein.
@@ -6,11 +6,12 @@ Once inside, Nugas moved closer to Glen Remegio, who was seated directly behind 
 Nugas was apprehended years later and pleaded self-defense. He claimed that he had boarded the jeepney as a paying passenger; that Glen and Noel accused him of being a thief; that Glen drew a knife and attempted to stab him; and that during their hand-to-hand struggle, he managed to wrest the knife away and accidentally stabbed Glen in the neck before escaping.
 
 The Regional Trial Court (RTC) of Lucena City rejected Nugas' plea of self-defense, convicted him of Murder qualified by treachery, and sentenced him to reclusion perpetua. The Court of Appeals (CA) affirmed the conviction.
-### Issue: 
+
+### Issue
 1.	Whether accused-appellant Melanio Nugas established by clear and convincing evidence that he acted in legitimate self-defense.
 2.	Whether the qualifying circumstance of treachery (alevosia) was properly appreciated.
 
-### Ruling: 
+### Ruling
 1. No. The defense completely failed to establish unlawful aggression on the part of the victim.
 When an accused invokes self-defense, the burden shifts to him to prove by clear and convincing evidence the concurrence of all three elements under Article 11, paragraph 1 of the Revised Penal Code:
 •	Unlawful Aggression as Condition Sine Qua Non: There can be no self-defense—complete or incomplete—without unlawful aggression. Unlawful aggression requires an actual, sudden, and unexpected attack or an imminent offensive assault indicating a positive determination to cause injury.
@@ -22,7 +23,7 @@ Treachery exists when the offender commits any crime against persons employing m
 •	Glen Remegio was an unarmed passenger enjoying a peaceful ride, completely unaware of any impending harm.
 •	The sudden thrust to the neck gave the victim no opportunity to anticipate the danger, defend himself, or escape.
 
-### Ratio Decidendi:
+### Ratio
 
 Dispositive:
 Question:
