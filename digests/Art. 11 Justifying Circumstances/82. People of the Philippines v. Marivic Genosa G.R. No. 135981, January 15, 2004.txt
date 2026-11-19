@@ -1,15 +1,15 @@
-Facts:
+### Fact
 Marivic Genosa and Ben Genosa were married in 1989. Throughout their marriage, Ben habitually engaged in excessive drinking, compulsive gambling, and severe domestic abuse. Marivic suffered chronic battery, verbal degradation, and physical assaults, frequently requiring medical treatment and once prompting her to secure an unheeded barangay protection conciliation.
 
 On the evening of November 15, 1995, Ben arrived home intoxicated and began a violent confrontation with Marivic, who was eight months pregnant. Ben repeatedly struck, kicked, dragged, and choked her, and even cut her with a broken beer bottle. When Ben briefly stopped to lie down on their bed, Marivic—fearing for her life and the unborn child—retrieved a .38 caliber revolver from a drawer and shot Ben in the head while he was in bed. Ben died instantly.
 
 Marivic was charged with Parricide before the Regional Trial Court (RTC) of Ormoc City. The RTC convicted her of parricide qualified by treachery and sentenced her to death. On automatic review, the Supreme Court remanded the case to receive expert psychiatric testimony on whether Marivic suffered from Battered Woman Syndrome (BWS). Clinical psychologists Dr. Alfredo Pajarillo and Dr. Zeny S. Camacho confirmed that Marivic suffered from the psychological and behavioral characteristics of BWS.
 
-Issue: 
+### Issue
 1.	Does Battered Woman Syndrome (BWS) qualify as a valid form of self-defense under Article 11, paragraph 1 of the Revised Penal Code (RPC)?
 2.	Did Marivic Genosa establish all the legal requisites of self-defense under the RPC?
 
-Ruling: 
+### Ruling
 1. Recognition of Battered Woman Syndrome (BWS)
 The Supreme Court formally recognized Battered Woman Syndrome in Philippine jurisprudence. The Court adopted Lenore Walker’s formulation of the cycle of violence, consisting of three distinct phases:
 •	The Tension-Building Phase: Minor battering incidents, friction, and psychological strain.
@@ -29,7 +29,7 @@ Section 26 of R.A. 9262 codified BWS as an explicit statutory defense, modifying
 "Victim-survivors who are found by the courts to be suffering from battered woman syndrome do not incur any criminal and civil liability notwithstanding the absence of any of the elements for justifying circumstances of self-defense under the Revised Penal Code."
 Under R.A. 9262, the absence of instantaneous unlawful aggression at the exact time of the assault no longer bars a battered woman from complete exoneration.
 
-Ratio Decidendi:
+### Ratio
 Allegedly, there are four characteristics of the syndrome: 
 (1) the woman believes that the violence was her fault; 
 (2) she has an inability to place the responsibility for the violence elsewhere; 
@@ -41,12 +41,12 @@ Living in constant danger of harm or death, she knows that future beatings are a
  
 In the instant case, it is equally important to determine whether Appellant Genosa had acted freely, intelligently and voluntarily when she killed her spouse. The Court, however, cannot properly evaluate her battered-woman-syndrome defense, absent expert testimony on her mental and emotional state at the time of the killing and the possible psychological cause and effect of her fatal act. Unlike in Parazo, we cannot simply refer her for proper psychological or psychiatric examination and thereafter admit the findings and evaluation as part of the records of the cases for purposes of automatic review. The prosecution has likewise the right to a fair trial, which includes the opportunity to cross-examine the defense witnesses and to refute the expert opinion given. Thus, consistent with the principle of due process, a partial reopening of the case is apropos, so as to allow the defense the opportunity to present expert evidence consistent with our foregoing disquisition, as well as the prosecution the opportunity to cross examine and refute the same.
 
-Dispositive:
+### Dispositive:
 The Supreme Court downgraded the penalty from death to an indeterminate sentence of six (6) years and one (1) day of prision mayor as minimum, to fourteen (14) years, eight (8) months and one (1) day of reclusion temporal as maximum.
 Because Marivic had already been detained beyond the minimum term of her penalty and had exhibited good conduct, the Court ordered her immediate release from custody, provided she was not held for any other lawful cause.
 
 
-Question:
+### Question:
 Why did the court rule that Marivic Genosa is not afflicted with the battered woman syndrome?
 
 Answer:
