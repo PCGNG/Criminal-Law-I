@@ -1,14 +1,13 @@
-People of the Philippines v. Cristina Samson, G.R. No. 214883, September 02, 2015
-### Facts:
+### Facts
 Cristina Samson was charged with the crime of Parricide under Article 246 of the Revised Penal Code for stabbing and killing her legitimate husband, Gerry Del-Valle, on June 27, 2002, in Caloocan City.
 
 The defense presented evidence showing that Gerry had a long history of domestic violence and habitual drunkenness. On the night of the incident, Gerry came home intoxicated, confronted Cristina about her jewelry, slapped her, and began choking her while pressing his knee against her chest. Despite her pleas that she could not breathe, Gerry continued strangling her and said, "Patayin na kita rito" ("I will kill you right here").
 Struggling for breath and fearing for her life, Cristina reached out blindly behind her and grabbed a small kitchen knife from a nearby table. She swung the knife toward Gerry, inflicting a single stab wound to his chest. Gerry loosened his grip, and Cristina immediately ran out of the house to seek help from relatives. Gerry was brought to the hospital, where he was pronounced dead on arrival.
 The Regional Trial Court (RTC) rejected Cristina's plea of self-defense, finding that unlawful aggression had already ceased when she stabbed him, and convicted her of Parricide. The Court of Appeals (CA) affirmed the conviction.
 
-### Issue: 
+### Issue
 Whether the accused-appellant Cristina Samson sufficiently established the justifying circumstance of self-defense under Article 11, paragraph 1 of the Revised Penal Code.
-### Ruling: 
+### Ruling
 Yes. The Supreme Court reversed the conviction, ruling that Cristina acted in legitimate self-defense.
 To successfully invoke complete self-defense under Article 11(1) of the RPC, three requisites must concur:
 1.	Unlawful aggression on the part of the victim;
@@ -20,7 +19,7 @@ The Court evaluated these elements as follows:
 •	Lack of Sufficient Provocation: Cristina gave no provocation whatsoever. The altercation was initiated entirely by the husband when he arrived home drunk and demanded her personal jewelry.
 Because all three requisites were clearly established by credible evidence, Cristina incurred no criminal liability.
 
-### Ratio Decidendi:
+### Ratio
 Was there unlawful aggression when Christina killed her husband? YES
 
 ### Dispositive:
