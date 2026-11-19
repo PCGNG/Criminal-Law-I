@@ -1,0 +1,53 @@
+1.	People of the Philippines v. Cristina Samson, G.R. No. 214883, September 02, 2015
+Facts:
+Cristina Samson was charged with the crime of Parricide under Article 246 of the Revised Penal Code for stabbing and killing her legitimate husband, Gerry Del-Valle, on June 27, 2002, in Caloocan City.
+
+The defense presented evidence showing that Gerry had a long history of domestic violence and habitual drunkenness. On the night of the incident, Gerry came home intoxicated, confronted Cristina about her jewelry, slapped her, and began choking her while pressing his knee against her chest. Despite her pleas that she could not breathe, Gerry continued strangling her and said, "Patayin na kita rito" ("I will kill you right here").
+Struggling for breath and fearing for her life, Cristina reached out blindly behind her and grabbed a small kitchen knife from a nearby table. She swung the knife toward Gerry, inflicting a single stab wound to his chest. Gerry loosened his grip, and Cristina immediately ran out of the house to seek help from relatives. Gerry was brought to the hospital, where he was pronounced dead on arrival.
+The Regional Trial Court (RTC) rejected Cristina's plea of self-defense, finding that unlawful aggression had already ceased when she stabbed him, and convicted her of Parricide. The Court of Appeals (CA) affirmed the conviction.
+
+Issue: 
+Whether the accused-appellant Cristina Samson sufficiently established the justifying circumstance of self-defense under Article 11, paragraph 1 of the Revised Penal Code.
+Ruling: 
+Yes. The Supreme Court reversed the conviction, ruling that Cristina acted in legitimate self-defense.
+To successfully invoke complete self-defense under Article 11(1) of the RPC, three requisites must concur:
+1.	Unlawful aggression on the part of the victim;
+2.	Reasonable necessity of the means employed to prevent or repel it; and
+3.	Lack of sufficient provocation on the part of the person defending herself.
+The Court evaluated these elements as follows:
+•	Unlawful Aggression: Unlawful aggression is the indispensable condition sine qua non of self-defense. Contrary to the findings of the RTC and CA, the unlawful aggression had not ceased. Gerry was actively choking Cristina, restricting her airway, pressing his knee onto her chest, and verbalizing an explicit intent to kill her. The peril to her life was actual, imminent, and continuous at the exact moment she delivered the blow.
+•	Reasonable Necessity of the Means Employed: Reasonable necessity does not require material equality between the weapon used by the aggressor and that used by the defender; what the law requires is rational equivalence, assessed under the stress, terror, and circumstances of the moment. Trapped underneath a physically stronger, intoxicated assailant who was suffocating her, Cristina grabbed the nearest object within reach to preserve her life. A single thrust using a small knife to repel a life-threatening strangulation was reasonable and proportionate.
+•	Lack of Sufficient Provocation: Cristina gave no provocation whatsoever. The altercation was initiated entirely by the husband when he arrived home drunk and demanded her personal jewelry.
+Because all three requisites were clearly established by credible evidence, Cristina incurred no criminal liability.
+
+Ratio Decidendi:
+Was there unlawful aggression when Christina killed her husband? YES
+
+
+Dispositive:
+The decision of the Court of Appeals was reversed and set aside. Cristina Samson was acquitted of the crime of Parricide on the ground of complete self-defense, and her immediate release from detention was ordered.
+Question:
+May there still be unlawful aggression even if the attacker was disarmed? Explain your answer in the light of the case of Cristina Samson.
+Answer:
+Yes. The Supreme Court has repeatedly held that disarming an attacker does not automatically terminate unlawful aggression if the imminent peril to the defender’s life or limb continues.
+
+General Rule vs. The Exception
+As a general rule, once an attacker has been disarmed, unlawful aggression ceases. When the aggression ceases, the person defending has no longer any legal right to kill or wound the former aggressor.
+However, the jurisprudence recognizes a vital exception: unlawful aggression persists if, despite being disarmed, the attacker continues the assault or remains capable of inflicting fatal or serious bodily harm due to superior physical strength, proximity, or persistent violent conduct.
+Application in People v. Cristina Samson
+In People v. Cristina Samson (G.R. No. 214883, September 2, 2015), the prosecution and the lower courts argued that Cristina was not in imminent danger because she held the knife, effectively framing the deceased husband as unarmed at the precise moment of the stabbing.
+The Supreme Court rejected this formalistic view and ruled that unlawful aggression was ongoing based on the following grounds:
+1. Peril to Life Without a Weapon
+Unlawful aggression does not require that the aggressor be wielding a weapon. In Samson, the husband was not using a knife or gun; he was using his bare hands and body weight:
+•	He had pinned Cristina down, pressed his knee against her chest, and was actively strangling her neck.
+•	He explicitly shouted his lethal intent: "Patayin na kita rito" ("I will kill you right here").
+•	Strangulation is inherently lethal. The imminent danger to her life did not depend on a weapon—it came directly from the asphyxiation caused by her husband's physical assault.
+2. Physical Disparity and Incapacity to Escape
+Even if an attacker is weaponless or stripped of a weapon, unlawful aggression persists if the victim remains helpless and pinned down under the assailant's superior physical strength. Cristina had no path of retreat and was rapidly losing consciousness from lack of air.
+3. Continuous and Unbroken Assault
+The Court underscored that for unlawful aggression to cease, the danger must have been completely neutralized. In Samson:
+•	The aggression had not halted or paused.
+•	The husband did not desist or retreat when Cristina grabbed the knife.
+•	She did not pursue him after he stopped; she delivered a single defensive thrust while still being pinned and choked, and as soon as his grip loosened, she immediately fled to seek outside help.
+Thus, as demonstrated in People v. Samson, whether unlawful aggression persists is determined by the actuality and continuity of the peril, not merely by whether the attacker possesses an external weapon.
+
