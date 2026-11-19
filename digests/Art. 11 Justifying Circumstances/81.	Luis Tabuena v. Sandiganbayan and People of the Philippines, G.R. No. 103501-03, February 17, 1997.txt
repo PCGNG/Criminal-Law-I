@@ -1,4 +1,4 @@
-Facts:
+### Fact
 In January 1986, during the final months of the Marcos administration, President Ferdinand E. Marcos issued a direct verbal order, followed by a written presidential memorandum, to Luis Tabuena, the General Manager of the Manila International Airport Authority (MIAA). Tabuena was instructed to immediately withdraw and deliver ₱55 million from MIAA funds to the Office of the President to liquidate outstanding obligations incurred by the Philippine National Construction Corporation (PNCC).
 To execute this directive:
 1.	Tabuena instructed Adolfo Peralta, MIAA Acting Finance Services Manager, to prepare the disbursements.
@@ -8,16 +8,18 @@ To execute this directive:
 Following the 1986 EDSA Revolution, state auditors discovered that the ₱55 million withdrawal bypassed standard government accounting and auditing procedures under the Government Auditing Code (P.D. 1445).
 The Ombudsman charged Tabuena and Peralta before the Sandiganbayan with three counts of Malversation of Public Funds under Article 217 of the Revised Penal Code (RPC).
 The Sandiganbayan convicted both accused of malversation, holding that the disbursement completely ignored standard COA regulations, lacked proof of actual payment to PNCC, and that Tabuena could not seek refuge under presidential orders. Tabuena and Peralta appealed to the Supreme Court.
-Issue: 
+
+### Issue 
 Are the accused entitled to the justifying circumstance of acting in obedience to an order issued by a superior for a lawful purpose (Article 11, paragraph 6 of the RPC), or the defense of good faith (mistake of fact)?
-Ruling: 
+
+### Ruling 
 Obedience to Superior Orders and Mistake of Fact
 The Supreme Court ruled that Tabuena acted under the justifying circumstance of obedience to an order issued by a superior for a lawful purpose (Article 11, paragraph 6, RPC), coupled with the doctrine of mistake of fact (ignorantia facti excusat under People v. Oanis and United States v. Ah Chong):
 •	Order from a Superior: The directive came directly from President Marcos, who exercised ultimate executive control and supervision over all government agencies, including MIAA.
 •	Apparent Lawful Purpose: Marcos directed that the funds be used to pay government obligations to PNCC. Under the legal framework at the time (specifically P.D. 1953 and related presidential issuances), the President exercised broad powers to reallocate public funds and direct government corporate revenues toward national infrastructure obligations.
 •	Good Faith Reliance: Tabuena acted under the honest belief that he was duty-bound to execute the command of the Chief Executive. Even if the underlying presidential order was irregular or legally flawed, Tabuena complied in good faith, unaware of any unlawful scheme. Disobedience to a direct presidential directive carried significant professional and personal peril at the time.
 
-Ratio Decidendi:
+### Ratio 
 
 Dispositive:
 The Supreme Court REVERSED the Sandiganbayan decision and ACQUITTED Luis Tabuena and Adolfo Peralta of all charges.
