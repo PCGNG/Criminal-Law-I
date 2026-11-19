@@ -1,4 +1,4 @@
-Facts:
+### Fact
 On September 6, 1998, Mayor Francisco Adalim of Taft, Eastern Samar, was arrested by virtue of a warrant of arrest in Criminal Case No. 10963 for murder (a non-bailable offense) and committed to the Eastern Samar Provincial Jail. 
 
 Claiming security risks—specifically that political enemies and hostile inmates were present in the jail—Adalim, through his sister (District Public Attorney Atty. Juliana Adalim-White), requested protective custody. Acting upon this request, Eastern Samar Governor Ruperto A. Ambil, Jr. ordered the Provincial Jail Warden, Alexandrino R. Apelado, Sr., to transfer Adalim from the provincial jail to the Governor’s private residence. Warden Apelado complied without demanding a court order. 
@@ -9,11 +9,12 @@ The Office of the Ombudsman charged Ambil and Apelado before the Sandiganbayan w
 The Sandiganbayan convicted both accused. 
 
 Specifically, petitioner Ambil, Jr. invokes the justifying circumstance of fulfillment of duty or lawful exercise of right or office. Under paragraph 5, Article 11 of the RPC, any person who acts in the fulfillment of a duty or in the lawful exercise of a right or office does not incur any criminal liability.
-Issue: 
 
-Ruling: 
+### Issue 
 
-Ratio Decidendi:
+### Ruling 
+
+### Ratio
 (AMBIL) In order for this justifying circumstance to apply, two requisites must be satisfied: 
 (1) the accused acted in the performance of a duty or in the lawful exercise of a right or office; and 
 (2) the injury caused or the offense committed be the necessary consequence of the due performance of duty or the lawful exercise of such right or office. 
