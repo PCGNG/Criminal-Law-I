@@ -1,0 +1,31 @@
+Facts:
+On the evening of January 17, 2004, in Barangay Balagtas, Batangas City, the victim, Danilo Candelaria, was outside near a neighborhood store chatting with companions. Appellant Arturo Punzalan, Jr., armed with an unlicensed .38 caliber revolver, approached the group from behind. Without any verbal warning or prior altercation, Punzalan pointed the gun at the back of Danilo's head and pulled the trigger.
+
+The first shot hit Danilo, causing him to slump forward to the ground. As Danilo lay facedown, Punzalan fired a second shot into his back. The victim was rushed to the hospital, where he was pronounced dead on arrival due to severe cranial and chest injuries resulting from the gunshot wounds.
+Punzalan surrendered to the authorities and claimed self-defense. He alleged that Danilo had harbored an old grudge against him. According to Punzalan, when he encountered Danilo that evening, Danilo hurled curses, drew a knife, and lunged at him, forcing Punzalan to pull his revolver and shoot in self-defense.
+
+The Regional Trial Court (RTC) of Batangas City rejected Punzalan's claim of self-defense, finding that no knife was ever recovered or presented, and that the physical evidence directly contradicted his story. The RTC convicted Punzalan of Murder qualified by treachery and sentenced him to reclusion perpetua. The Court of Appeals (CA) affirmed the conviction.
+
+Issue: 
+Whether accused-appellant Arturo Punzalan, Jr. proved by clear and convincing evidence that he acted in legitimate self-defense under Article 11, paragraph 1 of the Revised Penal Code.
+Ruling: 
+1. No. The appellant failed to prove the primary and indispensable requisite of unlawful aggression.
+When an accused invokes self-defense, the burden shifts to him to prove all its elements by clear and convincing evidence: (a) unlawful aggression on the part of the victim; (b) reasonable necessity of the means employed to prevent or repel it; and (c) lack of sufficient provocation on the part of the person defending himself.
+•	Absence of Unlawful Aggression: Unlawful aggression is a condition sine qua non. Punzalan’s claim that Danilo lunged at him with a knife was entirely uncorroborated, self-serving, and discredited by the prosecution's eyewitnesses, who testified that Danilo was unarmed and talking peacefully when attacked.
+•	Physical and Forensic Evidence Contradicts Self-Defense: The autopsy established that the entry wounds were located at the back of the head and the back of the torso. A victim shot from behind—especially while lying face down on the ground—cannot be said to have been actively charging or launching an unlawful aggression against the shooter.
+•	Without unlawful aggression, self-defense (complete or incomplete) cannot be legally sustained.
+
+Ratio Decidendi:
+
+Dispositive:
+The decision of the Court of Appeals affirming the conviction of Arturo Punzalan, Jr. y Candelaria for Murder
+Question:
+Did the Supreme Court appreciate the defense of avoidance of a greater evil in favor of the accused in these cases? Explain.
+
+Answer:
+Under Article 11(4) of the RPC, an act does not incur criminal liability when committed by:
+"Any person who, in order to avoid an evil or injury, does not act which causes damage to another, provided that the following requisites are present:
+First. That the evil sought to be avoided actually exists;
+Second. That the injury feared be greater than that done to avoid it;
+Third. That there be no other practical and less harmful means of preventing it."
+
