@@ -1,5 +1,4 @@
-
-Facts:
+### Facts
 Petitioner Vicky Ty’s mother, Chua Bio, was admitted to the Manila Doctors Hospital. When hospital bills mounted to around ₱1,000,000.00, the hospital refused to discharge Chua Bio unless the medical expenses were settled or secured.
 
 To secure her mother’s release, Ty signed and delivered seven (7) postdated checks totaling ₱210,000.00 to the hospital's collection officer, payable to Manila Doctors Hospital. When the checks matured, they were presented for payment and subsequently dishonored by the drawee bank due to "Account Closed." Despite written demands, Ty failed to make good the value of the dishonored checks.
@@ -10,9 +9,10 @@ Ty admitted issuing the checks knowing that her account was already closed or ha
 2.	Exempting Circumstances (Article 12, pars. 5 & 6, RPC): She acted under the impulse of an irresistible force or the impulse of an uncontrollable fear of an equal or greater injury, given the hospital's refusal to release her mother.
 The RTC rejected these defenses and convicted Ty of seven counts of B.P. 22. The Court of Appeals (CA) affirmed the conviction.
 
-Issue: 
+### Issue
 Whether petitioner Vicky Ty may validly invoke the justifying circumstance of avoidance of a greater evil or injury under Article 11, paragraph 4 of the Revised Penal Code to exculpate herself from liability under B.P. Blg. 22.
-Ruling: 
+
+### Ruling
 1. No. The justifying circumstance of avoidance of a greater evil does not apply.
 Under Article 11, paragraph 4 of the RPC, the three requisite conditions are:
 •	That the evil sought to be avoided actually exists;
@@ -23,7 +23,7 @@ The Court ruled that none of these requisites were satisfied:
 •	The Evils Are Not of the Proper Proportions: An economic obligation or civil liability arising from hospital treatment does not justify the issuance of unfunded checks, which undermines the integrity of the banking system and public confidence in commercial paper.
 •	Presence of Other Practical Means: Ty had legitimate legal avenues to settle the debt (such as executing promissory notes, securing guarantors, or executing mortgages), rather than committing a crime mala prohibita.
 
-Ratio Decidendi:
+### Ratio
 
 Dispositive:
 
