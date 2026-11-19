@@ -1,0 +1,43 @@
+Facts:
+On the evening of February 7, 1990, during a wedding dance party in Barangay Sawang, Uson, Masbate, the victim, Manuel Verano, danced with the wife of Sergio Patotoy. Irked by this, Sergio elbowed and boxed Manuel after the dance. A fistfight ensued between the two men, which bystanders managed to break up. Sergio then left and returned armed with a bolo. 
+
+Meanwhile, Sergio’s son, Bonifacio Patotoy, learned about the fight. Upon meeting at the plaza, Sergio told Bonifacio that Manuel had mauled him and incited him to kill Manuel. Bonifacio drew a fan knife (balisong), rushed towards Manuel’s house around one hundred meters away, and confronted Manuel as he and his wife were about to ascend their stairs. Bonifacio asked, "What did you do to my father?" and suddenly stabbed Manuel with an upward thrust to the chest. As the dying victim staggered toward the fence, Sergio—who had followed—also stabbed Manuel in the back. Bonifacio subsequently surrendered to a barangay captain and turned over the knife. 
+
+An Information for Murder was filed against both Sergio and Bonifacio Patotoy. Sergio remained at large, so trial proceeded only against Bonifacio. Bonifacio invoked self-defense, claiming that when he confronted Manuel, Manuel lunged at him and appeared to draw "something" from his waist, forcing him to draw his knife and deliver the defensive thrusts. 
+The Regional Trial Court (RTC) of Masbate, Branch 44, rejected the plea of self-defense, found treachery present, convicted Bonifacio of Murder, and sentenced him to reclusion perpetua. 
+
+Issue: 
+1.	Whether accused-appellant Bonifacio Patotoy established by clear and convincing evidence that he acted in legitimate self-defense under Article 11, paragraph 1 of the Revised Penal Code. 
+2.	Whether the killing was attended by qualifying circumstances (treachery, evident premeditation, or abuse of superior strength) to constitute Murder. 
+
+Ruling: 
+1. No. The accused failed to establish unlawful aggression on the part of the victim. 
+When an accused invokes self-defense, he admits having caused the victim's death, shifting the burden upon him to prove the justifying circumstance by clear and convincing evidence. 
+•	Definition of Unlawful Aggression: Unlawful aggression presupposes an actual, sudden, and unexpected attack, or an imminent danger thereof, and not merely a threatening or intimidating attitude. There must be real, veritable danger to the life or personal safety of the person claiming self-defense. 
+•	No Real Peril: The victim was unarmed, and no weapon was ever found on or near him. Bonifacio's claim that the victim "lunged" and seemed to reach for "something" in his waist amounted, at most, to an intimidating stance or perceived threat, not an actual offensive strike. Because Bonifacio sought out Manuel at the latter's own home, armed and intent on confronting him about the earlier fight with his father, Bonifacio was the aggressor. Without unlawful aggression, self-defense cannot be appreciated, complete or incomplete. 
+2. The killing was qualified by abuse of superior strength, but treachery and evident premeditation were absent. 
+•	No Treachery: Treachery could not be appreciated because the violent confrontation at the house was preceded by an initial fistfight at the dance plaza. The prior altercation forewarned the victim of impending hostility. 
+•	No Evident Premeditation: The stabbing was a spontaneous and emotional reaction to learning that his father had been beaten; there was no sufficient lapse of time for cool reflection and meditation. 
+•	Abuse of Superior Strength Qualified the Crime: The circumstance of abuse of superior strength is present when there is gross physical disparity between the protagonists, or when the force used by the aggressor is completely out of proportion to the means of defense available to the victim. Here, two assailants armed with bladed weapons attacked an unarmed victim outside his home, taking combined advantage of their arms and numbers to overpower him. 
+
+Ratio Decidendi:
+
+Dispositive:
+The Supreme Court affirmed the conviction of Bonifacio Patotoy for Murder qualified by abuse of superior strength.
+Question:
+Why are the accused in these cases not entitled to self-defense?
+Answer:
+1. Absence of Unlawful Aggression
+Under Article 11, paragraph 1 of the Revised Penal Code (RPC), self-defense requires that the victim initiate an actual, sudden, and unexpected physical attack or present an imminent danger thereof. The Court ruled that no such aggression existed:
+•	The Victim Was Unarmed: The victim, Manuel Verano, had just returned home from a dance and was about to go up the stairs of his house with his wife. He carried no weapon, and no knife or firearm was recovered from him or anywhere near the crime scene.
+•	Threatening Attitude Is Not Unlawful Aggression: Bonifacio claimed that when he asked Manuel what he did to his father, Manuel lunged forward and reached for "something" in his waist. The Supreme Court emphasized that an intimidating stance, a mere perceived threat, or an alleged motion toward the waist does not constitute the actual or imminent physical peril demanded by law. Unlawful aggression must be real and positive, not merely speculative or imaginary.
+2. The Accused Was the Initial Aggressor
+Self-defense cannot be invoked by an individual who actively initiates the confrontation and hunts down the victim:
+•	After learning about the fistfight between his father and Manuel at the dance plaza, Bonifacio armed himself with a fan knife (balisong), ran approximately 100 meters to Manuel’s house, and confronted him.
+•	Because Bonifacio tracked down an unsuspecting victim outside his own dwelling with the express intent of seeking retribution for his father, he was the unlawful aggressor from the inception of the encounter.
+3. Lack of Reasonable Necessity and Disproportionate Force
+Even assuming arguendo that a tense confrontation took place, the force used failed the test of rational equivalence:
+•	Bonifacio immediately struck the unarmed victim with an upward, lethal thrust to the chest using a bladed weapon.
+•	Sergio Patotoy followed up by stabbing the staggering victim in the back with a bolo.
+•	Inflicting multiple deep, fatal wounds with bladed weapons against an unarmed man who was attempting to enter his home negated any claim of a measured, defensive reaction.
+
