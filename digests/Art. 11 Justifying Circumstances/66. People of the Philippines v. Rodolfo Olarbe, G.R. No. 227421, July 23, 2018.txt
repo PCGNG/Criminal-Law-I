@@ -1,0 +1,78 @@
+
+Facts:
+Around midnight on May 7, 2006, in Sitio Ilaya, Barangay San Roque, Antipolo City, Rodolfo Olarbe and his common-law wife, Juliet Arca, were asleep in their small house. They were awakened by loud knocking and shouts from the victim, Celestino Arca, Juliet’s cousin. Celestino, a known neighborhood tough guy (berdugo) with a reputation for shooting people, hacking cattle, and firing guns indiscriminately, was armed with a 12-gauge shotgun (sumpak) and a bolo.
+
+Celestino kicked the door open, aimed the shotgun at Rodolfo's head, and cursed at him. A physical struggle for the shotgun ensued between Rodolfo and Celestino. Juliet tried to intervene, but Celestino reached for his bolo and hacked Juliet, striking her on the head.
+
+Rodolfo managed to wrestle the shotgun away from Celestino and fired at him, hitting him. Despite being shot, Celestino continued to fight, grab the bolo, and resist. Rodolfo seized the bolo and struck Celestino multiple times until he stopped moving. Immediately after, Rodolfo voluntarily surrendered to the barangay authorities and turned over the weapons.
+
+The Regional Trial Court (RTC) convicted Rodolfo of Murder, holding that although unlawful aggression originated from Celestino, it ceased once Rodolfo disarmed him of the shotgun. The trial court characterized the continued hacking as excessive and vengeful. The Court of Appeals (CA) affirmed the conviction.
+
+Issue: 
+Whether accused-appellant Rodolfo Olarbe successfully established the justifying circumstances of self-defense and defense of a stranger/relative under Article 11 of the Revised Penal Code.
+Ruling: 
+Yes. The Supreme Court reversed the conviction and acquitted Rodolfo Olarbe, holding that all requisites of self-defense and defense of a relative/stranger were present.
+1.	Unlawful Aggression Did Not Cease Upon Disarming:
+The Court rejected the mechanical view of the lower courts that unlawful aggression automatically terminates the split second a defender gains possession of the attacker’s primary weapon.
+o	Celestino was armed with two deadly weapons: a shotgun and a bolo.
+o	Celestino had already proven his lethal intent by shooting at Rodolfo and hacking Juliet on the head.
+o	Even after being disarmed of the shotgun, Celestino remained violent, unrelenting, and dangerous in close-quarter combat inside a dark, confined room. The imminent danger to the lives of Rodolfo and Juliet persisted until Celestino was completely immobilized.
+2.	Reasonable Necessity of the Means Employed ("Stand Ground When in the Right"):
+The requirement of reasonable necessity is measured by rational equivalence, not mathematical precision. A defender in the throes of mortal terror cannot be expected to calibrate the force of his blows with cool detachment:
+"The person defending himself cannot be expected to think clearly and balance the necessity of the means with cool precision. His choice of means must often be made on the spur of the moment, under the influence of extreme fear and agitation."
+The Court explicitly reaffirmed the "Stand Ground When in the Right" doctrine:
+o	Under Philippine law, a person attacked unlawfully in his own home is not required to retreat.
+o	One who is where he has an absolute right to be is entitled to stand his ground and repel force with force until the danger is fully neutralized.
+3.	Lack of Sufficient Provocation:
+Neither Rodolfo nor Juliet gave any provocation. They were peacefully sleeping inside their home when Celestino forcibly broke down their door.
+
+Ratio Decidendi:
+
+Dispositive:
+The decision of the Court of Appeals was reversed and set aside. Rodolfo Olarbe y Balihon was acquitted of Murder on the ground of complete self-defense and defense of a relative, and his immediate release from the New Bilibid Prison was ordered.
+Question:
+1.	Was Rodolfo Olarbe able to establish that he acted in self-defense? Explain comprehensively.
+Yes. The Supreme Court ruled that Rodolfo Olarbe fully established all three essential elements of self-defense (as well as defense of a relative) under Article 11 of the Revised Penal Code.
+
+1. First Requisite: Unlawful Aggression
+Unlawful aggression is the sine qua non condition of self-defense. The trial court and the Court of Appeals erroneously held that unlawful aggression ceased the moment Olarbe disarmed Celestino of the shotgun (sumpak). The Supreme Court corrected this view:
+•	Dual Armament and Ongoing Assault: Celestino was armed with both a 12-gauge shotgun and a bolo. He had already broken into Olarbe’s home, aimed the shotgun at his head, and hacked Olarbe’s common-law wife, Juliet, on the head when she tried to intervene.
+•	Peril Remained Imminent: Disarming an assailant of one weapon does not mechanically end unlawful aggression when the aggressor possesses another deadly weapon, retains superior physical aggression, and refuses to desist. Celestino continued to struggle violently in a dark, confined room.
+•	Continuous Threat: The lethal peril to Olarbe and Juliet was active and unbroken from the moment Celestino breached their home until he was finally subdued and immobilized.
+2. Second Requisite: Reasonable Necessity of the Means Employed
+The lower courts characterized Olarbe’s acts—shooting Celestino with the shotgun and hacking him multiple times with the bolo—as excessive and vengeful. The Supreme Court rejected that strict mathematical approach and applied settled legal standards:
+•	Rational Equivalence, Not Mathematical Precision: The law does not demand that a person fighting for his life weigh the exact force or count the number of blows with calm deliberation. The choice of weapon and intensity of resistance must be evaluated through the lens of a defender experiencing intense fear and mortal panic.
+•	Proportionate Under Extreme Circumstances: Olarbe was awakened at midnight inside his own home by a known neighborhood violent offender (berdugo). Confronted by a shotgun and a bolo, wrestling those weapons away and using them against the attacker was a rational response to survive.
+•	"Stand Ground When in the Right": The Court reaffirmed that Philippine law does not impose a duty to retreat upon a person unlawfully attacked inside their own dwelling. A person in their own home is entitled to stand their ground and repel force with force until the danger is fully neutralized.
+3. Third Requisite: Lack of Sufficient Provocation
+Neither Olarbe nor Juliet provoked the encounter:
+•	They were fast asleep inside their home around midnight.
+•	Celestino initiated the entire incident by shouting threats, kicking open the door, and launching an unprovoked armed assault.
+Summary of the Supreme Court's Finding
+Because the unlawful aggression was continuous, the defensive force employed was rationally proportional under mortal terror, and there was zero provocation by the occupants of the home, the Supreme Court held that Olarbe acted in legitimate self-defense and defense of a relative, ordering his full acquittal.
+
+2.	How did the Supreme Court rule on Rodolfo Olarbe’s invocation that he acted in defense of a stranger?
+In People v. Olarbe (G.R. No. 227421, July 23, 2018), the Supreme Court sustained Rodolfo Olarbe’s invocation of defense of a stranger under Article 11, paragraph 3 of the Revised Penal Code (RPC), holding that his actions in protecting his common-law wife, Juliet Arca, were fully justified.
+
+1. Classification of a Common-Law Spouse as a "Stranger"
+Under Article 11(2) of the RPC, defense of a relative strictly covers:
+•	Spouse (legitimate);
+•	Ascendants, descendants, or legitimate, natural, or adopted brothers or sisters; and
+•	Relatives by affinity in the same degrees and by consanguinity within the fourth civil degree.
+Because Rodolfo and Juliet were living together as common-law spouses without the benefit of marriage, Juliet did not qualify as a legal "spouse" or a relative within the statutory degrees of Article 11(2). Consequently, in criminal law, an act committed to defend a common-law partner is properly characterized and evaluated as defense of a stranger under Article 11(3).
+2. Concurrence of All Three Requisites Under Article 11(3)
+The Court held that Olarbe established all three essential elements required for complete defense of a stranger:
+First Requisite: Unlawful Aggression
+The Court found that Juliet was the victim of immediate and actual unlawful aggression. When she attempted to intervene in the struggle between Rodolfo and Celestino, Celestino drew his bolo and hacked her on the head. This established lethal, unprovoked violence directed at her life.
+Second Requisite: Reasonable Necessity of the Means Employed
+Celestino was armed with both a 12-gauge shotgun (sumpak) and a bolo. Having already struck Juliet on the head with the bolo, he remained armed, aggressive, and a mortal danger to both occupants within the confined space of their home. Olarbe's act of wresting the weapons away and neutralizing Celestino was a rationally necessary and proportional response to prevent further fatal strikes against Juliet and himself.
+Third Requisite: The Defender Was Not Induced by Revenge, Resentment, or Other Evil Motive
+Unlike defense of a relative (which requires that the person defended gave no provocation, or that the defender had no part therein), defense of a stranger requires that the person defending be not induced by revenge, resentment, or other evil motive.
+The Supreme Court ruled that Olarbe had no evil motive, grudge, or premeditated ill will against Celestino:
+•	Olarbe was fast asleep when Celestino violently kicked the door open.
+•	His reaction was an instinctive impulse to protect his own life and shield Juliet from being hacked further.
+•	Olarbe’s immediate surrender to the authorities, coupled with the peaceful surrender of the weapons, negated any notion of vengeance or malice.
+The Court therefore ruled that Olarbe was completely exempt from criminal liability not only for defending himself, but also for legitimately acting in defense of Juliet as a stranger in the contemplation of the penal law.
+
+Answer:
+
