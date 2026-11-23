@@ -1,1 +1,131 @@
+**People of the Philippines v. Elpidio Mercado y Hernando and Aurelio Acebron y Adora**
+G.R. No. 116239, November 29, 2000 (En Banc, Per Curiam)
 
+**Topic:** Complex Crimes (Special Complex Crime of Kidnapping with Murder, Art. 267, RPC, as amended by R.A. 7659)
+
+---
+
+## FACTS
+
+Mercado, a police officer, suspected Richard (17 years old) and Florencio of breaking into his video store and stealing money. Mercado and Eric picked up Richard and Florencio in Mercado's car. Mercado poked a gun at Richard, who said he would go along so long as he was not hurt. Mercado drove them to an apartment in another town that he shared with Acebron, also a police officer.
+
+At the apartment, Mercado slapped and boxed Richard and told him to undress. Mercado called Acebron downstairs and told him, "Pare, may regalo ako sa iyo, may papatayin tayo" (Buddy, I have a present for you, we are going to kill someone). Acebron boxed Richard in the stomach. Mercado's aide tied Richard's hands and feet and blindfolded and gagged him. Mercado asked Acebron to get a bolo. Acebron and the aide loaded Richard into the luggage compartment of the car. Mercado and Acebron drove off together with Richard.
+
+They returned two hours later without Richard, and Acebron washed blood off the bolo. When Florencio and Eric asked about Richard, Mercado answered, "Wala na. Pinatahimik ko na" (Gone. I have silenced him) and "Wala na, pinagpahinga ko na" (He is gone. I have laid him to rest). At a beerhouse, the two accused bragged that Richard was their 25th and 17th victim, respectively. They warned the two boys not to tell anyone or they would be killed. Richard's body was found at the boundary of Rizal and Laguna. His hands and feet were still tied and his mouth was gagged. He died of intracranial hemorrhage resulting from a skull fracture.
+
+Nobody witnessed the actual killing. Mercado and Acebron invoked alibi, relying on the police logbook, which showed that they were on duty in the other town. They also claimed that the two boys had testified against them because of a grudge. The RTC convicted both of kidnapping with murder and sentenced them to death.
+
+---
+
+## ISSUE
+
+Did the trial court correctly convict Mercado and Acebron of the special complex crime of kidnapping with murder under Art. 267, RPC, as amended by R.A. 7659, even though no one witnessed the killing?
+
+---
+
+## RULING
+
+**The SC AFFIRMED the conviction for kidnapping with murder with modification of the civil liability.**
+
+### Q. Why did the SC hold that the trial court correctly convicted the accused of the special complex crime of kidnapping with murder?
+
+**(a) The kidnapping was established.**
+
+> "Accused-appellants are guilty of kidnapping because, by placing the victim in an enclosed place consisting of the luggage compartment of the car, they detained or otherwise deprived him of his liberty. There was also actual restraint of the victim's liberty when he was taken at gunpoint from Pasig to accused-appellants' apartment in Tanay. The evidence proves that Mercado initiated the kidnapping of the victim. Acebron's subsequent loading of the victim into the car's compartment after tying the latter shows community of criminal purpose with Mercado. However, although both were police officers, they acted in this case in their private capacities."
+
+**(b) The killing was proven by circumstantial evidence, as no one saw it.**
+
+> "It is true that no eyewitnesses were presented by the prosecution o [sic] testify on the actual killing of Richard Buaman [sic]. But it is settled that a conviction may rest on purely circumstantial evidence, provided the following requisites concur: (a) there is more than one circumstance; (b) the facts from which the inferences are derived are proven; and (c) the combination of all the circumstances is such as to produce a conviction beyond reasonable doubt."
+
+Citing *People v. Fulinara*, 317 Phil. 31, 51:
+
+> "While the positive identification made by the key witness does not refer to the actual killing of the deceased, the circumstantial evidence on record constitutes an unbroken chain which leads to a fair and reasonable conclusion that accused-appellants are indeed guilty of the offense charged. It is not only by direct evidence upon which guilt may be predicated. The accused may also be convicted on circumstantial evidence."
+
+The circumstances the Court enumerated included:
+
+> "(1) Mercado picked up Richard on the night of February 9, 1994 near his (Mercado's) house in Pasig and, poking a gun at him, forced him to ride with him in his car;
+> (2) Mercado took Richard to his apartment in Tanay;
+> ...
+> (7) Richard was gagged and his limbs were bound;
+> (8) Acebron and Jeff put Richard into the luggage compartment of Mercado's car;
+> (9) Mercado asked Acebron to get a bolo before they drove away;
+> (10) Accused-appellants rode together in the car with Richard in its compartment;
+> (11) After two hours, accused-appellants returned to the apartment without Richard;
+> (12) When Florencio asked Mercado about Richard's whereabouts, Richard replied, 'Wala na, pinatahimik ko na.' ('Gone, I already silenced him').
+> (13) When Eric asked Mercado the same question, the latter replied, 'Wala na, pinagpahinga ko na.' ('He is gone. I have laid him to rest').
+> (14) Eric saw Acebron wiping off bloodstains on the bolo;
+> (15) At the disco bar, accused-appellants bragged about the fact that Richard was the 25th person and the 17th person Mercado and Acebron had killed, respectively;
+> (16) Richard's body was found in a morgue on February 12, 1994;
+> (17) The victim's body showed signs that his hands and feet had been tied and his mouth stuffed with a towel; and
+> (18) Mercado warned Eric and Florencio not to talk to anyone regarding the incident."
+
+> "These circumstances constitute an unbroken chain clearly pointing to accused-appellants' culpability to the crime of kidnapping with murder."
+
+**(c) Both accused acted in conspiracy.**
+
+> "Conspiracy exists when two or more persons come to an agreement concerning the commission of a felony and decide to commit it. To establish the existence of conspiracy, direct proof is not essential, as it may be shown by the conduct of the accused before, during, and after the commission of the crime. It may be proven by facts and circumstances from which may logically be inferred the existence of a common design among the accused to commit the offense charged, or it may be deduced from the mode and manner by which the offense was perpetrated."
+
+> "In this case, the concatenation of facts and circumstances establish beyond a shadow of a doubt that accused-appellants conspired to kill Richard, to wit: (1) upon reaching the Tanay apartment, which he shared with Acebron, Mercado went upstairs and called Acebron; (2) as they came downstairs, Mercado told appellant Acebron that he had a present for him and that they were going to kill someone, saying 'Pare, may regalo ako sa iyo, may papatayin tayo'; (3) Mercado and Acebron slapped and boxed Richard; (4) when told by Mercado to get a bolo, Acebron did so; (5) Acebron helped in loading Richard into the car's luggage compartment; (6) Mercado and Acebron left the apartment together in Mercado's car with Richard in the car's luggage compartment; (7) after two hours, the two came back to the apartment without Richard; (8) when Eric and Florencio asked them where Richard was, they answered that Richard had been 'silenced' or had been 'laid to rest'; and (9) Acebron washed a bloodstained bolo."
+
+**(d) The law applied: Art. 267, RPC, as amended by R.A. 7659. The Court noted that the crime was committed after the amendment took effect.**
+
+> "The crime was committed by accused-appellants on February 9, 1994, after the amendment of the Revised Penal Code on December 31, 1993 by Republic Act No. 7659. Article 267 of the Revised Penal Code, as thus amended, provides:
+>
+> 'Kidnapping and serious illegal detention. - Any private individual who shall kidnap or detain another, or in any other manner deprive him of his liberty, shall suffer the penalty of reclusion perpetua to death:
+>
+> 1. If the kidnapping or detention shall have lasted more than three days.
+> 2. If it shall have been committed simulating public authority.
+> 3. If any serious physical injuries shall have been inflicted upon the person kidnapped or detained; or if threats to kill him shall have been made
+> 4. If the person kidnapped or detained shall be a minor, except when the accused is any of the parents, female or a public officer;
+>
+> 'The penalty shall be death where the kidnapping or detention was committed for the purpose of extorting ransom from the victim or any other person, even if none of the circumstances above-mentioned were present in the commission of the offense.
+>
+> 'When the victim is killed or dies as a conseguence [sic] of the detention or is raped, or is subjected to torture or dehumanizing acts, the maximum penalty shall be imposed.'"
+
+**(e) The rule on kidnapping with killing: a special complex crime, not complexed under Art. 48 and not separate crimes**
+
+The Court cited *People v. Ramos*, 297 SCRA 618:
+
+> "x x x This amendment introduced in our criminal statutes the concept of 'special complex crime' of kidnapping with murder or homicide. It effectively eliminated the distinction drawn by the courts between those cases where the killing of the kidnapped victim was purposely sought by the accused, and those where the killing of the victim was not deliberately resorted to but was merely an afterthought. Consequently, the rule now is: Where the person kidnapped is killed in the course of the detention, regardless of whether the killing was purposely sought or was merely an afterthought, the kidnapping and murder or homicide can no longer be complexed under Art. 48, nor be treated as separate crimes, but shall be punished as a special complex crime under the last paragraph of Art. 267, as amended by RA No. 7659."
+
+> "Thus, in the case at bar, the trial court correctly found accused-appellants guilty of kidnapping with murder and sentenced each of them to death."
+
+**(f) The killing need not be qualified as murder, but here it was.**
+
+> "It does not matter whether there are circumstances qualifying the killing as murder. Under the last paragraph of Article 267, it is sufficient that the victim is 'killed or dies as a consequence of the detention.' In any event, the killing of Richard Buama as a consequence of his kidnapping was committed under circumstances which make it murder. His limbs were tied and his mouth gagged before he was taken away. When his body was discovered, his limbs were still tied and his mouth gagged, indicating that treachery attended the killing of Richard Buama."
+
+**(g) The defense of alibi failed.**
+
+> "An accused who invokes the defense of alibi must prove (a) his presence at another place at the time of the perpetration of the crime and (b) the physical impossibility for him to be at the scene of the crime."
+
+> "In this case, even granting that accused-appellants were in Tanay at the time they were supposed to have taken the two prosecution witnesses and the victim to Pasig, it was still not physically impossible for them to be in that place. Pasig is only an hour's drive from Tanay and when traffic is light, as it would generally be late in the evening, the distance could be negotiated in less time."
+
+> "Their positive identification by the witnesses prevails over their alibi and denial."
+
+**(h) The credibility of the prosecution witnesses**
+
+> "Inconsistencies in the testimonies of witnesses which refer only to minor details and collateral matters do not affect the veracity and weight of their testimonies where there is consistency in relating the principal occurrence and positive identification of the assailants."
+
+---
+
+## FALLO
+
+> "WHEREFORE, the decision of the Regional Trial Court, Branch 156, Pasig City, finding accused-appellants Elpidio Mercado y Hernando and Aurelio Acebron y Adora guilty beyond reasonable doubt of the crime of kidnapping with murder and imposing upon each of them the DEATH PENALTY, is AFFIRMED with the MODIFICATIONS that the awards of P50,000.00 as civil indemnity and P100,000.00 as moral and exemplary damages are DELETED and accused-appellants are ORDERED to pay jointly and severally to Lourdes Vergara the amount of P3,510.00 as reimbursement for the expenses she incurred for the victim's wake and funeral.
+>
+> In accordance with Section 25 of Republic Act No. 7659, amending Article 83 of the Revised Penal Code, upon the finality of this decision, let the records of this case be forthwith forwarded to the Office of the President for his use in case he decides to exercise his prerogative of mercy.
+>
+> SO ORDERED."
+
+*The death penalty was imposed in this decision, which predates R.A. 9346.*
+
+---
+
+## KEY DOCTRINE FOR REVIEW
+
+- **Rule:** if the kidnapped person is killed in the course of the detention, the crime is the **special complex crime** of kidnapping with murder or homicide under the last paragraph of Art. 267, as amended by R.A. 7659. It is neither complexed under Art. 48 nor treated as separate crimes.
+- **Intent to kill is immaterial.** The killing may be "purposely sought" or "merely an afterthought."
+- **Murder or homicide:** it is enough that the victim "is killed or dies as a consequence of the detention," whether or not the killing is qualified to murder. Here, treachery was inferred from the victim's tied limbs and gagged mouth.
+- **Offender:** Art. 267 punishes a private individual. The accused were police officers but acted in their private capacities.
+- **Proof of the killing:** with no eyewitness, circumstantial evidence suffices if it meets the three requisites of Sec. 4, Rule 133. Here it formed an "unbroken chain."
+- **Conspiracy** may be inferred from the conduct of the accused before, during and after the crime.
+- **Alibi** fails where it was not physically impossible for the accused to be at the scene, especially against positive identification.
