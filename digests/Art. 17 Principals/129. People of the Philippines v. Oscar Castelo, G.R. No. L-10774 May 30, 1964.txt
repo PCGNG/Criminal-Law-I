@@ -1,65 +1,106 @@
-### **Case Brief: People of the Philippines v. Oscar Castelo**
+**People of the Philippines v. Oscar Castelo, et al.**
+G.R. No. L-10774, May 30, 1964 (En Banc, Per Curiam)
 
-*G.R. No. L-10774, May 30, 1964*
+**Topic:** Criminal Liability under the Revised Penal Code (liability of the mastermind who is absent when the killing is carried out; conspiracy; murder qualified by premeditation)
 
----
-
-### **Facts**
-
-Manuel P. Monroy acted as the star witness against Oscar Castelo, then Secretary of National Defense, in a Senate Blue Ribbon Committee investigation involving bribery charges. Desiring to silence Monroy after failed attempts to prevent him from testifying, Castelo gave a liquidation order to his trusted bodyguard, Bienvenido Mendoza (*alias* "Ben Ulo"). Mendoza organized and directed an armed group of men—including Augusto Melencio (Castelo's nephew and confidential agent), Jose de Jesus, Hipolito Bonifacio, Rogelio Robles, and "Scarface"—in a slaying expedition. On the night of the attack, the armed group proceeded to Monroy's residence, where Jose de Jesus fatally shot Monroy.
-
-After the killing, when "Scarface" threatened to turn against them and expose the plot, Castelo mobilized military and constabulary forces under his command as Secretary of National Defense to secure him. The trial court convicted Castelo and his co-accused of murder. On appeal to the SC, Castelo interposed an alibi and contended that he did not issue the order to kill Monroy, while the Solicitor General argued that Mendoza acted on his own merely to curry Castelo's favor.
+*Note: the decision does not cite a specific RPC article for Castelo's mode of participation. It does not label him a "principal by inducement" or by name under Art. 17. It rests his liability on conspiracy, the orders he gave, and the evidence of his motive and conduct. The ruling below is therefore stated through the doctrines the Court actually used.*
 
 ---
 
-### **Issue**
+## FACTS
 
-Is Oscar Castelo criminally liable as a principal by inducement under the Revised Penal Code for the murder of Manuel P. Monroy despite not having been present at the scene of the execution?
+Castelo, a former judge, was Secretary of Justice and also acting Secretary of National Defense. Senator Recto accused him of bribery and extortion, and Monroy was Recto's star witness before the Senate Blue Ribbon Committee. Monroy was also likely to testify in Recto's pending disbarment case against Castelo. Castelo and his bodyguard Ben Ulo had tried to stop Monroy from testifying.
 
----
+One morning at Castelo's house, Ben Ulo introduced his "boys" Robles and Scarface to Castelo. In their presence, Castelo told Ben Ulo, "Kailangan mapatay si Monroy" (Monroy must be killed). On June 1, Castelo again told them, "Gusto kong mapatay si Monroy pagkaalis ko" (I want Monroy killed after my departure). Before leaving for Korea, Castelo told Ben Ulo and his nephew Melencio, "Huwag lang hindi ninyo mapatay si Monroy bago ako dumating" (Don't fail to kill Monroy before my return). Ben Ulo replied, "Huwag kang mag-alala, halos patay na siya" (Don't worry, he is as good as dead).
 
-### **Ruling**
+While Castelo was in Korea, Ben Ulo organized armed men, all agents of the Department of National Defense appointed by Castelo, in three vehicles. They went to the Gamboa Apartments in Pasay, where Monroy was playing mahjong. De Jesus fired three shots at Monroy, who died. The others were posted nearby to shoot it out if needed.
 
-**Yes.** The Supreme Court ruled verbatim:
+After Castelo returned, he told Ben Ulo, "Mabuti wala na tayong iintindihin ngayon; pero, Ben, natitiyak mo kayang walang nakakita?" (Good, now we have nothing to worry about, but are you sure nobody saw?). Ben Ulo replied, "Wala; malinis na malinis ang trabajo" (Nobody; the job was very neatly done). Later, Scarface was about to turn around. When Scarface was brought to a hotel where Castelo had a suite, Castelo summoned armed troops and ordered the arrest, without a warrant, of the Mayor of Manila. Scarface was later found stabbed to death. Before leaving for the US, Castelo told Ben Ulo to make sure "the boys" did not talk.
 
-> "Bienvenido Mendoza. — All the confessions point to him as the mastermind, directing his 'boys' in the slaying expedition He in turn had received orders from Castelo"
-
-**Legal Basis / Doctrines Relied Upon:**
-
-* **Article 17(2), Revised Penal Code** (Principals by inducement / directly forcing or inducing others to commit a felony)
-* **Article 248, Revised Penal Code** (Murder qualified by evident premeditation, attended by aggravating circumstances of nighttime and aid of armed men)
-* **Doctrine on Conspiracy and Extrajudicial Confessions:** Interlocking extrajudicial confessions of co-conspirators, corroborated by independent circumstantial evidence and motive, establish conspiracy and the culpability of the inducer.
+Castelo invoked alibi: he was in Korea on the night of the killing. He also denied giving the orders. At the first trial, Robles testified for the prosecution. After the RTC's decision, Robles recanted and said all his testimony was false. A new trial was held for Castelo, who was again convicted. The Solicitor General recommended that Castelo and Melencio be acquitted.
 
 ---
 
-### **Ratio Decidendi**
+## ISSUE
 
-A person who directly induces another to commit a felony is criminally liable as a principal by inducement under Article 17(2) of the Revised Penal Code on equal footing with the actual perpetrators. Where the evidence—consisting of voluntary, interlocking confessions of co-conspirators corroborated by overwhelming circumstantial proof of strong personal motive, direct command, and post-crime cover-up—establishes beyond reasonable doubt that the accused ordered the liquidation of the victim, the accused is liable as a principal by inducement even if absent during the physical execution of the killing.
-
----
-
-### **Fallo**
-
-> "JUDGMENT: WHEREFORE, the conviction for murder — qualified by premeditation — all the herein accused-appellants is affirmed. There are aggravating circumstances, like nighttime, aid of armed men, etc.; but for lack of sufficient votes, they are all sentenced to life-imprisonment and to indemnify the heirs of Monroy, jointly and severally, in the sum of six thousand pesos (P6,000.00), and to pay the costs.
-> So ordered."
+Is Castelo criminally liable for the murder of Monroy even though he was in Korea when the killing was carried out, the only direct evidence against him came from Robles (who later recanted), and the hired killers were his subordinates?
 
 ---
 
-### **Elaborate Answer to Review Question**
+## RULING
 
-**1. What is the factual and legal basis of the decision of the Supreme Court that accused Oscar Castelo is guilty of the crime of murder?**
+**The SC AFFIRMED the conviction of all the accused, including Castelo, for murder qualified by premeditation.**
 
-The Supreme Court's conviction of Oscar Castelo rests on his liability as a **principal by inducement** under **Article 17(2) of the Revised Penal Code** for the crime of **Murder** under **Article 248**.
+### Q. What are the factual and legal bases for the SC's ruling that Castelo is guilty of murder?
 
-* **Factual Basis:**
-1. **Compelling Motive:** Manuel Monroy was the star witness against Castelo in a high-profile Senate Blue Ribbon Committee investigation regarding bribery allegations. After efforts to dissuade Monroy from testifying failed, Castelo had a strong, direct personal interest in permanently silencing him.
-2. **Direct Liquidation Order:** Castelo issued the order to liquidate Monroy to his trusted bodyguard and confidant, Bienvenido Mendoza (*alias* "Ben Ulo"), who in turn mobilized and directed the armed hit squad (including Jose de Jesus, who fired the fatal shots).
-3. **Corroborated Voluntary Confessions:** The voluntary confessions of co-conspirators—most notably that of Augusto Melencio, Castelo's own nephew and confidential agent who confessed while out on bail—explicitly confirmed Castelo's instruction to silence Monroy.
-4. **Post-Crime Conduct and Abuse of Official Power:** When one of the conspirators ("Scarface") threatened to defect and expose the crime, Castelo used his authority as Secretary of National Defense to summon Constabulary and Army troops to take custody of him—conduct that betrayed Castelo's guilty connection to the killers rather than innocent official action.
-5. **Failure of Alibi:** Castelo's claim that he escorted his wife to a party at the Jai-Alai from 6:00 p.m. onward did not negate his culpability, both because he was seen leaving the area at around 6:00 p.m. and because physical presence at the murder scene is unnecessary for a principal by inducement.
+#### A. Factual basis
 
+**(1) The evidence against Castelo**
 
-* **Legal Basis:**
-1. **Principal by Inducement (Article 17, par. 2, RPC):** Under the Revised Penal Code, principals include not only those who take a direct part in the execution of the act, but also *"those who directly force or induce others to commit it."* Because Mendoza and his men would not have targeted Monroy—whom they had no personal quarrel with—were it not for Castelo's command and influence as their superior and benefactor, Castelo's order was the determining cause of the crime.
-2. **Conspiracy and Collective Responsibility (Article 8, RPC):** Once conspiracy between the mastermind (Castelo), the coordinator (Mendoza), and the triggermen is proven through their concerted acts and interlocking confessions, the act of one becomes the act of all, rendering Castelo equally liable with the actual gunman.
-3. **Qualification as Murder and Penalty (Article 248, RPC):** The killing was qualified to **Murder** by **evident premeditation**, as the plot was deliberately planned and executed over time. While generic aggravating circumstances such as **nighttime** and **aid of armed men** attended the commission of the offense—which would have warranted the death penalty—the Supreme Court imposed **life imprisonment** (*reclusion perpetua*) due to the lack of the required number of votes to impose death.
+> "Coming now to Castelo, the only direct evidence against him is the testimony of Robles, who swore: (1) that when he and Scarface were introduced by Ben Ulo one morning in May, 1953, Castelo told the latter in the presence of both Robles and Scarface that there was NEED to kill Monroy; and (2) that on June 1st Castelo again suggested to Ben Ulo, Scarface and witness that Monroy should be killed AFTER he had left for Korea. In addition to this, Melencio mentions in his confession (3) that before Castelo boarded the plane for Korea on June 8th, called him and Ben Ulo aside, and urged that Monroy be killed BEFORE his return; (4) that a day after his return on June 26th, Castelo, in a gay mood patted Ben Ulo's back to say, 'Good, we have nothing to worry about; but, Ben are you sure nobody saw?' to which Ben Ulo replied, 'Nobody; it was a clean job.' and (5) that before Castelo left for the United States in August, Castelo admonished Ben Ulo in the presence of Melencio, 'Ben, take care of the boys; be sure nobody otherwise, we would be in bad fix.'"
+
+**(2) The killing itself was carried out by a conspiracy.**
+
+> "Those confessions unfurl a picture of conspiracy amongst themselves and other persons to snuff out the life of Monroy, De Jesus actually firing the fatal shots and the others lending him support while posted at strategic places. De Jesus was positively identified by William Clemens, a disinterested witness, and by Canlas who singled him out in a police line-up."
+
+**(3) Only Castelo had a motive.**
+
+> "The evidence shows that none of Castelo's co-appellants had any motive for desiring Monroy's demise. It was only Castelo, who had such motive. Monroy, whom he knew as a man 'without scruples and capable of swindling his own mother,' had testified in the Senate imputing bribery to him. Castelo's reputation and career, which were being trampled upon by a mere 'police character', had to be protected; so that even though Monroy had already testified, there was still time to avert any further harm, i.e., disbarment and jail. And so, liquidation of Monroy appeared to be the only solution. And his trip to Korea offered a favorable coincidence."
+
+> "This view is highly speculative, for it is not likely that one would take another man's life, place his head on a silver platter and give it as a present to his master merely for a pat in the back."
+
+**(4) His conduct after the killing was inconsistent with innocence.**
+
+> "Castelo must have been apprised of this, and thus his reaction and pronounced interest in keeping Scarface out of the reach of the police - conduct which is certainly incompatible with his innocence. And a few weeks later, the potential squealer was killed mysteriously; and, what a coincidence - while Castelo was abroad again."
+
+**(5) The Court's summary of the case against him**
+
+> "*Oscar Castelo*. - His desire and interest to eliminate Monroy. The testimony of Robles as to his orders to kill. The confession of Melencio as to such orders too. He had subservient bodyguards or agents to do his bidding. The confessions of such agents. On top of all this, his conduct at the Shellborne hotel revealed his culpable connection with the assassination plot. In fine, the case of the People is so strong against him, that it would be unjust to set him free and yet imprison his seven subordinates who merely carried out his commands."
+
+#### B. Legal basis (doctrines and principles applied)
+
+**(1) Robles' recantation after conviction is unreliable, and his original testimony was credible.**
+
+> "We have carefully examined his lengthy testimony during the original trial and have come to the conclusion that the facts narrated therein, although quite unusual, are not improbable considering the situation as a whole. Noteworthy it is that when subjected for several weeks to a searching and unrelenting cross-examination by several defense lawyers, this witness stood firm and steadfast in his assertions and answered his questioners with straightforward alacrity, and apparent spontaneity. On the other hand, his recantation at the new trial, alleging mistreatment and coercion, has been so completely rebutted by Feliciano Lazaro, Francisco Espiritu, Enrique A. Morales and Adolfo Arguelles of the Manila Police, as well as by Mayor Lacson, Fiscal Andres Reyes and newspaperman Primitive Mijares, that we do not hesitate to hold it to be a mere afterthought, designed to rescue his former co-defendants and to deliver Castelo from the hands of the law. This, apart from our wariness and skepticism in matters of retraction of prosecution witnesses made after a judgment of conviction. (Cf. U.S. vs. Valdez, 30 Phil. 293; U.S. vs. Cu Unjieng, 61 Phil. 906; U.S. vs. Dacir, 26 Phil. 503.)"
+
+**(2) Robles' testimony was corroborated, and interlocking confessions are read together.**
+
+> "Furthermore, the testimony of Robles linking Castelo with the conspiracy does not stand alone, as claimed, for it finds adequate support, and confirmation not only in the collective confessions of Miray, De Jesus, Bonifacio, Gonzales, Enriquez, and Melencio and the finding of the gun parts in his possession, but in the totality of the evidence. These confessions are so intimately interwoven that it is hard, if not impossible, to draw a line with a view to sifting the individually admitted facts. In the absence of collusion among the declarants, their confessions should be read together, in order to form a complete picture of the whole situation, and to consider them collectively merely as corroborative and/or confirmatory of the evidence independent therefrom."
+
+**(3) Melencio's confession was voluntary and given full evidentiary value.**
+
+> "All of which means: the confession of Melencio like those of De Jesus, et al., must be accorded full evidentiary value."
+
+**(4) Castelo's presence in Korea (alibi) did not exonerate him. The Court treated it as part of the plan.**
+
+> "And third, his experience foresaw an airtight alibi should Monroy be killed *while he was in Korea*."
+
+The Court also said, of the defense of alibi raised by the actual participants:
+
+> "The defense of alibi set up by Miray, Gonzales, Enriquez, Hipolito and De Jesus deserves little attention for its flimsiness, bearing in mind that Manila is just 15 to 20 minutes drive to the scene of the crime."
+
+**(5) The leader of the plot was Ben Ulo, who received his orders from Castelo.**
+
+> "*Bienvenido Mendoza*. - All the confessions point to him as the mastermind, directing his 'boys' in the slaying expedition He in turn had received orders from Castelo: Rogelio Robles so declared in court. There is no doubt, he was the trusted bodyguard of Castelo-and a known killer."
+
+**(6) The murder was qualified by premeditation. The Court gave no further elaboration on this point.**
+
+> "...the conviction for murder - qualified by premeditation - all the herein accused-appellants is affirmed."
+
+---
+
+## FALLO
+
+> "WHEREFORE, the conviction for murder - qualified by premeditation - all the herein accused-appellants is affirmed. There are aggravating circumstances, like nighttime, aid of armed men, etc.; but for lack of sufficient votes, they are all sentenced to life-imprisonment and to indemnify the heirs of Monroy, jointly and severally, in the sum of six thousand pesos (P6,000.00), and to pay the costs. So ordered."
+
+---
+
+## KEY DOCTRINE FOR REVIEW
+
+- **The mastermind who gave the orders is liable for the murder even if absent when it was committed.** Castelo ordered the killing repeatedly and kept his bodyguards and agents under his control. The actual killers were found to have "merely carried out his commands."
+- **Conspiracy may be shown by circumstantial evidence.** Here it was shown through the orders given, the motive, the interlocking confessions and the accused's conduct before, during and after the crime.
+- **Interlocking confessions** of co-accused, made without collusion, may be read together as mutually corroborative of the independent evidence.
+- **Recantation of a prosecution witness after conviction is looked on with "wariness and skepticism"** and is treated as unreliable.
+- **Motive** is significant where the evidence shows that only one accused had a reason to want the victim dead.
+- **Alibi** fails where it is physically possible to be at the scene, and an absent mastermind's alibi does not erase his liability for orders carried out in his absence.
+- **Penalty:** the Court noted aggravating circumstances (nighttime, aid of armed men, etc.), but "for lack of sufficient votes" imposed life imprisonment rather than death.
