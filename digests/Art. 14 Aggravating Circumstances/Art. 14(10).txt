@@ -1,1 +1,91 @@
+### 10. . That the offender has been previously punished by an offense to which the law attaches an equal or greater penalty or for two or more crimes to which it attaches a lighter penalty.
+
+### Elements of Art. 14(10) – Reiteracion
+Reiteracion or habituality has the following elements: 
+1. That the offender is on trial for one crime; 
+2. At the time of the said trial, he has previously served sentence for an offense to which the law attaches an equal or greater penalty, or two or more crimes to which the law attaches lighter penalties; 
+3. He is also convicted of the new crime for which he is on trial; and 
+4. The crimes are not embraced in the same title of the RPC.
+
+NOTE: The SC added a fourth element. The law is silent on this; but according to the SC, in reiteracion, the crimes are not embraced in the same title of the RPC. Therefore, the fourth element is jurisprudential. It is not the law that provides it, but it is the SC.
+Just like recidivism, reiteracion is a generic aggravating circumstance. Therefore, it can be offset by any ordinary mitigating circumstance. If not offset, the maximum period of the penalty prescribed by law shall be the one imposed on the offender.
+
+### RECIDIVISM
+> A mere conviction by final judgment insofar as the first crime is concerned will suffice.  
+> The crimes are embraced in the same title of the RPC.
+
+### REITERACION
+> The offender must have served sentence for the first crime he committed.  
+> The crimes  are  not embraced in the same title of the RPC.  
+
+You have to know that based on the second element of reiteracion, there are two (2) situations:  
+1. If there are only two (2) crimes committed by the offender, the law requires that the first crime that he have served sentence must carry a penalty equal to or greater than that of the new crime.  
+2. If there are three (3) crimes committed by the offender, the law requires that the first two (2) crimes that he had served sentence must carry lighter penalties than that of the new crime.
+
+### Q: 
+X was charged with Perjury. The judge found him guilty of Perjury and imposed upon him the maximum penalty of prision mayor - 12 years. The judgment became final and executory, and X served his sentence. After service of his sentence, X is now out of prison. One time, when X came from the church, on his way home, he saw his neighbor molesting his daughter under a tree. Because of that, X killed the neighbor. X was prosecuted for Homicide. The judge found him guilty of Homicide. In imposing the penalty, can the judge consider reiteracion as an aggravating circumstance?
+### A: 
+NO. First element: That the offender is on trial for one crime. X was on trial for a crime of Homicide. Second element: At the time of the said trial, he has previously served sentence for an offense to which the law attaches an equal or greater penalty. The second element is absent. The first crime for which he have served sentence was Perjury wherein the penalty was prision mayor. Prision mayor is lighter penalty than Homicide which is reclusion temporal. Therefore, the second element being absent, reiteracion cannot be considered by the court in imposing the penalty of Homicide.
+
+### Q: 
+X was charged and thereafter, convicted of Malicious Mischief. Penalty imposed is arresto mayor - 6 months. After service of his sentence, he is now out of prison. Once out of prison, he committed Slight Physical Injuries in the course of a fight. He was prosecuted for Slight Physical Injuries. The judge found him guilty. In imposing the penalty, can the judge consider reiteracion?
+### A: 
+YES. First element: That the offender is on trial for one crime. X was trial for a crime of Slight Physical Injuries. Second element: At the time of the said trial, he has previously served sentence for an offense to which the law attaches an equal or greater penalty. He have served sentence for malicious mischief - arresto mayor which is greater than Slight Physical Injuries - arresto menor. Second element is present. Third element: X is also convicted of the new crime, Slight Physical Injuries. Fourth element: Malicious Mischief and Slight Physical Injuries do not fall under the same title in the RPC. Malicious Mischief is under Crimes against Property under Title 10, while Slight Physical Injuries is a Crime against Persons under Title 8. Therefore, the judge can consider aggravating circumstance of reiteracion in imposing the penalty of Slight Physical Injuries.
+
+### Q: 
+What if in the same problem, when X was convicted for Malicious Mischief - arresto mayor, since the penalty imposed on him is only a maximum of six (6) months, X immediately applied for probation. His application for probation was granted by the court. Since the penalty imposed is not more than one (1) year, the probation only for two (2) years. After two (2) years of complying with the probation, the probation was terminated.
+X engaged in a fight and inflicted Slight Physical Injuries upon his opponent. He was prosecuted for Slight Physical Injuries and he was found guilty. In imposing the penalty, can the judge consider reiteracion?
+### A: 
+NO. First element: That the offender is on trial for one crime. He is on trial for Slight Physical Injuries. Second element: At the time of the said trial, he has previously served sentence for an offense to which the law attaches an equal or greater penalty. He has been convicted of Malicious Mischief, but he applied for probation. When he applied for probation, he did not serve his sentence.  The SC said in the case of Moreno v. COMELEC, probation is not similar, equal to service of sentence because the effect of probation to suspend the execution of sentence. Therefore, the moment a convict is placed on probation, he never served his sentence. Thus, the second element of reiteracion is not present.
+The SC said in the case of Moreno v. COMELEC, probation is not similar, equal to service of sentence because the effect of probation to suspend the execution of sentence. Therefore, the moment a convict is placed on probation, he never served his sentence. Thus, the second element of reiteracion is not present.
+
+### Habitual Delinquency
+The third form of habituality is Habitual delinquency.
+ARTICLE 62. Effects of the attendance of mitigating or aggravating circumstances and of habitual delinquency. - Mitigating  or  aggravating circumstances and habitual delinquency shall be taken into account for the purpose of diminishing or increasing the penalty in conformity with the following rules:  
+xxx  
+For purposes of this article, a person shall be deemed to be a habitual delinquent, if within a period of ten years from the date of his release or last conviction of the crimes of serious or less serious physical injuries, robo, hurto, estafa or falsification, he is found guilty of any of said crimes a third time or oftener.
+xxx
+
+A person is deemed to be a habitual delinquent if he is found guilty of the crimes of Serious Physical Injuries, Less Serious Physical Injuries, Robbery, Theft, Estafa, or Falsification, a third time or oftener each within the period of 10 years from the date of last release or last conviction.  
+This is Habitual Delinquency under Art. 62, as amended by RA 7659.
+### Elements of Art. 62 – Habitual Delinquency 
+1. The crimes are specified:
+> Serious Physical Injuries, 
+> Less Serious Physical Injuries, 
+> Robbery, 
+> Theft, 
+> Estafa, or 
+> Falsification.
+2. The law requires that there must be at least three (3) convictions; and 
+3. It is necessary that each conviction must come within a period of 10 years from the date of his last release or last conviction.
+Recidivism is generic. Reiteracion is generic. Habitual delinquency circumstance.  is  an  extraordinary aggravating
+
+ARTICLE 62. Effects of the attendance of mitigating or aggravating circumstances and of habitual delinquency. -  Mitigating  or  aggravating circumstances and habitual delinquency shall be taken into account for the purpose of diminishing or increasing the penalty in conformity with the following rules:  
+xxx
+Notwithstanding the provisions of this article, the total of the two penalties to be imposed upon the offender, in conformity herewith, shall in no case exceed 30 years.
+xxx
+As provided by Art. 62, as amended, if a convict is found to be a habitual delinquent, aside from the penalty prescribed by law for the crime he has committed, an additional penalty shall be imposed for being a habitual delinquent, provided if you add the penalty for the crime he has committed and the additional penalty for being a habitual delinquent, it must not exceed 30 years.
+
+### Q: 
+X was charged for the crime of Robbery. Based on the evidence, X has been previously convicted 3 times for theft. Each conviction for theft had come within 10 years from the date of his last release. In the Information filed, it was stated therein that the offender has committed the crime of Theft a third time and he is now being tried for Robbery. After trial on the merits, the judge convicted him of the crime of Robbery. The judge decided to appreciate habitual delinquency. Is the judge correct?
+### A: 
+YES. First element: He is being tried for the fourth time for the crime of Robbery. Second element: He has been previously convicted by final judgment of the crime of Theft. Third element: Each conviction of Theft come within 10 years from the date of his last release. Therefore, he is a habitual delinquent.
+
+### Q: 
+What if in the same problem, the prosecution also stated that he is a recidivist. Should the judge also consider recidivism against him? Should the judge consider this as another aggravating circumstance?  
+### A: 
+YES. All elements of recidivism are present. First element: He is on trial for robbery. Second element: He has been convicted by final judgment of Theft. Third element: Theft and Robbery are both under the same title. Fourth element: He is convicted of the crime of Robbery. Therefore, he is also a recidivist.
+
+### PEOPLE v. MELENDREZ G.R. NO. L39913 | DECEMBER 19, 1993 | AVANCENA, C.J. 
+### FACTS: 
+In 1993, Melendrez was charged with Robbery. In the Information, it was alleged that Melendrez is a habitual delinquent for having been previously convicted by final judgment twice of the crimes of Theft and Estafa, the last one on September 3, 1992. Melendrez argued that the aggravating circumstance of recidivism cannot be appreciated based on the ruling of the SC in People v. Aguinaldo which was promulgated while the old Penal Code was in effect.  
+### ISSUE: 
+W/N Recidivism should be appreciated (YES) 
+### RULING: 
+YES. A recidivist is one who at the time of the trial for one crime, shall have been convicted by final judgment of another crime embraced in the same title in the RPC. After reviewing all the decisions affecting the matter, the Court held that the aggravating circumstance of recidivism should be taken into account in imposing the principal penalty in its corresponding degree, notwithstanding the fact that the defendant is also sentenced to suffer an additional penalty as a habitual delinquent.
+
+
+
+
+
 
