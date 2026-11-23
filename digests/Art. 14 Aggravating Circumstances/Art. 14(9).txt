@@ -1,1 +1,59 @@
+### 9. That the accused is a recidivist: 
+### A recidivist is one who, at the time of his trial for one crime, shall have been previously convicted by final judgment of another crime embraced in the same title of this Code.
+
+### Elements of Art. 14(9) – Recidivism
+The elements of recidivism are:
+1. That the offender is on trial for one crime;
+2. At the time of the said trial, he was previously convicted by final judgment of another crime, 
+3. Both the first crime and second crime are embraced in the same title of the RPC, and 
+He is also convicted of the new crime for which he is on trial.
+
+In so far as recidivism is concerned, the law requires that there must be two convictions: 
+1. The first is a conviction of final judgment. It must be on the first crime. 
+2. The second is the conviction on the case for which he is on trial. It is on the second conviction wherein the court shall consider the aggravating circumstance of recidivism.  
+
+Recidivism is a generic aggravating circumstance. It can be offset by any ordinary mitigating circumstance. If it is not offset, the effect is to increase the penalty for the crime committed to the maximum period of the penalty prescribed by law.  Recidivism requires that the crimes are embraced in the same title of the RPC. Both the first crime and second crime must fall under the same title of the RPC.
+
+### Q: 
+X was charged and convicted of serious physical injuries. He served out the sentence. After the service of his sentence, he is now out of prison. Once out of prison, he tried to live a good life until he engaged in a fight. He was being bullied as an ex-convict. He could no longer contain it, so he engaged in a fight. He killed that person. He is now being charged for the crime of homicide. After trial on the merits, the Judge found him guilty of homicide and sentenced him the penalty thereof. Can the judge consider recidivism?  
+### A: 
+YES. First element: He is on trial for homicide. Second element: At the time of the said trial, he has been previously convicted by final judgment of serious physical injuries. Third element: Both serious physical injuries and homicide are under Title 8 - Crimes against persons. Last element: He is also convicted of the new crime, homicide. Therefore, in imposing the penalty for homicide, the judge can consider the aggravating circumstance of recidivism.
+
+### Q: 
+What if in the same problem, X was charged and convicted of serious physical injuries. He served out the sentence. After the service of his sentence, he tried to live a good life. 12 years thereafter, he engaged in a fight and killed his opponent. He is now being prosecuted for homicide. The judge found him guilty of homicide. In imposing the penalty for homicide, can the judge consider the aggravating circumstance of recidivism despite the lapse of 12 years in between the first crime and the second crime?  
+### A: 
+YES. Based on the provision on paragraph 9, recidivism requires no prescriptive period in between the first crime and second crime. It has no prescriptive period. The law does not require any lapse of time between the first crime and second crime. What the law requires only is that they come from the same title of the RPC. Therefore, even if 12 years have been gone from the first conviction to the second conviction, for as long as they fall under the same title of the RPC, that offender is a recidivist.
+
+### Q: 
+How do you prove recidivism? Is it necessary for the prosecution to present the judge to testify that the offender has been priorly convicted by final judgment of a crime?  
+### A: 
+NO. There is no need for the judge to go to the witness stand to testify. A mere certification of the said conviction coming from the court with the signature of the judge and his dry seal will suffice. It is considered as a public document which is presumed genuine and authentic. Therefore, that will suffice and there is no need to present any oral testimony. Documentary evidence will suffice.
+
+### Q: 
+X is charged and convicted of serious physical injuries. The maximum penalty imposed on him is four years of prision correctional. Since the maximum penalty is within the probationable penalty, X, through his counsel, immediately applied for probation. The MeTC judge granted the said application for probation. After the determination of the said probation, X is now totally free. However, X killed Y because X saw Y molesting his daughter. X is now being prosecuted for homicide. The judge found him guilty of homicide and imposed him the penalty thereof. Can the judge consider recidivism?
+### A: YES. 
+First element: He is on trial for homicide. Second element: At the time of the said trial, he must be previously convicted by final judgment of another crime. He was convicted by the MeTC of serious physical injuries, but he applied for probation and was granted thereof. Is that a conviction by final judgment? Yes, it is akin to a conviction by final judgment. Reason is that the moment the offender applied for an application for probation instead of filing an appeal, that offender is amenable to his conviction. He is in effect admitting the commission of the crime. He is no longer questioning his conviction and merits of the case. Therefore, in that case, it is considered as a conviction by final judgment. Third element: Both serious physical injuries and homicide fall under the same title of the RPC. Last element: He is also convicted of the new crime. All the elements are present. Hence, recidivism can be considered by the court.
+
+### Q: 
+X was charged and convicted of rape. The judgment became final and executory. Thereafter, he was brought to the Bilibid Prison. The president granted X absolute pardon on the crime of rape. X was released from prison. Just a year thereafter, X committed a crime of homicide. He is now charged with homicide. In imposing the penalty for homicide, can the judge consider the aggravating circumstance of recidivism?
+### A:
+YES. First element: He is on trial for homicide. Second element: At the time of the said trial, he has been previously convicted by final judgment of qualified rape; but he was granted pardon by the president. Does that conviction stay because pardon, unlike amnesty, does not erase or obliterate the effects of the crime. If the president granted pardon on the said offender, he remains to be a convicted felon because the effect of pardon is only to excuse the offender from the service of his sentence - unlike amnesty which obliterates all the effects of the crime as if no crime has been committed. The offender is only excused from the service of his sentence, and remains to be convicted of rape. Therefore, the second element is present. Third element: Both rape and homicide are under Title 8 of the RPC - Crimes against persons. Last element: He is also convicted of homicide. All the elements are present. In imposing the penalty for homicide, the judge can consider recidivism.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
