@@ -1,4 +1,4 @@
-### COMPOUND CRIME
+### 1. COMPOUND CRIME
 There is a compound crime when a single act produces two (2) or more grave or less grave felonies.
 #### Elements of Compound Crime
 1. That the offender performed a single act; 
@@ -19,3 +19,154 @@ Therefoer, the SC instead ruled that Wenceslao and Ricardo should be convicted o
 
 ### NOTE:
 In the case of People v. Nelmida, the SC said that the basis of a compound crime is singularity of act, not singularity of impulse. For a compound crime to arise, only one act must be performed and it brought about two (2) or more grave or less grave offenses.  What is the effect? The penalty for the most serious crime in its maximum period shall be imposed upon the said offender.
+
+### QUESTION
+Q: X and Y are husband and wife. They were having an argument inside the car. The husband was jealous and the wife kept denying another man. The husband got so mad that he opened the compartment of the car and took his gun. Thereafter, he shot his wife on the head. The same bullet hit the head of their 8-month-old son. Both of them died. What crime/s should be charged against the husband X?
+*ANSWER*
+A: The husband X should be charged with DOUBLE PARRICIDE. The offender performed a single act which is firing a shot. It resulted to two (2) grave felonies - Parricide for the death of his wife and Parricide for the death of their son. Therefore, the crime charged against the husband would be the complex crime of Double Parricide.
+
+### QUESTION
+Q: X wanted to kill the family of Y. The window of the Y's house was open and X threw a grenade inside. The grenade exploded resulting to the death of Y, his wife, and the yaya. Their two (2) children, however, survived despite the fatal wounds because of immediate medical intervention. What case should be filed against X?  
+*ANSWER*
+A: X should be charged with the complex crime of MULTIPLE MURDER WITH DOUBLE FRUSTRATED MURDER. X performed a single act which is throwing a grenade. The single act resulted to five (5) grave felonies - Murder of Y, Murder of the wife, Murder of the yaya, and Frustrated Murder of the two (2) children. Therefore, X should be prosecuted for one (1) Information only and the crime should be complex crime of Multiple Murder with Double Frustrated Murder.  
+NOTE: When it is two (2) cases, use "double". When it is three (3) or more cases, use "multiple". There is no triple.
+
+### PEOPLE v. PUNZALAN G.R. NO. 199892 |  DECEMBER 10, 2012 | LEONARDO-DE CASTRO, J. 
+### FACTS: 
+Navy personnel SN1 Andal, SN1 Duclayna, SN1 Bacosa, SN1 Domingo, SN1 Cuya, and SN1 Bundang were having a drinking session in the videoke bar, "Aquarius". A heated argument ensued between SN1 Bacosa and Punzalan regarding the flickering light bulb inside the bar. When SN1 Bacosa suggested that the light be turned off, Punzalan who must have misunderstood and misinterpreted SN1 Bacosa's statement, belligerently reacted asking, "Sinong papatayin?", thinking that SN1 Bacosa's statement was directed at him. The argument was pacified, but Punzalan was still visibly angry, mumbling unintelligible words and pounding his fist on the table. To avoid trouble, the Navy personnel left Aquarius and walked back to NETC. However, a rushing and zig-zagging maroon Nissan van driven by a drunk Punzalan hit the group. SN1 Andal and SN1 Duclayna died. SN1 Bacosa and SN1 Cuya were thrown away, and had to be confined in a hospital for medical treatment. SN1 Bundang, on the other hand, suffered injuries on his right foot.
+### ISSUE: 
+W/N Punzalan is criminally liable of the complex crime of Double Murder with Multiple Attempted Murder (YES)
+### RULING: 
+YES. 
+Article 48 of the RPC provides that when a single act constitutes two or more grave or less grave felonies, or when an offense isn a necessary means for committing the other, the penalty for the most serious crime shall be imposed, the same to be applied in its maximum period.
+In the present case, Punzalan was animated by a single purpose, to kill the navy personnel, and committed a single act of stepping on the accelerator, swerving to the right side of the road ramming through the navy personnel, causing the death of SN1 Andal and SN1 Duclayna and, at the same time, constituting an attempt to kill SN1 Cuya, SN1 Bacosa, SN1 Bundang and SN1 Domingo. The crimes of murder and attempted murder are both grave felonies as the law attaches an afflictive penalty to capital punishment (reclusion perpetua to death) for murder while attempted murder is punished by prision mayor, an afflictive penalty.
+
+### Note:
+In the case of *People v. Punzalan*, the accused was convicted of the complex crime of Double Murder with Multiple Attempted Murder. The SC said that Punzalan performed a single act which is stepping on the accelerator of his car, turning to the right, and running over the navy personnel resulting to killing two (2) persons while others were wounded. Hence, the SC said that the accused is liable for Double Murder with Multiple Attempted Murder.
+
+In the case of *People v. Nelmida*, the crime charged was the complex crime of Double Murder with Multiple Frustrated Murder and Double Attempted Murder. In the said ambush, two (2) died and seven (7) were wounded. Hence, the charge of the complex crime. Both RTC and CA convicted the accused as charged because the mayor and another bodyguard were unharmed. The SC said that the conviction is wrong. Art. 48 does not apply because here, there are many offenders. Each offender was armed with a gun and different bullets came out from the barrel of the gun. It is settled that where there are many perpetuators of the crime and there are many acts committed. There are as many crimes committed as there are persons killed or wounded. Here, there is no single act performed. There are many perpetuators armed with guns and different bullets came out from the guns. Hence, Nelmida and the other accused were each convicted of two (2) counts of Murder and seven (7) counts of Attempted Murder, resulting to multiple penalties and sentences.
+
+### PEOPLE v. TABACO G.R. NO. 100382 – 100385 | MARCH 19, 1997 | HERMOSISIMA, JR., J. 
+### FACTS: 
+A cock derby was sponsored by the 117th PC in Aparri, Cagayan. Peace officers in uniform with long firearms were assigned as guards to maintain peace and order inside the cockpit arena. Tabaco was seated near the place where the late Mayor and his group were seated. However, Tabaco suddenly without warning or provocation, shot the late Mayor Arreola with his M-14 rifle, followed by several successive burst of gunfire, resulting to the deaths of the late Mayor Arreola, Capt. Tabulog, Rigunan, and Pat. Regunton.
+### ISSUE: 
+W/N Art. 48 applies in this case (NO)
+### RULING: 
+NO. Art. 48 applies if there must be singularity of criminal act; singularity of criminal impulse is not written into the law."  
+The firing of several bullets by Tabaco, although resulting from one continuous burst of gunfire, constitutes several acts. Each person, felled by different shots, is a victim of a separate crime of murder. There is no showing that only a single missile passed through the bodies of all four victims. The killing of each victim is thus separate and distinct from the other.
+Although it is true that several successive shots were fired by the accused in a short space of time, yet the factor which must be taken into consideration is that, to each death caused or physical injuries inflicted upon the victims, corresponds a distinct and separate shot fired by the accused, who thus made himself criminally liable for as many offenses as those resulting from every single act that produced the same.  
+Although apparently, he perpetrated a series of offenses successively in a matter of seconds, yet each person killed and each person injured by him became the victim, respectively, of a separate crime of homicide or frustrated homicide. Except for the fact that five crimes of homicide and two cases of frustrated homicide were committed successively during the tragic incident, legally speaking there is nothing that would connect one of them with its companion offenses."
+### Note:
+In the case of *People v. Tabaco*, the SC said that when the gun used is a high-powered firearm such that by just one pull of the trigger, different bullets come out, you do not consider it as a single act performed; Instead, you consider the bullets that came out of the barrel of the gun and hit the victims. There are as many crimes committed as there are persons killed or wounder.
+
+---
+### 2. COMPLEX CRIME PROPER
+There is a complex crime proper when an offense is a necessary means to commit the other offense.
+*Elements of Complex Crime Proper*
+1. That there be two (2) or more offenses;
+2. That one (1) or more offenses be necessary to commit the other offense; and
+3. All offenses are punished by the same Statute.
+
+### QUESTION:
+Q: X forcibly abducted Y against her will. At the outset, there was lewd design. He brought Y to a secluded place. That night, X had carnal knowledge of Y by employing force and violence. What crime is committed by X? 
+*ANSWER*
+A: X is liable for the complex crime of RAPE THROUGH FORCIBLE ABDUCTION. Forcible abduction was the necessary means in order to rape the victim. Hence, the crime committed is Rape through Forcible Abduction.
+
+### QUESTION:
+Q: A lawyer swindled his neighbor by falsifying a Deed of Absolute Sale and assigning the property of the neighbor to him. Hence, the property was transferred to his name. What crime is committed by the said lawyer?  
+*ANSWER*
+A: He is liable for ESTAFA THROUGH FALSIFICATION OF A PUBLIC DOCUMENT. A Deed of Absolute Sale is a public document. It was falsified in order to swindle the neighbor. Hence, the crime committed is Estafa through Falsification of a Public Document.
+
+### BATULANON v. PEOPLE G.R. NO. 139857 | SEPTEMBER 15, 2006 | YNARES-SANTIAGO, J.  
+### FACTS: 
+PCCI employed Batulanon  as  its Cashier/Manager. She was in charge of receiving deposits from and releasing loans to the member of the cooperative. During an audit conducted, certain irregularities concerning the release of loans were discovered. It was established that Batulanon released four (4) cash vouchers to individuals that were not eligible to obtain loan from PCCI. Batulanon was  charged with four (4) counts of Estafa through Falsification of Commercial Documents
+### ISSUE: 
+W/N the proper charge is Estafa through Falsification of Private Document (NO)
+### RULING: 
+NO. The Court of Appeals correctly ruled that the subject vouchers are private documents and not commercial documents because they are not documents used by merchants or businessmen to promote or facilitate trade or credit transactions nor are they defined and regulated by the Code of Commerce or other commercial law. Rather, they are private documents, which have been defined as deeds or instruments executed by a private person without the intervention of a public notary or of other person legally authorized, by which some disposition or agreement is proved, evidenced or set forth.
+As there is no complex crime of estafa through falsification of private document, it is important to ascertain whether the offender is to be charged with falsification of a private document or with estafa. If the falsification of a private document is committed as a means to commit estafa, the proper crime to be charged is falsification. If the estafa can be committed without the necessity of falsifying a document, the proper crime to be charged is estafa.
+### NOTE: 
+In the case of Batulanon v. People, the accused was charged with four (4) counts of Estafa through Falsification of a Commercial Document because he falsified the cash voucher in order to obtain loans in the name of other people. The SC said that a cash voucher is not considered as a commercial document because a cash voucher is not defined and regulated by the Code of Commerce or any other Mercantile Law. Hence, a cash voucher is merely a private document.
+You cannot complex Falsification of a Private Document with Estafa because both offenses have damage as elements. One and the same damage cannot give rise to two (2) crimes. According to the SC, you can only charge a person either of Estafa or Falsification of a Private Document.
+*How would you know? According to the SC:*
+1. If Estafa can be committed even without falsifying the private document, the proper charge is Estafa because the falsification of the private document is merely incidental; 
+2. If Estafa cannot be committed without falsifying the private document, the proper charge is Falsification of a Private Document because Estafa is a mere consequence.
+
+---
+### 3. SPECIAL COMPLEX CRIME PROPER
+There is a special complex crime proper when, in reality, there are two (2) or more crimes committed but in the eyes of the law, only one (1) crime is committed. In case of a special complex crime, also known as a composite crime or a single indivisible offense, it is the law that combines the crimes and prescribes particular/specific penalties for these combined crimes.
+*Examples of special complex crime:
+1. Art. 294 - when by reason or on occasion of robbery, a crime of Homicide is committed, we have the special complex crime of Robbery with Homicide. The penalty prescribed by law is reclusion perpetua to death. 
+2. Art. 266-E - when by reason or on occasion of rape, a crime of Homicide is committed, we the special complex crime of Rape with Homicide. The penalty prescribed by law is death. 
+3. Art. 267 - when the victim is killed as a consequence of kidnapping or detention, we have the special complex crime of Kidnapping with Homicide/ Kidnapping with Murder. The penalty prescribed by law is death.
+
+---
+### 4. CONTINUED CRIME / CONTINUOUS CRIME / DELITO CONTINUADO
+It is one where the offender, compelled by a single impulse, commits a series of overt acts at about the same time, in about the same place, and violating one and the same provision of the law.
+
+### SANTIAGO v. GACHITORENA G.R. NO. 109266 | DECEMBER 2, 1993 | QUIASON, J.
+### FACTS: Santiago was charged with violation of Section 3(e) of RA 3019 for favoring "unqualified" aliens with the benefits of the Alien Legalization Program. After the denial her Motions, the Court admitted 32 Amended Informations and ordered Santiago to post the corresponding bail bonds within ten (10) days from notice.
+### ISSUE: 
+W/N the filing of 32 Informations is proper (NO)
+### RULING: 
+NO. 
+For delito continuado to exist there should be a plurality of acts performed during a period of time; unity of penal provision violated; and unity of criminal intent or purpose, which means that two or more violations of the same penal provisions are united in one and the same intent or resolution leading to the perpetration of the same criminal purpose or aim.  
+In appearance, a delito continuado consists of several crimes but in reality there is only one crime in the mind of the perpetrator. Such offense as consisting of a series of acts arising from one criminal intent or resolution.  
+The original information charged petitioner with performing a single criminal act - that of her approving the application for legalization of aliens not qualified under the law to enjoy such privilege. 
+The 32 Amended Informations aver that the offenses were committed on the same period of time, i.e., on or about October 17, 1988. The strong probability even exists that the approval of the application for the legalization of the stay of the 32 aliens was done by a single stroke of the pen, as when the approval was embodied in the same document.
+
+### ELEMENTS OF CONTINUED CRIME / CONTINUOUS CRIME / DELITO CONTINUADO
+In the case of Santiago v. Gachitorena, the SC enumerated the elements of continued crime/continuous crime/delito continuado:
+1. There must be plurality of acts;
+2. There must be singularity or unity of criminal intent, purpose, or impulse; and
+3. There must be singularity or unity of the criminal provision of the law.
+
+### QUESTION:
+Q: Brothers, A, B, C, D, and E are living within the same compound. The five brothers have fighting cocks enclosed in coops. At 11'o clock on a Sunday night, when everybody were fast asleep, W took one (1) fighting cock each from the coops of A, B, C, D and E. The following morning, the act was discovered through the footage of the CCTV and W was identified as the thief. A, B, C, D, and E separately filed their complaints for Theft against W. Should the public prosecutor indict W for five (5) counts of Theft?
+*ANSWER:*
+A: NO. The public prosecutor should indict W only for one (1) count of Theft. It is a continued crime/continuous crime/delito continuado. W was impelled by a single criminal impulse which is to steal with intent to gain. He committed a series of over acts of taking fighting cocks from A, B, C, D, and E at about the same time - at 11'o clock on a Sunday night, in about the same place - within the compound, and violating one and the same provision of the law - Art. 308 in relation to Art. 309. Therefore, W should only be prosecuted with one (1) count of Theft. It is favorable and beneficial to the accused. Instead of being charged with five (5) counts of Theft, only one (1) count because it is a delito continuado.
+
+---
+### 5. CONTINUING CRIME/TRANSITORY OFFENSE
+Continuing crime or transitory offense is one wherein the offender can be prosecuted before the courts of the place where any of the elements of the crime happened. Not all crimes are continuing or transitory offenses. There are only few crimes that are continuing or transitory, such as:
+1. Treason 
+2. Rebellion 
+3. Evasion of service of sentence
+4. Kidnapping 
+5. Carnapping 
+6. Estafa by postdating a check 
+7. Violation of BP 22
+
+### QUESTION:
+Q: X obtained a loan from Y. In payment of the said loan, X went to the office of Y in Manila and issued a check in the amount P100,000.00. Y immediately went to the depository bank in Quezon City and deposited the check. However, the drawee bank, BDO-Caloocan City, dishonored the check. And so, Y sent a notice of dishonor to X. Despite of five (5) banking days, X failed to make good the face value of the check. In the filing the case for violation of BP 22, where should Y file a case?
+*ANSWER*
+A: Y can file the case before the courts of MANILA where the issuance took place, or before the courts of QUEZON CITY where the deposit took place, or before the courts of CALOOCAN CITY where the dishonor took place; Provided, the moment Y filed a case for violation of BP 22 against X in any of these courts, you can no longer file it in any other court.
+
+X is a member of the Valenzuela City Toda. In the line of tricycles in the market, the tricycle of X is the first in line. He received a call from his wife, telling him to buy something in the public market and to bring the same to her. At that particular moment when X was about to go, a passenger arrived and immediately boarded his tricycle. A fellow passenger, Y, saw X. Thereafter, Y told X to go ahead to the public market and that he will bring the passenger to his place of destination and go back. Since X knew Y, he allowed him. It is already late in the afternoon, but still, the tricycle was not yet returned. X became so worried and went to the house of Y, but the latter was not there. And so, X proceeded to the police station to have blottered. Two (2) months thereafter, the PNP of Sta. Maria, Bulacan called the PNP of Valenzuela City and reported that there was a suspicious tricycle being sold. Together with the PNP of Valenzuela City, X went to the said place and confirmed that it was his tricycle. Y was then arrested and a complaint for Carnapping was filed before the Office of the City Prosecutor of Bulacan. After the finding of probable cause, the case was filed before the RTC of Sta. Maria, Bulacan. After trial on the merits, Y is now convicted. CA affirmed the conviction. When the case reached the SC, it acquitted the accused.
+
+The SC said that although carnapping is a continuing or transitory offense, it is necessary that all the elements must take place in the place wherein the crime was committed. In this case, all the elements of Carnapping took place in Valenzuela and none of the elements took place in Sta. Maria, Bulacan. The unlawful taking of the tricycle, with intent to gain, without the consent of the owner, with violence or intimidation against persons or force upon things - all took place in Valenzuela City. Therefore, the case is ought to be dismissed. All hearing and proceedings are null and void because it was heard by the court which has no jurisdiction over the case.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
