@@ -1,1 +1,121 @@
+**People of the Philippines v. Francisco Juan Larrañaga, et al.**
+G.R. Nos. 138874-75, February 3, 2004 (En Banc, Per Curiam)
 
+**Topic:** Complex Crimes (Art. 48, RPC, and the special complex crime under Art. 267, RPC)
+
+*Note: the crime here is a **special complex crime** under Art. 267, not an ordinary complex crime under Art. 48. The Court held that Art. 48 no longer applies to it.*
+
+---
+
+## FACTS
+
+Sisters Marijoy and Jacqueline were waiting at a shed near a mall when Rowen and Josman invited them to ride in their car. The sisters refused. Rowen grabbed Marijoy and Josman held Jacqueline, and they forced both into the car. Jacqueline escaped once but was chased and brought back. Rowen punched them until they fainted, taped their mouths and handcuffed them together. Larrañaga, James Andrew and James Anthony followed in a second car.
+
+The group took the sisters to a safehouse, then hired a van driven by Alberto, with Ariel as conductor, and drove to a cliff. There they drank and made Jacqueline dance while they pushed her around and tore her clothes. At Josman's instruction, Larrañaga raped Marijoy inside the van. Rowen, James Anthony, Alberto and Ariel followed. Josman and James Andrew raped Jacqueline. On Josman's instruction, Rowen and Ariel pushed Marijoy into a ravine about 150 meters deep. Her body was found with tape on her mouth and handcuffs on her wrist. Jacqueline was beaten and left to disappear and has never been found.
+
+In Marijoy's case, the Information alleged that she was kidnapped, raped "on the occasion and in connection" with her detention, and killed "subsequent thereto and on the occasion thereof." In Jacqueline's case, the Information alleged only that she was kidnapped and deprived of liberty. Rusia, a member of the group, was discharged as a state witness and identified all the accused. The accused raised alibi. The RTC convicted them of two counts of kidnapping and serious illegal detention.
+
+---
+
+## ISSUE
+
+Did the accused commit a complex crime, and if so, is it a complex crime under Art. 48 or a special complex crime under Art. 267, when the kidnapped victim was raped and killed (Marijoy), and when the kidnapped victim was raped but the Information alleged only kidnapping (Jacqueline)?
+
+---
+
+## RULING
+
+**The SC AFFIRMED the conviction with modifications. It held the accused guilty of the special complex crime of kidnapping and serious illegal detention with homicide and rape (Marijoy), and of simple kidnapping and serious illegal detention (Jacqueline).**
+
+### Q. What complex crime did the accused commit and why?
+
+**(a) Art. 267, as amended by R.A. 7659, was the law applied.**
+
+> "Art. 267. Kidnapping and serious illegal detention. — Any private individual who shall kidnap or detain another, or in any other manner deprive him of liberty, shall suffer the penalty of reclusion perpetua to death;
+>
+> 1. If the kidnapping or detention shall have lasted more than three days.
+>
+> 2. If it shall have been committed simulating public authority.
+>
+> 3. If any serious physical injuries shall have been inflicted upon the person kidnapped or detained; or if threats to kill him shall have been made.
+>
+> 4. If the person kidnapped or detained shall be a minor, except when the accused is any of the parents, female or a public officer.
+>
+> The penalty shall be death where the kidnapping or detention was committed for the purpose of extorting ransom from the victim or any other person, even if none of the circumstances above mentioned were present in the commission of the offense.
+>
+> When the victim is killed or dies as a consequence of the detention or is raped, or is subjected to torture or dehumanizing acts, the maximum penalty shall be imposed"
+
+**(b) The elements of kidnapping and serious illegal detention were present.**
+
+> "The elements of the crime defined in Art. 267 above are: (a) the accused is a private individual; (b) he kidnaps or detains another, or in any manner deprives the latter of his liberty; (c) the act of detention or kidnapping must be illegal; and (d) in the commission of the offense, any of the four (4) circumstances mentioned above is present."
+
+> "There is clear and overwhelming evidence that appellants, who are private individuals, forcibly dragged Marijoy and Jacqueline into the white car, beat them so they would not be able to resist, and held them captive against their will."
+
+**(c) The last paragraph of Art. 267 created a special complex crime, so Art. 48 no longer applies.** The Court cited *People v. Ramos*, 297 SCRA 618, which cited *Parulan v. Rodas* and *People v. Mercado*:
+
+> "Prior to 31 December 1993, the date of effectivity of RA No. 7659, the rule was that where the kidnapped victim was subsequently killed by his abductor, the crime committed would either be a complex crime of kidnapping with murder under Art 48 of the Revised Penal Code, or two (2) separate crimes of kidnapping and murder. Thus, where the accused kidnapped the victim for the purpose of killing him, and he was in fact killed by his abductor, the crime committed was the complex crime of kidnapping with murder under Art. 48 of the Revised Penal Code, as the kidnapping of the victim was a necessary means of committing the murder. On the other hand, where the victim was kidnapped not for the purpose of killing him but was subsequently slain as an afterthought, two (2) separate crimes of kidnapping and murder were committed."
+
+> "This amendment introduced in our criminal statutes, the concept of 'special complex crime' of kidnapping with murder or homicide. It effectively eliminated the distinction drawn by the courts between those cases where the killing of the kidnapped victim was purposely sought by the accused, and those where the killing of the victim was not deliberately resorted to but was merely an afterthought. Consequently, the rule now is: Where the person kidnapped is killed in the course of the detention, regardless of whether the killing was purposely sought or was merely an afterthought, the kidnapping and murder or homicide can no longer be complexed under Art. 48, nor be treated as separate crimes, but shall be punished as a special complex crime under the last paragraph of Art. 267, as amended by RA No. 7659."
+
+**(d) Application to Marijoy: she was raped, killed and subjected to dehumanizing acts.**
+
+> "The prosecution was able to prove that Marijoy was pushed to a ravine and died. Both girls were raped by the gang. In committing the crimes, appellants subjected them to dehumanizing acts."
+
+**(e) The nature of a special complex crime, and why each component must be alleged and proven**
+
+> "A discussion on the nature of special complex crime is imperative. Where the law provides a single penalty for two or more component offenses, the resulting crime is called a special complex crime. Some of the special complex crimes under the Revised Penal Code are (1) robbery with homicide, (2) robbery with rape, (3) kidnapping with serious physical injuries, (4) kidnapping with murder or homicide, and (5) rape with homicide. In a special complex crime, the prosecution must necessarily prove each of the component offenses with the same precision that would be necessary if they were made the subject of separate complaints."
+
+> "In the cases at bar, particularly Criminal Case No. CBU-45303, the Information specifically alleges that the victim Marijoy was raped 'on the occasion and in connection' with her detention and was killed 'subsequent thereto and on the occasion thereof.' Considering that the prosecution was able to prove each of the component offenses, appellants should be convicted of the special complex crime of kidnapping and serious illegal detention with homicide and rape."
+
+**(f) Rape is a component offense, not a mere aggravating circumstance.**
+
+> "It appearing from the overwhelming evidence of the prosecution that there is a 'direct relation, and intimate connection' between the kidnapping, killing and raping of Marijoy, rape cannot be considered merely as an aggravating circumstance but as a component offense forming part of the herein special complex crime."
+
+**(g) The kidnapping can no longer be complexed under Art. 48.**
+
+> "The kidnapping and serious illegal detention can no longer be complexed under Article 48, nor be treated as separate crime but shall be punished as a special complex crime."
+
+**(h) The technical designation of the crime does not change the penalty.**
+
+> "At any rate, the technical designation of the crime is of no consequence in the imposition of the penalty considering that kidnapping and serious illegal detention if complexed with either homicide or rape, still, the maximum penalty of death shall be imposed."
+
+**(i) Why Jacqueline's case is only simple kidnapping and serious illegal detention: the component offenses were not alleged.**
+
+> "Anent Criminal Case No. CBU-45304 wherein Jacqueline is the victim, the penalty of reclusion perpetua shall be imposed upon appellants considering that the above-mentioned component offenses were not alleged in the Information as required under Sections 8 and 9, Rule 110 of the Revised Rules of Criminal Procedure. Consistent with appellants' right to be informed of the nature and cause of the accusation against him, these attendant circumstances or component offenses must be specifically pleaded or alleged with certainty in the information and proven during the trial. Otherwise, they cannot give rise to a special complex crime, as in this case. Hence, the crime committed is only simple kidnapping and serious illegal detention."
+
+**(j) Conclusion on the crime committed**
+
+> "Thus, we hold that all the appellants are guilty beyond reasonable doubt of the special complex crime of kidnapping and serious illegal detention with homicide and rape in Criminal Case No. CBU-45303 wherein Marijoy is the victim; and simple kidnapping and serious illegal detention in Criminal Case No. CBU-45304 wherein Jacqueline is the victim."
+
+**(k) All the accused are liable because they conspired.**
+
+> "From the evidence of the prosecution, there is no doubt that all the appellants conspired in the commission of the crimes charged. Their concerted actions point to their joint purpose and community of intent."
+
+---
+
+## FALLO
+
+> "WHEREFORE, the Decision of the Regional Trial Court, Branch 7, Cebu City in Criminal Cases Nos. CBU-45303 and 45304 is AFFIRMED with the following MODIFICATIONS:
+>
+> (1) In Criminal Case No. CBU-45303, appellants FRANCISCO JUAN LARRAÑAGA alias 'PACO;' JOSMAN AZNAR; ROWEN ADLAWAN alias 'WESLEY;' ALBERTO CAÑO alias 'ALLAN PAHAK;' ARIEL BALANSAG; and JAMES ANDREW UY alias 'MM,' are found guilty beyond reasonable doubt of the special complex crime of kidnapping and serious illegal detention with homicide and rape and are sentenced to suffer the penalty of DEATH by lethal injection;
+>
+> (2) In Criminal Case No. CBU-45304, appellants FRANCISCO JUAN LARRAÑAGA alias 'PACO;' JOSMAN AZNAR; ROWEN ADLAWAN alias 'WESLEY;' ALBERTO CAÑO alias 'ALLAN PAHAK;' ARIEL BALANSAG; and JAMES ANDREW UY alias 'MM,' are found guilty beyond reasonable doubt of simple kidnapping and serious illegal detention and are sentenced to suffer penalty of RECLUSION PERPETUA;
+>
+> (3) In Criminal Case No. CBU-45303, appellant JAMES ANTHONY UY, who was a minor at the time the crime was committed, is likewise found guilty beyond reasonable doubt of the special complex crime of kidnapping and serious illegal detention with homicide and rape and is hereby sentenced to suffer the penalty of RECLUSION PERPETUA; in Criminal Case No. CBU-45304, he is declared guilty of simple kidnapping and serious illegal detention and is sentenced to suffer the penalty of twelve (12) years of prision mayor in its maximum period, as MINIMUM, to seventeen (17) years of reclusion temporal in its medium period, as MAXIMUM.
+>
+> (4) Appellants are ordered to pay jointly and severally the heirs of Marijoy and Jacqueline, in each case, the amounts of (a) P100,000.00 as civil indemnity, (b) P25,000.00 as temperate damages, (c) P150,000.00 as moral damages, and (d) P100,000.00 as exemplary damages.
+>
+> Three (3) Justices of the Court maintain their position that RA 7659 is unconstitutional insofar as it prescribes the death penalty; nevertheless, they submit to the ruling of the majority that the law is constitutional and the death penalty can be lawfully imposed in the case at bar.
+>
+> In accordance with Article 83 of The Revised Penal Code, as amended by Section 25 of RA No. 7659, upon the finality of this Decision let the records of this case be forthwith forwarded to the Office of the President for the possible exercise of Her Excellency's pardoning power."
+
+*The death penalty was imposed in this decision, which predates R.A. 9346.*
+
+---
+
+## KEY DOCTRINE FOR REVIEW
+
+- **Special complex crime vs. Art. 48 complex crime:** a special complex crime exists when the law provides a **single penalty for two or more component offenses**. Under the last paragraph of Art. 267 (R.A. 7659), where the kidnapped victim is killed, raped, or subjected to torture or dehumanizing acts, the crime can **no longer be complexed under Art. 48** or treated as separate crimes.
+- **The old rule was abandoned.** The Court dropped the distinction between a killing that was the purpose of the kidnapping and a killing that was an afterthought. Either way, it is now one special complex crime.
+- **Each component offense must be alleged in the Information and proven** with the same precision as if charged separately (Secs. 8 and 9, Rule 110). In Marijoy's case they were, so the crime is the special complex crime. In Jacqueline's case they were not alleged, so the crime is only **simple kidnapping and serious illegal detention**.
+- **Rape is a component offense** of the special complex crime, not merely an aggravating circumstance, where there is a "direct relation, and intimate connection" between the kidnapping, killing and raping.
