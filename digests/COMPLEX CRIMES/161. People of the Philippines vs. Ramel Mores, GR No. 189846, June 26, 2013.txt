@@ -1,1 +1,79 @@
+**People of the Philippines v. Ramil Mores**
+G.R. No. 189846, June 26, 2013 (First Division, Leonardo-De Castro, J.)
 
+*Note: the decision spells the accused's name "Ramil," not "Ramel."*
+
+**Topic:** Complex Crimes (Art. 48, Revised Penal Code)
+
+---
+
+## FACTS
+
+At the bridge in the early evening, Mores showed a hand grenade to Daryl and his friends and said, "Gusto nyo pasabugin ko ito?" (Do you want me to explode this?). About three hours later, a farewell ball was going on at the municipal gymnasium, which was crowded with townsfolk. Daryl saw Mores whispering with Famor. Mores pulled a grenade from his pocket and rolled it on the floor toward the dance floor like a ball. It exploded under a table.
+
+Ramie died from a shrapnel wound to the heart. Delfa, Myra, Noel and many others suffered shrapnel injuries, but none of the injured sustained mortal wounds. Police recovered the grenade's lever and fragments from the gym. Mores and Famor were charged with murder with multiple attempted murder, alleged to be qualified by treachery, evident premeditation and nocturnity. The Information alleged one death and fourteen injured persons. Mores stopped attending trial after arraignment and was tried in absentia. Famor was acquitted because the prosecution could not prove conspiracy, not because his alibi was believed. Mores argued that treachery was absent because the act was spur-of-the-moment and he stood near the blast.
+
+---
+
+## ISSUE
+
+Is Mores liable for the complex crime of murder with multiple attempted murder under Art. 48, RPC, for rolling a hand grenade onto a crowded dance floor, where the single act killed one person and injured many others?
+
+---
+
+## RULING
+
+**The SC AFFIRMED the conviction for the complex crime of murder with multiple attempted murder, with modification of the damages.**
+
+### Q. Why is Mores guilty of the complex crime of murder with multiple attempted murder?
+
+**(a) A single act constituted two or more grave felonies, which is a complex crime under Art. 48.**
+
+> "From the foregoing, we have no other recourse but to sustain appellant's conviction for the complex crime of Murder with Multiple Attempted Murder. As correctly explained by the Court of Appeals, the single act of pitching or rolling the hand grenade on the floor of the gymnasium which resulted in the death of Ramie Balasa (Balasa) and injuries to other victims constituted a complex crime under Article 48 of the Revised Penal Code which states that when a single act constitutes two or more grave or less grave felonies, the penalty for the most serious crime shall be imposed, the same to be applied in its maximum period."
+
+**(b) The killing was murder because it was attended by treachery. The Court relied on Art. 14, par. 16, RPC.**
+
+> "Article 14, Paragraph 16 of the Revised Penal Code states that '[t]here is treachery when the offender commits any of the crimes against the person, employing means, methods or forms in the execution thereof which tend directly and specially to insure its execution, without risk to himself arising from the defense which the offended party might make.' It is long settled in jurisprudence that two elements must concur in order to establish treachery: (a) that at the time of the attack, the victim was not in a position to defend himself; and (b) that the offender consciously adopted the particular means of attack employed. Thus, the essence of treachery is that the attack comes without warning and in a swift, deliberate, and unexpected manner, affording the hapless, unarmed, and unsuspecting victim no chance to resist or escape."
+
+**(c) Treachery was present.**
+
+> "We agree with the appellate court that the manner by which appellant deliberately rolled the grenade on the ground towards the dance floor packed with unsuspecting revelers, leaving one dead and scores wounded in the aftermath of the sudden blast was accompanied with treachery. Appellant's unexpected action which was immediately followed by the grenade's lethal explosion left the victims with utterly no chance to escape the blast area nor to find protective cover. Though appellant stood a short distance away, he knowingly positioned himself safely from the reach of the grenade's destructive force. From the foregoing, we can confidently conclude that treachery, as correctly pointed out by both the trial court and the Court of Appeals, was present in the commission of the crime charged."
+
+**(d) The injured victims are covered by multiple attempted murder, because none was shown to have suffered a mortal wound.** The *Mores* decision does not itself explain this classification. In the case under review, however, it relied on the same doctrine from *People v. Camat* (cited in footnote 19 of the decision) for the awards of damages to the "victim[s] of ATTEMPTED MURDER." The decision itself identifies the offenses as murder and "multiple attempted murder."
+
+**(e) The acquittal of co-accused Famor did not benefit Mores.**
+
+> "Appellant is grossly mistaken in his conclusion that Famor was acquitted because the trial court believed his alibi. Nothing more could be farther from the truth. Even a cursory reading of the assailed September 24, 1998 Decision of the trial court would reveal that Famor's acquittal stemmed from the prosecution's inability to prove that Famor was a co-conspirator of appellant in the commission of the dastardly act which is the subject of this criminal case."
+
+**(f) The Court gave great weight to the findings on witness credibility.**
+
+> "We have reiterated in jurisprudence that when the credibility of a witness is in issue, the findings of fact of the trial court, its calibration of the testimonies of the witnesses and its assessment of the probative weight thereof, as well as its conclusions anchored on said findings are accorded high respect if not conclusive effect."
+
+**(g) The penalty under Art. 48, Art. 248 and R.A. 9346**
+
+> "The penalty for the most serious crime of Murder under Article 248 of the Revised Penal Code is reclusion perpetua to DEATH. Thus, applying Article 48, the death penalty should be imposed. However, pursuant to Republic Act No. 9346, the proper sentence therefore is reclusion perpetua without eligibility for parole."
+
+---
+
+## FALLO
+
+> "WHEREFORE, premises considered, the Decision dated August 10, 2009 of the Court of Appeals in CA-G.R. CR.-H.C. No. 01362 convicting appellant Ramil Mores for murder with multiple attempted murder for which he is to suffer the penalty of reclusion perpetua without eligibility for parole is hereby AFFIRMED with MODIFICATIONS that:
+>
+> (1) Appellant Ramil Mores is ordered to pay the heirs of the deceased Ramie Balasa Seventy-Five Thousand Pesos (P75,000.00) as civil indemnity, Fifty Thousand Pesos (P50,000.00) as moral damages and Thirty Thousand Pesos (P30,000.00) as exemplary damages;
+>
+> (2) Appellant Ramil Mores is ordered to pay each victim of ATTEMPTED MURDER, Forty Thousand Pesos (P40,000.00) as moral damages and Thirty Thousand Pesos (P30,000.00) as exemplary damages; and
+>
+> (3) Appellant Ramil Mores is further ordered to pay the private offended parties or their heirs interest on all damages awarded at the legal rate of six percent (6%) per annum from the date of finality of this judgment.
+>
+> No pronouncement as to costs.
+>
+> SO ORDERED."
+
+---
+
+## KEY DOCTRINE FOR REVIEW
+
+- **Compound complex crime (Art. 48, 1st clause):** a **single act** that constitutes two or more grave or less grave felonies. Here, one act (rolling the grenade) caused one death (murder) and injuries to many others (multiple attempted murder).
+- **Single penalty:** the penalty for the most serious crime (murder, reclusion perpetua to death) is imposed in its maximum period. That is death, reduced to **reclusion perpetua without eligibility for parole** under R.A. 9346.
+- **Treachery qualifies the killing to murder.** Throwing a grenade into a crowd of unsuspecting revelers while the thrower stays clear of the blast is treachery.
+- **Contrast with *People v. Jugueta*:** there, successive shots from separate firearms were separate acts and could not be a complex crime. In *Mores* the single grenade explosion was a single act, so the crimes are complexed.
