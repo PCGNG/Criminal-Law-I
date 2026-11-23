@@ -84,6 +84,68 @@ W/N Recidivism should be appreciated (YES)
 ### RULING: 
 YES. A recidivist is one who at the time of the trial for one crime, shall have been convicted by final judgment of another crime embraced in the same title in the RPC. After reviewing all the decisions affecting the matter, the Court held that the aggravating circumstance of recidivism should be taken into account in imposing the principal penalty in its corresponding degree, notwithstanding the fact that the defendant is also sentenced to suffer an additional penalty as a habitual delinquent.
 
+### Q: 
+As for the defense of the accused, granting for the sake of argument that both recidivism and habitual delinquency are present, based on the Doctrine Of Pro Reo, the judge should only consider recidivism against X and not habitual delinquency. How should the judge rule on this contention?
+### A:
+The judge should still CONSIDER BOTH RECIDIVISM AND HABITUAL DELINQUENCY.  
+As held in the case, People v. Melendrez, the SC said that if both recidivism and habitual delinquency are present, they can be appreciated by the court at the same time because they have different elements in imposing the penalty. The fact that the offender is a recidivist, it means that in imposing the penalty of Robbery, the judge shall impose it in its maximum period if recidivism is not offset by any ordinary mitigating circumstance. The fact that he is a habitual delinquent means that an additional penalty must be imposed aside from the penalty of Robbery. Therefore, both can be considered by the court because they have different effects on the penalty to be imposed on the part of the said offender.
+
+### Recidivism Vis-à-vis Habitual Delinquency 
+### RECIDIVISM
+> The law requires at least two (2) convictions. 
+> No prescriptive period between first conviction and second crime 
+> The crimes are embraced in the same title in the RPC.
+> It is a generic aggravating circumstance which be offset by any ordinary mitigating circumstance.
+
+### HABITUAL DELINQUENCY
+> The law requires at least three (3) convictions. 
+> 10 years from the date of his last release/conviction 
+> The crimes are specified: 1. Serious/Less Serious Physical Injuries; 2. Falsification; 3. Robbery; 4. Theft; 5. Estafa 
+>It is an extraordinary aggravating circumstance which provides for an additional penalty and cannot be offset by any  ordinary  mitigating circumstance. 
+
+### Quasi-Recidivism 
+Fourth form of habituality is quasi-recidivism.  
+A person is deemed to be a quasi-recidivist if, after having been convicted by final judgment, he shall commit a felony while serving sentence, or before serving sentence. 
+It is necessary, first and foremost, that the offender has already been convicted by final judgment of a crime.
+Before or while serving his sentence, he committed a felony, a violation of the RPC.
+
+### Q: 
+X was charged with a crime of Homicide. He was convicted, and judgment became final and executory. One morning, all the inmates were already up but X was still in bed. When his fellow inmates went to X, they held his hand, and they realized X's fever was very high. The inmates immediately informed the authorities of Bilibid. An ambulance arrived and X was now being lifted to be brought to the nearest hospital. The moment they lifted X, the police authorities found plastic sachets of Shabu under his bed. Because of this, X was charged with Illegal Possession of Dangerous Drugs under Sec. 11 of RA 9165. After trial on the merits, the judge found him guilty of violation of Sec. 11 of RA 9165. Can the judge consider  quasi-recidivism as  an  aggravating circumstance in imposing the penalty for violation of Sec. 11 of RA 9165?  
+### A: 
+NO. The judge cannot consider quasi-recidivism as an aggravating circumstance because the second crime that he has committed while serving his sentence is not a felony, but a violation of a special penal law, that is Illegal Possession of Dangerous Drugs.
+
+### Q: 
+X was charged and convicted of Carnapping. He is now behind bars. One time, one of the prison guards was doing his rounds when X suddenly appeared and stabbed the prison guard with an icepick. When the prison guard fell, X took the keys and tried to escape but he was arrested. In the commission of the crime, is the aggravating circumstance of quasi-recidivism present?
+### A:
+YES. X was serving his sentence for carnapping when he committed tow (2) felonies: Qualified Direct Assault with Murder. He attacked the prison authority, an agent of person in authority. Likewise, he committed Attempted Evasion of Service of Sentence. He took the keys and attempted to escape. Therefore, while he was serving his sentence, after having been convicted by final judgment of an offense, Carnapping, a violation of the Anti- Carnapping Law, he committed two (2) felonies. Since the crimes he committed while serving his sentence were felonies, the judge can consider quasi-recidivism in imposing the penalty.
+
+### Crimes Against Public Order 
+ARTICLE 160. Commission of another crime during service of penalty imposed for another offense; Penalty. - Besides the provisions of Rule 5 of Article 62, any person who shall commit a felony after having been convicted by final judgment, before beginning to serve such sentence, or while serving the same, shall be punished by the maximum period of the penalty prescribed by law for the new felony. xxxx
+
+Under Art. 160 of the RPC, the maximum penalty prescribed by law shall be the one imposed, therefore, it is a special aggravating circumstance. It cannot be offset by any mitigating circumstance.  
+
+NOTE: To summarize: 
+1. Recidivism - generic aggravating circumstance 
+2. Reiteracion - generic aggravating circumstance 
+3. Habitual Delinquency - extraordinary aggravating circumstance 
+4. Quasi-recidivism - special aggravating circumstance    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
