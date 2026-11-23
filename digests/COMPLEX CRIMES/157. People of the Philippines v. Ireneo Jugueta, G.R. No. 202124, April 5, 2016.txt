@@ -1,1 +1,109 @@
+**People of the Philippines v. Ireneo Jugueta**
+G.R. No. 202124, April 5, 2016 (En Banc, Peralta, J.)
 
+**Topic:** Complex Crimes (Art. 48, Revised Penal Code)
+
+---
+
+## FACTS
+
+Norberto, his wife Maricel and their children Mary Grace (13), Claudine (3½), Elizabeth and Judy Ann were lying down to sleep in their one-room nipa hut. Jugueta, Norberto's brother-in-law, resented Norberto for filing a case against Jugueta's brothers. Jugueta and two companions, each armed with his own firearm, suddenly stripped off the sack wall of the hut. They ordered Norberto to come out and told him, "Magdasal ka na at katapusan mo na ngayon." Norberto refused and pleaded for mercy. A shot was fired, followed by successive shots fired at the family for less than five minutes. Mary Grace and Claudine died from gunshot wounds. Norberto, Maricel, Elizabeth and Judy Ann were not hit.
+
+Jugueta was charged with "Double Murder" for the two deaths and "Multiple Attempted Murder" for the four survivors, each in a single Information. He did not move to quash either Information. The RTC and CA convicted him of Double Murder and Multiple Attempted Murder, but the penalties they imposed were for each victim separately. Jugueta raised denial and alibi on appeal to the SC.
+
+---
+
+## ISSUE
+
+Is the crime committed by Jugueta, who fired successive shots with his companions at the family, a complex crime under Art. 48 ("Double Murder" and "Multiple Attempted Murder"), or separate counts of murder and attempted murder?
+
+---
+
+## RULING
+
+**The SC AFFIRMED the conviction with modifications. It held that Jugueta is guilty of 2 counts of murder and 4 counts of attempted murder, not of a complex crime.**
+
+### Q1. Why is the crime not a complex crime?
+
+**(a) The concept of a complex crime under Art. 48**
+
+> "Art. 48. Penalty for Complex Crimes - When a single act constitutes two or more grave or less grave felonies, or when an offense is a necessary means for committing the other, the penalty for the most serious crime shall be imposed, the same to be applied in its maximum period."
+
+Quoting *People v. Nelmida*, 694 Phil. 529:
+
+> "In a complex crime, two or more crimes are actually committed, however, in the eyes of the law and in the conscience of the offender they constitute only one crime, thus, only one penalty is imposed. There are two kinds of complex crime. The first is known as a compound crime, or when a single act constitutes two or more grave or less grave felonies while the other is known as a complex crime proper, or when an offense is a necessary means for committing the other. The classic example of the first kind is when a single bullet results in the death of two or more persons. A different rule governs where separate and distinct acts result in a number killed. Deeply rooted is the doctrine that when various victims expire from separate shot, such acts constitute separate and distinct crimes."
+
+**(b) Application: several acts, not a single act**
+
+> "Here, the facts surrounding the shooting incident clearly show that appellant and the two others, in firing successive and indiscriminate shots at the family of Norberto from their respective firearms, intended to kill not only Norberto, but his entire family. When several gunmen, as in this case, indiscriminately fire a series of shots at a group of people, it shows their intention to kill several individuals. Hence, they are committing not only one crime. What appellant and his cohorts committed cannot be classified as a complex crime because as held in *People v. Nelmida*, 'each act by each gunman pulling the trigger of their respective firearms, aiming each particular moment at different persons constitute distinct and individual acts which cannot give rise to a complex crime.'"
+
+**(c) The Court's holding on the proper designation**
+
+> "The facts, as alleged in the Information in Criminal Case No. 7698-G, and as proven during trial, show that appellant is guilty of 2 counts of the crime of Murder and not Double Murder, as the killing of the victims was not the result of a single act but of several acts of appellant and his cohorts. In the same vein, appellant is also guilty of 4 counts of the crime of Attempted Murder and not Multiple Attempted Murder in Criminal Case No. 7702-G."
+
+**(d) The attempted murder counts rest on Art. 6, RPC.**
+
+> "As to the charge of multiple attempted murder, the last paragraph of Article 6 of the Revised Penal Code states that a felony is attempted when the offender commences the commission of a felony directly by overt acts, and does not perform all the acts of execution which should produce the felony by reason of some cause or accident other than his own spontaneous desistance."
+
+**(e) Jugueta can still be convicted of each count, because the duplicitous Informations were not challenged before trial.**
+
+> "It bears stressing that the Informations in this case failed to comply with the requirement in Section 13, Rule 110 of the Revised Rules of Court that an information must charge only one offense."
+
+> "However, since appellant entered a plea of not guilty during arraignment and failed to move for the quashal of the Informations, he is deemed to have waived his right to question the same. Section 9 of Rule 117 provides that '[t]he failure of the accused to assert any ground of a motion to quash before he pleads to the complaint or information, either because he did not file a motion to quash or failed to allege the same in said motion, shall be deemed a waiver of any objections except those based on the grounds provided for in paragraphs (a), (b), (g), and (i) of Section 3 of this Rule.'"
+
+> "It is also well-settled that when two or more offenses are charged in a single complaint or information but the accused fails to object to it before trial, the court may convict him of as many offenses as are charged and proved, and impose upon him the proper penalty for each offense. Appellant can therefore be held liable for all the crimes alleged in the Informations in Criminal Case Nos. 7698-G and 7702-G, i.e., 2 counts of murder and 4 counts of attempted murder, respectively, and proven during trial."
+
+### Q2. When is it "Double Murder / Multiple Murder," and when is it "2 Counts of Murder / 4 Counts of Attempted Murder"?
+
+The Court did not lay down this distinction in one passage. It follows from two statements.
+
+**It is Double or Multiple Murder (a compound complex crime) when one act causes the deaths.**
+
+> "The classic example of the first kind is when a single bullet results in the death of two or more persons."
+
+**It is separate counts of murder when separate acts cause the deaths.**
+
+> "A different rule governs where separate and distinct acts result in a number killed. Deeply rooted is the doctrine that when various victims expire from separate shot, such acts constitute separate and distinct crimes."
+
+> "...the killing of the victims was not the result of a single act but of several acts of appellant and his cohorts."
+
+### Q3. Does it make a difference whether the crime is called "Double Murder" or "2 Counts of Murder"?
+
+The Court did not state a general rule on this. It did show that the label matters, and it explained why in terms of penalty, nomenclature and civil liability.
+
+**The label must match the penalties imposed.** The Court corrected the trial court's labels because they did not match its penalties.
+
+> "There is some confusion caused by the trial court's use of the terms 'Double Murder' and 'Multiple Attempted Murder' in convicting appellant, and yet imposing penalties which nevertheless show that the trial court meant to penalize appellant for two (2) separate counts of Murder and four (4) counts of Attempted Murder."
+
+**A complex crime carries one penalty, while separate counts carry a penalty for each.** In the Court's words, a complex crime means "only one penalty is imposed" (Art. 48: the penalty for the most serious crime, in its maximum period). Here the Court imposed a penalty for each count:
+
+> "...the penalty to be imposed on appellant should be reclusion perpetua for each of the two (2) counts of murder without eligibility for parole. With regard to the four (4) counts of attempted murder, the penalty prescribed for each count is prision mayor."
+
+**Civil liability** is also treated differently when the crime is complex under Art. 48. The Court stated:
+
+> "When it comes to compound and complex crimes, although the single act done by the offender caused several crimes, the fact that those were the result of a single design, the amount of civil indemnity and moral damages will depend on the penalty and the number of victims."
+
+---
+
+## FALLO
+
+> "WHEREFORE, the instant appeal is DISMISSED. The Decision of the Court of Appeals dated January 30, 2012 in CA-G.R. CR HC No. 03252 is AFFIRMED with the following MODIFICATIONS:
+>
+> (1) In Criminal Case No. 7698-G, the Court finds accused-appellant Ireneo Jugueta GUILTY beyond reasonable doubt of two (2) counts of the crime of murder defined under Article 248 of the Revised Penal Code, attended by the aggravating circumstance of dwelling, and hereby sentences him to suffer two (2) terms of reclusion perpetua without eligibility for parole under R.A. 9346. He is ORDERED to PAY the heirs of Mary Grace Divina and Claudine Divina the following amounts for each of the two victims: (a) P100,000.00 as civil indemnity; (b) P100,000.00 as moral damages; (c) P100,000.00 as exemplary damages; and (d) P50,000.00 as temperate damages.
+>
+> (2) In Criminal Case No. 7702-G, the Court finds accused-appellant Ireneo Jugueta GUILTY beyond reasonable doubt of four (4) counts of the crime of attempted murder defined and penalized under Article 248 in relation to Article 51 of the Revised Penal Code, attended by the aggravating circumstance of dwelling, and sentences him to suffer the indeterminate penalty of four (4) years, two (2) months and one (1) day of prision correctional, as minimum, to ten (10) years and one (1) day of prision mayor, as maximum, for each of the four (4) counts of attempted murder. He is ORDERED to PAY moral damages in the amount of P50,000.00, civil indemnity of P50,000.00 and exemplary damages of P50,000.00 to each of the four victims, namely, Norberto Divina, Maricel Divina, Elizabeth Divina and Judy Ann Divina.
+>
+> (3) Accused-appellant Ireneo Jugueta is also ORDERED to PAY interest at the rate of six percent (6%) per annum from the time of finality of this decision until fully paid, to be imposed on the civil indemnity, moral damages, exemplary damages and temperate damages.
+>
+> (4) Let the Office of the Prosecutor General, through the Department of Justice, be FURNISHED a copy of this Decision. The Prosecutor General is DIRECTED to immediately conduct a REINVESTIGATION on the possible criminal liability of Gilbert Estores and Roger San Miguel regarding this case. Likewise, let a copy of this Decision be furnished the Secretary of Justice for his information and guidance.
+>
+> SO ORDERED."
+
+---
+
+## KEY DOCTRINE FOR REVIEW
+
+- **Test for a compound complex crime (Art. 48, 1st clause):** one **single act** must produce two or more grave or less grave felonies. Example: one bullet that kills two or more persons.
+- **Separate acts mean separate crimes:** each shot or trigger-pull at a different person is a distinct act, so it is a separate count. The Court applied this even though all the shots were fired in one attack on one family, because several gunmen fired successive shots.
+- **Application here:** 2 counts of murder (qualified by treachery, aggravated by dwelling) and 4 counts of attempted murder. The Court imposed a penalty for each count.
+- **Duplicitous information (Sec. 13, Rule 110; Sec. 9, Rule 117):** failing to move to quash before pleading waives the objection. The court may then convict of as many offenses as are charged and proved.
