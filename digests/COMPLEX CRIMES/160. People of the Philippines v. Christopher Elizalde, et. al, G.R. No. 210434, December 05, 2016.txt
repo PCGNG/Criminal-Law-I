@@ -1,1 +1,85 @@
+# CASE DIGEST
 
+**People of the Philippines v. Christopher Elizalde y Sumagdon and Allan Placente y Busio**
+G.R. No. 210434, December 5, 2016 (Third Division, Peralta, J.)
+
+**Topic:** Complex Crimes (Special Complex Crime of Kidnapping under Art. 267, RPC)
+
+---
+
+## FACTS
+
+Letty was seated in the family car in front of her store while her husband Antonio was closing it. A van pulled up and about seven armed men got out. Placente and two others pointed guns at Antonio and told him not to move. Elizalde and another man dragged Letty into the van, and the group sped away. The kidnappers then phoned Antonio's store, told the family not to report to the police, and demanded P20 million for Letty's release.
+
+The next day, police in another province spotted the stolen van. Its occupants fired at the police and a shootout followed. A jeepney that joined the firing was later abandoned, and Letty's lifeless body was found inside it with a gunshot wound below the chin. Elizalde and Placente escaped. Antonio later identified both of them, who had not worn masks. Elizalde and Placente were charged with the special complex crime of kidnapping for ransom with homicide. They raised denial and alibi.
+
+---
+
+## ISSUE
+
+What crime is committed when the kidnapped victim is killed in the course of the detention, and does it matter whether the killing was deliberately sought or merely an afterthought?
+
+---
+
+## RULING
+
+**The SC AFFIRMED the conviction for the special complex crime of kidnapping for ransom with homicide, with modification of the damages.**
+
+### Q1. What crime is committed if the victim of kidnapping is killed?
+
+**(a) The governing law is Art. 267, RPC, as amended by R.A. 7659.**
+
+> "Kidnapping and serious illegal detention. - Any private individual who shall kidnap or detain another, or in any other manner deprive him of his liberty, shall suffer the penalty of reclusion perpetua to death:
+>
+> 1. If the kidnapping or detention shall have lasted more than three days.
+>
+> 2. If it shall have been committed simulating public authority.
+>
+> 3. If any serious physical injuries shall have been inflicted upon the person kidnapped or detained; or if threats to kill him shall have been made.
+>
+> 4. If the person kidnapped or detained shall be a minor, except when the accused is any of the parents, female or a public officer;
+>
+> The penalty shall be death where the kidnapping or detention was committed for the purpose of extorting ransom from the victim or any other person, even if none of the circumstances above-mentioned were present in the commission of the offense.
+>
+> When the victim is killed or dies as a consequence of the detention or is raped, or is subjected to torture or dehumanizing acts, the maximum penalty shall be imposed."
+
+**(b) When the kidnapped person is killed in the course of the detention, the crime is a special complex crime.**
+
+> "Accordingly, in *People v. Mercado*, the Court explained that when the person kidnapped is killed in the course of the detention, the same shall be punished as a special complex crime..."
+
+**(c) Application: the abduction, the ransom demand and the killing**
+
+> "On this score, the Court finds no reason to disturb the rulings of the lower courts for they aptly convicted appellants with the special complex crime of kidnapping for ransom with homicide. As clearly proved by the prosecution, appellants succeeded in executing their common criminal design in abducting the victim herein, demanding for the payment of money for her release, and thereafter, killing her as a result of the encounter with the police officers."
+
+**(d) The penalty**
+
+> "Accordingly, the Court affirms the lower court's imposition of the penalty of reclusion perpetua, without eligibility for parole, which should have been death, had it not been for the passage of Republic Act No. 9346, entitled 'An Act Prohibiting the Imposition of the Death Penalty in the Philippines' prohibiting the imposition thereof."
+
+**(e) Conspiracy made both accused equally liable.**
+
+> "Conspiracy exists when two or more persons come to an agreement concerning the commission of a felony and decide to commit it. When conspiracy is established, the responsibility of the conspirators is collective, not individual, rendering all of them equally liable regardless of the extent of their respective participations. Accordingly, direct proof is not essential to establish conspiracy, as it can be presumed from and proven by the acts of the accused pointing to a joint purpose, design, concerted action, and community of interests."
+
+> "While appellant Placente and companions pointed their guns at Antonio, Elizalde and companions simultaneously dragged Letty into their van. Thereafter, they demanded ransom money as a condition for her release, which, however, never materialized due to a shootout that sadly led to her death. Consequently, therefore, appellants are equally liable for the crime charged herein."
+
+### Q2. Does it matter whether the killing was intentional or just an afterthought?
+
+**No.** The Court quoted *People v. Mercado*, 400 Phil. 37, which cited *People v. Ramos*:
+
+> "x x x This amendment introduced in our criminal statutes the concept of 'special complex crime' of kidnapping with murder or homicide. It effectively eliminated the distinction drawn by the courts between those cases where the killing of the kidnapped victim was purposely sought by the accused, and those where the killing of the victim was not deliberately resorted to but was merely an afterthought. Consequently, the rule now is: Where the person kidnapped is killed in the course of the detention, regardless of whether the killing was purposely sought or was merely an afterthought, the kidnapping and murder or homicide can no longer be complexed under Art. 48, nor be treated as separate crimes, but shall be punished as a special complex crime under the last paragraph of Art. 267, as amended by RA No. 7659."
+
+---
+
+## FALLO
+
+> "WHEREFORE, premises considered, the Court AFFIRMS the Decision dated May 31, 2013 of the Court of Appeals in CA-G.R. CR-HC No. 05100 finding appellants Christopher Elizalde y Sumagdon and Allan Placente y Busio guilty beyond reasonable doubt of the crime of kidnapping for ransom with homicide, as defined and penalized under Article 267 of the Revised Penal Code, sentencing them to suffer the penalty of reclusion perpetua, without eligibility for parole, in accordance with the mandate under Republic Act No. 9346, prohibiting the imposition of death penalty, and to pay Letty Tan y Co's heirs the amounts of P100,000.00 as moral damages and P100,000.00 as exemplary damages, with MODIFICATIONS in view of prevailing jurisprudence, that the amount of damages be increased to P100,000.00 as civil indemnity and P50,000.00 as temperate damages, and that an interest be imposed on all damages awarded at the legal rate of 6% per annum from the date of finality of this Decision until fully paid.
+>
+> SO ORDERED."
+
+---
+
+## KEY DOCTRINE FOR REVIEW
+
+- **Rule:** if the kidnapped person is killed in the course of the detention, the crime is the **special complex crime** of kidnapping (and serious illegal detention) with murder or homicide, under the last paragraph of Art. 267 as amended by R.A. 7659.
+- **Not Art. 48, and not separate crimes:** the kidnapping and the killing "can no longer be complexed under Art. 48, nor be treated as separate crimes."
+- **Intent to kill is immaterial.** The old distinction between a killing that was purposely sought and one that was an afterthought is eliminated. Here the victim died in a shootout with police, and the crime was still the special complex crime.
+- **Penalty:** Art. 267 provides death where the kidnapping is for ransom, which R.A. 9346 reduces to **reclusion perpetua without eligibility for parole**.
