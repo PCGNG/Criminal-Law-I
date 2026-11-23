@@ -1,1 +1,69 @@
+**People of the Philippines v. Celerino Castromero**
+G.R. No. 118992, October 9, 1997 (Third Division, Panganiban, J.)
 
+**Topic:** Complex Crimes (Art. 48, Revised Penal Code)
+
+---
+
+## FACTS
+
+Josephine was asleep in her house, with the lights on and her husband away. She was awakened by the slam of her kitchen door and went out of her bedroom to check. She met Castromero, a neighbor and a relative of her mother-in-law. He pointed a knife at her and warned her not to shout or he would kill her. He embraced her, touched her breasts and private parts, pulled down her panty, removed his own pants and brief, placed himself on top of her, and tried to insert his penis into her vagina. Because of his sideways movement and her struggle, his penis touched the opening of her vagina.
+
+When Josephine noticed he was no longer holding the knife, she pushed him away. As she rose, Castromero grabbed her hands and was about to stab her. She immediately jumped out of the window. She fell to the ground and could not move her feet. She was brought to the hospital, where she was found to have a broken spinal column requiring surgery and medical attendance for more than ninety days.
+
+Castromero was charged with the complex crime of rape with serious physical injuries under Art. 335, in relation to Arts. 48 and 263, RPC. He raised denial and alibi. His house was only fifty meters from the crime scene. The RTC convicted him, and he appealed to the SC.
+
+---
+
+## ISSUE
+
+Is Castromero criminally liable for the complex crime of rape with serious physical injuries, even though the injuries were suffered when the victim jumped out of the window to escape from him?
+
+---
+
+## RULING
+
+**The SC AFFIRMED the conviction.**
+
+### Q1. Why is Castromero criminally liable for the complex crime of rape with serious physical injuries?
+
+**(a) The rape was consummated, so there is a crime to complex with the injuries.**
+
+> "To consummate rape, perfect or complete penetration of the complainant's private organ is not essential. Even the slightest penetration by the male organ of the lips of the female organ, or labia of the pudendum, is sufficient."
+
+Citing *People vs. Dela Pena*, 233 SCRA 573:
+
+> "the mere touching of the external genitalia by a penis capable of consummating the sexual act constitutes carnal knowledge."
+
+> "Josephine's testimony that appellant's organ touched the opening of her vagina can lead to no other conclusion than that the appellant's manhood legally invaded, however slightly, the lips of her private organ. Clearly, rape was consummated in this case. Because the sexual assault was perpetrated by force and intimidation, Appellant Castromero is thus guilty of rape pursuant to Article 335 of the Revised Penal Code."
+
+**(b) He is responsible for the injuries Josephine suffered while escaping from him.**
+
+> "In relation to the charge that rape was complexed with the crime of serious physical injuries, we stress the settled principle that a person who creates in another's mind an immediate sense of danger that causes the latter to try to escape is responsible for whatever the other person may consequently suffer."
+
+(Citing *People vs. Page*, 77 SCRA 348, 355, June 7, 1977.)
+
+**(c) Application: the injuries were serious and resulted from her escape, so the crime is complex.**
+
+> "In this case, Josephine jumped from a window of her house to escape from Appellant Castromero; as a result, she suffered serious physical injuries, specifically a broken vertebra which required medical attention and surgery for more than ninety days. This being the case, the court a quo correctly convicted Appellant Castromero of the complex crime of rape with serious physical injuries."
+
+**(d) The defenses of denial and alibi failed.**
+
+> "Appellant Castromero's defense of denial and alibi is inherently weak and certainly insufficient to outweigh Josephine's positive and categorical assertion of her violation by the former. Furthermore, '(f)or alibi to serve as basis for acquittal, it must be established with clear and convincing evidence. The requisites of time and place must be strictly met. Appellant must convincingly demonstrate that it was physically impossible for him to have been at the scene of the crime at the time of its commission.' Appellant's evidence falls far short of this requirement because his house, where he was allegedly sleeping at the time the crime was committed, was a mere fifty meters from the crime scene."
+
+---
+
+## FALLO
+
+> "WHEREFORE, the assailed Decision of the trial court is hereby AFFIRMED. However, the indemnity in favor of Josephine Baon is hereby INCREASED to fifty thousand pesos (P50,000.00) in line with current jurisprudence.
+>
+> SO ORDERED."
+
+---
+
+## KEY DOCTRINE FOR REVIEW
+
+- **Rape is consummated by the slightest touching.** Even the slightest penetration of the labia of the pudendum is enough, so complete penetration is not required.
+- **Provisions cited by the Court:** Art. 335, RPC (rape), and the complex crime charged under Arts. 48 and 263, RPC (as alleged in the Information). The Court's ruling on the complex crime rests on the doctrine in *People v. Page*, 77 SCRA 348, rather than on a quoted provision.
+- **Doctrine:** one who creates an immediate sense of danger in another's mind, causing her to try to escape, is responsible for whatever she consequently suffers. The injuries she suffers while escaping are attributed to the offender.
+- **Result:** the rape and the serious physical injuries (broken vertebra, medical attendance of more than 90 days) were treated as the **complex crime of rape with serious physical injuries**.
