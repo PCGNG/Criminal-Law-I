@@ -1,1 +1,108 @@
+**People of the Philippines v. Herminio Vibal, Jr. y Uayan @ "Pato" and Arnold David y Cruz @ "Anot"**
+G.R. No. 229678, June 20, 2018 (Second Division, Peralta, J.)
 
+*Note: the case title in your list reads "Vidal," but the decision's own text spells the accused's name "Vibal." This digest uses Vibal.*
+
+**Topic:** Complex Crimes (Art. 48, RPC: Direct Assault, Art. 148, with Murder)
+
+---
+
+## FACTS
+
+Mayor Arcillas had just finished solemnizing a mass wedding at the Sta. Rosa City Hall. PO2 Rivera and PO3 Almendras were his police escorts. As the group left the wedding room, Almendras noticed two young men following them. The group stopped briefly at the COA office and then walked down the hallway toward the Mayor's office. Vibal and David suddenly opened fire from the front and from behind. Vibal shot from the front and David from behind. Almendras could not draw his weapon because of the rapid fire.
+
+Mayor Arcillas died of gunshot wounds to the head, and PO2 Rivera died of gunshot wounds to the nape and chest. Almendras was wounded and suffered a fractured left forearm and weakness of the right hand. He was confined for about a month, and the attending physician did not testify on the gravity of his wounds. More than a year later, Almendras identified Vibal and David in court as the gunmen. Vibal and David raised denial and alibi, and they questioned the reliability of the identification. The prosecution presented a pre-incident photo of the wedding showing Vibal at the City Hall.
+
+Vibal and David were charged with direct assault with murder (two counts, for the Mayor and PO2 Rivera) and direct assault with frustrated murder (for Almendras). The CA downgraded the third charge to direct assault with attempted murder.
+
+---
+
+## ISSUE
+
+Are Vibal and David liable for the complex crime of direct assault with murder under Art. 48, RPC, for killing the Mayor and his police escort, and of direct assault with attempted murder for wounding the other escort, when the attack was a single shooting spree during the performance of their official duties?
+
+---
+
+## RULING
+
+**The SC DISMISSED the appeal and AFFIRMED the CA with modifications.**
+
+### Q. Why are the accused liable for the complex crime of Direct Assault with Murder?
+
+**(a) Direct assault under Art. 148 has two modes. The accused committed the second.**
+
+> "Direct assault, a crime against public order, may be committed in two ways: first, by 'any person or persons who, without a public uprising, shall employ force or intimidation for the attainment of any of the purposes enumerated in defining the crimes of rebellion and sedition;' and second, by any person or persons who, without a public uprising, 'shall attack, employ force, or seriously intimidate or resist any person in authority or any of his agents, while engaged in the performance of official duties, or on occasion of such performance.'"
+
+**(b) The elements of the second mode of direct assault**
+
+> "Appellants committed the second form of assault, the elements of which are: 1) that there must be an attack, use of force, or serious intimidation or resistance upon a person in authority or his agent; 2) the assault was made when the said person was performing his duties or on the occasion of such performance; and 3) the accused knew that the victim is a person in authority or his agent, that is, that the accused must have the intention to offend, injure or assault the offended party as a person in authority or an agent of a person in authority."
+
+**(c) Application: the victims were a person in authority and agents, who were performing official duties**
+
+> "Here, Mayor Arcillas was a duly elected mayor of Sta. Rosa, Laguna and thus, was a person in authority while PO2 Rivera and PO3 Almendras were agents of a person in authority. There is no dispute that all of the three victims were in the performance of their official duties at the time of the shooting incident. Mayor Arcillas was inside the Sta. Rosa City Hall officiating a mass wedding, and thereafter, while he was walking along the hallway from the COA office to his office, he was shot and killed. Victim PO2 Rivera and private complainant PO3 Almendras were likewise performing their duty of protecting and guarding Mayor Arcillas at the time of the shooting incident. Appellants' conduct of attacking the victims inside the Sta. Rosa City Hall clearly showed their criminal intent to assault and injure the agents of the law."
+
+**(d) When the assault results in killing, the complex crime of direct assault with murder or homicide arises.**
+
+> "When the assault results in the killing of an agent or of a person in authority for that matter, there arises the complex crime of Direct Assault with murder or homicide. Here, treachery qualified the killing of Mayor Arcillas and PO2 Rivera to murder. Treachery also attended the shooting of PO3 Almendras."
+
+(Citing *People v. Abalos*, 328 Phil. 24, 36 [1996].)
+
+**(e) Treachery qualified the killings to murder.**
+
+> "There is treachery when the following essential elements are present, viz.: (a) at the time of the attack, the victim was not in a position to defend himself; and (b) the accused consciously and deliberately adopted the particular means, methods or forms of attack employed by him. The essence of treachery lies in the suddenness of the attack by an aggressor on the unsuspecting victim, depriving the latter of any chance to defend himself and thereby ensuring the commission of the offense without risk to the offender arising from the defense which the offended party might make."
+
+> "In the case at bench, the shooting was deliberate and without a warning, done in a swift and unexpected manner. Mayor Arcillas, PO2 Rivera and PO3 Almendras were absolutely unaware of the imminent deadly assaults, and were for that reason in no position to defend themselves or to repel their assailants. Vibal and David, who were armed with guns, suddenly appeared in front and at the back of Mayor Arcillas, PO2 Rivera and PO3 Almedras and shot the three victims. The gunshots that came from the front of the victims were fired by Vibal, while those that came from behind them were fired by David. Said manner of attack clearly revealed appellants' deliberate design to thereby ensure the accomplishment of their purpose to kill or injure the three victims without any possibility of their escape or of any retaliation from them."
+
+**(f) Evident premeditation was not proven and therefore did not qualify the killings.**
+
+> "The Court agrees with the CA that the modifying circumstance of evident premeditation did not attend the commission of the offenses. Here, the records are bereft of any proof, direct or circumstantial, tending to show a plan or preparation to kill by appellants Vibal and David as well as when they meditated and reflected upon their decision to kill or/injure the three victims and the intervening time that elapsed before this plan was carried out. Accordingly, the circumstance of evident premeditation cannot be presumed against appellants. To qualify a killing to murder, the circumstances invoked must be proven as indubitably as the killing itself and cannot be deduced from mere supposition."
+
+**(g) Both accused acted in conspiracy.**
+
+> "Conspiracy is very much evident from the actuations of the appellants. They were synchronized in their approach to shoot Mayor Arcillas and his group. The concerted efforts of the appellants were performed with closeness and coordination, indicating a single criminal impulse - to kill the victims. Conspiracy may be deduced from the mode and manner in which the offense was perpetrated, or inferred from the acts of the accused themselves when these point to a joint purpose and design, concerted action and community of interest. The ascertainment of who among appellants actually hit, killed and/or caused injury to the victims already becomes immaterial. Where conspiracy has been adequately proven, as in the present case, all the conspirators are liable as co-principals regardless of the extent and character of their participation because, in contemplation of law, the act of one is the act of all."
+
+**(h) The wounded escort (Almendras): attempted, not frustrated, murder**
+
+> "It is well-settled that when the accused intended to kill his victim, as manifested by his use of a deadly weapon in his assault, and his victim sustained fatal or mortal wounds but did not die because of timely medical assistance, the crime committed is frustrated murder or frustrated homicide depending on whether or not any of the qualifying circumstances under Article 249 of the Revised Penal Code are present. But, if the wounds sustained by the victim in such a case were not fatal or mortal, then the crime committed is only attempted murder or attempted homicide."
+
+> "Here, the use of firearms and the manner of the commission of the crime by the appellants unmistakably show that they intended to kill PO3 Almendras and that treachery was present. However, no evidence was adduced to show that the nature of gunshot wounds sustained by PO3 Almedras was sufficient to cause the latter's death without timely medical intervention. We note that the attending physician of PO3 Almendras was not called to the witness stand to testify on the gravity or character of the gunshot wounds inflicted on the said victim. Also, no evidence was introduced to prove that PO3 Almendras would have died from his gunshot wounds without timely medical attendance. Where there is nothing in the evidence to show that the wound would be fatal if not medically attended to, the character of the wound is doubtful; hence, the doubt should be resolved in favor of the accused and the crime committed by him may be declared as attempted, not frustrated, murder."
+
+**(i) The accused were positively identified, and denial and alibi failed.**
+
+> "Every criminal conviction requires the prosecution to prove two things: (1) the fact of the crime, i.e., the presence of all the elements of the crime for which the accused stands charged, and (2) the fact that the accused is the perpetrator of the crime."
+
+> "Appellants simply raise denial, which is inherently weak and cannot prevail over the positive identification made by prosecution witness PO3 Almendras that they were the gunmen. Moreover, an affirmative testimony is far stronger than a negative testimony especially when it comes from the mouth of a credible witness, as in this case. Appellants' defense of alibi is likewise unavailing. In order that alibi might prosper, it is not enough to prove that the accused has been somewhere else during the commission of the crime; it must also be shown that it would have been impossible for him to be anywhere within the vicinity of the crime scene."
+
+**(j) The penalty: Art. 48 and R.A. 9346**
+
+> "When the offense is a complex crime, the penalty for which is that for the graver offense, to be imposed in the maximum period. For the complex crime of Direct Assault with Murder in Criminal Case Nos. 17646-B and 17647-B, the graver offense is Murder. Article 248 of the Revised Penal Code (RPC) provides for the penalty of reclusion perpetua to death for the felony of murder; thus, the imposable penalty should have been death. However, considering that the imposition of death penalty has been prohibited by Republic Act No. 9346, entitled 'An Act Prohibiting the Imposition of Death Penalty in the Philippines'; the penalty of reclusion perpetua should be imposed upon appellants. In addition, the qualification 'without eligibility for parole' should be affixed to qualify reclusion perpetua pursuant to A.M. No. 15-08-02-SC."
+
+> "In Criminal Case No. 17648-B for the complex crime of Direct Assault with Attempted Murder, the penalty to be imposed on appellants should be that for Attempted Murder, which is the more serious crime. The penalty for Attempted Murder is two degrees lower than that prescribed for the consummated felony under Article 51 of the RPC. Accordingly, the imposable penalty is prision mayor. Applying the Indeterminate Sentence Law, the minimum shall be taken from the penalty next lower in degree, i.e., prision correccional, in any of its periods, or anywhere from six (6) months and one (1) day to six (6) years while the maximum penalty should be from ten (10) years and one (1) day to twelve (12) years of prision mayor, the maximum period of the imposable penalty."
+
+---
+
+## FALLO
+
+> "WHEREFORE, the appeal is DISMISSED. The Decision of the Court of Appeals, dated February 24, 2016 in CA-G.R. CR-HC No. 06206 is hereby AFFIRMED with MODIFICATIONS as follows:
+>
+> 1.) In Criminal Case No. 17646-B, accused-appellants Herminio Vibal, Jr. y Dayan @ Pato and Arnold David y Cruz @ Anot are found guilty beyond reasonable doubt of the complex crime of Direct Assault with Murder. Accordingly, each is sentenced to suffer the penalty of Reclusion Perpetua without eligibility for parole. Further, they are ordered to pay, jointly and severally, the heirs of Mayor Leon Arcillas the amounts of P100,000.00 as civil indemnity, P100,000.00 as moral damages, P100,000.00 as exemplary damages and P50,000.00 as temperate damages.
+>
+> 2.) In Criminal Case No. 17647-B, accused-appellants Herminio Vibal, Jr. y Dayan @ Pato and Arnold David y Cruz @ Anot are found guilty beyond reasonable doubt of the complex crime of Direct Assault with Murder. Accordingly, each is sentenced to suffer the penalty of Reclusion Perpetua without eligibility for parole. Further, they are ordered to pay, jointly and severally, the heirs of PO2 Erwin Rivera the amounts of P100,000.00 as civil indemnity, P100,000.00 as moral damages, P100,000.00 as exemplary damages and P50,000.00 as temperate damages.
+>
+> 3.) In Criminal Case No. 17648-B, accused-appellants Herminio Vibal, Jr. y Uayan @ Pato and Arnold David y Cruz @ Anot are found guilty beyond reasonable doubt of the complex crime of Direct Assault with Attempted Murder. Accordingly, each is sentenced to suffer the penalty of four (4) years and two (2) months of prision correccional, as minimum, to ten (10) years and one (1) day of prision mayor, as maximum. Further, they are ordered to pay, jointly and severally, the private complainant Wilfreda B. Almendras the amounts of P50,000.00 as civil indemnity, P50,000.00 as moral damages and P50,000.00 as exemplary damages.
+>
+> 4.) Accused-appellants Herminio Vibal, Jr. y Dayan @ Pato and Arnold David y Cruz @ Anot are also ORDERED to PAY interest at the rate of six percent (6%) per annum from the time of finality of this Decision until fully paid, to be imposed on the civil indemnity, moral damages, exemplary damages and temperate damages.
+>
+> SO ORDERED."
+
+---
+
+## KEY DOCTRINE FOR REVIEW
+
+- **Direct assault (Art. 148, 2nd mode), elements:** (1) an attack, force, serious intimidation or resistance upon a person in authority or his agent; (2) made while the victim is performing official duties or on occasion of such performance; and (3) the accused knew the victim was a person in authority or his agent and intended to offend, injure or assault him as such.
+- **Persons involved:** a city mayor is a **person in authority**, and police escorts are **agents of a person in authority**.
+- **Complex crime:** when the assault results in the killing of the person in authority or his agent, the crime is the complex crime of **direct assault with murder or homicide** under Art. 48. The assault is a means of committing the killing.
+- **Murder:** treachery qualified the killings. Evident premeditation was not proven and cannot be presumed.
+- **Attempted, not frustrated:** if no evidence shows the victim's wounds were fatal without medical attention, the doubt is resolved in the accused's favor.
+- **Penalty:** the penalty for the graver offense is imposed in its maximum period. Here that was death for murder, which became **reclusion perpetua without eligibility for parole** (R.A. 9346 and A.M. No. 15-08-02-SC). For direct assault with attempted murder, the penalty is that for attempted murder, which is prision mayor.
+- **Conspiracy:** where conspiracy is proven, all conspirators are liable as co-principals. Who actually fired the fatal shots is immaterial.
