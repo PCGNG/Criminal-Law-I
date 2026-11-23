@@ -1,1 +1,116 @@
+**People of the Philippines v. Arturo Punzalan, Jr.**
+G.R. No. 199892, December 10, 2012 (First Division, Leonardo-De Castro, J.)
 
+*Note: the accused's name in the decision is **Arturo** Punzalan, Jr., not Antonio. Antonio Duclayna was one of the victims.*
+
+**Topic:** Complex Crimes (Art. 48, Revised Penal Code)
+
+---
+
+## FACTS
+
+Six Navy men (Andal, Duclayna, Bacosa, Cuya, Bundang and Domingo) were drinking in a videoke bar when Punzalan, also drunk, got into a heated argument with Bacosa. Punzalan thought that Bacosa's remark "Patayin ang ilaw" was directed at him. He remained visibly angry. The Navy men left the bar and walked toward their camp in pairs, with their backs to the road.
+
+Soon after, sentries at the camp gate flagged down Punzalan's speeding van. Punzalan pointed toward the Navy men, shouted "Papatayin ko ang mga 'yan!" and sped away before being cleared to proceed. The van swerved to the right and rammed the Navy men from behind. Andal and Duclayna died from massive blunt traumatic injuries. Cuya, Bacosa and Bundang suffered non-fatal injuries, and Domingo was pushed out of the van's path. Punzalan made a U-turn and sped off. When police found him, he said he ran over the Navy men because he was drunk.
+
+Punzalan was charged with murder qualified by treachery, with the aggravating circumstance of use of a motor vehicle. He claimed he sped up only because the Navy men were attacking him and their four companions were approaching, so he acted to avoid a greater evil under Art. 11(4), RPC. His own witness, a passenger in the van, said she noticed nothing unusual during the ride. The RTC and CA convicted him of the complex crime of double murder with multiple attempted murder.
+
+---
+
+## ISSUE
+
+Is Punzalan liable for a complex crime under Art. 48 of the RPC for ramming the Navy men with his van in a single act that killed two and injured or endangered four others?
+
+---
+
+## RULING
+
+**The SC AFFIRMED his conviction.**
+
+### Q1. What crime did Punzalan commit?
+
+> "The felony committed by appellant as correctly found by the RTC and the Court of Appeals, double murder with multiple attempted murder, is a complex crime contemplated under Article 48 of the Revised Penal Code:
+>
+> Art. 48. Penalty for complex crimes. – When a single act constitutes two or more grave or less grave felonies, or when an offense is a necessary means for committing the other, the penalty for the most serious crime shall be imposed, the same to be applied in its maximum period."
+
+### Q2. Why is he liable for this crime?
+
+**(a) Single act and single criminal purpose**
+
+> "Appellant was animated by a single purpose, to kill the navy personnel, and committed a single act of stepping on the accelerator, swerving to the right side of the road ramming through the navy personnel, causing the death of SN1 Andal and SN1 Duclayna and, at the same time, constituting an attempt to kill SN1 Cuya, SN1 Bacosa, SN1 Bundang and SN1 Domingo."
+
+**(b) Murder and attempted murder are both grave felonies**
+
+> "The crimes of murder and attempted murder are both grave felonies as the law attaches an afflictive penalty to capital punishment (reclusion perpetua to death) for murder while attempted murder is punished by prision mayor, an afflictive penalty."
+
+Art. 9, RPC, cited by the Court:
+
+> "Grave felonies are those to which the law attaches the capital punishment or penalties which in any of their periods are afflictive, in accordance with Article 25 of this Code."
+
+**(c) Why the injured victims were attempted, not frustrated, murder**
+
+> "The crime committed against SN1 Cuya, SN1 Bacosa, SN1 Bundang and SN1 Domingo, is a case of multiple attempted murder because none of them was proven to have suffered a mortal wound from the incident."
+
+The Court cited *Palaganas v. People*, G.R. No. 165483, September 12, 2006:
+
+> "when the accused intended to kill his victim, as manifested by his use of a deadly weapon in his assault, and his victim sustained fatal or mortal wound/s but did not die because of timely medical assistance, the crime committed is frustrated murder or frustrated homicide depending on whether or not any of the qualifying circumstances under Article 249 of the Revised Penal Code are present. However, if the wound/s sustained by the victim in such a case were not fatal or mortal, then the crime committed is only attempted murder or attempted homicide."
+
+**(d) The two murders alone already make a complex crime**
+
+> "In fact, in this case, the murders of SN1 Andal and SN1 Duclayna are sufficient to constitute a complex crime as they are two grave felonies resulting from a single act."
+
+**(e) The killings were qualified to murder by treachery**
+
+> "Treachery qualifies the killing to murder. There is treachery when the offender commits any of the crimes against persons, employing means, methods or forms in the execution thereof which tend directly and especially to ensure its execution, without risk to himself arising from any defense which the offended party might make. The elements of treachery are: (1) the employment of means of execution that gives the person attacked no opportunity to defend himself or to retaliate; and (2) the means of execution was deliberate or consciously adopted."
+
+> "The essence of treachery is the sudden and unexpected attack by the aggressor on unsuspecting victims, depriving the latter of any real chance to defend themselves, thereby ensuring its commission without risk to the aggressor, and without the slightest provocation on the part of the victims. The six navy personnel were walking by the roadside, on their way back to their camp. They felt secure as they have just passed a sentry and were nearing their barracks. They were totally unaware of the threat to their life as their backs were turned against the direction where appellant's speeding van came. They were therefore defenseless and posed no threat to appellant when appellant mowed them down with his van, killing two of them, injuring three others and one narrowly escaping injury or death."
+
+**(f) Use of a motor vehicle is an aggravating circumstance**
+
+> "Appellant deliberately used the van he was driving to pursue the victims. Upon catching up with them, appellant ran over them and mowed them down with the van, resulting to the death of SN1 Andal and SN1 Duclayna and injuries to the others. Thereafter, he continued to speed away from the scene of the incident. Without doubt, appellant used the van both as a means to commit a crime and to flee the scene of the crime after he committed the felonious act."
+
+**(g) The defense of avoidance of greater evil (Art. 11[4], RPC) failed**
+
+> "(1) the evil sought to be avoided actually exists;
+> (2) the injury feared be greater than that done to avoid it; and
+> (3) there be no other practical and less harmful means of preventing it."
+
+> "The RTC and the Court of Appeals rejected appellant's self-serving and uncorroborated claim of avoidance of greater evil. The trial and appellate courts noted that even appellant's own witness who was in the van with appellant at the time of the incident contradicted appellant's claim. Thus, the RTC and the Court of Appeals concluded that the evil appellant claimed to avoid did not actually exist. This Court agrees."
+
+> "Moreover, appellant failed to satisfy the third requisite that there be no other practical and less harmful means of preventing it. Under paragraph 4, Article 11 of the Revised Penal Code, infliction of damage or injury to another so that a greater evil or injury may not befall one's self may be justified only if it is taken as a last resort and with the least possible prejudice to another."
+
+**(h) The penalty under Art. 48, Art. 63 and R.A. 9346**
+
+> "Under Article 248 of the Revised Penal Code, as amended, murder is punishable by reclusion perpetua to death. Article 63 of the same Code provides that if the penalty prescribed is composed of two indivisible penalties, as in the instant case, and there is an aggravating circumstance the higher penalty should be imposed. Since use of vehicle can be considered as an ordinary aggravating circumstance, treachery, by itself, being sufficient to qualify the killing, the proper imposable penalty – the higher sanction – is death. However, in view of the enactment of Republic Act No. 9346, prohibiting the imposition of the death penalty, the penalty for the killing of each of the two victims is reduced to reclusion perpetua without eligibility for parole. The penalty of reclusion perpetua thus imposed by the Court of Appeals on appellant for the complex crime that he committed is correct."
+
+---
+
+## FALLO
+
+> "WHEREFORE, the appeal is hereby DENIED. The Decision dated April 29, 2011 of the Court of Appeals in CA-G.R. CR.-H.C. No. 02816 affirming the conviction of appellant Arturo Punzalan, Jr. for the complex crime of double murder with multiple attempted murder, imposing upon him the penalty of reclusion perpetua and ordering him to pay the following:
+>
+> (a) To the respective heirs of SN1 Arnulfo Andal and SN1 Antonio Duclayna:
+> (i) P75,000.00 civil indemnity;
+> (ii) P75,000.00 moral damages;
+> (iii) P30,000.00 exemplary damages; and
+> (iv) P25,000.00 temperate damages;
+>
+> (b) To the heirs of SN1 Andal, P2,172,270.21 for loss of earning capacity;
+>
+> (c) To each of the surviving victims, SN1 Danilo Cuya, SN1 Evelio Bacosa, SN1 Erlinger Bundang and SN1 Cesar Domingo:
+> (i) P40,000.00 moral damages; and
+> (ii) P30,000.00 exemplary damages; and
+>
+> (d) To SN1 Cuya, SN1 Bacosa and SN1 Bundang, P25,000.00 temperate damages each
+>
+> is AFFIRMED.
+>
+> SO ORDERED."
+
+---
+
+## KEY DOCTRINE FOR REVIEW
+
+- Art. 48, first clause: a **single act** that constitutes **two or more grave or less grave felonies** is a complex crime. The penalty is that for the most serious crime, applied in its maximum period.
+- Murder and attempted murder are both **grave felonies** (Art. 9), so a single act causing death to some and attempted murder to others is a complex crime.
+- Victims who sustained non-mortal wounds (or none) are **attempted**, not frustrated, murder (*Palaganas v. People*).
