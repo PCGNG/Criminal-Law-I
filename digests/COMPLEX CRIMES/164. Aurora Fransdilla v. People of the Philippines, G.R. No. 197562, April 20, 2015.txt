@@ -1,1 +1,122 @@
+**Aurora Engson Fransdilla v. People of the Philippines**
+G.R. No. 197562, April 20, 2015 (First Division, Bersamin, J.)
 
+**Topic:** Complex Crimes (Art. 48, RPC: Robbery in an Inhabited House by Armed Persons, Art. 299, and Robbery with Violence or Intimidation, Art. 294)
+
+---
+
+## FACTS
+
+Fransdilla and four men went to the house of Cynthia and Lalaine in Quezon City. Fransdilla told Lalaine she was from the POEA and was looking for Cynthia. Lalaine let her in. While Lalaine talked with her, Fransdilla kept dialing the telephone, asked for a cigarette, asked to use the comfort room, and said she was menstruating, all of which kept Lalaine's attention on her. The four men, who had been waiting outside, entered the house and stood behind Fransdilla.
+
+One of them, Cacal, poked a gun at Lalaine's neck and announced a hold-up. The other three herded the maids, a niece and a cousin into the bodega. Cacal pulled Lalaine by the hair and dragged her to Cynthia's room. He and Cuanang carried away a vault containing US dollars. Cacal later slapped Lalaine, and Cuanang tied her hands behind her back. Fransdilla peeped into the room while Lalaine was being tied. The men took jewelry and cash from the room, and all of them fled in two cars. Fransdilla was never tied up and moved freely around the house.
+
+The Information alleged that the accused, "by means of violence and intimidation upon person," robbed the residence by pretending to be from the POEA. Fransdilla presented no evidence and argued that her conspiracy with the others was not proven. The RTC convicted all the accused of robbery under Art. 299 only. The CA ruled that the crime was a complex crime of robbery in an inhabited house under Art. 299 and robbery with violence or intimidation under Art. 294.
+
+---
+
+## ISSUE
+
+What crime is committed when armed persons enter an inhabited house by pretending to be from a government agency and, in the course of the robbery, use violence and intimidation against the occupants? Is it a complex crime under Art. 48, RPC, and what penalty should be imposed?
+
+---
+
+## RULING
+
+**The SC AFFIRMED the conviction with modifications as to the penalty, the exemplary damages and interest.**
+
+### Q1. What crime did the accused commit? Explain.
+
+**(a) The crime is a complex crime of robbery in an inhabited house by armed men (Art. 299) and robbery with violence against or intimidation of persons (Art. 294).**
+
+> "Citing Napolis v. Court of Appeals, the CA ruled that all the accused, including Fransdilla, were guilty of committing the complex crime of robbery in an inhabited house under Article 299, Revised Penal Code, and robbery with intimidation or violence under Article 294, Revised Penal Code. Thus, it held that the penalty for the complex crime under Article 48 of the Revised Penal Code was that for the more serious offense, to be imposed in its maximum period."
+
+> "We concur with the CA."
+
+**(b) The earlier doctrine in *U.S. v. De los Santos* was abandoned in *Napolis v. Court of Appeals*.**
+
+> "In Napolis v. Court of Appeals, the Court abandoned the doctrine adopted in United States v. De los Santos that when the felonies of robbery in an inhabited house under Article 299 of the Revised Penal Code and robbery with violence against or intimidation of a person under Article 294 of the Revised Penal Code are committed, the penalty for the latter crime (although the lighter one) should be imposed because the violence against or intimidation of a person was the 'controlling qualification,' on the theory that 'robbery which is characterized by violence or intimidation against the person is evidently graver than ordinary robbery committed by force upon things, because where violence or intimidation against the person is present there is greater disturbance of the order of society and the security of the individual.'"
+
+**(c) The Court's reasoning in *Napolis*, quoted by the Court**
+
+> "Upon mature deliberation, We find ourselves unable to share the foregoing view. Indeed, one who, by breaking a wall, enters, with a deadly weapon, an inhabited house and steals therefrom valuable effects, without violence against or intimidation upon persons, is punishable under Art. 299 of the Revised Penal Code with reclusion temporal. Pursuant to the above view, adhered to in previous decisions, if, aside from performing said acts, the thief lays hand upon any person, without committing any of the crimes or inflicting any of the injuries mentioned in subparagraphs (1) to (4) of Art. 294 of the same Code, the imposable penalty - under paragraph (5) thereof- shall be much lighter. To our mind, this result and the process of reasoning that has brought it about, defy logic and reason."
+
+> "The argument to the effect that the violence against or intimidation of a person supplies the 'controlling qualification,' is far from sufficient to justify said result. We agree with the proposition that robbery with 'violence or intimidation against the person is evidently graver than ordinary robbery committed by force upon things,' but, precisely, for this reason, We cannot accept the conclusion deduced therefrom in the cases above cited - reduction of the penalty for the latter offense owing to the concurrence of violation or intimidation which made it a more serious one. It is, to our mind, more plausible to believe that Art. 294 applies only where robbery with violence against or intimidation of a person takes place without entering an inhabited house, under the conditions set forth in Art. 299 of the Revised Penal Code."
+
+> "We deem it more logical and reasonable to hold, as We do, when the elements of both provisions are present, that the crime is a complex one, calling for the imposition — as provided in Art. 48 of said Code — of the penalty for the most serious offense, in its maximum period, which, in the case at bar, is reclusion temporal in its maximum period."
+
+**(d) Application: the Information alleged and the prosecution proved the elements of both crimes.**
+
+> "Napolis v. Court of Appeals is controlling in this case. To start with, the information fully alleged the complex crime of robbery in an inhabited house under Article 299, Revised Penal Code, and robbery with intimidation or violence under Article 294, Revised Penal Code by averring that 'the above-named accused, conspiring together, confederating with and mutually helping one another, did then and there wilfully, unlawfully and feloniously with intent to gain, and by means of violence and intimidation upon person rob the residence x x x.' And, secondly, the Prosecution competently proved the commission of the complex crime by showing during the trial that the accused, after entering the residential house of the complainants at No. 24-B Mabait St., Teacher's Village, Quezon City, took away valuables, including the vault containing Cynthia's US dollar currencies, and in the process committed acts of violence against and intimidation of persons during the robbery by slapping and threatening Lalaine and tying her up, and herding the other members of the household inside the bodega of the house."
+
+**(e) Fransdilla is liable because she conspired with the others.**
+
+> "In the eyes of the law, conspiracy exists when two or more persons come to an agreement concerning the commission of a crime and decide to commit it. For an accused to be validly held to have conspired with her co-accused in committing the crime, her overt acts must evince her active part in the execution of the crime agreed to be committed. The overt acts of each of the conspirators must tend to execute the offense agreed upon, for the merely passive conspirator cannot be held to be still part of the conspiracy without such overt acts, unless such conspirator is the mastermind. Here, Fransdilla was satisfactorily shown not to have been a mere passive co-conspirator, but an active one who had facilitated the access into the house by representing herself as an employee of the POEA."
+
+> "Conspiracy can also be deduced from the mode and manner in which the offense is perpetrated, or can be inferred from the acts of the several accused evincing their joint or common purpose and design, concerted action and community of interest. Once conspiracy is established, the act of each conspirator is the act of all."
+
+### Q2. Why did the SC impose the penalty of reclusion temporal?
+
+**(a) The applicable provisions of law**
+
+Art. 294(5), RPC (robbery with violence or intimidation in other cases):
+
+> "Article 294. Robbery with violence against or intimidation of persons; Penalties. — Any person guilty of robbery with the use of violence against or intimidation of any person shall suffer:
+> x x x
+> 5. The penalty of prisión correccional in its maximum period to prision mayor in its medium period in other cases."
+
+> "Paragraph 5, supra, is the relevant provision, under which the penalty is prision correccional in its maximum period to prision mayor in its medium period."
+
+Art. 299, RPC:
+
+> "Article 299. Robbery in an inhabited house or public building or edifice devoted to worship. — Any armed person who shall commit robbery in an inhabited house or public building or edifice devoted to religious worship, shall be punished by reclusion temporal, if the value of the property taken shall exceed 250 pesos, and if:
+>
+> (a) The malefactors shall enter the house or building in which the robbery was committed, by any of the following means:
+> x x x
+> 4. By using any fictitious name or pretending the exercise of public authority.
+>
+> Or if —
+>
+> (b) The robbery be committed under any of the following circumstances:
+> x x x
+> 2. By taking such furniture or objects to be broken or forced open outside the place of the robbery."
+
+> "Relevant are paragraph (a)4 (because Fransdilla pretended to be from the POEA) and paragraph (b)2 (because the accused brought the vault down from Cynthia's upstairs bedroom and forced it open outside the place where the robbery was committed), supra. The penalty for the crime is reclusion temporal."
+
+**(b) Under Art. 48, the penalty is that for the more serious felony, imposed in its maximum period.**
+
+> "Under Article 48 of the Revised Penal Code, the penalty for the complex crime is that for the more serious felony, which, in this case, was the robbery in an inhabited house by armed men punishable by reclusion temporal, to be imposed in the maximum period (i.e., 17 years, four months and one day to 20 years)."
+
+**(c) The maximum of the indeterminate sentence was corrected.**
+
+> "Hence, the maximum of the indeterminate sentence of 12 years of prision mayor, as minimum, to 17 years and four months of reclusion temporal, must be corrected to 17 years, four months and one day of reclusion temporal."
+
+**(d) The Indeterminate Sentence Law requires definite, not ranging, terms. The RTC's sentence was a "patent elementary error."**
+
+> "That the trial judge fixed the indeterminate sentence at 'imprisonment of TWELVE (12) YEARS AND ONE (1) DAY to FOURTEEN (14) YEARS and EIGHT (8) MONTHS of reclusion temporal as minimum to SEVENTEEN (17) YEARS, FOUR (4) MONTHS and ONE (1) DAY to TWENTY (20) YEARS of reclusion temporal as maximum' was a patent elementary error. Such fixing contravened the letter and spirit of the Indeterminate Sentence Law, Section 1 of which reads:
+>
+> Section 1. Hereafter, in imposing a prison sentence for an offense punished by the Revised Penal Code, or its amendments, the court shall sentence the accused to an indeterminate sentence the maximum term of which shall be that which, in view of the attending circumstances, could be properly imposed under the rules of the said Code, and the minimum which shall be within the range of the penalty next lower to that prescribed by the Code for the offense; and if the offense is punished by any other law, the court shall sentence the accused to an indeterminate sentence, the maximum term of which shall not exceed the maximum fixed by said law and the minimum shall not be less than the minimum term prescribed by the same. (As amended by Act No. 4225)"
+
+> "Under Section 1, supra, the minimum of the indeterminate sentence is a penalty 'within the range of the penalty next lower to that prescribed by the [Revised Penal] Code for the offense,' and the maximum is 'that which, in view of the attending circumstances, could be properly imposed under the rules of the said Code.' Considering that the clear objective of the Indeterminate Sentence Law is to have the convict serve the minimum penalty before becoming eligible for release on parole pursuant to the Indeterminate Sentence Law, both the minimum and the maximum penalties must be definite, not ranging."
+
+**(e) No mitigating or aggravating circumstance changed the period.** The CA, with the Court's concurrence, took into account that "no mitigating or aggravating circumstances were present." The Court also noted the "conceded absence of any aggravating circumstance," which is why it deleted the exemplary damages (Art. 2230, Civil Code).
+
+---
+
+## FALLO
+
+> "WHEREFORE, the Court DENIES the petition for review on certiorari and AFFIRMS in all respects the conviction of accused AURORA ENGSON FRANSDILLA for the complex crime of robbery in an inhabited house by armed men under Article 299 of the Revised Penal Code and robbery with violence against and intimidation of persons under Article 294 of the Revised Penal Code, subject to the following MODIFICATIONS, namely: (1) she shall suffer the indeterminate sentence of 12 years of prision mayor, as minimum, to 17 years, four months and one day of reclusion temporal, as maximum; (2) the award of P200,000.00 as exemplary damages is deleted for lack of legal basis; and (3) and the actual damages of P2,250,000.00 shall earn interest of 6% per annum reckoned from the filing of the information until full payment.
+>
+> The petitioner shall pay the costs of suit.
+>
+> SO ORDERED."
+
+---
+
+## KEY DOCTRINE FOR REVIEW
+
+- **Complex crime of Art. 299 and Art. 294 robbery:** under *Napolis v. CA*, when the elements of robbery in an inhabited house by armed persons (Art. 299) and robbery with violence or intimidation (Art. 294) are both present, the crime is a **complex crime under Art. 48**. The *De los Santos* doctrine, which imposed the lighter Art. 294 penalty because violence was the "controlling qualification," is abandoned.
+- **Penalty:** under Art. 48, the penalty is that for the more serious crime in its maximum period. Art. 299 (**reclusion temporal**) is more serious than Art. 294(5) (prision correccional maximum to prision mayor medium). The maximum period of reclusion temporal is 17 years, 4 months and 1 day to 20 years.
+- **Indeterminate Sentence Law:** both the minimum and the maximum of the sentence must be definite, not a range. The maximum is imposed under the RPC rules, and the minimum is within the range of the penalty next lower. Here the sentence was 12 years of prision mayor, as minimum, to 17 years, 4 months and 1 day of reclusion temporal, as maximum.
+- **Conspiracy:** a conspirator with an active role, such as one who gains entry by pretending to be from a government agency, is liable for the whole crime. "The act of each conspirator is the act of all."
+- **Exemplary damages (Art. 2230, Civil Code)** require at least one aggravating circumstance, and none was present here.
