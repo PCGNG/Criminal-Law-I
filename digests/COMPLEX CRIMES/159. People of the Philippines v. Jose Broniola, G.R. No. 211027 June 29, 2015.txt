@@ -1,1 +1,104 @@
+**People of the Philippines v. Jose Broniola alias "Asot"**
+G.R. No. 211027, June 29, 2015 (Third Division, Villarama, Jr., J.)
 
+**Topic:** Complex Crimes (Special Complex Crime of Rape with Homicide under the Revised Penal Code)
+
+*Note: the Court calls this a special complex crime. It is not a complex crime under Art. 48, RPC.*
+
+---
+
+## FACTS
+
+AAA, a 13-year-old Grade VI pupil, left home for school and did not return. Her father reported her missing. Her lifeless body was found the next morning in a grassy lot near an uninhabited farm hut. It had several hack wounds, one hand and one finger were severed, and her underwear was bloodstained.
+
+Around 5:30 that afternoon, Abag met Broniola on a shortcut road near the place where the body was found. Broniola had scratches on his face and was holding a bolo (lagaraw) with blood on it. He appeared restless and uneasy. The post-mortem examination found that AAA died from loss of blood due to multiple hack wounds. It also found lacerations of the hymen and a whitish discharge in her vagina. The doctor opined that the genital injury could have been caused by a penetrating penis or any blunt object. Broniola's father had been killed by the son-in-law of AAA's father, which gave Broniola a motive. When questioned, Broniola was evasive about this.
+
+Nobody witnessed the rape and killing. Broniola was charged with rape with homicide. He raised denial and alibi.
+
+---
+
+## ISSUE
+
+Is Broniola liable for the special complex crime of rape with homicide, even though nobody witnessed the rape and killing and the conviction rests on circumstantial evidence?
+
+---
+
+## RULING
+
+**The SC DISMISSED the appeal and AFFIRMED the conviction for rape with homicide, with modification of the damages.**
+
+### Q. What kind of complex crime did the accused commit and why?
+
+**(a) Rape with homicide is a special complex crime.**
+
+> "Appellant was charged and convicted of rape with homicide. The felony of rape with homicide is a special complex crime that is, two or more crimes that the law treats as a single indivisible and unique offense for being the product of a single criminal impulse."
+
+(Citing *People v. Villaflores*, G.R. No. 184926, April 11, 2012, 669 SCRA 365, 380.)
+
+**(b) Its elements**
+
+> "In rape with homicide, the following elements must concur: (1) the appellant had carnal knowledge of a woman; (2) carnal knowledge of a woman was achieved by means of force, threat or intimidation; and (3) by reason or on occasion of such carnal knowledge by means of force, threat or intimidation, the appellant killed a woman."
+
+(Citing *People v. Yatar*, G.R. No. 150224, May 19, 2004, 428 SCRA 504, 521.)
+
+**(c) Both the rape and the homicide must be established beyond reasonable doubt, and circumstantial evidence may be used.**
+
+> "In this case, nobody witnessed the actual rape and killing of AAA. Appellant, however, may still be proven as the culprit despite the absence of eyewitnesses. Direct evidence is not a condition sine qua non to prove the guilt of an accused beyond reasonable doubt. For in the absence of direct evidence, the prosecution may resort to adducing circumstantial evidence to discharge its burden."
+
+Quoting *People v. Pascual*, 596 Phil. 260:
+
+> "It is settled that in the special complex crime of rape with homicide, both the rape and the homicide must be established beyond reasonable doubt. In this regard, we have held that the crime of rape is difficult to prove because it is generally unwitnessed and very often only the victim is left to testify for herself. It becomes even more difficult when the complex crime of rape with homicide is committed because the victim could no longer testify. Thus, in crimes of rape with homicide, as here, resort to circumstantial evidence is usually unavoidable."
+
+**(d) The rule on circumstantial evidence applied: Sec. 4, Rule 133, Rules of Court**
+
+> "SEC. 4. Circumstantial evidence, when sufficient. - Circumstantial evidence is sufficient for conviction if:
+> (a) There is more than one circumstance;
+> (b) The facts from which the inferences are derived are proven; and
+> (c) The combination of all the circumstances is such as to produce a conviction beyond reasonable doubt."
+
+**(e) The circumstances proven**
+
+> "First, witness Abag met the appellant on a shortcut road near the place where AAA's dead body was found, at about the same time (5:30 p.m.) AAA went missing as she failed to return home that day, February 28, 2000; Second, appellant had scratches on his face and he was holding a lagaraw a type of bolo used in the rural areas, which was stained with blood, and he was restless and uneasy; Third, in the morning of the following day, February 29, 2000, AAA's lifeless body was found with several hack wounds inflicted on her face, neck and extremities, one hand and one finger were totally severed; Fourth, the post-mortem examination conducted by Dr. Edu confirmed that AAA died from loss of blood due to multiple hack wounds, her underwear was blood-stained, she had hymenal lacerations and a whitish discharge was found in her vagina; Fifth, appellant had the motive to commit the crime against AAA considering that it was BBB's son-in-law, Lito Miguel, who killed appellant's father; and Sixth, appellant was evasive when being questioned on his knowledge of the identity of his father's killer and the latter's relationship to the family of AAA, and the amicable settlement executed by his mother in behalf of appellant's family."
+
+**(f) The circumstances formed an unbroken chain pointing to Broniola.**
+
+> "Considering all the circumstances mentioned and in light of previous rulings, we are satisfied that the evidence adduced against appellant constitutes an unbroken chain leading to the one fair and reasonable conclusion that appellant was the perpetrator of the crime. It is doctrinal that the requirement of proof beyond reasonable doubt in criminal law does not mean such a degree of proof as to exclude the possibility of error and produce absolute certainty. Only moral certainty is required or that degree of proof which produces conviction in an unprejudiced mind."
+
+**(g) The law on the penalty: R.A. 8353 (Arts. 266-A and 266-B, RPC) and R.A. 9346**
+
+> "ART. 266-A. Rape, When and How Committed. – Rape is committed – 1) By a man who shall have carnal knowledge of a woman under any of the following circumstances: a) Through force, threat or intimidation; b) When the offended party is deprived of reason or otherwise unconscious; c) By means of fraudulent machination or grave abuse of authority; and d) When the offended party is under twelve (12) years of age or is demented, even though none of the circumstances mentioned above be present."
+
+> "ART. 266-B. Penalties. – Rape under paragraph 1 of the next preceding article shall be punished by reclusion perpetua. x x x When by reason or on the occasion of the rape, homicide is committed, the penalty shall be death."
+
+> "SEC. 2. In lieu of the death penalty, the following shall be imposed: (a) the penalty of reclusion perpetua, when the law violated makes use of the nomenclature of the penalties of the Revised Penal Code; or (b) the penalty of life imprisonment, when the law violated does not make use of the nomenclature of the penalties of the Revised Penal Code."
+
+The Court noted that Section 3 of R.A. 9346 provides:
+
+> "Persons convicted of offenses punished with reclusion perpetua, or whose sentences will be reduced to reclusion perpetua, by reason of this Act, shall not be eligible for parole under Act No. 4103, otherwise known as the Indeterminate Sentence Law, as amended."
+
+> "The CA thus correctly modified the RTC judgment by declaring that the penalty of reclusion perpetua is without the possibility of parole, in accordance with the law."
+
+**(h) The damages**
+
+> "Conformably with *People v. Gambao*, we sustain the award of P100,000 as civil indemnity and increase the awards of moral and exemplary damages to P100,000 each. In addition, we award P25,000 to the victim's heirs as temperate damages in lieu of unproven actual damages. The CA correctly added that damages assessed in this case shall be subject to interest at six percent (6%) per annum."
+
+---
+
+## FALLO
+
+> "WHEREFORE, the appeal is DISMISSED. The Decision dated September 24, 2013 of the Court of Appeals-Cagayan de Oro City in CA-G.R. CR-HC No. 00805-MIN is hereby AFFIRMED with MODIFICATION in that the awards of moral and exemplary damages are increased to P100,000 each and that temperate damages of P25,000 is awarded to the heirs of AAA.
+>
+> With costs against the accused-appellant.
+>
+> SO ORDERED."
+
+*As affirmed, the CA's decision imposed reclusion perpetua without the possibility of parole.*
+
+---
+
+## KEY DOCTRINE FOR REVIEW
+
+- **Rape with homicide is a special complex crime**, with the same definition the Court gave in the quote above. The law treats it as "a single indivisible and unique offense for being the product of a single criminal impulse."
+- **Elements:** (1) carnal knowledge of a woman; (2) by force, threat or intimidation; and (3) by reason or on occasion of the carnal knowledge, the offender killed a woman.
+- **Proof:** both the rape and the homicide must be proven beyond reasonable doubt. Because the victim is dead and there is usually no eyewitness, **circumstantial evidence** is usually unavoidable. It is sufficient if it meets the three requisites of Sec. 4, Rule 133.
+- **Penalty:** Art. 266-B provides death, which R.A. 9346 reduces to **reclusion perpetua, without eligibility for parole**.
