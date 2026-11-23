@@ -1,1 +1,96 @@
+**People of the Philippines v. Eleuterio Bragat**
+G.R. No. 222180, November 22, 2017 (Second Division, Carpio, J.) (Resolution)
 
+**Topic:** Complex Crimes (Special Complex Crime of Robbery with Rape, Art. 294, RPC)
+
+---
+
+## FACTS
+
+Spouses AAA and BBB were at home with their 10-month-old child when Jundie, a classmate of their child, called from outside and asked for water. As the spouses went to lock the kitchen door, Bragat and three other armed, masked men barged into the kitchen. They hogtied the spouses and asked where the money was kept. When BBB said they had none, they beat him up and pointed a gun at his head. Two men took BBB to the bedroom and ransacked the house.
+
+Bragat brought AAA to the back of the kitchen and had a companion watch the baby. He removed her shorts and underwear and lay on top of her. When AAA resisted and told him she was menstruating, Bragat pointed a gun at her and threatened to kill her, her husband and their child if she did not give in. He removed his bonnet, kissed her and had sexual intercourse with her. He then took her back to the bedroom, where the spouses were made to point out their money. The men took P600 and AAA's gold earrings worth P3,000, then left.
+
+A medical examination of AAA gave negative results. The doctor said this could be because only 30% of sperm tests are positive within 24 hours, there may have been no penetration or ejaculation, or AAA was menstruating. Bragat raised alibi, claiming that he was in another town with his employer and two other drivers. He did not present any of them as witnesses.
+
+---
+
+## ISSUE
+
+Is Bragat guilty of the special complex crime of robbery with rape under Art. 294 of the RPC, where the rape was committed on the occasion of the robbery of the spouses' house?
+
+---
+
+## RULING
+
+**The SC AFFIRMED the conviction for robbery with rape, with modification of the damages.**
+
+### Q. How is the crime of robbery with rape committed?
+
+**(a) The governing provision is Art. 294(1), RPC, as amended by R.A. 7659.**
+
+> "Art. 294. Robbery with violence against or intimidation of persons – Penalties. Any person guilty of robbery with the use of violence against or intimidation of any person shall suffer:
+>
+> - The penalty of reclusion perpetua to death, when by reason or on occasion of the robbery, the cime [sic] of homicide shall have been committed, or when the robbery shall have been accompanied by rape or intentional mutilation or arson."
+
+**(b) The nature of the crime: the original intent must be robbery, and the rape must be committed on the occasion of it.**
+
+> "Robbery with rape contemplates a situation where the original intent of the accused was to take, with intent to gain, personal property belonging to another and rape is committed on the occasion thereof or as an accompanying crime, and not the other way around."
+
+(Citing *People v. Belmonte*, G.R. No. 22089 [sic], 5 July 2017, citing *People v. Tamayo*, 434 Phil. 642, 654 [2002].)
+
+**(c) The elements of robbery with rape**
+
+> "The prosecution's evidence satisfactorily established the following essential elements of the crime: (a) the taking of personal property is committed with violence or intimidation against persons; (b) the property taken belongs to another; (c) the taking is done with animo lucrandi; and (d) the robbery is accompanied by rape."
+
+**(d) Application: the taking, the violence and the intent to gain**
+
+> "In this case, the prosecution established that accused-appellant and his three companions took the cash and gold earrings of the spouses AAA and BBB by means of violence and intimidation. Accused-appellant and his cohorts barged into the house of the spouses armed with firearms and tied their hands behind their backs using a nylon rope. The assailants then asked for the location of the spouses' money. When BBB did not reveal where they kept their money, accused-appellant's companions then poked a gun at him and punched him in the stomach. Intent to gain, or animus lucrandi, as an element of the crime of robbery, is an internal act; hence, presumed from the unlawful taking of things. Having established that the personal properties of the victims were unlawfully taken by accused-appellant, intent to gain was sufficiently proven. Thus, the first three elements of the crime were clearly established."
+
+**(e) The rape element may be proven by the victim's credible testimony alone.**
+
+> "We shall now discuss the last element of the crime charged. Accused-appellant argues that AAA's lone testimony is not sufficient to prove that rape was committed on the occasion of the robbery. We disagree. The Supreme Court has consistently ruled that the sole testimony of the rape victim may be sufficient to convict the accused. If her testimony meets the test of credibility, such is sufficient to convict the accused. The credibility of the victim is almost always the single most important issue to hurdle. x x x."
+
+**(f) Alibi is weak against positive identification.**
+
+> "Appellant not only failed to discredit the testimonies of the prosecution witnesses, but also failed to strengthen his alibi. Appellant did not introduce as witnesses his alleged companions that night, his employer, Celestino Jojo Andales, Jr. and the other two trisikad drivers, Federico Casas and Berto Bensolan, to testify that it was physically impossible for appellant to be in the spouses' house because appellant was with them in another municipality. Here, absent any showing of ill motive on the part of the witnesses, a categorical, consistent, and positive identification of the appellant prevails over the appellant's alibi that 'he was somewhere else when the crime was committed and that it was physically impossible for him to have been at the scene of the crime.'"
+
+> "Unless substantiated by clear and convincing proof, alibi and denial are negative, self-serving, and undeserving of any weight in law."
+
+**(g) A negative medical examination does not negate rape.**
+
+> "This Court also agrees with the Court of Appeals that the negative results of a physical examination conducted by a certified doctor do not at all negate the commission of rape. We have consistently ruled that a medical examination and a medical certificate are merely corroborative and are not indispensable to the prosecution of a rape case."
+
+> "While Dr. Amadora testified in court that the results of the physical examinations conducted on AAA were negative, such fact does not at all negate the commission of rape. It has been ruled that the absence of fresh lacerations does not prove that the victim was not raped. A freshly broken hymen is not an essential element of rape and healed lacerations do not negate rape. Hence, the presence of healed hymenal lacerations the day after the victim was raped does not negate the commission of rape by the accused when the crime was proven by the combination of highly convincing pieces of circumstantial evidence x x x."
+
+**(h) The trial court's findings on credibility are respected.**
+
+> "This Court has consistently ruled that the determination by a trial judge who could weigh and appraise the testimonies of the witnesses as to the facts duly proved is entitled to the highest respect, unless it could be shown that the trial judge ignored or disregarded circumstances of weight or influence sufficient to call for a different finding."
+
+**(i) The conclusion on liability**
+
+> "Both the RTC of Toledo City, Cebu, Branch 29, and the Court of Appeals correctly found the appellant guilty beyond reasonable doubt of the special complex crime of robbery with rape under Article 294 of the Revised Penal Code, as amended by Section 9 of Republic Act No. 7659."
+
+**(j) The damages**
+
+> "However, the award of civil indemnity, moral damages, and exemplary damages should be increased to P75,000.00 each, pursuant to prevailing jurisprudence. Interest at the rate of 6% per annum is imposed on all damages awarded from the date of finality of this Resolution until fully paid."
+
+(Citing *People v. Jugueta*, G.R. No. 202124, 5 April 2016, 788 SCRA 331.)
+
+---
+
+## FALLO
+
+> "WHEREFORE, the Decision dated 12 August 2015 of the Court of Appeals in CA-G.R. CEB CR H.C. No. 01433 finding appellant Eleuterio Bragat guilty of robbery with rape is AFFIRMED with MODIFICATION. The award of civil indemnity, moral damages, and exemplary damages is increased to P75,000.00 each. Interest at the rate of 6% per annum is imposed on all damages awarded from the date of finality of this Resolution until fully paid.
+>
+> SO ORDERED."
+
+---
+
+## KEY DOCTRINE FOR REVIEW
+
+- **Robbery with rape** is a special complex crime under Art. 294(1), RPC, punished by reclusion perpetua to death, for robbery "accompanied by rape."
+- **The original intent must be robbery.** Rape must be committed "on the occasion thereof or as an accompanying crime, and not the other way around." If the original intent were rape and the taking came as an afterthought, the crime would not be robbery with rape.
+- **Elements:** (a) taking of personal property with violence or intimidation against persons; (b) the property belongs to another; (c) the taking is with *animus lucrandi*, which is presumed from the unlawful taking; and (d) the robbery is accompanied by rape.
+- **Proof of the rape:** the victim's credible testimony alone may be enough. A negative medical examination does not negate rape because the certificate is only corroborative.
+- **Defense of alibi:** it fails against the victims' positive identification, especially where the accused does not present the witnesses who could support it.
