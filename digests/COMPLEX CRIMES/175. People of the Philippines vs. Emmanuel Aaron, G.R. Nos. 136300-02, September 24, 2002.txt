@@ -1,1 +1,70 @@
+### ** People of the Philippines v. Emmanuel Aaron**
+*G.R. Nos. 136300-02, September 24, 2002*
 
+---
+
+### **Facts**
+
+One evening, 13-year-old AAA was sleeping inside her bedroom when Emmanuel Aaron (Aaron)—a neighbor and close friend of her family—entered the room, covered her mouth, pointed a knife at her neck, and threatened to kill her and her mother if she made any noise. Aaron undressed AAA, mounted her, and succeeded in inserting his penis into her vagina.
+
+When AAA squirmed and moved to free herself, Aaron's penis slipped out, whereupon he forcibly reinserted it; AAA struggled again, causing his penis to slip out a second time, and Aaron once more inserted it until he ejaculated—all within a single, continuous encounter inside the bedroom before he left.
+
+The RTC convicted Aaron of three separate counts of Rape based on the three successive penetrations during the same incident, elevating the case to the SC on automatic review.
+
+---
+
+### **Issue**
+
+Is Emmanuel Aaron criminally liable for only one count of rape, rather than three separate counts of rape, when he inserted his penis into the victim's vagina three times in rapid succession during a single, continuous sexual assault?
+
+---
+
+### **Ruling**
+
+**Yes.** The Supreme Court ruled verbatim:
+
+> "The trial court erred in convicting accused-appellant of three counts of rape. Although accused-appellant inserted his penis into the vagina of AAA three times, the insertions were done in rapid succession, in one place and on one occasion, and were propelled by one single criminal intent."
+
+**Legal Basis / Doctrines Relied Upon:**
+
+* **Article 48, Revised Penal Code** (Concept of a continued crime / *delito continuado* as distinguished from multiple distinct felonies — a series of acts performed during one occasion propelled by a single criminal resolution constitutes only one offense)
+* **Article 335, Revised Penal Code, as amended by R.A. No. 7659** (Rape committed through force and intimidation)
+* *People v. De Leon*, 319 SCRA 743 (1999) / *People v. Garcia*, 281 SCRA 463 (1997) (Successive vaginal penetrations occurring in one continuous episode driven by a single criminal impulse constitute only one count of rape)
+
+---
+
+### **Ratio Decidendi**
+
+Under the doctrine of *delito continuado* (continued crime) in relation to Article 48 of the Revised Penal Code, multiple physical acts committed in one place, on a single occasion, and impelled by a single criminal resolution constitute only one felony rather than separate offenses. Where an accused repeatedly inserts his penis into the victim's vagina in rapid succession during one uninterrupted sexual encounter merely because the victim's physical resistance caused momentary dislodgements before he ejaculated, the three insertions are merely successive episodes of a single criminal intent to satisfy his lust once, rendering him liable for only one count of rape.
+
+---
+
+### **Fallo**
+
+The Supreme Court **MODIFIED** the joint decision of the Regional Trial Court of Quezon City, finding accused-appellant **Emmanuel Aaron guilty beyond reasonable doubt of only ONE (1) count of Rape** (in Criminal Case No. Q-96-65201), sentencing him to suffer the penalty of ***reclusion perpetua***, and ordering him to pay the victim AAA **₱50,000.00 as civil indemnity** and **₱50,000.00 as moral damages**, while **ACQUITTING** him of the two other counts of rape (Criminal Cases Nos. Q-96-65202 and Q-96-65203).
+
+---
+
+### **Elaborate Answer to Review Question**
+
+**Why did the Court convict the accused of only one count of rape even though he thrice succeeded in inserting his penis into the private part of the victim?**
+
+The Supreme Court reversed the trial court's conviction of Emmanuel Aaron on two of the three counts of rape and held him liable for **only one count of rape** based on the criminal law doctrine of **unity of criminal intent (*delito continuado*)** as contrasted with separate, independent criminal impulses:
+
+1. **Single Criminal Impulse (*Una Sola Resolucion Criminal*):**
+In criminal law, the number of offenses committed in a sexual assault is determined not by the mechanical count of momentary withdrawals and re-insertions during the same act of intercourse, but by whether each penetration was impelled by a **separate and distinct criminal resolution** to satisfy the offender's lust anew.
+* In *Aaron*, the accused entered AAA's bedroom with a single criminal design: to have carnal knowledge of her once.
+* The first and second withdrawals were **involuntary interruptions** caused solely by 13-year-old AAA's squirming and struggling to free herself, which caused Aaron's penis to slip out before he had ejaculated. His immediate re-insertions were merely physical continuations of that exact same, unconsummated act of sexual intercourse until he reached ejaculation.
+
+
+2. **Unity of Time, Place, and Occasion:**
+All three penetrations occurred:
+* **In rapid succession** (within minutes of each other without any appreciable interval or cooling-off period);
+* **In the exact same place** (inside AAA's bedroom); and
+* **On one continuous occasion** (during a single nocturnal intrusion).
+
+
+3. **Contrast with Cases Where Multiple Counts of Rape Are Proper:**
+For bar examination review, *People v. Aaron* illustrates the crucial dividing line in determining whether multiple penetrations constitute one rape or multiple rapes:
+* **One Count of Rape (Continued Crime):** When the penis slips out during a struggle or change of position and is immediately reinserted during the **same continuous sexual encounter** before the offender's single criminal intent is fulfilled (as in *Aaron*, *People v. De Leon*, and *People v. Garcia*).
+* **Multiple Counts of Rape:** When the accused finishes one sexual act (or desists for an appreciable period), forms a **new, distinct criminal resolution** to rape the victim again—even if committed inside the same room minutes or hours later—each independent decision to violate the victim constitutes a separate crime of rape (e.g., *People v. Lucena*, *People v. Biong*).
