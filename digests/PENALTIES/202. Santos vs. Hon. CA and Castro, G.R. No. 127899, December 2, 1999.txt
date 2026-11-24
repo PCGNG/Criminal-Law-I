@@ -1,0 +1,77 @@
+### **Jose B. Santos v. Honorable Court of Appeals and Jose R. Castro**
+
+*G.R. No. 127899, December 2, 1999*
+
+---
+
+### **Facts**
+
+Jose Santos (Santos) was charged with and convicted by the MeTC of three (3) separate counts of violation of Batas Pambansa Blg. 22 (Bouncing Checks Law) upon complaints filed by Jose Castro (Castro). For each of the three counts, the MeTC sentenced Santos to suffer a straight penalty of six (6) months of imprisonment, which placed all three penalties within the probationable threshold of not more than six (6) years under the Probation Law.
+
+Upon receipt of the MeTC decision, Santos timely filed an application for probation before the trial court. However, during the pendency of his application, the Probation Officer submitted a Post-Sentence Investigation Report recommending the denial of probation—showing that Santos had previously been convicted by final judgment of Estafa by the RTC of Manila, for which he had been sentenced to an indeterminate penalty of two (2) years, eleven (11) months, and eleven (11) days of *prision correccional*, as minimum, to eight (8) years and one (1) day of *prision mayor*, as maximum. Based on this prior conviction, the MeTC denied Santos's application for probation, which both the RTC and the CA affirmed, prompting Santos's appeal to the SC.
+
+---
+
+### **Issue**
+
+Is Jose Santos disqualified from availing of the benefits of probation under Section 9(c) of Presidential Decree No. 968 (Probation Law of 1976), as amended—notwithstanding that his current penalties for three counts of violating Batas Pambansa Blg. 22 fall within the probationable period under the Revised Penal Code nomenclature—by reason of a prior final conviction carrying a penalty exceeding the statutory threshold?
+
+---
+
+### **Ruling**
+
+**Yes.** The Supreme Court ruled verbatim:
+
+> "Section 9 of Presidential Decree No. 968, otherwise known as the Probation Law of 1976, as amended, provides:
+> SEC. 9. *Disqualified Offenders.* — The benefits of this Decree shall not be extended to those:
+> (a) sentenced to serve a maximum term of imprisonment of more than six years;
+> (b) convicted of subversion or any crime against the national security or the public order;
+> (c) who have previously been convicted by final judgment of an offense punished by imprisonment of not less than one month and one day and/or a fine of not less than Two Hundred Pesos;
+> (d) who have been once on probation under the provisions of this Decree; and
+> (e) who are already serving sentence at the time the substantive provisions of this Decree became applicable pursuant to Section 33 hereof."
+
+> "Under Section 9(c) of P.D. No. 968, as amended, a person who has previously been convicted by final judgment of an offense punished by imprisonment of not less than one month and one day and/or a fine of not less than Two Hundred Pesos is disqualified from availing of the benefits of probation. Here, it is undisputed that petitioner had previously been convicted by final judgment of the crime of estafa and sentenced to suffer imprisonment of two (2) years, eleven (11) months, and eleven (11) days of *prision correccional*, as minimum, to eight (8) years and one (1) day of *prision mayor*, as maximum. Clearly, petitioner falls within the disqualification under Section 9(c) of P.D. No. 968."
+
+**Legal Basis / Doctrines Relied Upon:**
+
+* **Section 9(c), Presidential Decree No. 968, as amended by Batas Pambansa Blg. 76 and Presidential Decree No. 1990** (Disqualified offenders — prior conviction by final judgment of an offense punished by imprisonment of not less than one month and one day and/or a fine of not less than ₱200.00)
+* **Batas Pambansa Blg. 22** (Bouncing Checks Law)
+* **Article 315, Revised Penal Code** (Estafa — prior felony conviction carrying a penalty of *prision correccional* to *prision mayor*)
+* *Office of the Court Administrator v. Librado*, A.M. No. P-94-1089, August 22, 1996 / *Santos v. Court of Appeals* (Probation is a mere privilege granted by the State, and courts have no authority to grant probation to an applicant who falls under any of the statutory disqualifications in Section 9 of P.D. No. 968)
+
+---
+
+### **Ratio Decidendi**
+
+To qualify for probation under Presidential Decree No. 968, as amended, an applicant must not only be sentenced to a probationable maximum term of imprisonment of six (6) years or less for the current offense, but must also not fall within any of the disqualifications enumerated under Section 9 thereof. Under Section 9(c) of P.D. No. 968, any offender who has previously been convicted by final judgment of an offense punished by imprisonment of not less than one (1) month and one (1) day and/or a fine of not less than ₱200.00 is strictly disqualified from probation—regardless of how light or probationable the penalty for his subsequent conviction may be. Because Santos had a prior final conviction for Estafa under the Revised Penal Code carrying an indeterminate prison term of up to eight years and one day of *prision mayor*, the trial court was legally bound to deny his application for probation.
+
+---
+
+### **Fallo**
+
+> "WHEREFORE, the petition is DENIED, and the challenged Decision of the Court of Appeals in CA-G.R. SP No. 41008 is hereby AFFIRMED. Costs against petitioner.
+> SO ORDERED."
+
+---
+
+### **Elaborate Answer to Review Question**
+
+**Despite being convicted by a probationable offense, why was the Accused denied probation?**
+
+Even though Jose Santos was sentenced to only **six (6) months of imprisonment** for each of his three counts of violating B.P. Blg. 22—well within the six-year ceiling under **Section 9(a) of Presidential Decree No. 968**—the Supreme Court affirmed the denial of his probation application because **eligibility for probation requires passing ALL five disqualifications under Section 9 of P.D. No. 968**, and Santos was barred by **Section 9(c)**:
+
+1. **Statutory Disqualification Under Section 9(c) of P.D. No. 968 (as amended by B.P. Blg. 76):**
+* While **Section 9(a)** disqualifies an offender based on the *current* sentence (if the maximum term exceeds 6 years), **Section 9(c)** looks backward at the offender's **criminal record** and disqualifies anyone:
+> *"(c) who have previously been convicted by final judgment of an offense punished by imprisonment of **not less than one month and one day** and/or a fine of **not less than Two Hundred Pesos**."*
+
+
+* *(Note for Bar Review: Under the subsequent amendment introduced by **Republic Act No. 10707** in 2015, Congress raised the threshold in Section 9[c] to a prior conviction punished by imprisonment of **more than six (6) months and one (1) day** and/or a fine of **more than One Thousand Pesos (₱1,000.00)**—which Santos would still have exceeded anyway).*
+
+
+2. **Santos's Prior Final Conviction for Estafa Exceeded the Statutory Threshold:**
+* During the Post-Sentence Investigation conducted by the Probation Officer, it was uncovered that Santos had **previously been convicted by final judgment of Estafa** by the RTC of Manila (Criminal Case No. 89-72512) and sentenced to an indeterminate penalty of **two (2) years, eleven (11) months, and eleven (11) days of *prision correccional*, as minimum, to eight (8) years and one (1) day of *prision mayor*, as maximum**.
+* Because that prior final conviction carried a penalty far exceeding the threshold of *one month and one day* (and even exceeding the modern *six months and one day* threshold under R.A. No. 10707), Santos was a **disqualified offender** as a matter of law.
+
+
+3. **Policy Rationale Behind Section 9(c) (First-Time Offender Principle):**
+* The Probation Law was enacted primarily to give **first-time or non-habitual offenders** a second chance to reform outside prison walls without being hardened by incarceration. Once an offender has already been convicted by final judgment of a serious offense and nevertheless commits new crimes (here, issuing three bouncing checks), he demonstrates a propensity to re-offend that places him outside the humanitarian grace of the Probation Law—leaving the trial court with zero discretion to grant probation.
