@@ -1,1 +1,100 @@
+**People of the Philippines v. Emerito Abella, et al.**
+G.R. No. L-32205, August 31, 1979 (En Banc, Aquino, J.)
 
+**Topic:** Complex Crimes (Art. 48, RPC: the single-purpose theory)
+
+---
+
+## FACTS
+
+Seventeen "close-confined" inmates of the Oxo gang in the Davao Penal Colony were held in three small cells, across a corridor from a big cell holding about seventy prisoners, many of them members of the rival Sigue-Sigue gang. One Sunday, one of the close-confined inmates, Gavilaguin, tricked the trusty guard Reynon into opening the big cell on the pretext of pawning a pillow. The raiders seized Reynon and beat him unconscious. Led by Abella, Villaflor and Gavilaguin, thirteen others from the small cells rushed into the big cell with improvised weapons. They were joined by other Oxo gang members from inside the big cell, who tore up the floor for wooden clubs.
+
+The attackers killed and beat the unarmed Sigue-Sigue inmates, many of whom lay flat or clung to the walls. The assault lasted about an hour. Fourteen inmates died, and three others (Reynon, Del Rosario and De Guzman) survived with serious wounds. The attending physician testified that they would have died without timely medical attention. The accused were all quasi-recidivists serving sentences for other crimes.
+
+Thirty-seven inmates were charged in one Information with multiple murder and multiple frustrated murder. Nineteen pleaded guilty and the rest were tried. The trial court treated the killings and injuries as a complex crime and imposed a single death penalty. The Solicitor General argued that the accused should instead be convicted of fourteen separate murders and three separate frustrated murders, because distinct acts caused the killings and injuries.
+
+---
+
+## ISSUE
+
+Are the accused liable for the complex crime of multiple murder and multiple frustrated murder under Art. 48, RPC, or for fourteen separate murders and three separate frustrated murders, since the victims were killed and injured by distinct acts?
+
+---
+
+## RULING
+
+**The SC AFFIRMED the conviction for the complex crime of multiple murder and multiple frustrated murder and commuted the death penalty to reclusion perpetua.**
+
+### Q. What is the legal basis for holding the accused liable for the complex crime instead of fourteen separate murders and three separate frustrated murders?
+
+**(a) The Court's statement of the contention and its rejection**
+
+> "The fiscal and the trial court treated the fourteen killings and the injuries inflicted on the three victims as a complex crime of multiple murder and multiple frustrated murder. The trial court imposed a single death penalty."
+
+> "However, the Solicitor General submits that the accused should be convicted of fourteen separate murders and three separate frustrated murders and punished, respectively, by fourteen death penalties and three penalties for the frustrated murders because the killings and injuries were effected by distinct acts."
+
+> "It is argued that article 48 of the Revised Penal Code is not applicable to this case. Cited in support of that stand is the ruling in U.S. vs. Ferrer, 1 Phil. 56 that 'where the defendant has fired two shots, killing one party and wounding another, the acts constitute two distinct crimes, each of which must be tried separately'."
+
+> "We hold that the Solicitor General's submission is not well-taken."
+
+**(b) The controlling precedent: *People v. De los Santos*, 14 SCRA 702**
+
+> "In the De los Santos case, supra, which involved two riots on two successive days in the national penitentiary wherein nine prisoners were killed (five on the first day and four on the second day), the fourteen members of the Sigue-Sigue gang who took part in the killing were convicted of multiple murder (a complex crime) and not of nine separate murders. Only one death penalty was imposed. It was commuted to reclusion perpetua for lack of necessary votes."
+
+> "There is no compelling reason for not deciding this case in the same way as the De los Santos case. The two cases are very similar."
+
+**(c) The theory behind *De los Santos*: a single purpose makes various acts one offense.**
+
+> "The ruling in the De los Santos case is predicated on the theory that 'when, for the attainment of a single purpose which constitutes an offense, various acts are executed, such acts must be considered only as one offense', a complex one (People vs. Peñas, 66 Phil. 682, 687. See People vs. Cu Unjieng, 61 Phil. 236, 302 and 906, where the falsification of one hundred twenty-eight warehouse receipts during the period from November 1930 to July 6, 1931, which enabled the accused to swindle the bank in the sum of one million four hundred thousand pesos was treated as only one complex crime of estafa through multiple falsification of mercantile documents and only one penalty was imposed)."
+
+**(d) The precedents that support it**
+
+> "That holding in the De los Santos case is buttressed by some precedents. Thus, in People vs. Cabrera, 43 Phil. 64 and 82, 102-103, where seventy-seven Constabularymen murdered six policemen (including the assistant chief of police) and two private citizens and gravely wounded three civilians, they were convicted of multiple murder with grave injuries, a complex crime."
+
+> "In People vs. Sakam, 61 Phil. 27, nineteen Moros, forming part of a band of one hundred, massacred fourteen Constabularymen. They were charged and convicted of multiple murder, a complex crime."
+
+> "In People vs. Lawas, 97 Phil. 975, where on a single occasion around fifty Maranaos were killed by a group of home guards (formerly Constabulary soldiers), the killing was held to be only one complex offense of multiple homicide because it 'resulted from a single criminal impulse' and it was not possible to determine how many victims were killed by each of the accused."
+
+> "In People vs. Manantan, 94 Phil. 831, around eighty persons stationed on both sides of the highway in Sitio Salabusab, Bongabong, Nueva Ecija, fired at the group of Aurora Vda. de Quezon riding in five cars ... Five persons were charged with multiple murder, a complex crime, for complicity in the ambuscade. ... This Court imposed upon Manantan and Viray only one death penalty for the multiple murder but for lack of necessary votes, the penalty was reduced to reclusion perpetua."
+
+**(e) The Court of Appeals' rule on conspiracy, cited as persuasive authority (*People v. Leaño*)**
+
+> "As persuasive authority, it may be noted that the Court of Appeals rendered the same ruling when it held that where a conspiracy animates several persons with a single purpose 'their individual acts in pursuance of that purpose are looked upon as a single act — the act of execution — giving rise to a complex offense. The felonious agreement produces a sole and solidary liability: each confederate forms but a part of a single being' (People vs. Leaño, 1 ACR 447, 461 per Albert, J., with Justices Pedro Concepcion, Moran, Sison and Paras concurring)."
+
+**(f) The analogy to robbery with homicide**
+
+> "The holding that there is a complex crime in cases like the instant case is similar to the rule in robbery with homicide, a special complex crime, where the number of persons killed on the occasion or by reason of the robbery does not change the nature of the crime."
+
+**(g) Conspiracy, treachery and the aggravating circumstances**
+
+> "The conspiracy among the accused was manifest and indubitable. The massacre had been planned by the sixteen 'close-confined' prisoners in collaboration with the other members of the Oxo gang in the big cell."
+
+> "Defense counsel's contention that treachery and evident premeditation are not aggravating in this case is untenable. The accused, who were all armed, unexpectedly attacked the unarmed and defenseless Sigue-Sigue inmates in the big cell who had no means of escaping from that cell and who could not avoid their assaults. The victims did not offer any resistance."
+
+**(h) The Court's conclusion on the offense and the penalty provisions**
+
+> "We have already stated that the conviction for multiple murder and multiple frustrated murder, as a complex crime, qualified by treachery (absorbing abuse of superiority and cuadrilla) and aggravated by quasi-recidivism and evident premeditation (offset by plea of guilty) and recidivism, as to some accused, as shown in the record, should be affirmed."
+
+> "The death penalty was properly imposed in conformity with articles 48, 160 and 248 of the Revised Penal Code. The indemnity of six thousand pesos should be increased to twelve thousand pesos for each set of heirs of the fourteen victims."
+
+**(i) Why the death penalty was commuted**
+
+> "However, justice should be tempered with mercy. Considering the circumstances which drove the accused to massacre their fellow prisoners, they deserve clemency. The death penalty should be commuted to reclusion perpetua."
+
+---
+
+## FALLO
+
+> "WHEREFORE, following the precedent established in the aforecited De los Santos case, the death penalty imposed by the lower court is reduced to reclusion perpetua. The indemnity of six thousand pesos is increased to twelve thousand pesos. The indemnities for the frustrated murders are affirmed. Defendant Maximo Apolonias is acquitted on the ground of insufficiency of evidence. Costs de oficio.
+>
+> SO ORDERED."
+
+---
+
+## KEY DOCTRINE FOR REVIEW
+
+- **Single purpose theory:** "when, for the attainment of a single purpose which constitutes an offense, various acts are executed, such acts must be considered only as one offense." Conspiring offenders who share a single purpose are treated as committing a **single complex offense**. Their individual acts are "looked upon as a single act — the act of execution" (*People v. Leaño*).
+- **Result here:** one complex crime of multiple murder and multiple frustrated murder, with a single penalty. It was not fourteen murders and three frustrated murders with separate penalties.
+- **Penalty:** under Arts. 48, 160 and 248, the penalty for the most serious crime is imposed in its maximum period. Death was commuted to reclusion perpetua on grounds of clemency.
+- **Aggravating circumstances:** treachery qualified the killings and absorbed abuse of superiority and *cuadrilla*. Quasi-recidivism is a special aggravating circumstance that justified the maximum penalty.
+- **Contrast with later cases:** this "single purpose" or "single criminal impulse" approach (with *De los Santos* and *Lawas*) is the line of cases that *People v. Toling* labels "contra." Later decisions such as *People v. Jugueta* and *People v. Sanchez* require a **single act**, so separate acts by different persons give rise to separate counts. This digest records what *Abella* held and does not reflect the later cases' rule.
