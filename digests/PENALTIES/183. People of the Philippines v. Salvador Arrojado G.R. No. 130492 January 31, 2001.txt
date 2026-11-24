@@ -1,0 +1,88 @@
+**People of the Philippines v. Salvador Arrojado**
+G.R. No. 130492, January 31, 2001 (Second Division, Mendoza, J.)
+
+**Topic:** Penalties under the Revised Penal Code (nature and duration of reclusion perpetua, and the effect of an aggravating circumstance not alleged in the information)
+
+---
+
+## FACTS
+
+Arrojado and his first cousin Mary Ann lived in the same house with her invalid father. Arrojado helped care for the father and slept in the father's room. Mary Ann often scolded him, and he complained to relatives about her mistreatment. About three days before her death, Mary Ann had entrusted her jewelry and bank book to a relative out of fear of Arrojado. She took them back after her relative assured her that Arrojado would not harm her. She left her bedroom doors unlocked so she could check on her father at night.
+
+Arrojado reported at dawn that Mary Ann had committed suicide. She was found dead in her bed with ten stab wounds, half of them fatal. The kitchen knife was beside her. The wounds were all ante-mortem and could have been inflicted within about a minute. The doors were locked and the windows were grilled, so no intruder could have entered. Nothing was missing, and Arrojado was the only person with a motive. The information alleged that Arrojado killed her "with treachery and evident premeditation." It did not allege abuse of confidence. The RTC found him guilty of murder, found no aggravating circumstance, and sentenced him to "thirty (30) years of reclusion perpetua."
+
+---
+
+## ISSUE
+
+Was the penalty of "thirty (30) years of reclusion perpetua" imposed by the RTC correct for murder committed after R.A. 7659, and could abuse of confidence be appreciated to raise the penalty to death even though it was not alleged in the information?
+
+---
+
+## RULING
+
+**The SC AFFIRMED the conviction and MODIFIED the penalty to reclusion perpetua in its entire duration and full extent.**
+
+### Q. Why did the SC modify the penalty imposed by the RTC?
+
+**(a) The penalty for murder at the time of the crime, and the circumstance that would have called for death**
+
+> "The murder in this case took place after the effectivity of R.A. No. 7659 on December 31, 1993 which increased the penalty for murder from reclusion temporal maximum to death to reclusion perpetua to death."
+
+**(b) Abuse of confidence was present, though the RTC found no aggravating circumstance.**
+
+> "The aggravating circumstance of abuse of confidence, however, is present in this case. For this aggravating circumstance to exist, it is essential to show that the confidence between the parties must be immediate and personal such as would give the accused some advantage or make it easier for him to commit the criminal act. The confidence must be a means of facilitating the commission of the crime, the culprit taking advantage of the offended party's belief that the former would not abuse said confidence."
+
+> "Thinking that accused-appellant would not do her any harm, because he was after all her first cousin, the victim allowed accused-appellant to sleep in the same room with her father and left the bedroom doors unlocked."
+
+**(c) Under Art. 63(1), RPC, the penalty would have been death.**
+
+> "In view of the presence of the aggravating circumstance of abuse of confidence and in accordance with Art. 63(1) of the Revised Penal Code, the trial court should have imposed the penalty of death on accused-appellant."
+
+**(d) But the aggravating circumstance was not alleged in the information, so it could not raise the penalty to death (Rule 110, Sec. 8, Revised Rules of Criminal Procedure).**
+
+> "However, on December 1, 2000, the Revised Rules of Criminal Procedure took effect, requiring that every complaint or information state not only the qualifying but also the aggravating circumstances."
+
+Rule 110, Sec. 8, as quoted by the Court:
+
+> "Designation of the offense. ¾ The complaint or information shall state the designation of the offense given by the statute, aver the acts or omissions constituting the offense, and specify its qualifying and aggravating circumstances. If there is no designation of the offense, reference shall be made to the section or subsection of the statute punishing it."
+
+> "This provision may be given retroactive effect in the light of the well settled rule that 'statutes regulating the procedure of the court will be construed as applicable to actions pending and undetermined at the time of their passage. Procedural laws are retroactive in that sense and to that extent.'"
+
+> "The aggravating circumstance of abuse of confidence not having been alleged in the information, the same therefore could not be appreciated to raise accused-appellant's sentence to death."
+
+**(e) The RTC erred in fixing "30 years of reclusion perpetua," because reclusion perpetua is an indivisible penalty.**
+
+> "In accordance with the ruling in People v. Lucas that the penalty of reclusion perpetua remains indivisible notwithstanding the fixing of its duration from twenty (20) years and one (1) day to forty (40) years, the trial court erred in imposing on accused-appellant the penalty of 30 years of reclusion perpetua. In line with the ruling in Lucas, accused-appellant should suffer the entire extent of forty (40) years of reclusion perpetua."
+
+The Court cited *People v. Lucas*, 240 SCRA 66 (1995), citing *People v. Reyes*, 212 SCRA 402 (1992); Art. 27, RPC, as amended by R.A. 7659; and *People v. Gatward*, 267 SCRA 785 (1997).
+
+**(f) Other qualifying and aggravating circumstances considered**
+
+> "To appreciate treachery, two conditions must be present: (1) the employment of means of execution that gives the person attacked no opportunity to defend himself or to retaliate and (2) the means of execution is deliberately or consciously adopted."
+
+> "Abuse of superior strength also attended the killing since accused-appellant, a man and armed with a knife, attacked the victim, an unarmed and defenseless woman. However, since abuse of superior strength is absorbed in treachery, there is no need to appreciate it separately as an independent aggravating circumstance."
+
+> "Nor can the generic aggravating circumstance of dwelling be appreciated against accused-appellant since the latter and the victim lived in the same house."
+
+**(g) The civil liability was also modified, consistent with current case law.**
+
+> "Consistent with current case law, the civil indemnity for the crime of murder should be reduced from P60,000.00 to P50,000.00, while the award of moral damages in the amount of P80,000.00 should be reduced to P50,000.00."
+
+---
+
+## FALLO
+
+> "WHEREFORE, the decision of the Regional Trial Court, Branch 19, Roxas City, is AFFIRMED with the MODIFICATION that accused-appellant Salvador Arrojado is sentenced to suffer the penalty of reclusion perpetua in its entire duration and to its full extent. Furthermore, he is ordered to pay the heirs of the victim Mary Ann Arrojado the amount of P50,000.00 as civil indemnity and the further sum of P50,000.00 as moral damages and the costs.
+>
+> SO ORDERED."
+
+---
+
+## KEY DOCTRINE FOR REVIEW
+
+- **Reclusion perpetua is an indivisible penalty** even though Art. 27, RPC (as amended by R.A. 7659) fixes its duration at 20 years and 1 day to 40 years. A court may not fix a specific term such as "30 years of reclusion perpetua." The convict serves it "in its entire duration and to its full extent" (*People v. Lucas*).
+- **Penalty for murder after R.A. 7659:** reclusion perpetua to death. Two indivisible penalties are involved, so Art. 63 governs: with one aggravating circumstance, the greater penalty (death) applies, and with none, the lesser (reclusion perpetua) applies.
+- **Aggravating circumstances must be alleged in the information (Rule 110, Sec. 8, effective December 1, 2000).** The rule has retroactive effect as a procedural rule. An aggravating circumstance not alleged, such as abuse of confidence here, cannot be appreciated to increase the penalty, even if proven.
+- **Abuse of confidence** requires immediate and personal confidence that the accused used as a means of facilitating the crime. Dwelling cannot be appreciated where the accused and the victim live in the same house, and abuse of superior strength is absorbed in treachery.
+- **Today's note (not in this decision):** the death penalty no longer applies at all, because it was prohibited by R.A. 9346. This decision predates that law.
