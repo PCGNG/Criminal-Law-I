@@ -1,0 +1,67 @@
+### **Arturo A. Mejorada v. The Honorable Sandiganbayan**
+
+*G.R. Nos. L-51065-72, June 30, 1987*
+
+---
+
+### **Facts**
+
+Arturo Mejorada (Mejorada) was a Right-of-Way Agent of the Office of the Highway District Engineer in Pasig, Metro Manila, tasked with processing the claims of property owners whose lands were affected by the widening of the Marcos Highway. Mejorada approached eight different lot owners—Isidro Cecilio, Marcelo Marcos, David Bautista, Eligio Bautista, Juanito San Miguel, Ricardo Cruz, Dominador Cruz, and Mariano Santos—and demanded and received varying sums of money from each of them as a condition for processing and releasing their respective compensation checks, causing them undue injury and giving himself unwarranted benefits.
+
+Eight separate Informations for violation of Section 3(e) of Republic Act No. 3019 (Anti-Graft and Corrupt Practices Act) were filed against Mejorada before the Sandiganbayan. Following trial, the Sandiganbayan convicted Mejorada on all eight counts, imposing an indeterminate prison sentence for each count that, when totaled together, amounted to fifty-six (56) years and eight (8) days of imprisonment. On appeal to the SC, Mejorada contended, among others, that the Sandiganbayan erred in imposing penalties totaling 56 years and 8 days in violation of the three-fold rule under Article 70 of the Revised Penal Code, which caps the maximum duration of a convict's sentence at forty (40) years.
+
+---
+
+### **Issue**
+
+Did the Sandiganbayan err in imposing eight separate prison sentences totaling fifty-six (56) years and eight (8) days upon Arturo Mejorada for eight distinct counts of violating Section 3(e) of Republic Act No. 3019, notwithstanding the three-fold rule and the forty-year maximum limit under Article 70 of the Revised Penal Code?
+
+---
+
+### **Ruling**
+
+**No.** The Supreme Court ruled verbatim:
+
+> "Petitioner contends that the Sandiganbayan erred in imposing upon him a total penalty of fifty-six (56) years and eight (8) days of imprisonment, which is contrary to the three-fold rule and the provision that in no case shall the maximum penalty exceed forty (40) years."
+
+> "The contention is without merit. Article 70 of the Revised Penal Code (which provides for the three-fold rule and the forty-year limit) is to be taken into account not in the imposition of the penalty, but in connection with the service of the sentence imposed."
+
+**Legal Basis / Doctrines Relied Upon:**
+
+* **Article 70, Revised Penal Code** (Successive service of sentences; the three-fold rule and the forty-year maximum duration of imprisonment)
+* **Article 10, Revised Penal Code** (Suppletory application of the Revised Penal Code to special laws)
+* **Section 3(e) in relation to Section 9, Republic Act No. 3019** (Anti-Graft and Corrupt Practices Act)
+* *People v. Escares*, 102 Phil. 677 (1957) / *Alejandro v. Director of Prisons*, 48 Phil. 775 (1926) (The three-fold rule and the 40-year limit apply to the *service* of sentences by prison authorities, not to the *imposition* of penalties by the trial court)
+
+---
+
+### **Ratio Decidendi**
+
+When an accused commits multiple distinct offenses against different offended parties—which are neither a complex crime under Article 48 nor a single continued crime (*delito continuado*)—the trial court is duty-bound to impose the separate statutory penalty corresponding to each count of which the accused is convicted. The three-fold rule and the forty-year ceiling under Article 70 of the Revised Penal Code do not prohibit a court from imposing individual penalties whose aggregate sum exceeds forty years; rather, Article 70 is a rule of execution governing the *successive service* of sentences, which prison authorities must observe when computing the actual maximum period of confinement that the convict will serve.
+
+---
+
+### **Fallo**
+
+> "WHEREFORE, the decision of the Sandiganbayan appealed from is hereby AFFIRMED *in toto*, with costs against the petitioner.
+> SO ORDERED."
+
+---
+
+### **Elaborate Answer to Review Question**
+
+**Why is Mejorada’s claim that the penalty imposed upon him by the Sandiganbayan which adds up to fifty-six (56) years and eight (8) days of imprisonment and therefore contrary to the three-fold rule and that the maximum penalty imposable should not exceed forty (40) years not correct?**
+
+The Supreme Court rejected Arturo Mejorada's argument based on the fundamental distinction in Philippine criminal law between the **imposition of penalties** by the court and the **service of sentences** by the penal institution under **Article 70 of the Revised Penal Code**:
+
+1. **Eight Separate Crimes Required Eight Separate Penalties:**
+Because Mejorada extorted money from **eight different lot owners** on distinct occasions, he did not commit a single complex crime under Article 48 or a single *delito continuado*; rather, he committed **eight separate and distinct offenses** under Section 3(e) of R.A. No. 3019. Under criminal procedure and penal law, a trial court has no authority to arbitrarily reduce or omit the penalty prescribed by law for any count upon which the accused has been validly convicted—it must impose the proper penalty for *each and every* offense proved.
+2. **Distinction Between *Imposition* of Penalty and *Service* of Sentence (Article 70, RPC):**
+Under **Article 70 of the Revised Penal Code**, when a culprit has to serve two or more penalties, he shall serve them simultaneously if possible, or successively in the order of their respective severity. Article 70 then sets two mandatory ceilings on successive service:
+* **The Three-Fold Rule:** The maximum duration of the convict's sentence shall not be more than **three-fold the length of time corresponding to the most severe** of the penalties imposed upon him; and
+* **The Forty-Year Ceiling:** In no case shall such maximum period **exceed forty (40) years**.
+
+
+As settled in *People v. Escares* and reiterated in *Mejorada*, **Article 70 is addressed not to the sentencing judge at the stage of judgment, but to the Director of Prisons (penal authorities) at the stage of execution**:
+* The Sandiganbayan acted strictly within its legal mandate when it imposed the specific indeterminate sentence for each of the eight counts (even though their mathematical sum reached 56 years and 8 days).
+* The three-fold rule and the 40-year limit automatically come into operation **during the actual service of the sentence**, preventing the convict from being detained beyond three times the most severe single penalty or beyond 40 years in total, whichever is shorter. Thus, the judgment itself was completely valid and free from reversible error.
