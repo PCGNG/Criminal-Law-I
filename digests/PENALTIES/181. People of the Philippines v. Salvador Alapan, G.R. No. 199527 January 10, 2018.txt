@@ -1,0 +1,97 @@
+**People of the Philippines, thru Private Complainant Brian Victor Britchford v. Salvador Alapan**
+G.R. No. 199527, January 10, 2018 (Third Division, Martires, J.)
+
+**Topic:** Penalties under the Revised Penal Code (subsidiary imprisonment, Art. 39)
+
+---
+
+## FACTS
+
+Alapan and his wife borrowed P400,000 from Britchford and issued eight postdated checks to secure the loan. The checks were dishonored because the account was closed. Alapan was charged with eight counts of violation of B.P. Blg. 22. The MTC convicted him of all eight. Instead of imprisonment, it imposed a fine of P30,000 for each count, for a total of P240,000, because he acted without bad faith and was a first-time offender. It also ordered him to pay Britchford P411,000, the face value of the checks, as indemnity. The judgment said nothing about subsidiary imprisonment in case Alapan could not pay the fine.
+
+The judgment became final and executory. A writ of execution was returned unsatisfied. Britchford then moved to impose subsidiary imprisonment for non-payment of the fine. The MTC denied the motion because the judgment did not impose subsidiary imprisonment. Britchford appealed to the RTC, which dismissed the appeal, and then to the CA, which dismissed his petition because the OSG had not participated. Britchford argued that Administrative Circular No. 13-2001 allows subsidiary imprisonment where only a fine is imposed.
+
+---
+
+## ISSUE
+
+Can Alapan be compelled to serve the subsidiary imprisonment provided for in Art. 39, RPC, for failure to pay the fine, when the final judgment of conviction imposed only a fine and said nothing about subsidiary imprisonment?
+
+---
+
+## RULING
+
+**The SC DENIED the petition and AFFIRMED the CA.**
+
+### Q. Why can Alapan not be compelled to serve the subsidiary imprisonment provided for in Art. 39, RPC, even though he could not pay the fine?
+
+**(a) The subsidiary imprisonment must be expressly stated in the judgment of conviction.**
+
+> "Another reason which militates against petitioner's position is the lack of provision pertaining to subsidiary imprisonment in the judgment of conviction. People v. Fajardo, in relation to Republic Act. No. 5465 which amended Article 39 of the RPC, discusses the rationale behind the necessity for expressly imposing subsidiary imprisonment in the judgment of conviction, viz:"
+
+**(b) The governing law is Art. 39, RPC, and the Court quoted *People v. Fajardo*, 65 Phil. 539.**
+
+> "The first paragraph of article 39 of the Revised Penal Code reads as follows:
+>
+> ART. 39. Subsidiary penalty. - If the convict has no property with which to meet the fine mentioned in paragraph 3 of the next preceding article, he shall be subject to a subsidiary personal liability at the rate of one day for each eight pesos, subject to the following rules: ...
+>
+> Article 78 of Chapter V of the same Code, in its pertinent part, which deals with the execution and service of penalties, provides:
+>
+> ART. 78. When and how a penalty is to be executed. - No penalty shall executed except by virtue of a final judgment.
+>
+> A penalty shall not be executed in any other form than that prescribed by law, nor with any other circumstances or incidents than those expressly authorized thereby."
+
+**(c) Due process is the foundation of the rule.**
+
+> "It is a fundamental principle consecration in section 3 of the Jones Law, the Act of Congress of the United States of America approved on August 29, 1916, which was still in force when the order appealed from was made, that no person may be deprived of liberty without due process of law. This constitutional provision was in a sense incorporated in article 78 of the Revised Penal Code prescribing that no penalty shall be executed except by virtue of a final judgment. As the fact show that there is no judgment sentencing the accused to suffer subsidiary imprisonment in case of insolvent to pay the fine imposed upon him, because the said subsidiary imprisonment is not stated in the judgment finding him guilty, it is clear that the court could not legally compel him to serve said subsidiary imprisonment. A contrary holding would be a violation of the laws aforementioned."
+
+**(d) Subsidiary imprisonment is a penalty, and it is not automatic.**
+
+> "That subsidiary imprisonment is a penalty, there can be no doubt, for, according to article 39 of the Revised Penal Code, it is imposed upon the accused and served by him in lieu of the fine which he fails to pay on account of insolvency. There is not a single provision in the Code from which it may be logically inferred that an accused may automatically be made to serve subsidiary imprisonment in a case where he has been sentenced merely to pay a fine and has been found to be insolvent. Such would be contrary to the legal provisions above-cited and to the doctrine laid down in United States vs. Miranda (2 Phil., 606, 610), in which it was said: 'That judgment of the lower court fails to impose subsidiary imprisonment in case of insolvency for indemnification to the owner of the banca, but only imposes subsidiary punishment as to the costs. In this respect the judgment is erroneous and should be modified.'"
+
+**(e) The controlling rule from *Fajardo***
+
+> "We, therefore, conclude that an accused who has been sentenced by final judgment to pay a fine only and is found to be insolvent and could not pay the fine for this reason, cannot be compelled to serve the subsidiary imprisonment provided for in article 39 of the Revised Penal Code."
+
+**(f) Administrative Circular No. 13-2001 does not allow indiscriminate subsidiary imprisonment.**
+
+> "Indeed, Administrative Circular No. 13-2001 provides that 'should only a fine be imposed and the accused be unable to pay the fine, there is no legal obstacle to the application of the Revised Penal Code provisions on subsidiary imprisonment.' However, the Circular does not sanction indiscriminate imposition of subsidiary imprisonment for the same must still comply with the law."
+
+**(g) Application to Alapan**
+
+> "Here, the judgment of conviction did not provide subsidiary imprisonment in case of failure to pay the penalty of fine. Thus, subsidiary imprisonment may not be imposed without violating the RPC and the constitutional provision on due process."
+
+**(h) The final judgment can no longer be modified (immutability of final judgments).**
+
+> "A decision that has acquired finality becomes immutable and unalterable. This quality of immutability precludes the modification of a final judgment, even if the modification is meant to correct erroneous conclusions of fact and law. And this postulate holds true whether the modification is made by the court that rendered it or by the highest court in the land."
+
+> "The only exceptions to the rule on the immutability of final judgments are (1) the correction of clerical errors, (2) the so-called nunc pro tunc entries which cause no prejudice to any party, and (3) void judgments."
+
+> "There is no doubt that the MTC decision has long attained finality and that none of the aforementioned exceptions finds application in this case. Hence, the MTC decision stands and any other question involving the said decision must now be put to rest."
+
+**(i) Threshold ruling: the private complainant had no standing to question the penalty.**
+
+> "In the appeal of criminal cases before the Court of Appeals or the Supreme Court, the authority to represent the People is vested solely in the Solicitor General. This power is expressly provided in Section 35, Book IV, Title III, Chapter 12 of the Revised Administrative Code. Without doubt, the OSG is the appellate counsel of the People of the Philippines in all criminal cases."
+
+> "Jurisprudence has already settled that the interest of the private complainant is limited only to the civil liability arising from the crime."
+
+> "Thus, the penalty of fine and the imposition of subsidiary imprisonment in case of nonpayment thereof pertain to the criminal aspect of the case. On the other hand, the indemnification for the face value of the dishonored checks refers to the civil aspect of the case. Consequently, petitioner could not appeal the imposition of fine as penalty which was not even questioned by the People through the OSG."
+
+---
+
+## FALLO
+
+> "WHEREFORE, the petition is DENIED. The 22 November 2011 Resolution of the Court of Appeals in CA-G.R. SP No. 118333 is AFFIRMED.
+>
+> SO ORDERED."
+
+---
+
+## KEY DOCTRINE FOR REVIEW
+
+- **Subsidiary imprisonment is a penalty** imposed under Art. 39, RPC, and served in lieu of the fine that a convict cannot pay because of insolvency. It is not automatic.
+- **It must be expressly stated in the judgment of conviction.** Under Art. 78, RPC, "No penalty shall [be] executed except by virtue of a final judgment," and the penalty cannot be executed in any form not prescribed by law. Imposing it later would deny the accused due process.
+- ***People v. Fajardo*:** an accused who is sentenced by final judgment to pay only a fine, and who is insolvent, "cannot be compelled to serve the subsidiary imprisonment provided for in article 39" when the judgment does not impose it.
+- **Administrative Circular No. 13-2001** (B.P. Blg. 22 cases) allows the RPC rules on subsidiary imprisonment to apply, but "does not sanction indiscriminate imposition" of it. It must still comply with the law.
+- **Immutability of final judgments:** a final and executory judgment cannot be modified except for clerical errors, *nunc pro tunc* entries that cause no prejudice, and void judgments.
+- **Standing:** only the Solicitor General may represent the People in criminal appeals before the CA and the SC. A private complainant's interest is limited to the civil liability, so he cannot appeal the penalty.
