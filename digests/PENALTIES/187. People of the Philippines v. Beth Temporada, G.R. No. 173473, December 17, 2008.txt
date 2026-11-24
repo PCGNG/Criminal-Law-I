@@ -1,0 +1,116 @@
+**People of the Philippines v. Beth Temporada**
+G.R. No. 173473, December 17, 2008 (En Banc, Ynares-Santiago, J.)
+
+**Topic:** Penalties under the Revised Penal Code (computation of the indeterminate sentence for estafa under Art. 315 and the Indeterminate Sentence Law, including the incremental penalty rule)
+
+*Note: the decision drew dissenting opinions (including from Chief Justice Puno), which argued that *People v. Gabres* should be abandoned. The Court sustained *Gabres*.*
+
+---
+
+## FACTS
+
+Temporada and her co-accused, all employees of ATTC, a travel agency, introduced themselves to five complainants as having the power and authority to send them abroad for work. Temporada introduced herself as ATTC's General Manager. She briefed them on requirements, assured them of immediate deployment, and personally received money from some of them. The complainants paid placement fees as follows: P57,600, P66,520, P88,520, P69,520 and P69,520. ATTC and its employees had no POEA license, and none of the complainants was deployed or got their money back.
+
+Only Temporada was tried. She was charged with illegal recruitment in large scale and with five counts of estafa under Art. 315(2)(a), RPC. She argued that she was a mere employee who did not know about the illegal activity. The RTC convicted her of all charges. For the estafa counts it imposed a minimum of 4 years and 2 months of prision correccional and maximums of 9 years and 1 day, 10 years and 1 day, and 11 years and 1 day of prision mayor. The CA affirmed with modification of the estafa sentences.
+
+---
+
+## ISSUE
+
+How should the indeterminate sentence be computed for estafa under Art. 315, RPC, where the amount defrauded exceeds P22,000 and the incremental penalty applies, and were the maximum terms fixed by the RTC correct?
+
+---
+
+## RULING
+
+**The SC AFFIRMED the CA's conviction for illegal recruitment in large scale and five counts of estafa, but MODIFIED the indeterminate penalties for estafa.**
+
+### Q. Why did the SC modify the penalty imposed by the RTC?
+
+**(a) Neither court computed the maximum terms correctly.**
+
+> "While we affirm the conviction for the five (5) counts of estafa, we find, however, that the CA erroneously computed the indeterminate penalties therefor. The CA deviated from the doctrine laid down in People v. Gabres; hence its decision should be reversed with respect to the indeterminate penalties it imposed. The reversal of the appellate court's Decision on this point does not, however, wholly reinstate the indeterminate penalties imposed by the trial court because the maximum terms, as determined by the latter, were erroneously computed and must necessarily be rectified."
+
+**(b) The prescribed penalty and the minimum term were correct.**
+
+> "The prescribed penalty for estafa under Article 315, par. 2(d) of the RPC, when the amount defrauded exceeds P22,000.00, is prisión correccional maximum to prisión mayor minimum. The minimum term is taken from the penalty next lower or anywhere within prisión correccional minimum and medium (i.e., from 6 months and 1 day to 4 years and 2 months). Consequently, the RTC correctly fixed the minimum term for the five estafa cases at 4 years and 2 months of prisión correccional since this is within the range of prisión correccional minimum and medium."
+
+**(c) The RTC's error: it wrongly treated the maximum period of the prescribed penalty as prision mayor minimum. The correct period must be computed under Art. 65, RPC.**
+
+> "On the other hand, the maximum term is taken from the prescribed penalty of prisión correccional maximum to prisión mayor minimum in its maximum period, adding 1 year of imprisonment for every P10,000.00 in excess of P22,000.00, provided that the total penalty shall not exceed 20 years. However, the maximum period of the prescribed penalty of prisión correccional maximum to prisión mayor minimum is not prisión mayor minimum as apparently assumed by the RTC. To compute the maximum period of the prescribed penalty, prisión correccional maximum to prisión mayor minimum should be divided into three equal portions of time each of which portion shall be deemed to form one period in accordance with Article 65 of the RPC. Following this procedure, the maximum period of prisión correccional maximum to prisión mayor minimum is from 6 years, 8 months and 21 days to 8 years. The incremental penalty, when proper, shall thus be added to anywhere from 6 years, 8 months and 21 days to 8 years, at the discretion of the court."
+
+Art. 65, RPC, as quoted by the Court:
+
+> "ARTICLE 65. Rule in Cases in Which the Penalty is Not Composed of Three Periods. — In cases in which the penalty prescribed by law is not composed of three periods, the courts shall apply the rules contained in the foregoing articles, dividing into three equal portions the time included in the penalty prescribed, and forming one period of each of the three portions."
+
+**(d) How to compute the incremental penalty (Art. 315, RPC; *People v. Pabalan*)**
+
+> "In computing the incremental penalty, the amount defrauded shall be subtracted by P22,000.00, and the difference shall be divided by P10,000.00. Any fraction of a year shall be discarded as was done starting with the case of People v. Pabalan in consonance with the settled rule that penal laws shall be construed liberally in favor of the accused. The doctrine enunciated in People v. Benemerito insofar as the fraction of a year was utilized in computing the total incremental penalty should, thus, be modified."
+
+**(e) Application to each case**
+
+> "In Criminal Case No. 02-208372, where the amount defrauded was P57,600.00, the RTC sentenced the accused to an indeterminate penalty of 4 years and 2 months of prisión correccional as minimum, to 9 years and 1 day of prisión mayor as maximum. Since the amount defrauded exceeds P22,000.00 by P35,600.00, 3 years shall be added to the maximum period of the prescribed penalty (or added to anywhere from 6 years, 8 months and 21 days to 8 years, at the discretion of the court). The lowest maximum term, therefore, that can be validly imposed is 9 years, 8 months and 21 days of prisión mayor, and not 9 years and 1 day of prisión mayor."
+
+> "In Criminal Case Nos. 02-208373, 02-208375, and 02-208376, where the amounts defrauded were P66,520.00, P69,520.00, and P69,520.00, respectively, the accused was sentenced to an indeterminate penalty of 4 years and 2 months of prisión correccional as minimum, to 10 years and 1 day of prisión mayor as maximum for each of the aforesaid three estafa cases. Since the amounts defrauded exceed P22,000.00 by P44,520.00, P47,520.00, and P47,520.00, respectively, 4 years shall be added to the maximum period of the prescribed penalty (or added to anywhere from 6 years, 8 months and 21 days to 8 years, at the discretion of the court). The lowest maximum term, therefore, that can be validly imposed is 10 years, 8 months and 21 days of prisión mayor, and not 10 years and 1 day of prisión mayor."
+
+> "Finally, in Criminal Case No. 02-208374, where the amount defrauded was P88,520.00, the accused was sentenced to an indeterminate penalty of 4 years and 2 months of prisión correccional as minimum, to 11 years and 1 day of prisión mayor as maximum. Since the amount defrauded exceeds P22,000.00 by P66,520.00, 6 years shall be added to the maximum period of the prescribed penalty (or added to anywhere from 6 years, 8 months and 21 days to 8 years, at the discretion of the court). The lowest maximum term, therefore, that can be validly imposed is 12 years, 8 months and 21 days of reclusión temporal, and not 11 years and 1 day of prisión mayor."
+
+**(f) The Court sustained *Gabres* over the dissent. The minimum term is taken from the penalty prescribed by the Code, not from the imposable penalty.**
+
+> "SECTION 1. Hereafter, in imposing a prison sentence for an offense punished by the Revised Penal Code, or its amendments, the court shall sentence the accused to an indeterminate sentence the maximum term of which shall be that which, in view of the attending circumstances, could be properly imposed under the rules of said Code, and the minimum which shall be within the range of the penalty next lower to that prescribed by the Code for the offense; x x x."
+
+> "Thus, the maximum term is that which, in view of the attending circumstances, could be properly imposed under the RPC. In other words, the penalty actually imposed under the pre-ISL regime became the maximum term under the ISL regime. Upon the other hand, the minimum term shall be within the range of the penalty next lower to the prescribed penalty."
+
+> "This interpretation is at odds with Section 1 of the ISL which clearly states that the minimum of the indeterminate sentence shall be 'within the range of the penalty next lower to that prescribed by the Code for the offense.' Consequently, the basis for fixing the minimum term is the prescribed penalty, and not the imposable penalty."
+
+In *People v. Gonzales*, the Court held that the minimum term must be based on the penalty prescribed by the Code for the offense "without regard to circumstances modifying criminal liability."
+
+**(g) The incremental penalty is analogous to a modifying circumstance.**
+
+> "The question whether the incremental penalty rule is covered within the letter and spirit of 'attending circumstances' under the ISL was answered in the affirmative by the Court in Gabres when it ruled therein that the incremental penalty rule is analogous to a modifying circumstance."
+
+> "At its core, the incremental penalty rule is merely a mathematical formula for computing the penalty to be actually imposed using the prescribed penalty as starting point. Thus, it serves the same function of determining the penalty actually imposed as the modifying circumstances under Articles 13, 14, and 160 of the RPC, although the manner by which the former accomplishes this function differs with the latter."
+
+> "In the case of estafa, the incremental penalty is added to the maximum period of the prescribed penalty (or to anywhere from 6 years, 8 months and 21 days to 8 years) at the discretion of the court, in order to arrive at the penalty actually imposed (i.e., the maximum term, within the context of the ISL)."
+
+**(h) Strict construction favors the accused.**
+
+> "Besides, in case of doubt as to whether the incremental penalty rule falls within the scope of 'attending circumstances' under the ISL, the doubt should be resolved in favor of inclusion because this interpretation is more favorable to the accused following the time-honored principle that penal statutes are construed strictly against the State and liberally in favor of the accused."
+
+**(i) The "stagnating" of the minimum term is by legislative design.**
+
+> "In fine, what is perceived as absurd and unjust is actually the intent of the legislature to be beneficial to the convict in order to 'uplift and redeem valuable human material, and prevent unnecessary and excessive deprivation of personal liberty and economic usefulness.' By the legislature's deliberate design, the range of penalty from which the minimum term is taken remains fixed and only the range of penalty from which the maximum term is taken changes depending on the number and nature of the attending circumstances."
+
+**(j) The penalty for illegal recruitment in large scale was not disturbed.**
+
+> "Section 7(b) of R.A. No. 8042 prescribes the penalty of life imprisonment and a fine of not less than P500,000.00 nor more than P1,000,000.00 for the crime of illegal recruitment in large scale or by a syndicate. The trial court, therefore, properly meted the penalty of life imprisonment and a fine of P500,000.00 on the appellant."
+
+---
+
+## FALLO
+
+> "WHEREFORE, the Decision of the Court of Appeals is MODIFIED with respect to the indeterminate penalties imposed on appellant for the five (5) counts of estafa, to wit:
+>
+> (1) In Criminal Case No. 02-208372, the accused is sentenced to an indeterminate penalty of 4 years and 2 months of prisión correccional as minimum, to 9 years, 8 months and 21 days of prisión mayor as maximum.
+>
+> (2) In Criminal Case Nos. 02-208373, 02-208375, and 02-208376, the accused is sentenced to an indeterminate penalty of 4 years and 2 months of prisión correccional as minimum, to 10 years, 8 months and 21 days of prisión mayor as maximum for each of the aforesaid three estafa cases.
+>
+> (3) In Criminal Case No. 02-208374, the accused is sentenced to an indeterminate penalty of 4 years and 2 months of prisión correccional as minimum, to 12 years, 8 months and 21 days of reclusión temporal as maximum.
+>
+> In all other respects, the Decision of the Court of Appeals is AFFIRMED.
+>
+> SO ORDERED."
+
+---
+
+## KEY DOCTRINE FOR REVIEW
+
+- **Estafa where the amount exceeds P22,000 (Art. 315, par. 1, RPC):**
+  - **Prescribed penalty:** prision correccional maximum to prision mayor minimum.
+  - **Minimum term of the indeterminate sentence:** taken from the penalty **next lower** to the prescribed penalty, anywhere within prision correccional minimum and medium (6 months and 1 day to 4 years and 2 months). The basis is the **prescribed penalty**, not the imposable penalty (*People v. Gonzales*; Sec. 1, ISL).
+  - **Maximum term:** the prescribed penalty **in its maximum period** (6 years, 8 months and 21 days to 8 years, divided under Art. 65), **plus 1 year for every P10,000 in excess of P22,000**, but not exceeding 20 years in total.
+- **Computing the incremental penalty:** subtract P22,000 from the amount defrauded and divide by P10,000. **Fractions of a year are discarded** (*People v. Pabalan*), which modifies *People v. Benemerito*.
+- **The lowest maximum term** that can validly be imposed is 6 years, 8 months and 21 days plus the incremental years, which is why the maximums were 9 years, 8 months and 21 days (3 years added), 10 years, 8 months and 21 days (4 years added), and 12 years, 8 months and 21 days (6 years added).
+- ***People v. Gabres*** is sustained: the incremental penalty rule is analogous to a modifying circumstance and is part of the "attending circumstances" in Sec. 1, ISL. It applies to the maximum term only.
+- **Strict construction in favor of the accused:** where a penal statute can reasonably be read two ways, the reading more favorable to the accused is adopted.
+- **Separate convictions:** a person convicted of illegal recruitment under the Labor Code may, for the same acts, also be convicted of estafa. Illegal recruitment in large scale is *malum prohibitum*, so lack of knowledge is no defense.
