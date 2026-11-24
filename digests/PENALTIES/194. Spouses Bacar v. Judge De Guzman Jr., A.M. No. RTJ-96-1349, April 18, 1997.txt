@@ -1,0 +1,73 @@
+### **Spouses Jose and Aniceta Bacar v. Judge Salvador P. De Guzman, Jr.**
+
+*A.M. No. RTJ-96-1349, April 18, 1997*
+
+---
+
+### **Facts**
+
+One evening, Eduardo Sison (Sison) drove a motor vehicle recklessly and at high speed, hitting and killing the daughter of spouses Jose and Aniceta Bacar (the Bacars) while injuring another victim. Sison was charged before the RTC presided over by Judge Salvador De Guzman, Jr. (Judge De Guzman) with the complex crime of Homicide with Less Serious Physical Injuries through Reckless Imprudence.
+
+After trial, Judge De Guzman convicted Sison of Homicide through Reckless Imprudence (having failed to consider the complex nature of the offense) and sentenced him to suffer a straight penalty of six (6) years of *prision correccional*, enabling Sison to apply for probation. The Bacars filed an administrative complaint before the SC against Judge De Guzman for gross ignorance of the law in imposing an erroneous penalty.
+
+---
+
+### **Issue**
+
+Did Judge Salvador De Guzman, Jr. commit gross ignorance of the law in imposing a straight penalty of six (6) years of *prision correccional* upon the accused, instead of applying the rules on complex crimes under Article 48 of the Revised Penal Code (or quasi-offenses under Article 365) and the Indeterminate Sentence Law?
+
+---
+
+### **Ruling**
+
+**Yes.** The Supreme Court ruled verbatim:
+
+> "Under Section 1 of the Indeterminate Sentence Law (Act No. 4103, as amended by Act No. 4225), if the offense is punished by the Revised Penal Code, the court shall sentence the accused to an indeterminate sentence, the maximum term of which shall be that which, in view of the attending circumstances, could be properly imposed under the rules of the said Code, and the minimum which shall be within the range of the penalty next lower to that prescribed by the Code for the offense."
+
+> "The imposition of a straight penalty of six (6) years of *prision correccional* is clearly erroneous. Under the Indeterminate Sentence Law, the imposition of an indeterminate sentence is mandatory where the imprisonment exceeds one year."
+
+**Legal Basis / Doctrines Relied Upon:**
+
+* **Section 1, Act No. 4103, as amended by Act No. 4225** (Indeterminate Sentence Law — mandatory imposition of an indeterminate sentence with a minimum and a maximum term whenever the penalty exceeds one year)
+* **Article 48, Revised Penal Code** (Complex crimes — penalty for the most serious crime to be applied in its maximum period)
+* **Article 365, Revised Penal Code** (Imprudence and negligence — penalty for reckless imprudence resulting in homicide is *prision correccional* in its medium and maximum periods, i.e., 2 years, 4 months, and 1 day to 6 years; and the non-applicability of Article 48 to quasi-offenses under the *Ivler* / *Reodica* / *Bacar* rule on penalties under Article 365)
+* **Section 4, Presidential Decree No. 968, as amended** (Probation Law — disqualification from probation where the maximum term of imprisonment exceeds six years)
+
+---
+
+### **Ratio Decidendi**
+
+Under Section 1 of the Indeterminate Sentence Law (Act No. 4103, as amended), whenever an offense is punishable under the Revised Penal Code and the imposable imprisonment exceeds one (1) year, it is mandatory for the trial judge to impose an indeterminate sentence consisting of both a minimum term and a maximum term, rather than a straight penalty. Furthermore, whether computed under Article 48 of the Revised Penal Code for a complex crime (requiring the penalty for the most serious offense to be applied in its maximum period, which is *prision correccional* in its maximum period—4 years, 2 months, and 1 day to 6 years) or directly under Article 365 for reckless imprudence resulting in homicide (*prision correccional* in its medium and maximum periods), imposing a single, straight penalty of six (6) years violates the mandatory provisions of the Indeterminate Sentence Law and constitutes gross ignorance of elementary rules on the application of penalties.
+
+---
+
+### **Fallo**
+
+> "WHEREFORE, for gross ignorance of the law, respondent Judge Salvador P. De Guzman, Jr. is hereby FINED in the amount of ₱10,000.00, with a STERN WARNING that a repetition of the same or similar act in the future will be dealt with more severely.
+> SO ORDERED."
+
+---
+
+### **Elaborate Answer to Review Question**
+
+**Why is the imposition of a straight penalty of six years erroneous?**
+
+Judge Salvador De Guzman, Jr.'s imposition of a **straight penalty of six (6) years of *prision correccional*** was legally erroneous on two interrelated grounds under the **Indeterminate Sentence Law (Act No. 4103, as amended)** and the **Revised Penal Code**:
+
+1. **Violation of the Mandatory Requirement of the Indeterminate Sentence Law (Section 1, Act No. 4103):**
+* Under **Section 1 of the Indeterminate Sentence Law**, whenever an offense is punished by the Revised Penal Code (and does not fall under the statutory exceptions in Section 2, such as offenses punished by death or life imprisonment, or where the maximum term of imprisonment **does not exceed one year**), the court **must** sentence the accused to an **indeterminate sentence** consisting of:
+1. A **maximum term** — that which, in view of the attending circumstances, could be properly imposed under the rules of the Revised Penal Code; and
+2. A **minimum term** — within the range of the penalty next lower to that prescribed by the Code for the offense.
+
+
+* Because the penalty imposed exceeded **one (1) year** of imprisonment, the Indeterminate Sentence Law was **mandatory**, not discretionary. Imposing a single, straight fixed term of six (6) years deprived the sentence of the required minimum and maximum terms.
+
+
+2. **Improper Computation of the Minimum and Maximum Terms Under the Revised Penal Code:**
+* Under **Article 365 of the Revised Penal Code**, reckless imprudence resulting in homicide is punishable by ***prision correccional* in its medium and maximum periods** (ranging from **2 years, 4 months, and 1 day to 6 years**).
+* Even applying **Article 48** (which the information invoked by charging the complex crime of Homicide with Less Serious Physical Injuries through Reckless Imprudence, requiring the penalty for the most serious crime to be applied in its maximum period—i.e., *prision correccional* in its maximum period, ranging from **4 years, 2 months, and 1 day to 6 years**):
+* The **maximum term** had to be fixed within the proper period of *prision correccional* (4 years, 2 months, and 1 day to 6 years); AND
+* The **minimum term** had to be fixed within the range of the penalty **next lower in degree**—which is ***arresto mayor* in its maximum period to *prision correccional* in its minimum period** (ranging from **4 months and 1 day to 2 years and 4 months**).
+
+
+* By skipping the minimum term altogether and imposing a straight penalty of six (6) years (at the exact ceiling of probationable penalties under P.D. No. 968), Judge De Guzman disregarded the mandatory two-tier structure of the Indeterminate Sentence Law.
