@@ -1,0 +1,69 @@
+### **Delia D. Romero v. People of the Philippines, Romulo Padlan, and Arturo Siapno**
+
+*G.R. No. 171644, November 23, 2011*
+
+---
+
+### **Facts**
+
+Romulo Padlan (Padlan) and Arturo Siapno (Siapno) inquired about overseas employment at the job recruitment stall of Delia Romero (Romero) in Pangasinan. Romero represented that she could deploy them to Israel as factory workers upon payment of processing and placement fees, despite having no license or authority from the Philippine Overseas Employment Administration (POEA) to recruit workers for overseas employment. Relying on Romero's assurances, Padlan paid her US$2,200.00 and ₱1,000.00, while Siapno paid her ₱15,500.00 and US$1,600.00, but neither was ever deployed abroad nor refunded their money.
+
+Romero was charged with and convicted by the RTC of Illegal Recruitment under Republic Act No. 8042 (Migrant Workers and Overseas Filipinos Act of 1995) and two counts of Estafa under Article 315(2)(a) of the Revised Penal Code. For the crime of Illegal Recruitment, the RTC sentenced Romero to suffer a straight penalty of eight (8) years of imprisonment and a fine of ₱200,000.00, which the CA affirmed, prompting her appeal to the SC.
+
+---
+
+### **Issue**
+
+Did the lower courts err in imposing a straight penalty of eight (8) years of imprisonment upon Delia Romero for Illegal Recruitment under Republic Act No. 8042—concurrently prosecuted with Estafa under the Revised Penal Code—instead of applying the Indeterminate Sentence Law (Act No. 4103, as amended)?
+
+---
+
+### **Ruling**
+
+**Yes.** The Supreme Court ruled verbatim:
+
+> "The trial court, however, erred in imposing a straight penalty of eight (8) years of imprisonment. Under Section 1 of the Indeterminate Sentence Law (Act No. 4103, as amended by Act No. 4225), if the offense is punished by a special law, the court shall sentence the accused to an indeterminate sentence, the maximum term of which shall not exceed the maximum fixed by said law and the minimum shall not be less than the minimum term prescribed by the same."
+
+> "Section 7(a) of R.A. No. 8042 prescribes the penalty of imprisonment of not less than six (6) years and one (1) day but not more than twelve (12) years and a fine of not less than Two Hundred Thousand Pesos (₱200,000.00) nor more than Five Hundred Thousand Pesos (₱500,000.00) for any person found guilty of illegal recruitment. Thus, the proper penalty should be an indeterminate sentence ranging from six (6) years and one (1) day, as minimum, to eight (8) years, as maximum."
+
+**Legal Basis / Doctrines Relied Upon:**
+
+* **Section 1, Act No. 4103, as amended by Act No. 4225** (Indeterminate Sentence Law — mandatory imposition of an indeterminate sentence for offenses punished by special laws)
+* **Section 6 and Section 7(a), Republic Act No. 8042** (Migrant Workers and Overseas Filipinos Act of 1995 — definition and penalty for simple Illegal Recruitment)
+* **Article 315, paragraph 2(a), Revised Penal Code** (Estafa by means of false pretenses — distinct from Illegal Recruitment under special law; conviction for Illegal Recruitment does not bar conviction for Estafa arising from the same recruitment acts)
+* *People v. Ocden*, G.R. No. 173198, June 1, 2011 / *People v. Chua*, G.R. No. 187052, September 13, 2012 (Application of the Indeterminate Sentence Law to penalties prescribed by R.A. No. 8042; separate prosecution of Illegal Recruitment and Estafa without complexing them)
+
+---
+
+### **Ratio Decidendi**
+
+A person who commits illegal recruitment without the requisite license or authority may be separately prosecuted and convicted for both Illegal Recruitment under Republic Act No. 8042 (which is *malum prohibitum*) and Estafa under Article 315(2)(a) of the Revised Penal Code (which is *malum in se*), without merging them into a complex crime under Article 48. When imposing the prison sentence for simple Illegal Recruitment under Section 7(a) of R.A. No. 8042—which prescribes a penalty of six (6) years and one (1) day to twelve (12) years—the trial court is mandated by Section 1 of the Indeterminate Sentence Law (Act No. 4103, as amended) to impose an indeterminate sentence containing both a minimum term (not less than the statutory minimum of six years and one day) and a maximum term (not exceeding the statutory maximum of twelve years), rendering a straight penalty of eight (8) years erroneous.
+
+---
+
+### **Fallo**
+
+> "WHEREFORE, the Petition is DENIED. The Decision dated October 14, 2005 and Resolution dated February 20, 2006 of the Court of Appeals in CA-G.R. CR No. 26273, affirming the Decision of the Regional Trial Court of Lingayen, Pangasinan, Branch 39, in Criminal Case No. L-6545, finding petitioner Delia D. Romero guilty beyond reasonable doubt of the crime of Illegal Recruitment, are AFFIRMED with the MODIFICATION that petitioner is sentenced to suffer an indeterminate penalty of imprisonment ranging from **six (6) years and one (1) day, as minimum, to eight (8) years, as maximum**, and to pay a fine of **₱200,000.00**.
+> SO ORDERED."
+
+---
+
+### **Elaborate Answer to Review Question**
+
+**Why is the penalty of eight (8) years imprisonment imposed upon the accused incorrect?**
+
+The trial court's imposition of a **straight penalty of eight (8) years of imprisonment** upon Delia Romero was legally erroneous because it violated the mandatory provisions of **Section 1 of the Indeterminate Sentence Law (Act No. 4103, as amended by Act No. 4225)** governing offenses punished under **special laws**:
+
+1. **Mandatory Rule Under the Indeterminate Sentence Law for Special Laws:**
+* **Section 1 of Act No. 4103** is divided into two distinct rules depending on whether the offense is punished by the Revised Penal Code or by a **special penal law**:
+* **For Revised Penal Code felonies:** The *maximum* term is determined according to the attending modifying circumstances under the RPC, and the *minimum* term is taken within the range of the penalty **next lower in degree** to that prescribed by the Code.
+* **For Special Laws (like R.A. No. 8042):** The court **shall** sentence the accused to an **indeterminate sentence**, the **maximum term** of which *shall not exceed the maximum fixed by said special law*, and the **minimum term** of which *shall not be less than the minimum term prescribed by the same*.
+
+
+* Because the imprisonment exceeded one (1) year and none of the exceptions under Section 2 of Act No. 4103 applied, the imposition of an indeterminate sentence with **both a minimum and a maximum term** was mandatory, not optional.
+
+
+2. **Application to Section 7(a) of R.A. No. 8042:**
+* **Section 7(a) of R.A. No. 8042** fixes the penalty for simple Illegal Recruitment at imprisonment of **not less than six (6) years and one (1) day** (the statutory minimum) **but not more than twelve (12) years** (the statutory maximum), plus a fine of ₱200,000.00 to ₱500,000.00.
+* By sentencing Romero to a **straight, fixed term of eight (8) years** without specifying a minimum term, the RTC deprived her of the statutory benefit of the Indeterminate Sentence Law—namely, eligibility for parole consideration once she completes the minimum term of her sentence.
+* To correct the error, the Supreme Court modified the sentence into a proper indeterminate penalty of **six (6) years and one (1) day (the statutory minimum under Section 7[a]), as minimum, to eight (8) years (within the statutory maximum of 12 years), as maximum**.
