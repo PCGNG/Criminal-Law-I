@@ -1,1 +1,86 @@
+**People of the Philippines v. Antonio Toling y Rovero and Jose Toling y Rovero**
+G.R. No. L-27097, January 17, 1975 (En Banc, Aquino, J.)
 
+**Topic:** Complex Crimes (Art. 48, RPC: single act vs. different acts)
+
+---
+
+## FACTS
+
+The Toling twins, illiterate farmers from Samar, went to Manila and boarded the night Bicol Express train for home. They sat side by side in a crowded coach with more than 120 passengers, in front of a sleeping old woman. When the train resumed speed after a stop, Antonio stood up and stabbed the man seated in front of him. Jose stabbed the sleeping old woman seated opposite him. Jose also stabbed Mrs. Mapa, who was trying to flee with her baby, hitting her on the right hand. The twins then ran amuck and stabbed every passenger they encountered in the coach.
+
+Eight persons were found dead in the train from stab wounds. Four others were found dead along the railroad tracks, apparently after jumping from the moving train. Antonio was subdued by a Constabulary sergeant and Jose stabbed himself in the chest.
+
+The twins invoked self-defense. They claimed that four men tried to rob them and that they only fought back. They argued, in the alternative, that they were liable only for two homicides and for physical injuries. The Information charged multiple murder, multiple frustrated murder and triple homicide. The trial court dismissed the charges for the four persons who jumped and for the other injured victims, for lack of evidence. It convicted the twins of multiple murder and attempted murder and sentenced them to death.
+
+---
+
+## ISSUE
+
+Do the eight killings and the attempted murder, committed by the twins with different stabbing acts during their rampage in the train coach, constitute a complex crime under Art. 48, RPC?
+
+---
+
+## RULING
+
+**The SC MODIFIED the trial court's judgment, set aside the death sentence, and held the twins liable for eight separate murders and one attempted murder, not a complex crime.**
+
+### Q. Why were the eight killings and the attempted murder not considered a complex crime under Art. 48?
+
+**(a) The killings and the attempted killing were separate crimes qualified by treachery.**
+
+> "The eight killings and the attempted killing should be treated as separate crimes of murder and attempted murder qualified be treachery (alevosia) (Art. 14[16], Revised Penal Code). The unexpected, surprise assaults perpetrated by the twins upon their co-passengers, who did not anticipate that the twins would act like juramentados and who were unable to defend themselves (even if some of them might have had weapons on their persons) was a mode of execution that insured the consummation of the twins' diabolical objective to butcher their co-passengers. The conduct of the twins evinced conspiracy and community of design."
+
+**(b) The crimes were committed by different acts, so Art. 48 does not apply.**
+
+> "The eight killings and the attempted murder were perpetrated by means of different acts. Hence, they cannot be regarded as constituting a complex crime under article 48 of the Revised Penal Code which refers to cases where 'a single act constitutes two or more grave felonies, or when an offense is a necessary means for committing the other'."
+
+**(c) The distinction between *concurso formal* and *concurso real* (Cuello Calon)**
+
+> "As noted by Cuello Calon, the so-called 'concurso formal o ideal de delitos reviste dos formas: (a) cuando un solo hecho constituye dos o mas delitos (el llamado delito compuesto); (b) cuando uno de ellos sea medio necesario para cometer otro (el llamado delito complejo).' (1 Derecho Penal, 12th Ed. 650)."
+
+> "On the other hand, 'en al concurso real de delitos', the rule, when there is 'acumulacion material de las penas', is that 'si son varios los resultados, si son varias las acciones, esta conforme con la logica y con la justicia que el agente soporte la carga de cada uno de los delitos' (Ibid, p. 652, People vs. Mori, L-23511, January 31, 1974, 55 SCRA 382, 403)."
+
+**(d) The Court's holding on liability, and the prior cases it followed**
+
+> "The twins are liable for eight (8) murders and one attempted murder. (See People vs. Salazar, 105 Phil. 1058 where the accused Moro, who ran amuck, killed sixteen persons and wounded others, was convicted of sixteen separate murders, one frustrated murder and two attempted murders; People vs. Mortero, 108 Phil. 31, the Panampunan massacre case, where six defendants were convicted of fourteen separate murders; People vs. Remollino, 109 Phil. 607, where a person who fired successively at six victims was convicted of six separate homicides; U. S. Beecham, 15 Phil. 272, involving four murders; People vs. Macaso, 85 Phil. 819, 828, involving eleven murders; U.S. vs. Jamad, 37 Phil. 305; U.S. vs. Balaba, 37 Phil. 260, 271. Contra: People vs. Cabrera, 43 Phil. 82, 102-103; People vs. Floresca, 99 Phil. 1044; People vs. Sakam, 61 Phil. 27; People vs. Lawas, 97 Phil. 975; People vs. Manantan, 94 Phil. 831; People vs. Umali, 96 Phil. 185; People vs. Cu Unjiengi, 61 Phil. 236; People vs. Penas, 66 Phil. 682; People vs. De Leon, 49 Phil. 437, where the crimes committed by means of separate acts were held to be complex on the theory that they were the product of a single criminal impulse or intent)."
+
+**(e) The Court rejected the defense and the proposed lesser liability.**
+
+> "Appellants' view is that they should be held liable only for two homicides, because they admittedly killed Antonio B. Mabisa and Isabelo S. Dando, and for physical injuries because they did not deny that Jose Toling stabbed Mrs. Mapa. We have to reject that view."
+
+> "We are convinced that the record conclusively establishes appellants' responsibility for the eight killings."
+
+> "On the other hand, the twins' theory of self-defense is highly incredible. In that crowded coach No. 9, which was lighted, it was improbable that two or more persons could have held up the twins without being readily perceived by the other passengers."
+
+**(f) The four persons who jumped from the train were not counted among the killings.**
+
+> "The absence of eyewitness-testimony as to the jumping from the train of the four victims already named precludes the imputation of criminal responsibility to the appellants for the ghastly deaths of the said victims."
+
+(The Court recalled Art. 4, RPC, and the rule from *U.S. v. Valdez* that one who creates in another's mind an immediate sense of danger is responsible for injuries suffered in trying to escape, but held that it could not be applied without eyewitness testimony.)
+
+**(g) The penalty, with no modifying circumstance proven**
+
+> "As no generic mitigating and aggravating circumstances were proven in this case, the penalty for murder should be imposed in its medium period or reclusion perpetua (Arts. 64[l] and 248, Revised Penal Code. The death penalty imposed by the trial court was not warranted."
+
+> "A separate penalty for attempted murder should be imposed on the appellants. No modifying circumstances can be appreciated in the attempted murder case."
+
+---
+
+## FALLO
+
+> "WHEREFORE, the trial court's judgment is modified by setting aside the death sentence. Defendants-appellants Antonio Toling and Jose Toling are found guilty, as co-principals, of eight (8) separate murders and one attempted murder. Each one of them is sentenced to eight (8) reclusion perpetuas for the eight murders and to an indeterminate penalty of one (1) year of prision correccional as minimum to six (6) years and one (1) day of prision mayor as maximum for the attempted murder and to pay solidarily an indemnity of P12,000 to each set of heirs of the seven victims named in the dispositive part of the trial court's decision and of the eight victim, Susana C. Hernandez, or a total indemnity of P96,000, and an indemnity of P500 to Amanda Mapa. In the service of the penalties, the forty-year limit fixed in the penultimate paragraph of article 70 of the Revised Penal Code should be observed. Costs against the appellants.
+>
+> SO ORDERED."
+
+---
+
+## KEY DOCTRINE FOR REVIEW
+
+- **Art. 48 covers two situations:** (1) a **single act** constituting two or more grave or less grave felonies (compound crime), and (2) an offense that is a **necessary means** for committing another (complex crime proper).
+- **Different acts mean separate crimes.** Where the killings were perpetrated by different acts, even in one rampage, they are **separate crimes** (*concurso real*), and a penalty is imposed for each. The Court treated each stab as a separate act against a separate victim.
+- **A single criminal impulse is not enough.** The Court noted the line of cases that treated separate acts as complex because they came from "a single criminal impulse," and it chose to follow the cases that hold separate acts to be separate crimes.
+- **Result:** 8 murders and 1 attempted murder. There were eight penalties of reclusion perpetua and one indeterminate penalty for the attempted murder, subject to the **40-year limit** under Art. 70.
+- **Treachery** qualified the killings to murder. The passengers were attacked suddenly and unexpectedly and could not defend themselves.
+- **Deaths from jumping off the train** were not attributed to the twins because no eyewitness testified that the victims jumped to escape.
+- **Contrast with *People v. Mores*:** the Court there found a single act (one grenade) and complexed the crimes. It reached the same result as here in *People v. Jugueta* and *People v. Sanchez*, where separate acts were involved.
