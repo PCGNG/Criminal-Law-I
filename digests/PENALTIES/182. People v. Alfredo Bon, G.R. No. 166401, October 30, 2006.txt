@@ -1,0 +1,130 @@
+**People of the Philippines v. Alfredo Bon**
+G.R. No. 166401 (formerly G.R. Nos. 158660-67), October 30, 2006 (En Banc, Tinga, J.)
+
+**Topic:** Penalties under the Revised Penal Code (graduation of penalties under Arts. 51, 61 and 71, RPC, after R.A. 9346 prohibited the death penalty)
+
+---
+
+## FACTS
+
+Bon, the uncle of AAA, a minor, tried twice to rape her. On each occasion he removed her clothes, touched her private parts and tried to insert his penis into her vagina. AAA testified that he did not succeed because it was painful. She cried, and Bon stopped. Both times there was no penetration, and nothing showed that his penis touched the labia of her pudendum.
+
+The RTC convicted Bon of consummated qualified rape on these two counts (among eight counts in all) and sentenced him to death. The CA found that the slightest penetration was not proven. It downgraded these two counts to attempted rape and, applying Art. 51, RPC, sentenced Bon to "an indeterminate penalty of ten (10) years of prision mayor, as minimum, to seventeen (17) years and four (4) months of reclusion temporal as maximum" for each count. The qualifying circumstances of minority and relationship (Bon was her uncle, a relative within the third civil degree) were established, and the consummated crime would have been punished by death. R.A. 9346, which prohibited the imposition of the death penalty, was enacted before the SC reviewed the case.
+
+---
+
+## ISSUE
+
+After R.A. 9346 prohibited the death penalty, is the penalty for attempted qualified rape computed two degrees lower than death (reclusion temporal), as the CA computed it, or two degrees lower than reclusion perpetua (prision mayor)?
+
+---
+
+## RULING
+
+**The SC AFFIRMED the CA with modification. It held that the maximum term for each count of attempted rape must be taken from prision mayor, not reclusion temporal.**
+
+### Q1. Why is the penalty imposed by the CA (10 years of prision mayor as minimum to 17 years and 4 months of reclusion temporal as maximum) not correct?
+
+**(a) The CA's sentence was valid when it was imposed, but it was computed from death.**
+
+> "The Court of Appeals had sentenced appellant, for the attempted rape of AAA, to 'an indeterminate penalty of ten (10) years of prision mayor, as minimum, to seventeen (17) years and four (4) months of reclusion temporal as maximum,' for each count of attempted rape. There is no doubt as to the validity of this sentence at the time it was meted prior to the enactment of Rep. Act No. 9346."
+
+**(b) How the penalty for attempted rape is computed: Arts. 51, 61, 71 and 266-B, RPC**
+
+> "ART. 51. xxx — A penalty lower by two degrees than that prescribed by law for the consummated felony shall be imposed upon the principals in an attempt to commit a felony."
+
+> "The prescribed penalty for the consummated rape of a victim duly proven to have been under eighteen years of age and to have been raped by her uncle, is death under Article 266-B of the Revised Penal Code. The determination of the penalty two degrees lower than the death penalty entails the application of Articles 61 and 71 of the Revised Penal Code:
+>
+> Art. 61. Rules of graduating penalties.—For the purpose of graduating the penalties which, according to the provisions of Articles 50 to 57, inclusive, of this Code, are to be imposed upon persons guilty as principals of any frustrated or attempted felony, or as accomplices or accessories, the following rules shall be observed:
+>
+> 1. When the penalty prescribed for the felony is single and indivisible, the penalty next lower in degree shall be that immediately following that indivisible penalty in the respective graduated scale prescribed in Article 71 of this Code."
+
+> "Art. 71. Graduated scales. — In the case in which the law prescribes a penalty lower or higher by one or more degrees than another given penalty, the rules prescribed in Article 61 shall be observed in graduating such penalty.
+>
+> The lower or higher penalty shall be taken from the graduated scale in which is comprised the given penalty:
+>
+> The courts, in applying such lower or higher penalty, shall observe the following graduated scales:
+>
+> SCALE NO. 1
+> 1. Death
+> 2. Reclusion perpetua
+> 3. Reclusion temporal
+> 4. Prision mayor
+> 5. Prision correctional
+> 6. Arresto mayor
+> 7. Destierro
+> 8. Arresto menor
+> 9. Public censure
+> 10. Fine"
+
+> "Following the scale prescribed in Article 71, the penalty two degrees lower than death is reclusion temporal, which was the maximum penalty imposed by the Court of Appeals on appellant for attempted rape. Reclusion temporal is a penalty comprised of three divisible periods, a minimum, a medium and a maximum."
+
+**(c) R.A. 9346 removed "death" from the graduated scale in Art. 71, so the computation must start from reclusion perpetua.**
+
+> "Having pronounced the statutory disallowance of the death penalty through Rep. Act No. 9346 and the corresponding modification of penalties other than death through that statute, we now proceed to discuss the effects of these rulings."
+
+> "As to sentences not yet handed down, or affirmed with finality, the application is immediate. Henceforth, 'death,' as utilized in Article 71 of the Revised Penal Code, shall no longer form part of the equation in the graduation of penalties. For example, in the case of appellant, the determination of his penalty for attempted rape shall be reckoned not from two degrees lower than death, but two degrees lower than reclusion perpetua. Hence, the maximum term of his penalty shall no longer be reclusion temporal, as ruled by the Court of Appeals, but instead, prision mayor."
+
+**(d) The Court's reasoning: the negation of "death" in Art. 71 downgrades the penalties for attempted and frustrated felonies and for accomplices and accessories.**
+
+> "Simply put, the negation of the word 'death' as previously inscribed in Article 71 will have the effect of appropriately downgrading the proper penalties attaching to accomplices, accessories, frustrated and attempted felonies to the level consistent with the rest of our penal laws."
+
+> "The harmonization that would result if Rep. Act No. 9346 were construed as having eliminated the reference to 'death' in Article 71 would run across the board in our penal laws. Consistent with Article 51 of the Revised Penal Code, those convicted of attempted qualified rape would receive the penalty two degrees lower than that prescribed by law, now Rep. Act No. 9346, for qualified rape."
+
+The Court explained the problem if the old computation were kept:
+
+> "If it were to be insisted that Rep. Act No. 9346 did not affect at all the penalties for attempted felonies, then those found guilty of the subject attempted felonies would still be sentenced to reclusion temporal, even though the 'penalty lower by two degrees than that prescribed by law for the consummated felony' would now be prision mayor."
+
+> "Before that day, the consideration of death as a penalty is bereft of legal effect, whether as a means of depriving life, or as a means of depriving liberty."
+
+**(e) Strict construction in favor of the accused**
+
+> "It is also a well-known rule of legal hermeneutics that penal or criminal laws are strictly construed against the state and liberally in favor of the accused."
+
+**(f) The ruling covers crimes punished by the single indivisible penalty of death, not "reclusion perpetua to death."**
+
+> "The discussion for purposes of this decision will only center on crimes, such as qualified rape as defined in the Revised Penal Code, as amended, for which the imposable penalty was death alone. Thus, our ruling will bear no direct effect on the sentencing of accomplices and accessories or persons guilty of the attempted or frustrated stage of felonies for which the imposable penalty was 'reclusion perpetua to death.'"
+
+**(g) The new rule applies retroactively under Art. 22, RPC.**
+
+> "We see no choice but to extend the retroactive benefit. Article 22 of the Revised Penal Code states that '[p]enal laws shall have a retroactive effect insofar as they favor the person guilty of a felony, who is not a habitual criminal x x x x although at the time of the publication of such laws a final sentence has been pronounced and the convict is serving the same.'"
+
+### Q2. What is the proper penalty? State the legal basis.
+
+**(a) Proper penalty:** prision mayor in its medium period, applied through the Indeterminate Sentence Law.
+
+> "For each of the two (2) counts of attempted rape, we downgrade by one degree lower the penalty imposed by the Court of Appeals. We hold that there being no mitigating or aggravating circumstances, the penalty of prision mayor should be imposed in it medium period. Consequently, we impose the new penalty of two (2) years, four (4) months and one (1) day of prision correccional as minimum, to eight (8) years and one (1) day of prision mayor as maximum."
+
+**(b) Legal basis, as stated in the decision**
+
+- **Art. 51, RPC:** the penalty for the principal in an attempt is "a penalty lower by two degrees than that prescribed by law for the consummated felony."
+- **Art. 266-B, RPC (qualified rape of a minor by a relative within the third civil degree):** death for the consummated crime.
+- **Art. 61(1), RPC, and Art. 71, RPC (as affected by R.A. 9346):** where the penalty is single and indivisible, the next lower penalty is the one immediately following it in the graduated scale. With "death" no longer in the scale, the computation begins from reclusion perpetua. Two degrees lower is **prision mayor**.
+- **R.A. 9346, Sec. 1:** the death penalty is prohibited, and all laws "insofar as they impose the death penalty are hereby repealed or amended accordingly."
+- **Indeterminate Sentence Law:**
+
+> "At the same time, the Indeterminate Sentence Law prescribes that 'the court shall sentence the accused to an indeterminate sentence, the maximum term of which shall be that which, in view of the attending circumstances, could be properly imposed under the rules of the said Code, and the minimum which shall be within the range of the penalty next lower to that prescribed by the Code for the offense.'"
+
+The maximum term is taken from prision mayor and the minimum from the penalty next lower, prision correccional. The Court found no mitigating or aggravating circumstance and so imposed the medium period.
+
+---
+
+## FALLO
+
+> "WHEREFORE, in light of the foregoing, the Decision of the Court of Appeals is hereby AFFIRMED WITH MODIFICATION. The Court sentences appellant Alfredo J. Bon to the penalty of reclusion perpetua with no possibility of parole for each of the six (6) counts of consummated rape committed against AAA in Criminal Case Nos. 6699, 6902, and against BBB in Criminal Case Nos. 6689, 6903, 6905, and 6907. Appellant is further ORDERED to indemnify AAA and BBB for the crime of consummated rape, in the amounts of P50,000.00 as civil indemnity, P50,000.00 as moral damages and P25,000.00 as exemplary damages for each of them.
+>
+> For the two (2) counts of attempted rape of AAA in Criminal Cases No. 6906 and 6908, appellant is hereby SENTENCED to an indeterminate penalty of two (2) years, four (4) months and one (1) day of prision correccional as minimum, to eight (8) years and one (1) of prision mayor as maximum for each count of attempted rape. In addition, appellant is ORDERED to indemnify AAA for each of the two (2) counts of attempted rape in the amounts of P30,000.00 as civil indemnity, P25,000.00 as moral damages and P10,000.00 as exemplary damages.
+>
+> SO ORDERED."
+
+---
+
+## KEY DOCTRINE FOR REVIEW
+
+- **"Death" is no longer part of the graduated scale of penalties in Art. 71, RPC.** Under R.A. 9346, penalties for attempted and frustrated felonies, and for accomplices and accessories, that were previously reckoned from death are now reckoned from **reclusion perpetua**.
+- **Attempted qualified rape:** two degrees lower than reclusion perpetua is **prision mayor**, not reclusion temporal. This applies where the consummated crime was punishable by death alone (qualified rape, kidnapping for ransom).
+- **Different frame for "reclusion perpetua to death":** where the consummated crime carried that composite penalty, the Court had already held that two degrees lower is prision mayor. The decision does not decide the effect on those crimes.
+- **Application of the Indeterminate Sentence Law:** the maximum is within prision mayor, and the minimum is within prision correccional. With no modifying circumstance, the maximum is in the medium period of prision mayor.
+- **Retroactivity:** the new computation favors the accused, so Art. 22, RPC, extends it to convicts, except habitual criminals, even where sentence has been pronounced.
+- ***People v. Muñoz* distinguished:** *Muñoz* dealt with the effect of the 1987 Constitution on the penalty for murder, while *Bon* deals with the effect of a statute (R.A. 9346) on the graduated scale. The Court held that *Muñoz* "does not preclude" its conclusion.
+- **Attempted vs. consummated rape (for context):** penetration, however slight, meaning the penis touching the labia of the pudendum, is needed for consummated rape. Mere epidermal contact makes it attempted rape.
