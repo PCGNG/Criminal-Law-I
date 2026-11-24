@@ -1,0 +1,80 @@
+### **Neil E. Suyan v. People of the Philippines and the Chief Probation and Parole Officer, Dagupan City**
+*G.R. No. 189644, July 2, 2014*
+
+---
+
+### **Facts**
+
+Neil Suyan (Suyan) was charged before the RTC of Dagupan City with illegal possession of regulated drugs under Section 16, Article III of Republic Act No. 6425. Upon arraignment, Suyan pleaded guilty and was convicted and sentenced to six (6) years of *prision correccional*. On the same day, Suyan applied for probation, which the RTC granted via a Probation Order covering a period of six (6) years.
+
+While on probation, Suyan was arrested on two separate occasions for illegal possession of regulated drugs, resulting in two new criminal Informations filed against him. Consequently, Chief Probation and Parole Officer Simplicio A. Navarro, Jr. (Navarro) moved to revoke Suyan's probation. After an initial revocation order was annulled and remanded by the CA for lack of procedural due process, the RTC conducted a full-blown hearing on the Motion to Revoke. During the remand proceedings, the Parole and Probation Office submitted a Violation Report detailing Suyan's negative attitude toward rehabilitation and continued drug activities, while the prosecution formally offered an undisputed certification proving that Suyan had been convicted and had already served out his sentence in one of the subsequent drug cases.
+
+The RTC issued an Order revoking Suyan's probation and directing him to serve his original six-year sentence, which the CA affirmed. On appeal to the SC, Suyan argued that he was denied due process during the revocation proceedings and that he should be allowed to resume his probation under the positivist theory of criminal law.
+
+---
+
+### **Issue**
+
+Did the trial court validly revoke Neil Suyan's probation—resulting in the execution of his original penalty under the Revised Penal Code nomenclature—in accordance with his right to due process and Section 11 of Presidential Decree No. 968 (Probation Law)?
+
+---
+
+### **Ruling**
+
+**Yes.** The Supreme Court ruled verbatim:
+
+> "Section 11 of the Probation Law provides that the commission of another offense shall render the probation order ineffective. Section 11 states:
+> Sec. 11. *Effectivity of Probation Order.* — A probation order shall take effect upon its issuance, at which time the court shall inform the offender of the consequences thereof and explain that upon his failure to comply with any of the conditions prescribed in the said order or his commission of another offense, he shall serve the penalty imposed for the offense under which he was placed on probation."
+
+> "As probation is a mere discretionary grant, petitioner was bound to observe full obedience to the terms and conditions pertaining to the probation order or run the risk of revocation of this privilege."
+
+**Legal Basis / Doctrines Relied Upon:**
+
+* **Section 11, Presidential Decree No. 968** (Probation Law of 1976 — effectivity of probation order and mandatory consequence of serving the original penalty upon failure to comply with conditions or commission of another offense)
+* **Section 15, Presidential Decree No. 968** (Arrest of probationer; subsequent disposition — summary hearing on probation violation and revocation)
+* **Section 38, Revised Rules on Probation Methods and Procedures** (Investigation and submission of Violation Report under P.A. Form No. 8)
+* *Tolentino v. Alconcel*, G.R. No. L-63400, May 30, 1983 / *Soriano v. Court of Appeals*, G.R. No. 123936, March 4, 1999 / *Jalosjos, Jr. v. COMELEC*, G.R. No. 193237, October 9, 2012 (Probation is a mere privilege, not a demandable right; the power to grant probation includes the authority to revoke it upon violation of its conditions)
+
+---
+
+### **Ratio Decidendi**
+
+Probation is a mere discretionary privilege granted primarily for the benefit of organized society and only incidentally for the benefit of the accused, obligating the probationer to observe full obedience to all conditions of the Probation Order. Procedurally, due process in probation revocation requires only a reasonable opportunity to be heard—which is fully satisfied when, following an appellate remand, the trial court conducts a full-blown hearing on a duly filed Violation Report and allows the probationer to refute the evidence. Substantively, under Section 11 of Presidential Decree No. 968 and Condition No. 9 of the Probation Order, the commission of another offense while on probation renders the probation order ineffective and warrants its revocation, requiring the offender to serve the original penalty imposed for the offense under which he was placed on probation.
+
+---
+
+### **Fallo**
+
+> "WHEREFORE, premises considered, the Petition is DENIED. The Court of Appeals Decision dated 27 March 2009 and Resolution dated 9 September 2009 in CA-G.R. SP No. 95426 are both AFFIRMED.
+> SO ORDERED."
+
+---
+
+### **Elaborate Answers to Review Questions**
+
+**1. Was there a violation of the right of Neil Suyan to due process when the trial court ordered the revocation of his probation? Why?**
+
+**No, there was no violation of Neil Suyan's right to due process.** While Suyan's *initial* revocation order in 1999 had suffered from procedural lapses (such as the lack of a formal Violation Report and a proper hearing), the Court of Appeals had already annulled that first order and remanded the case to the RTC specifically to cure those defects. During the subsequent remand proceedings before the RTC, Suyan's right to procedural due process was fully observed:
+
+* **Compliance with the Revised Rules on Probation Methods and Procedures:** Prior to the hearing, the Dagupan City Parole and Probation Office duly submitted a **Violation Report** (pursuant to Section 38 of the Revised Rules) detailing Suyan's absences, refusal to attend rehabilitation activities despite counseling, and continued illegal drug activities.
+* **Full-Blown Hearing and Opportunity to Be Heard:** The RTC conducted a full-blown trial/hearing on the Motion to Revoke Probation where Suyan was notified of the charges, represented by counsel, and given ample opportunity to refute the Violation Report and the prosecution's documentary evidence.
+* **Failure to Rebut the Prosecution's Evidence:** When the prosecution formally offered a court certification proving that Suyan had been convicted and had already served out his sentence in one of the subsequent drug cases, Suyan filed a Comment but **never disputed the certification**—instead focusing on the already-cured procedural defects of the first revocation order. In administrative and quasi-summary revocation proceedings, due process simply requires a reasonable opportunity to be heard; a probationer who is afforded that opportunity and fails to rebut the evidence cannot claim a denial of due process.
+
+---
+
+**2. Was there a valid ground for the revocation of Neil Suyan’s probation? Explain.**
+
+**Yes, there was a clear and valid statutory ground for the revocation of Neil Suyan's probation.** Both **Section 11 of Presidential Decree No. 968 (Probation Law)** and the explicit terms of Suyan's Probation Order justified the withdrawal of the privilege:
+
+1. **Commission of Another Offense While on Probation (Section 11, P.D. No. 968 & Condition No. 9):**
+* Under **Section 11 of P.D. No. 968**, a probation order takes effect upon its issuance, subject to the mandatory statutory condition that upon the probationer's **"failure to comply with any of the conditions prescribed in the said order or his commission of another offense, he shall serve the penalty imposed for the offense under which he was placed on probation."**
+* Similarly, **Condition No. 9** of Suyan's Probation Order expressly prohibited him from committing any other offense during the six-year probation period.
+* While under probation, Suyan was arrested twice for illegal possession of regulated drugs, and an undisputed court certification established that he was **convicted and actually served out his sentence** in Criminal Case No. 99-03073-D (Branch 43). His commission of and conviction for another drug offense directly violated Condition No. 9 and triggered Section 11 of the Probation Law.
+
+
+2. **Persistent Non-Compliance and Rejection of Rehabilitation (Violation Report):**
+* In addition to committing a new crime, the Violation Report established that Suyan violated other mandatory conditions of his Probation Order (Conditions Nos. 3 and 10) by incurring repeated absences, failing to participate in required rehabilitation programs despite repeated warnings and counseling from supervising officers, and demonstrating a total lack of remorse or willingness to reform.
+
+
+3. **Nature of Probation as a Discretionary Privilege:**
+* As the Supreme Court underscored, probation is **not a right** of the accused, but a **mere discretionary act of grace** extended primarily for the benefit of organized society. Because the power to grant probation carries with it the corollary authority to revoke it when the probationer betrays the court's trust, Suyan's invocation of the positivist theory could not excuse his blatant violation of the Probation Order.
