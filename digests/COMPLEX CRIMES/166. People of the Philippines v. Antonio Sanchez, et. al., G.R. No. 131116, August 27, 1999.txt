@@ -1,1 +1,96 @@
+**People of the Philippines v. Antonio L. Sanchez, Artemio Averion, Landrito "Ding" Peradillas and Luis Corcolon**
+G.R. No. 131116, August 27, 1999 (First Division, Pardo, J.)
 
+**Topic:** Complex Crimes (Art. 48, RPC: single act vs. several acts)
+
+---
+
+## FACTS
+
+Mayor Sanchez was a political rival of Dr. Velecina, and Nelson was one of Velecina's political leaders. Peradillas told Sanchez that Nelson would be at a birthday party at Velecina's house that night. Sanchez answered, "Bahala na kayo mga anak. Ayusin lang ninyo ang trabaho." Peradillas relayed to Corcolon and Averion, "Ayos na ang paguusap at humanap na lang ng sasakyan." All of them understood this as an order to kill Nelson. Peradillas, Corcolon and Averion arranged for a car and two-way radios. Malabanan, a policeman in Sanchez's security force, joined them.
+
+That evening, Peradillas signaled by radio when Nelson's jeep left the Velecina compound. The group pursued the jeep in the car, with Averion driving. When the car overtook the jeep, Peradillas and Corcolon fired at it with M-16 and baby armalite rifles in automatic firing mode. There were three bursts of gunfire. Nelson and his son Rickson were killed. The assailants then reported to Sanchez that Nelson was dead.
+
+Sanchez and Averion denied involvement and raised alibi. They said Malabanan's account contradicted the autopsy and ballistic findings. The RTC convicted all four accused of the complex crime of double murder under Art. 48 and imposed one penalty of reclusion perpetua on each. Only Sanchez and Averion appealed.
+
+---
+
+## ISSUE
+
+Does the act of shooting the victims with armalites in automatic firing mode constitute a single act, so that the resulting killings form a complex crime of double murder under Art. 48, RPC?
+
+---
+
+## RULING
+
+**The SC MODIFIED the RTC decision. It held that the accused are liable for two counts of murder, not for the complex crime of double murder.**
+
+### Q. Does shooting the victims with armalites in automatic firing mode constitute a single act, such that the resulting felonies are a complex crime? Why?
+
+**No.**
+
+**(a) The SC disagreed with the trial court and stated the governing provision.**
+
+> "However, we disagree with the trial court that the accused committed a single complex crime of double murder. Article 48 of the Revised Penal Code provides that when a single act constitutes two or more grave or less grave felonies, or when an offense is a necessary means of committing the other, the penalty for the more serious crime in its maximum period shall be imposed."
+
+**(b) The question and the Court's answer**
+
+> "The question is whether the act of shooting the victims using armalites in automatic firing mode constitutes a single act and, thus, the felonies resulting therefrom are considered as complex crimes. We rule in the negative."
+
+**(c) The controlling doctrine in *People v. Vargas, Jr.*, 184 SCRA 254, 263 (1990), citing L. B. Reyes, The Revised Penal Code**
+
+> "In People v. Vargas, Jr., we ruled that 'several shots from a Thompson sub-machine, in view of its special mechanism causing several deaths, although caused by a single act of pressing the trigger, are considered several acts. Although each burst of shots was caused by one single act of pressing the trigger of the sub-machinegun, in view of its special mechanism the person firing it has only to keep pressing the trigger of the sub-machinegun, with his finger and it would fire continually. Hence, it is not the act of pressing the trigger which should be considered as producing the several felonies, but the number of bullets which actually produced them.'"
+
+**(d) Application: the accused are liable for as many offenses as the shots that produced them.**
+
+> "In the instant case, Malabanan testified that he heard three bursts of gunfire from the two armalites used by accused Corcolon and Peradillas. Thus, the accused are criminally liable for as many offenses resulting from pressing the trigger of the armalites. Therefore, accused are liable for two counts of murder committed against the victims, Nelson and Rickson Peñalosa, instead of the complex crime of double murder."
+
+**(e) The killings were murder because of treachery.**
+
+> "Evidently, treachery was present in the execution of the crimes. The attack against the victims, who were unarmed, was sudden, catching them unaware and giving them no opportunity to defend themselves. The presence of treachery qualifies the crimes to murder."
+
+**(f) Sanchez is liable even though he was absent from the scene because he was a conspirator and the mastermind.**
+
+> "Conspiracy is likewise adequately established. Notwithstanding the fact that mayor Sanchez was not at the crime scene, we are convinced that he was not only a co-conspirator, he was the mastermind of the ambush slayings or the principal by inducement. Malabanan testified that Nelson Peñalosa was killed upon order of mayor Sanchez. After the commission of the crime, the assailants reported to mayor Sanchez. In conspiracy, it is not necessary to show that all the conspirators actually hit and killed the victim. What is important is that the participants performed specific acts with such closeness and coordination as unmistakably to indicate a common purpose or design in bringing about the death of the victim. Conspiracy renders appellants liable as co-principals regardless of the extent and character of their participation because in contemplation of law, the act of one conspirator is the act of all."
+
+**(g) The aggravating circumstances**
+
+> "The trial court properly appreciated the existence of evident premeditation. The prosecution clearly showed the presence of the following requisites: a) the time when the accused determined to commit the crime; b) an act manifestly indicating that the accused had clung to their determination; and c) sufficient lapse of time between such determination and execution to allow them to reflect upon the consequences of their acts."
+
+> "Accused specifically used a motor vehicle to execute the crime. Thus, the aggravating circumstance of use of a motor vehicle must be appreciated."
+
+> "However, we cannot appreciate the generic aggravating circumstance of nighttime; while the crime was committed at night, the prosecution failed to show that the malefactors specifically sought this circumstance to facilitate the criminal design."
+
+**(h) The penalty for each count of murder**
+
+> "At the time of the commission of the crime on April 13, 1991, the penalty for murder under Article 248 of the Revised Penal Code was reclusion temporal in its maximum period to death. Considering the presence of aggravating circumstances, the accused should be sentenced to the death penalty for each murder. However, in view of the constitutional proscription of the death penalty at that time, each of the accused is sentenced to two (2) penalties of reclusion perpetua."
+
+**(i) The defenses of alibi and denial failed.**
+
+> "The defenses of alibi and denial are worthless in the face of positive testimony of a witness showing the involvement of each of the accused."
+
+---
+
+## FALLO
+
+> "WHEREFORE, the Court MODIFIES the decision of the Regional Trial Court, Branch 160, Pasig City, and finds accused-appellants Antonio L. Sanchez and Artemio Averion guilty beyond reasonable doubt of two (2) counts of murder, and sentences each of them to suffer two (2) penalties of reclusion perpetua, and each to pay jointly and severally the respective heirs of victims Nelson and Rickson Peñalosa, as follows:
+>
+> With costs.
+>
+> 1) Indemnity for death - P 50,000.00
+> 2) Moral damages - 50,000.00
+> 3) Exemplary damages - 30,000.00
+> Total P130,000.00
+>
+> SO ORDERED."
+
+---
+
+## KEY DOCTRINE FOR REVIEW
+
+- **Art. 48 requires a single act.** A complex crime of the first kind exists only when a single act constitutes two or more grave or less grave felonies.
+- **Firing an automatic weapon is not a single act.** Under *People v. Vargas, Jr.*, pressing the trigger of an automatic or sub-machine gun is not the act that produces the felonies. "It is not the act of pressing the trigger which should be considered as producing the several felonies, but the number of bullets which actually produced them."
+- **Consequence:** the offender is liable for **as many separate offenses** as the resulting killings. Here, the two deaths were **2 counts of murder** and not "double murder."
+- **Penalty:** Because there were separate offenses, a penalty was imposed for each. Each accused received two penalties of reclusion perpetua. A complex crime would have carried only one.
+- **Contrast with *People v. Mores*:** a single grenade explosion is a single act that supports a complex crime. This case is closer to *People v. Jugueta*, where successive shots from separate firearms were separate acts.
+- **Liability of the mastermind:** a conspirator who ordered the killing is liable as a co-principal even though he was not at the scene. The Court called Sanchez the mastermind and "principal by inducement," because "the act of one conspirator is the act of all."
