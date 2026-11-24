@@ -1,0 +1,94 @@
+**People of the Philippines v. Ruben Takbobo**
+G.R. No. 102984, June 30, 1993 (Second Division, Regalado, J.)
+
+**Topic:** Penalties under the Revised Penal Code (application of indivisible penalties, Art. 63 vs. Art. 64[5], RPC)
+
+*Note: this case does not involve a complex crime. Takbobo was convicted of simple parricide. The only issue that bears on your question is how the penalty is computed when mitigating circumstances are present. This digest therefore treats the topic as Penalties (Arts. 63 and 64, RPC).*
+
+---
+
+## FACTS
+
+Takbobo, a fisherman, was married to Lucia. One night, their six-year-old daughter Madilyn woke to a quarrel between her parents. She saw Takbobo take a hunting knife from a cabinet and hack Lucia on the feet, neck, hands, armpit and breast. Lucia died of multiple stab and hack wounds. Takbobo went to the police shortly afterward and admitted the killing. At his arraignment, he pleaded guilty. The RTC nonetheless required evidence on his motive and the circumstances of the killing.
+
+Takbobo claimed that he had caught Lucia in the act of sleeping with a neighbor. He said he meant to stab the man and that the knife hit his wife by accident. His claim was inconsistent with his own testimony. He never told the police about it, and the multiple wounds showed an intent to kill. The RTC convicted him of parricide and imposed reclusion perpetua. On appeal, he and the Solicitor General argued that the penalty should be lowered to reclusion temporal, because voluntary surrender and plea of guilty were mitigating circumstances and no aggravating circumstance was present, under Art. 64(5), RPC.
+
+---
+
+## ISSUE
+
+Where parricide, punishable by reclusion perpetua to death, is attended by two mitigating circumstances (voluntary surrender and plea of guilty) and no aggravating circumstance, may the penalty be lowered by one degree under paragraph 5 of Art. 64, RPC?
+
+---
+
+## RULING
+
+**The SC AFFIRMED the conviction for parricide and the penalty of reclusion perpetua.**
+
+### Q. Why can the penalty not be lowered by one degree under Art. 64(5), RPC, despite two mitigating circumstances?
+
+**(a) Two mitigating circumstances were present, but no aggravating circumstance.**
+
+> "On the issue of whether or not the trial court erred in not appreciating the mitigating circumstances of passion and obfuscation, voluntary surrender any [sic] voluntary plea of guilty, we agree with appellant and the Solicitor General that the crime was attended by the last two mitigating circumstances. The records of the case confirm the compliance by appellant with the requisites for the appreciation of voluntary surrender and voluntary plea of guilty."
+
+Passion and obfuscation was not appreciated, because Takbobo failed to prove that he saw his wife with another man:
+
+> "Hence, as correctly observed by the Solicitor General, that allegation of appellant 'is a afterthought to lessen his liability,' and that what appears is that appellant killed his wife because 'he was not in his right mind.' Appellant cannot, therefore, be credited with this mitigating circumstance."
+
+**(b) The Court rejected the proposal to reduce the penalty to reclusion temporal.**
+
+> "Notwithstanding the presence of two mitigating circumstances without any aggravating circumstance, we do not agree with the argument of appellant and, surprisingly, the recommendation of the Solicitor General to reduce the penalty to reclusion temporal. This would patently run counter to the rules for the application of invisible [sic] penalties under Article 63 of the Revised Penal Code, the petinent [sic] portions of which provide:
+>
+> Art. 63. Rules for the application of indivisible penalties.
+>
+> xxx xxx xxx
+>
+> In all cases in which the law precribes [sic] a penalty composed of two indivisible penalties, the following rules shall be observed in the application thereof:
+>
+> xxx xxx xxx
+>
+> 3. When the commission of the act is attended by some mitigating circumstance and there is no aggravating circumstance, the lesser penalty shall be applied."
+
+**(c) Parricide carries two indivisible penalties, so Art. 63 applies, and the penalty cannot be lowered by one degree no matter how many mitigating circumstances are present.**
+
+> "The trial court correctly found the accused guilty of parricide as charged in the information. Article 246 defines the crime of parricide and imposes thereof the penalty of reclusion perpetua to death. Applying Article 63, when the penalty is composed of two indivisible penalties, the penalty cannot be lowered by one degree, no matter how many mitigating circumstances are present."
+
+**(d) Art. 64(5) applies only to penalties that contain three periods (divisible penalties).**
+
+> "What obviously misled the parties in this case is that they overlooked the fact that the so-called special mitigating circumstance that they rely on, that is, when there are two or more mitigating circumstances and no aggravating circumstance the court shall impose the penalty next lower to that prescribed by law, is found in paragraph 5 of Article 64, which, as its epigraph shows, provides the '(r)ules for the application of penalties which contain three periods,' meaning, divisible penalties. The inapplicability thereof to the present case has long been settled."
+
+The Court added in a footnote:
+
+> "Although sometimes referred to as a privileged mitigating circumstance, such categorization is inaccurate. A privileged mitigating circumstance inter alia, cannot be offset by an aggravating circumstance."
+
+**(e) The settled jurisprudence**
+
+> "In a number of cases, we have held that when there are two or more mitigating circumstances and no aggravating circumstance but the imposable penalties are indivisible in nature, the court cannot proceed by analogy with the provisions of paragraph 5 of Article 64 and impose the penalty lower by one degree."
+
+The Court cited *United States v. Guevarra*, 10 Phil. 37 (1908); *People v. Formigones*, 87 Phil. 658 (1950); and *People v. Borromeo*, 133 SCRA 106 (1984).
+
+> "Thus, in a parricide case, the trial court imposed the penalty next lower, which is reclusion temporal, applying paragraph 5 of Article 64 since the crime was attended by two mitigating circumstances without any aggravating circumstance. In reversing the decision of the lower court, we ruled that the penalty imposed was not correct since the rule applicable in said case is found in Article 63, and not in Article 64, of the Code."
+
+(The Court cited *People v. Relador*, 60 Phil. 593 [1934].)
+
+**(f) Application: the lesser indivisible penalty, reclusion perpetua, is the proper penalty.** With mitigating circumstances and no aggravating circumstance, Art. 63(3) gives the **lesser penalty**, reclusion perpetua.
+
+---
+
+## FALLO
+
+> "ACCORDINGLY, on the foregoing considerations demostrative [sic] of the lack of merit of the instant appeal, the assailed judgment of the court a quo id [sic] hereby AFFIRMED.
+>
+> SO ORDERED."
+
+---
+
+## KEY DOCTRINE FOR REVIEW
+
+- **Art. 63 vs. Art. 64.** Art. 63 governs penalties composed of **two indivisible penalties** (such as reclusion perpetua to death for parricide). Art. 64 governs penalties with **three periods** (divisible penalties).
+- **Art. 63(3):** with a mitigating circumstance and no aggravating circumstance, the **lesser penalty** is applied. Here, that is reclusion perpetua.
+- **Art. 64(5) cannot be applied by analogy to indivisible penalties.** The rule that two or more mitigating circumstances with no aggravating circumstance lower the penalty by one degree applies only to divisible penalties.
+- **Number of mitigating circumstances is immaterial for indivisible penalties.** The penalty "cannot be lowered by one degree, no matter how many mitigating circumstances are present."
+- **Art. 64(5) mitigation is not a true "privileged" mitigating circumstance.** A privileged mitigating circumstance cannot be offset by an aggravating circumstance, but Art. 64(5) presupposes that no aggravating circumstance is present.
+- **Voluntary surrender and plea of guilty** were properly appreciated. Passion and obfuscation requires proof of an unlawful act sufficient to cause obfuscation, not far removed in time, and was not proven.
+- **Art. 247, RPC (death or physical injuries inflicted under exceptional circumstances):** it must be proven by clear and convincing evidence, and the burden shifts to the accused who admits the killing. The Court found his uncorroborated and inconsistent account unconvincing.
