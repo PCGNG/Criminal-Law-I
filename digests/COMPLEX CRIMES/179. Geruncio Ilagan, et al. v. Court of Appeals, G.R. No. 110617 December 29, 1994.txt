@@ -1,1 +1,63 @@
+### **Geruncio H. Ilagan, Leonila G. Ilagan, and Avelina G. Alcantara v. Court of Appeals and People of the Philippines**
+*G.R. No. 110617, December 29, 1994*
 
+---
+
+### **Facts**
+
+Spouses Geruncio and Leonila Ilagan (the Ilagans), together with Avelina Alcantara (Alcantara)—officers and incorporators of Cavite Prime Lending and Investment Corporation—engaged in a scheme of inducing members of the public to invest money in their firm with promises of exorbitant monthly interest rates ranging from 6% to 10%. On separate dates between July and August 1986, eight different investors—Fortunata Magsino, Adoracion Hernandez, Felisa de la Cruz, Corazon Panganiban, Lucila Malihan, Lilia Mojica, Zenaida Peñalba, and Emerita Vidallon—delivered distinct sums of money to the Ilagans and Alcantara in exchange for postdated checks and promissory notes that were subsequently dishonored upon maturity for lack of funds.
+
+Eight separate Informations for Estafa under Article 315(2)(d) of the Revised Penal Code were filed against the Ilagans and Alcantara before the RTC. They moved to quash the Informations on the ground that the eight transactions formed part of a single continuing offense (*delito continuado*), which the RTC denied and the CA affirmed, prompting their appeal to the SC.
+
+---
+
+### **Issue**
+
+Are Geruncio Ilagan, Leonila Ilagan, and Avelina Alcantara properly charged with eight separate counts of estafa, rather than a single continued crime (*delito continuado*) under Article 48 of the Revised Penal Code, when they defrauded eight different investors on separate dates?
+
+---
+
+### **Ruling**
+
+**Yes.** The Supreme Court ruled verbatim:
+
+> "There is no *delito continuado* in the case at bar. The petitioners are charged with eight (8) counts of estafa committed against eight (8) different offended parties on different dates. Each act of defrauding a different victim on a different date constitutes a separate and distinct offense of estafa, impelled by a separate criminal intent."
+
+**Legal Basis / Doctrines Relied Upon:**
+
+* **Article 48, Revised Penal Code** (Complex crimes and the doctrinal outgrowth of *delito continuado* / continued crime)
+* **Article 315, paragraph 2(d), Revised Penal Code** (Estafa by postdating a check or issuing a check in payment of an obligation without sufficient funds)
+* *Santiago v. Garchitorena*, G.R. No. 109266, December 2, 1993 (Elements of *delito continuado*: plurality of acts, unity of penal provision violated, and unity of criminal intent or purpose)
+* *People v. Cid*, 66 Phil. 354 (1938) / *People v. Ledesma*, 73 SCRA 77 (1976) (Separate frauds committed against distinct victims on different occasions constitute separate offenses rather than a single *delito continuado*)
+
+---
+
+### **Ratio Decidendi**
+
+A continued crime (*delito continuado*) exists only when there is a plurality of overt acts performed during a period of time, unity of penal provision violated, and unity of criminal intent or purpose (*una sola resolucion criminal*). Where the accused defraud eight distinct private individuals on separate dates through separate false representations and individual issuances of worthless postdated checks, there is no single criminal resolution unifying the transactions; each fraudulent taking from a different victim is driven by a separate criminal impulse and inflicts an independent injury, thereby giving rise to eight distinct counts of estafa.
+
+---
+
+### **Fallo**
+
+> "WHEREFORE, the petition is DENIED and the challenged decision of the Court of Appeals in CA-G.R. SP No. 28529 is AFFIRMED *in toto*. Costs against petitioners.
+> SO ORDERED."
+
+---
+
+### **Elaborate Answer to Review Question**
+
+**Were the accused correctly charged with eight separate crimes of estafa or should they have been charged with only one offense? Why?**
+
+The Ilagans and Alcantara were **correctly charged with eight (8) separate crimes of estafa**, rather than a single continued offense (*delito continuado*), for the following legal and factual reasons:
+
+1. **Absence of Unity of Criminal Intent (*Una Sola Resolucion Criminal*):**
+Citing *Santiago v. Garchitorena*, the Supreme Court reiterated that for a *delito continuado* to exist, three elements must concur: *(a)* plurality of acts performed during a period of time, *(b)* unity of penal provision violated, and *(c)* **unity of criminal intent or purpose**.
+* While the first two elements were present (multiple acts of estafa violating the same provision, Article 315[2][d] of the Revised Penal Code), the crucial third element—**unity of criminal intent**—was completely absent.
+* In *delito continuado* (such as stealing several items from one owner in a single night through multiple trips), the offender conceives *one overarching criminal design* to take a specific mass of property and executes it in installments. Here, by contrast, the accused did not execute a single pre-determined fraud against one victim; rather, every time a new investor approached or was recruited on a different date, the accused formed a **fresh, independent criminal resolution** to deceive that particular individual and misappropriate his or her money.
+
+
+2. **Plurality of Offended Parties and Distinct Dates of Execution:**
+Each of the eight Informations involved a **different private offended party** (Magsino, Hernandez, de la Cruz, Panganiban, Malihan, Mojica, Peñalba, and Vidallon), **different dates** of transaction (spanning July to August 1986), **different amounts** of money parted with, and **separate postdated checks** issued to each investor. Because each victim suffered a distinct, personal proprietary damage from an independent act of deceit, each transaction constituted a complete and separate felony of estafa.
+3. **Distinction from *Santiago v. Garchitorena* (1993):**
+In *Santiago*, the accused approved the legalization of 32 aliens on the **same day** pursuant to a single administrative policy, and the sole offended party was the Government. In *Ilagan*, however, there were **eight separate private victims** defrauded on **different dates** through separate individual transactions—making *delito continuado* wholly inapplicable. *(Note: Moreover, the separate crime of Syndicated Estafa under P.D. No. 1689 was not the issue raised in the motion to quash the eight specific Informations for simple estafa under the RPC).*
