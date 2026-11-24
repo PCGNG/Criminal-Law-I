@@ -1,1 +1,126 @@
+**People of the Philippines v. Edmundo Villaflores y Olano**
+G.R. No. 184926, April 11, 2012 (Third Division, Bersamin, J.)
 
+**Topic:** Complex Crimes (Special Complex or Composite Crime of Rape with Homicide vs. Complex Crime under Art. 48, RPC)
+
+---
+
+## FACTS
+
+Marita, a girl four years and eight months old, was playing behind her house when she went missing. Two witnesses, Aldrin and Jovie, saw their neighbor Villaflores, nicknamed "Batman," leading her by the hand toward his house at around 10 a.m. At about 3 p.m., Jovie passed Villaflores' house and heard a child crying and moaning inside. At about 7 p.m., he saw Villaflores carry a heavy yellow sack from his house to an abandoned house.
+
+Marita's body was found the next day in that abandoned house, covered with sacks, with a white nylon cord around her neck. Her father identified the yellow sack found on her head. The sack was traced to Villaflores' house, where it served as a wall covering for his toilet. The rope was the same rope tied to his door. A hidden path linked the abandoned house to the rear exit of his house. The autopsy found deep fresh hymenal lacerations and positive spermatozoa smears. The cause of death was asphyxia by strangulation, and she had been dead for over 24 hours.
+
+No one saw the rape or the killing. Villaflores denied the charge and claimed alibi. His nephew testified in his favor, and it later turned out that he was Villaflores' own sister's son. Villaflores was charged with rape with homicide.
+
+---
+
+## ISSUE
+
+What is the nature of rape with homicide as a special complex (composite) crime, how does it differ from a complex or compound crime under Art. 48, RPC, and is Villaflores liable for it based on circumstantial evidence?
+
+---
+
+## RULING
+
+**The SC AFFIRMED the CA decision convicting Villaflores of rape with homicide, with modifications on the penalty and damages.**
+
+### Q. How did the SC explain the nature of rape with homicide as a special complex crime?
+
+**(a) It is a composite crime: two or more crimes that the law treats as a single indivisible offense.**
+
+> "The felony of rape with homicide is a composite crime. A composite crime, also known as a special complex crime, is composed of two or more crimes that the law treats as a single indivisible and unique offense for being the product of a single criminal impulse. It is a specific crime with a specific penalty provided by law, and differs from a compound or complex crime under Article 48 of the Revised Penal Code, which states:
+>
+> Article 48. Penalty for complex crimes. – When a single act constitutes two or more grave or less grave felonies, or when an offense is a necessary means for committing the other, the penalty for the most serious crime shall be imposed, the same to be applied in its maximum period."
+
+**(b) The distinctions between a composite crime and a complex or compound crime under Art. 48**
+
+> "There are distinctions between a composite crime, on the one hand, and a complex or compound crime under Article 48, supra, on the other hand. In a composite crime, the composition of the offenses is fixed by law; in a complex or compound crime, the combination of the offenses is not specified but generalized, that is, grave and/or less grave, or one offense being the necessary means to commit the other. For a composite crime, the penalty for the specified combination of crimes is specific; for a complex or compound crime, the penalty is that corresponding to the most serious offense, to be imposed in the maximum period. A light felony that accompanies a composite crime is absorbed; a light felony that accompanies the commission of a complex or compound crime may be the subject of a separate information."
+
+**(c) The statutory basis is R.A. 8353 (Arts. 266-A and 266-B, RPC).**
+
+> "Republic Act No. 8353 (Anti-Rape Law of 1997) pertinently provides:
+>
+> Article 266-A. Rape; When and How Committed. – Rape is committed
+>
+> 1) By a man who have carnal knowledge of a woman under any of the following circumstances:
+>
+> a) Through force, threat, or intimidation;
+> b) When the offended party is deprived of reason or otherwise unconscious;
+> c) By means of fraudulent machination or grave abuse of authority; and
+> d) When the offended party is under twelve (12) years of age or is demented, even though none of the circumstance mentioned above be present.
+>
+> Article 266-B. – Rape under paragraph 1 of the next preceding article shall be punished by reclusion perpetua.
+>
+> When the rape is attempted and a homicide is committed by reason or on the occasion thereof, the penalty shall be reclusion perpetua to death.
+>
+> When by reason or on the occasion of the rape, homicide is committed, the penalty shall be death."
+
+> "The law on rape quoted herein thus defines and sets forth the composite crimes of attempted rape with homicide and rape with homicide. In both composite crimes, the homicide is committed by reason or on the occasion of rape. As can be noted, each of said composite crimes is punished with a single penalty, the former with reclusion perpetua to death, and the latter with death."
+
+**(d) The phrases "by reason of the rape" and "on the occasion of the rape" are crucial.**
+
+> "The phrases by reason of the rape and on the occasion of the rape are crucial in determining whether the crime is a composite crime or a complex or compound crime. The phrase by reason of the rape obviously conveys the notion that the killing is due to the rape, the offense the offender originally designed to commit. The victim of the rape is also the victim of the killing. The indivisibility of the homicide and the rape (attempted or consummated) is clear and admits of no doubt."
+
+**(e) The legislative intent behind "on the occasion of the rape" (Senate deliberations on R.A. 8353)**
+
+> "In contrast, the import of the phrase on the occasion of the rape may not be as easy to determine. To understand what homicide may be covered by the phrase on the occasion of the rape, a resort to the meaning the framers of the law intended to convey thereby is helpful. Indeed, during the floor deliberations of the Senate on Republic Act No. 8353, the legislative intent on the import of the phrase on the occasion of the rape to refer to a killing that occurs immediately before or after, or during the commission itself of the attempted or consummated rape, where the victim of the homicide may be a person other than the rape victim herself for as long as the killing is linked to the rape, became evident."
+
+The Court then quoted the Senate exchange between Senators Enrile and Shahani:
+
+> "Senator Shahani. x x x It will have to be linked with the rape itself, and the homicide is committed with a very short time lapse."
+
+> "Senator Shahani. Mr. President, the principal crime here, of course, is rape, and homicide is a result of the circumstances surrounding the rape. So, the instance which was brought up by the good senator from Cagayan where, let us say, the offender is fleeing the place or is apprehended by the police and he commits homicide, I think would be examples where the phrase 'on the occasion thereof' would apply. But the principal intent, Mr. President, is rape."
+
+**(f) What the State must prove, and why the victim was a statutory rape victim**
+
+> "The State must thus prove the concurrence of the following facts, namely: (a) that Villaflores had carnal knowledge of Marita; (b) that he consummated the carnal knowledge without the consent of Marita; and (c) that he killed Marita by reason of the rape."
+
+> "Under Article 266-A, supra, rape is always committed when the accused has carnal knowledge of a female under 12 years of age. The crime is commonly called statutory rape, because a female of that age is deemed incapable of giving consent to the carnal knowledge."
+
+**(g) Circumstantial evidence may prove the crime and the identity of the culprit.**
+
+> "We have often conceded the difficulty of proving the commission of rape when only the victim is left to testify on the circumstances of its commission. The difficulty heightens and complicates when the crime is rape with homicide, because there may usually be no living witnesses if the rape victim is herself killed. Yet, the situation is not always hopeless for the State, for the Rules of Court also allows circumstantial evidence to establish the commission of the crime as well as the identity of the culprit."
+
+Section 4, Rule 133, Rules of Court:
+
+> "Section 4. Circumstantial evidence, when sufficient. - Circumstantial evidence is sufficient for conviction if:
+>
+> (a) There is more than one circumstance;
+> (b) The facts from which the inferences are derived are proven; and
+> (c) The combination of all the circumstances is such as to produce a conviction beyond reasonable doubt."
+
+**(h) Application: the circumstances formed an unbroken chain.**
+
+> "These circumstances were links in an unbroken chain whose totality has brought to us a moral certainty of the guilt of Villaflores for rape with homicide. As to the rape, Marita was found to have suffered multiple deep fresh hymenal lacerations, injuries that Dr. Jose Arnel Marquez, the medico-legal officer who had conducted the autopsy of her cadaver on July 3, 1999, attributed to the insertion of a blunt object like a human penis. The fact that the vaginal and periurethral smears taken from Marita tested positive for spermatozoa confirmed that the blunt object was an adult human penis. As to the homicide, her death was shown to be caused by strangulation with a rope, and the time of death as determined by the medico-legal findings was consistent with the recollection of Solidum of seeing Villaflores going towards the abandoned house at around 7 pm of July 2, 1999 carrying the yellow sack that was later on found to cover Marita's head."
+
+**(i) The defense of alibi and the nephew's testimony failed.**
+
+> "Yet, the alibi could not stand, both because the alleged aunt did not even come forward to substantiate the alibi, and because the Defense did not demonstrate the physical impossibility for Villaflores to be at the place where the crime was committed at the time it was committed."
+
+**(j) The penalty is reclusion perpetua without parole (R.A. 9346), and exemplary damages were added (Art. 2230, Civil Code, and Art. 266-B).**
+
+> "Nonetheless, we have also to specify in the judgment that Villaflores shall not be eligible for parole, considering that Section 3 of Republic Act No. 9346 expressly holds persons 'whose sentences will be reduced to reclusion perpetua by reason of this Act' not eligible for parole under Act No. 4103 (Indeterminate Sentence Law), as amended."
+
+---
+
+## FALLO
+
+> "WHEREFORE, the Court AFFIRMS the decision promulgated by the Court of Appeals on February 22, 2007 finding and pronouncing EDMUNDO VILLAFLORES y OLANO guilty of rape with homicide, subject to the following MODIFICATIONS, namely: (a) that he shall suffer reclusion perpetua without eligibility for parole under Act No. 4103 (Indeterminate Sentence Law), as amended; (b) that he shall pay to the heirs of the victim the sum of P30,000.00 as exemplary damages, in addition to the damages awarded by the Court of Appeals; and (c) that all the awards for damages shall bear interest of 6% per annum reckoned from the finality of this decision.
+>
+> The accused shall pay the costs of suit."
+
+---
+
+## KEY DOCTRINE FOR REVIEW
+
+- **Composite crime = special complex crime.** Two or more crimes that the law treats as a **single, indivisible, unique offense** because they come from a single criminal impulse. It carries a specific penalty set by law.
+- **Differences from a complex or compound crime under Art. 48:**
+  - **Composition of the offenses:** fixed by law for a composite crime, but only generalized ("grave and/or less grave," or one a necessary means to commit the other) under Art. 48.
+  - **Penalty:** specific for a composite crime, but the penalty for the most serious offense in its maximum period under Art. 48.
+  - **Light felonies:** a light felony that accompanies a composite crime is **absorbed**, but a light felony accompanying a complex or compound crime may be the subject of a separate information.
+- **"By reason of the rape"** means the killing is due to the rape, the offense originally designed. The rape victim is also the killing victim.
+- **"On the occasion of the rape"** covers a killing that occurs immediately before or after, or during, the rape. The homicide victim may be a person other than the rape victim, as long as the killing is **linked to the rape**.
+- **"Homicide"** is understood in its generic sense (the decision cites no further elaboration here).
+- **Penalty:** under Art. 266-B, death for rape with homicide. Under R.A. 9346 it becomes **reclusion perpetua without eligibility for parole**.
+- **Proof:** both the rape and the homicide must be proven. With no eyewitness, circumstantial evidence suffices if it meets Sec. 4, Rule 133.
