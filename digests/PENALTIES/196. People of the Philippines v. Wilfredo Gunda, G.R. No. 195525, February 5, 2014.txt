@@ -1,0 +1,70 @@
+### **People of the Philippines v. Wilfredo Gunda y Elamparo**
+
+*G.R. No. 195525, February 5, 2014*
+
+---
+
+### **Facts**
+
+One evening in Zambales, Wilfredo Gunda (Gunda), armed with a handgun, entered the store of spouses Eliseo and Isabelita Villa (Eliseo and Isabelita) while they were watching television, announced a holdup, and demanded money from them. When Eliseo stood up and approached Gunda, Gunda shot Eliseo in the chest, killing him instantly, before divesting Isabelita of ₱4,000.00 in cash and fleeing the scene.
+
+The RTC convicted Gunda of the special complex crime of Robbery with Homicide and sentenced him to suffer the penalty of *reclusion perpetua*, which the CA affirmed with modification as to the civil damages. On appeal to the SC, Gunda questioned his identification as the perpetrator and challenged his conviction.
+
+---
+
+### **Issue**
+
+Is Wilfredo Gunda guilty of the special complex crime of Robbery with Homicide under Article 294(1) of the Revised Penal Code, and is he eligible for parole when sentenced to *reclusion perpetua* therefor?
+
+---
+
+### **Ruling**
+
+**Yes, he is guilty of Robbery with Homicide, and he is NOT eligible for parole.** The Supreme Court ruled verbatim:
+
+> "The elements of the crime of robbery with homicide are: (a) the taking of personal property with the use of violence or intimidation against a person; (b) the property thus taken belongs to another; (c) the taking is characterized by intent to gain or *animus lucrandi*; and (d) on the occasion of the robbery or by reason thereof, the crime of homicide, which is therein used in a generic sense, was committed."
+
+> "Under Article 294(1) of the Revised Penal Code, as amended by Republic Act No. 7659, the penalty for robbery with homicide is *reclusion perpetua* to death. There being no aggravating circumstance, the lower courts properly imposed the penalty of *reclusion perpetua*, without eligibility for parole pursuant to Section 3 of Republic Act No. 9346."
+
+**Legal Basis / Doctrines Relied Upon:**
+
+* **Article 294, paragraph 1, Revised Penal Code, as amended by R.A. No. 7659** (Special complex crime of Robbery with Homicide — punishable by *reclusion perpetua* to death)
+* **Article 63, paragraph 2, Revised Penal Code** (Rules for the application of indivisible penalties — when there are neither mitigating nor aggravating circumstances in the commission of the deed, the lesser penalty shall be applied)
+* **Section 3, Republic Act No. 9346** (An Act Prohibiting the Imposition of Death Penalty in the Philippines — ineligibility for parole of persons convicted of offenses punished with *reclusion perpetua*, or whose sentences are reduced to *reclusion perpetua*, by reason of R.A. No. 9346)
+* **Act No. 4103, as amended** (Indeterminate Sentence Law — inapplicability to offenses punished with death or life imprisonment / *reclusion perpetua*)
+* *People v. De Jesus*, 473 Phil. 405 (2004) / *People v. Escote, Jr.*, 448 Phil. 749 (2003) (Elements and nature of the special complex crime of Robbery with Homicide)
+* *People v. Tiu*, G.R. No. 142885, October 22, 2003 / *A.M. No. 15-08-02-SC* (Guidelines on the proper use of the phrase "without eligibility for parole" in indivisible penalties)
+
+---
+
+### **Ratio Decidendi**
+
+When a homicide is committed by reason or on the occasion of a robbery, the resulting offense is the single, indivisible special complex crime (*delito complejo especial*) of Robbery with Homicide under Article 294(1) of the Revised Penal Code, regardless of whether the killing preceded, coincided with, or followed the taking of property, so long as the primary criminal intent was to rob. Because Article 294(1), as amended by R.A. No. 7659, prescribes the penalty of *reclusion perpetua* to death, and no generic aggravating or mitigating circumstance attended the commission of the felony, Article 63(2) of the Revised Penal Code mandates the imposition of the lesser indivisible penalty of *reclusion perpetua*—which, pursuant to Section 3 of Republic Act No. 9346, is served without eligibility for parole.
+
+---
+
+### **Fallo**
+
+> "WHEREFORE, the Decision dated May 27, 2010 of the Court of Appeals in CA-G.R. CR-H.C. No. 03702, which affirmed with modification the Decision dated July 9, 2008 of the Regional Trial Court, Branch 69, Iba, Zambales, in Criminal Case No. RTC-4402-I, finding appellant Wilfredo Gunda y Elamparo guilty beyond reasonable doubt of the crime of Robbery with Homicide and sentencing him to suffer the penalty of *reclusion perpetua*, without eligibility for parole, is hereby AFFIRMED with MODIFICATIONS that appellant is ordered to pay the heirs of Eliseo Villa ₱75,000.00 as civil indemnity, ₱75,000.00 as moral damages, and ₱25,000.00 as temperate damages, plus interest at the rate of 6% per annum on all damages awarded from the date of finality of this Decision until fully paid.
+> SO ORDERED."
+
+---
+
+### **Elaborate Answer to Review Question**
+
+**Why is Wilfredo Gunda not eligible for parole?**
+
+Wilfredo Gunda is legally disqualified from eligibility for parole based on the statutory rules governing **indivisible penalties**, the **Indeterminate Sentence Law (Act No. 4103)**, and **Section 3 of Republic Act No. 9346**:
+
+1. **Inapplicability of the Indeterminate Sentence Law to Offenses Punishable by Death or Life Imprisonment / *Reclusion Perpetua* (Section 2, Act No. 4103):**
+* Parole under the Indeterminate Sentence Law presupposes an **indeterminate sentence** containing a **minimum term** and a **maximum term**, where the prisoner becomes eligible for parole release upon serving the minimum term.
+* However, **Section 2 of Act No. 4103** expressly excludes from the coverage of the Indeterminate Sentence Law persons convicted of offenses **"punished with death penalty or life imprisonment"** (which settled jurisprudence equates with ***reclusion perpetua***). Because Robbery with Homicide under Article 294(1) is punishable by *reclusion perpetua* to death—an **indivisible penalty**—no minimum and maximum indeterminate terms can be fixed, rendering parole unavailable as a matter of law.
+
+
+2. **Express Statutory Bar Under Section 3 of Republic Act No. 9346:**
+* Under **Article 294(1) of the Revised Penal Code**, as amended by **R.A. No. 7659**, Robbery with Homicide carries the penalty of ***reclusion perpetua* to death** (making it a death-eligible heinous offense under R.A. No. 7659).
+* When Congress enacted **R.A. No. 9346** (prohibiting the imposition of the death penalty), **Section 3** thereof explicitly mandated:
+> *"Person convicted of offenses punished with reclusion perpetua, or whose sentences will be reduced to reclusion perpetua, by reason of this Act, **shall not be eligible for parole under Act No. 4180 [4103], otherwise known as the Indeterminate Sentence Law, as amended.**"*
+
+
+* Thus, the Supreme Court added the qualifying phrase **"without eligibility for parole"** to Gunda's sentence of *reclusion perpetua* in order to emphasize that, pursuant to Section 3 of R.A. No. 9346, he cannot apply for or be granted parole under the Indeterminate Sentence Law. *(Note: In subsequent A.M. No. 15-08-02-SC [August 4, 2015], the Supreme Court later clarified that the explicit phrase "without eligibility for parole" need only be written in the dispositive portion when the death penalty would have been warranted were it not for R.A. No. 9346, whereas in cases like Gunda where reclusion perpetua was imposed directly under Article 63[2] due to the absence of aggravating circumstances, ineligibility for parole still attaches automatically by operation of Section 2 of Act No. 4103 without needing the qualifying phrase.)*
