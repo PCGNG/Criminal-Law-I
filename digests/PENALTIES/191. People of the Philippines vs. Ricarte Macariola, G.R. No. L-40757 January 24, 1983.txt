@@ -1,0 +1,77 @@
+### **Case Brief: People of the Philippines v. Ricarte Macariola**
+
+*G.R. No. L-40757, January 24, 1983*
+
+---
+
+### **Facts**
+
+Ricarte Macariola (Macariola) and Romeo De la Peña (De la Peña) were inmates confined at the New Bilibid Prisons in Muntinlupa, where Macariola was serving sentence by final judgment for a previous felony. The night before the killing, Macariola defeated De la Peña in a gambling game called *Hongkiang*. The following morning, during an argument over the gambling proceeds after Macariola tried to snatch money back from De la Peña, De la Peña—who was seated on his wooden bunk (*tarima*)—kicked Macariola in the chest.
+
+Both inmates stood up, and Macariola drew an improvised bladed weapon (*matalas*) and stabbed De la Peña. De la Peña fled toward a *kubol* and hid underneath his *tarima*, but Macariola pursued him, dragged him out from under the bunk, and repeatedly stabbed him until he was completely motionless, inflicting sixteen stab wounds that caused his death.
+
+The Circuit Criminal Court convicted Macariola of Murder qualified by treachery, appreciated evident premeditation and recidivism, and sentenced him to death. On automatic review before the SC, Macariola invoked self-defense and questioned the trial court's appreciation of aggravating circumstances.
+
+---
+
+### **Issue**
+
+Does the special aggravating circumstance of quasi-recidivism under Article 160 of the Revised Penal Code—in relation to complex and aggravated penalties—compel the imposition of the maximum period of the penalty for Murder notwithstanding the presence of the mitigating circumstance of sufficient provocation on the part of the victim?
+
+---
+
+### **Ruling**
+
+**Yes (as to the legal effect of quasi-recidivism offsetting ordinary mitigating circumstances, though the penalty was ultimately commuted to *reclusion perpetua* for lack of the required ten votes to impose death).** The Supreme Court ruled verbatim:
+
+> "The accused committed this new felony while serving sentence for a previous offense. Under Article 160 of the Revised Penal Code, any person who shall commit a felony after having been convicted by final judgment, before beginning to serve such sentence, or while serving the same, shall be punished by the maximum period of the penalty prescribed by law for the new felony. This is a special aggravating circumstance which cannot be offset by any ordinary mitigating circumstance."
+
+**Legal Basis / Doctrines Relied Upon:**
+
+* **Article 160, Revised Penal Code** (Commission of another crime during service of penalty imposed for another previous offense — quasi-recidivism)
+* **Article 248, Revised Penal Code** (Murder qualified by treachery — punishable by *reclusion temporal* in its maximum period to death)
+* **Article 13, paragraph 4, Revised Penal Code** (Mitigating circumstance of sufficient provocation or threat on the part of the offended party immediately preceding the act)
+* **Article 63, Revised Penal Code** (Rules for the application of indivisible penalties)
+* *People v. Perete*, 1 SCRA 1290 (1961) / *People v. Bautista*, 65 SCRA 460 (1975) (Quasi-recidivism is a special aggravating circumstance that cannot be offset by ordinary mitigating circumstances)
+
+---
+
+### **Ratio Decidendi**
+
+Under Article 160 of the Revised Penal Code, an inmate who commits a new felony while serving a sentence by final judgment is a quasi-recidivist, and the law mandates that he be punished by the maximum period of the penalty prescribed for the new felony. Because quasi-recidivism is a *special* aggravating circumstance (distinct from ordinary aggravating circumstances under Article 14), it cannot be offset by any ordinary mitigating circumstance such as sufficient provocation on the part of the offended party under Article 13(4). Consequently, even when sufficient provocation preceded the fatal attack, the special aggravating circumstance of quasi-recidivism operates independently to mandate the maximum period of the penalty for Murder (death), unless commuted to *reclusion perpetua* for lack of the requisite constitutional or statutory majority of votes in the Supreme Court.
+
+---
+
+### **Fallo**
+
+> "WHEREFORE, the judgment appealed from is modified as to the Penalty imposed and the accused, Ricarte Macariola, is hereby sentenced to suffer *reclusion perpetua*. The indemnity awarded by the Trial Court of ₱10,000.00 is increased to ₱12,000.00. The judgment is affirmed in all other respects.
+> SO ORDERED."
+
+---
+
+### **Elaborate Answers to Review Questions**
+
+**1. What is quasi-recidivism?**
+
+Under **Article 160 of the Revised Penal Code**, **quasi-recidivism** is a **special aggravating circumstance** committed by any person who shall commit a **felony** after having been convicted by final judgment, either:
+
+1. **Before beginning to serve such sentence**, or
+2. **While serving the same**.
+
+* **Key Doctrinal Features for Bar Review:**
+* **Nature of the Offenses:** Unlike ordinary recidivism (*reincidencia* under Article 14[9]), which requires that both the previous and subsequent offenses be embraced in the *same Title* of the Revised Penal Code, quasi-recidivism applies **regardless of whether the first offense was a felony under the RPC or an offense under a special penal law**, so long as the **new offense committed is a felony** (punishable under the Revised Penal Code).
+* **Mandatory Effect on Penalty:** Article 160 explicitly directs that the quasi-recidivist *"shall be punished by the maximum period of the penalty prescribed by law for the new felony."*
+* **Cannot Be Offset:** Because quasi-recidivism is a **special aggravating circumstance** governed by its own specific statutory mandate (Article 160) rather than the general graduation rules of Articles 63 and 64, **it cannot be offset by any ordinary mitigating circumstance**—except only by a privileged mitigating circumstance (such as minority or incomplete self-defense).
+
+
+
+---
+
+**2. What is the effect, if any, of the presence of the mitigating circumstance of sufficient provocation to the penalty to be imposed upon Ricarte Macariola? Why?**
+
+The presence of the mitigating circumstance of **sufficient provocation** on the part of the victim (De la Peña kicking Macariola in the chest during their gambling dispute) had **no mitigating effect whatsoever** (*"of no consequence"*) on the imposable penalty upon Ricarte Macariola, for the following legal reasons:
+
+1. **Ordinary Mitigating Circumstance Cannot Offset a Special Aggravating Circumstance:**
+While the Supreme Court recognized that De la Peña's act of kicking Macariola in the chest constituted **sufficient provocation** under **Article 13(4) of the Revised Penal Code**, sufficient provocation is merely an **ordinary mitigating circumstance**. Under settled criminal law rules on the application of penalties, ordinary mitigating circumstances can only offset *generic/ordinary* aggravating circumstances (under Article 14); they **cannot offset the special aggravating circumstance of quasi-recidivism under Article 160**.
+2. **Mandatory Imposition of the Maximum Period Under Article 160:**
+Because Macariola was serving a sentence by final judgment at the New Bilibid Prisons when he fatally stabbed De la Peña, **Article 160 automatically required the imposition of the maximum period of the penalty prescribed for Murder** (which, at the time, was *reclusion temporal* in its maximum period to death—making **death** the mandatory maximum period). Even with the mitigating circumstance of sufficient provocation present, the statutory penalty remained **death** by operation of Article 160. *(Note: The Supreme Court ultimately reduced Macariola's sentence from death to **reclusion perpetua** solely because the Court failed to muster the required ten [10] votes under the Judiciary Act/Constitution to affirm a death sentence—and NOT because of the mitigating circumstance of sufficient provocation.)*
