@@ -1,0 +1,78 @@
+### **Peter Paul Aballe v. People of the Philippines**
+*G.R. No. L-64086, March 15, 1990*
+
+---
+
+### **Facts**
+
+One evening in Davao City, 17-year-old Peter Paul Aballe (Aballe) climbed through the window of the house of his neighbor, Jennie Banguis (Banguis), armed with a sharp knife. Inside, Aballe repeatedly stabbed Banguis in the chest and abdomen, inflicting fatal wounds that caused her death.
+
+When police officers arrived at the scene the following morning and investigated the killing, Aballe—who had not yet been arrested or charged—voluntarily surrendered to the authorities, confessed to stabbing Banguis, and led the police to the place where he had hidden the bloodstained knife.
+
+The RTC convicted Aballe of Homicide, appreciated the privileged mitigating circumstance of minority (being 17 years old at the time of the offense) and the ordinary mitigating circumstance of voluntary surrender, and sentenced him to an indeterminate penalty of six (6) years of *prision correccional*, as minimum, to twelve (12) years of *prision mayor*, as maximum—which the CA affirmed. On appeal to the SC, Aballe questioned the admissibility of his uncounselled extrajudicial confession and the correctness of the penalty imposed by the lower courts.
+
+---
+
+### **Issue**
+
+Did the trial court err in imposing an indeterminate penalty of six (6) years of *prision correccional* to twelve (12) years of *prision mayor* upon Peter Paul Aballe for Homicide, despite the presence of the privileged mitigating circumstance of minority under Article 68(2) and the ordinary mitigating circumstance of voluntary surrender under Article 13(7) in relation to Article 64(2) of the Revised Penal Code?
+
+---
+
+### **Ruling**
+
+**Yes.** The Supreme Court ruled verbatim:
+
+> "Being seventeen years old at the time of the commission of the offense, the accused is entitled to the privileged mitigating circumstance of minority under Article 68, paragraph 2 of the Revised Penal Code, which lowers the penalty by one degree, i.e., from *reclusion temporal* to *prision mayor*."
+
+> "With the presence of the ordinary mitigating circumstance of voluntary surrender and no aggravating circumstance to offset it, the penalty of *prision mayor* should be imposed in its minimum period pursuant to Article 64, paragraph 2 of the Revised Penal Code. Applying the Indeterminate Sentence Law, the minimum term should be within the range of *prision correccional* (6 months and 1 day to 6 years) and the maximum term within the minimum period of *prision mayor* (6 years and 1 day to 8 years)."
+
+**Legal Basis / Doctrines Relied Upon:**
+
+* **Article 249, Revised Penal Code** (Homicide — punishable by *reclusion temporal*)
+* **Article 68, paragraph 2, Revised Penal Code** (Privileged mitigating circumstance of minority — penalty next lower in degree for an offender over 15 and under 18 years of age)
+* **Article 13, paragraph 7, Revised Penal Code** (Ordinary mitigating circumstance of voluntary surrender to a person in authority or his agents)
+* **Article 64, paragraph 2, Revised Penal Code** (Rules for the application of penalties which contain three periods — when only a mitigating circumstance is present, the court shall impose the penalty in its minimum period)
+* **Section 1, Act No. 4103, as amended** (Indeterminate Sentence Law)
+* **Article III, Section 12(1), 1987 Constitution** (Exclusionary rule on uncounselled extrajudicial confessions — independent circumstantial evidence still proved guilt beyond reasonable doubt)
+
+---
+
+### **Ratio Decidendi**
+
+Even when an uncounselled extrajudicial confession is excluded for violating constitutional custodial rights, an accused's guilt for Homicide may still be established beyond reasonable doubt by independent circumstantial evidence. In computing the imposable penalty under the Revised Penal Code and the Indeterminate Sentence Law, the trial court must first apply the privileged mitigating circumstance of minority under Article 68(2) to lower the prescribed penalty for Homicide (*reclusion temporal*) by one degree to *prision mayor*; thereafter, when the ordinary mitigating circumstance of voluntary surrender under Article 13(7) attends the commission of the felony with no aggravating circumstance to offset it, Article 64(2) mandates that *prision mayor* be imposed in its minimum period (6 years and 1 day to 8 years) as the maximum term of the indeterminate sentence, while the minimum term must be fixed within the range of the penalty next lower in degree (*prision correccional*).
+
+---
+
+### **Fallo**
+
+> "WHEREFORE, the decision of the Court of Appeals is AFFIRMED with the MODIFICATION that accused-appellant Peter Paul Aballe is hereby sentenced to suffer an indeterminate penalty of **four (4) years and two (2) months of *prision correccional*, as minimum, to eight (8) years of *prision mayor*, as maximum**, and to indemnify the heirs of the deceased Jennie Banguis in the amount of **₱30,000.00**. Costs against the accused-appellant.
+> SO ORDERED."
+
+---
+
+### **Elaborate Answer to Review Question**
+
+**Why did the Supreme Court modify the penalty imposed by the trial court?**
+
+The Supreme Court modified the indeterminate sentence imposed by the RTC (and affirmed by the CA)—reducing it from **6 years of *prision correccional* to 12 years of *prision mayor*** down to **4 years and 2 months of *prision correccional*, as minimum, to 8 years of *prision mayor*, as maximum**—because the lower courts failed to properly apply the **two-step penalty graduation rules** under **Articles 68(2) and 64(2) of the Revised Penal Code** and the **Indeterminate Sentence Law**:
+
+1. **Step 1 — Application of the Privileged Mitigating Circumstance of Minority (Article 68[2], RPC):**
+* Under **Article 249 of the Revised Penal Code**, the prescribed penalty for **Homicide** is ***reclusion temporal*** (12 years and 1 day to 20 years).
+* Because Aballe was **17 years old** (over 15 and under 18 years of age) when he killed Banguis, **Article 68(2) of the Revised Penal Code** entitles him to the **privileged mitigating circumstance of minority**, which mandates lowering the prescribed penalty by **one degree**:
+
+$$\text{Reclusion Temporal} \xrightarrow{-1\text{ degree (Art. 68[2])}} \text{Prision Mayor (6 years and 1 day to 12 years)}$$
+
+
+* Thus, ***prision mayor*** became the new base penalty for computing the indeterminate sentence.
+
+
+2. **Step 2 — Application of the Ordinary Mitigating Circumstance of Voluntary Surrender (Article 13[7] in relation to Article 64[2], RPC):**
+* Aballe voluntarily surrendered to the police authorities before any warrant of arrest was issued or information filed against him, entitling him to the **ordinary mitigating circumstance of voluntary surrender** under **Article 13(7)**.
+* Because no aggravating circumstance attended the killing to offset voluntary surrender, **Article 64(2) of the Revised Penal Code** directs that the penalty (*prision mayor*) **must be imposed in its minimum period**—which ranges from **6 years and 1 day to 8 years**.
+* **Error of the Trial Court:** The RTC fixed the maximum term at **12 years of *prision mayor*** (which falls within the *maximum* period of *prision mayor*, 10 years and 1 day to 12 years), completely disregarding the mandatory reduction to the **minimum period** required by Article 64(2).
+
+
+3. **Step 3 — Computation of the Minimum and Maximum Terms Under the Indeterminate Sentence Law (Act No. 4103):**
+* **Maximum Term:** Must be taken from the **minimum period of *prision mayor*** (6 years and 1 day to 8 years)—fixed by the Supreme Court at **8 years of *prision mayor***.
+* **Minimum Term:** Must be taken within the range of the penalty **next lower in degree** to *prision mayor*, which is ***prision correccional*** (6 months and 1 day to 6 years)—fixed by the Supreme Court at **4 years and 2 months of *prision correccional***.
