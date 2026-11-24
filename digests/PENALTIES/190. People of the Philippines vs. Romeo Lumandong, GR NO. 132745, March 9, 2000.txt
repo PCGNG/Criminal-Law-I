@@ -1,0 +1,71 @@
+### **People of the Philippines v. Romeo Lumandong**
+*G.R. No. 132745, March 9, 2000*
+
+---
+
+### **Facts**
+
+One evening in Davao del Norte, Romeo Lumandong (Lumandong) went to the house of spouses Alejandro and Amelita Manon-og (Alejandro and Amelita) and called Alejandro down to talk. When Alejandro descended the stairs, Lumandong suddenly hacked him on the head and neck with a sharp bolo (*lagaraw*).
+
+Upon hearing the commotion, Amelita—who was then eight months pregnant—rushed down to rescue her husband, whereupon Lumandong also hacked her multiple times on the head, arm, and back, causing her to fall and lose consciousness. Alejandro died instantaneously from the hacking wounds, while Amelita survived with serious physical injuries and delivered her baby prematurely but alive a few days later.
+
+The RTC convicted Lumandong of the complex crime of Murder with Frustrated Murder and sentenced him to suffer the supreme penalty of death, elevating the case to the SC on automatic review.
+
+---
+
+### **Issue**
+
+Did the RTC err in convicting Romeo Lumandong of the complex crime of Murder with Frustrated Murder under Article 48 of the Revised Penal Code and imposing the penalty of death when the death of Alejandro Manon-og and the injuries inflicted upon Amelita Manon-og were caused by separate and distinct hacking acts?
+
+---
+
+### **Ruling**
+
+**Yes.** The Supreme Court ruled verbatim:
+
+> "The trial court erred in convicting accused-appellant of the complex crime of murder with frustrated murder. Under Article 48 of the Revised Penal Code, a complex crime is committed when a single act constitutes two or more grave or less grave felonies, or when an offense is a necessary means for committing the other. Here, the death of Alejandro and the wounding of Amelita were not the result of a single act, nor was one offense a necessary means for committing the other. Rather, accused-appellant first hacked Alejandro, and when Amelita came down to help her husband, he hacked her separately. Thus, accused-appellant committed two separate and distinct crimes: murder for the killing of Alejandro, and frustrated murder for the near-fatal hacking of Amelita."
+
+**Legal Basis / Doctrines Relied Upon:**
+
+* **Article 48, Revised Penal Code** (Penalty for complex crimes — compound crime / *delito compuesto* and complex crime proper / *delito complejo*)
+* **Article 248, Revised Penal Code, as amended by R.A. No. 7659** (Murder qualified by treachery — punishable by *reclusion perpetua* to death)
+* **Article 63, paragraph 2, Revised Penal Code** (Rules for the application of indivisible penalties — when there are neither mitigating nor aggravating circumstances in the commission of the deed, the lesser penalty shall be applied)
+* **Article 6 in relation to Article 50, Revised Penal Code** (Frustrated felony and penalty to be imposed upon principals of a frustrated crime)
+
+---
+
+### **Ratio Decidendi**
+
+Under Article 48 of the Revised Penal Code, a complex crime exists only when a single act produces two or more grave or less grave felonies (*delito compuesto*) or when one offense is a necessary means for committing the other (*delito complejo*). Where an offender inflicts fatal hacking blows on one victim and thereafter delivers separate hacking blows against a second victim who rushes to the former's aid, the two resulting felonies arise from separate and distinct acts rather than a single act, and must be prosecuted and punished as two separate crimes—Murder and Frustrated Murder. Furthermore, for the separate crime of Murder punishable by *reclusion perpetua* to death, where treachery is absorbed as the qualifying circumstance and no generic aggravating or mitigating circumstance attends the commission of the offense, Article 63(2) of the Revised Penal Code mandates the imposition of the lesser indivisible penalty of *reclusion perpetua* rather than death.
+
+---
+
+### **Fallo**
+
+The Supreme Court **MODIFIED** the Decision of the Regional Trial Court of Tagum, Davao del Norte, Branch 2:
+
+1. Found accused-appellant **Romeo Lumandong** guilty beyond reasonable doubt of **two (2) separate crimes**—**Murder** (for the killing of Alejandro Manon-og) and **Frustrated Murder** (for the wounding of Amelita Manon-og)—instead of the complex crime of Murder with Frustrated Murder;
+2. Sentenced him to suffer the penalty of ***reclusion perpetua*** for the crime of **Murder**, and an indeterminate prison term of **eight (8) years and one (1) day of *prision mayor*, as minimum, to fourteen (14) years, eight (8) months, and one (1) day of *reclusion temporal*, as maximum**, for the crime of **Frustrated Murder**; and
+3. Ordered him to pay the heirs of Alejandro Manon-og **₱50,000.00 as civil indemnity** and **₱50,000.00 as moral damages**, and to pay Amelita Manon-og **₱30,000.00 as moral damages**.
+
+---
+
+### **Elaborate Answer to Review Question**
+
+**What is the reason for the Supreme Court’s ruling that the RTC erroneously imposed the penalty of death?**
+
+The Supreme Court held that the Regional Trial Court committed a dual error of law in imposing the death penalty on Romeo Lumandong:
+
+1. **Erroneous Characterization of the Offenses as a Complex Crime Under Article 48 of the Revised Penal Code:**
+* The RTC mistakenly treated the killing of Alejandro and the wounding of Amelita as a **complex crime of Murder with Frustrated Murder** under **Article 48**, which mandates that *"the penalty for the most serious crime shall be imposed, the same to be applied in its maximum period."* Since Murder under Article 248 (as amended by R.A. No. 7659) is punishable by ***reclusion perpetua* to death**, applying Article 48 forced the RTC to automatically impose the maximum period—**death**.
+* However, neither of the two modes of Article 48 existed in this case:
+* **Not a Compound Crime (*Delito Compuesto*):** A single act did *not* cause both injuries. Lumandong first hacked Alejandro repeatedly, and only after Amelita ran down the stairs to rescue her husband did Lumandong separately turn his bolo on Amelita. Because the injuries were inflicted by **separate and distinct physical acts** (successive hacking blows directed at two different victims), they constituted **two separate felonies** (Murder and Frustrated Murder), not a complex crime.
+* **Not a Complex Crime Proper (*Delito Complejo*):** Killing Alejandro was not a necessary means to commit Frustrated Murder against Amelita, nor vice versa.
+
+
+
+
+2. **Improper Imposition of the Maximum Indivisible Penalty (Death) Despite the Absence of Any Generic Aggravating Circumstance (Article 63[2], RPC):**
+* Once properly separated into the standalone felony of **Murder** (punishable by two indivisible penalties: ***reclusion perpetua* to death** under Article 248), the applicable sentencing rule is **Article 63, paragraph 2 of the Revised Penal Code**, NOT Article 48.
+* Under **Article 63(2)**, when the law prescribes a penalty composed of two indivisible penalties and **there are neither mitigating nor aggravating circumstances** in the commission of the deed, **the lesser penalty shall be applied**.
+* In *Lumandong*, **treachery (*alevosia*)** was already used to qualify the killing of Alejandro to Murder and could no longer be counted a second time as a generic aggravating circumstance, while the other alleged aggravating circumstances (such as nighttime or dwelling) were either absorbed in treachery or not duly proved. With zero generic aggravating circumstances attending the murder, Article 63(2) strictly prohibited the imposition of the supreme penalty of death and mandated the lesser indivisible penalty of ***reclusion perpetua***.
