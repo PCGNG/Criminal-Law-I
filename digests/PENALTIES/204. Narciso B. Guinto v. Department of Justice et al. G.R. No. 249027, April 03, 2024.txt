@@ -1,0 +1,66 @@
+### **Narciso B. Guinto, et al. v. Department of Justice and Bureau of Corrections**
+
+*G.R. No. 249027, April 3, 2024 (Consolidated with Inmates of New Bilibid Prison v. Department of Justice, G.R. No. 249155)*
+
+---
+
+### **Facts**
+
+Narciso Guinto (Guinto) and several other inmates confined at the New Bilibid Prison were convicted by final judgment of heinous crimes under the Revised Penal Code and special penal laws (including Murder, Rape, Robbery with Homicide, Kidnapping for Ransom, and Dangerous Drugs offenses) and were sentenced to suffer *reclusion perpetua*. Following the enactment of Republic Act No. 10592—which amended Articles 29, 94, 97, 98, and 99 of the Revised Penal Code to increase Good Conduct Time Allowance (GCTA) credits—the Department of Justice (DOJ) and the Bureau of Corrections (BuCor) promulgated the 2019 Implementing Rules and Regulations (IRR) of R.A. No. 10592.
+
+Under Section 2, Rule IV and Section 1, Rule VII of the 2019 IRR, the DOJ and BuCor excluded persons convicted of heinous crimes from earning GCTA credits during the service of their sentences. Guinto and fellow inmates filed petitions before the SC assailing the validity of the 2019 IRR for exceeding the statutory text of R.A. No. 10592 and the Revised Penal Code.
+
+---
+
+### **Issue**
+
+Are persons convicted of heinous crimes—including special complex crimes punished by *reclusion perpetua* under the Revised Penal Code—excluded from earning Good Conduct Time Allowance (GCTA) benefits under Article 97 of the Revised Penal Code, as amended by Republic Act No. 10592?
+
+---
+
+### **Ruling**
+
+**No.** The Supreme Court (*En Banc*) ruled verbatim:
+
+> "Article 97 of the Revised Penal Code, as amended by Republic Act No. 10592, is clear and unambiguous. It grants good conduct time allowance to 'any offender qualified for credit for preventive imprisonment pursuant to Article 29 of this Code, or of any convicted prisoner in any penal institution, rehabilitation or detention center or any other local jail.' Nowhere in Article 97 does it exclude persons convicted of heinous crimes from earning good conduct time allowance."
+
+> "By excluding persons convicted of heinous crimes from the benefits of good conduct time allowance under Article 97 of the Revised Penal Code, as amended by Republic Act No. 10592, the 2019 Implementing Rules and Regulations went beyond the law it sought to implement. Administrative regulations cannot extend the law or amend a legislative enactment."
+
+**Legal Basis / Doctrines Relied Upon:**
+
+* **Articles 29, 94, 97, 98, and 99, Revised Penal Code, as amended by Republic Act No. 10592** (New Good Conduct Time Allowance Law — distinguishing the disqualifications under Article 29 for *preventive imprisonment* from the general grant under Article 97 to *any convicted prisoner*)
+* **Article VII, Section 1, 1987 Constitution** (Executive power to implement laws — administrative rules and regulations must conform to the standards and text of the statute and cannot add exclusions not found in the law)
+* *Inmates of the New Bilibid Prison v. De Lima*, G.R. No. 212719, June 25, 2019 (Retroactive application of R.A. No. 10592 as a penal law favorable to the accused under Article 22 of the Revised Penal Code)
+
+---
+
+### **Ratio Decidendi**
+
+Under the plain and unambiguous text of Article 97 of the Revised Penal Code, as amended by Republic Act No. 10592, any convicted prisoner in any penal institution, rehabilitation or detention center, or local jail is entitled to Good Conduct Time Allowance (GCTA) upon displaying good behavior, without any exception for persons convicted of heinous crimes. While Article 29 of the Revised Penal Code, as amended by R.A. No. 10592, excludes recidivists, habitual delinquents, escapees, and persons charged with heinous crimes from *credit for preventive imprisonment* (and consequently from earning GCTA *during preventive imprisonment*), that exclusion does not apply to *convicted prisoners* serving their final sentences under Article 97. Consequently, the provisions of the 2019 Implementing Rules and Regulations of R.A. No. 10592 excluding persons convicted of heinous crimes from earning GCTA are ultra vires, void, and unconstitutional for unlawfully amending the statute.
+
+---
+
+### **Fallo**
+
+> "WHEREFORE, the Petitions in G.R. Nos. 249027 and 249155 are GRANTED. Section 2, Rule IV and Section 1, Rule VII of the 2019 Implementing Rules and Regulations of Republic Act No. 10592 are DECLARED INVALID insofar as they exclude persons convicted of heinous crimes from the benefits of Good Conduct Time Allowance under Article 97 of the Revised Penal Code, as amended by Republic Act No. 10592.
+> SO ORDERED."
+
+---
+
+### **Elaborate Answer to Review Question**
+
+**Are persons convicted of heinous crimes excluded from seeking the benefits of Republic Act No. 10592, or the New Good Conduct Time Allowance law?**
+
+**No.** In *Guinto v. Department of Justice* (G.R. No. 249027, April 3, 2024), the Supreme Court *En Banc* categorically ruled that **persons convicted of heinous crimes are NOT excluded** from earning Good Conduct Time Allowance (GCTA) benefits during the service of their sentences under **Article 97 of the Revised Penal Code, as amended by Republic Act No. 10592**, and struck down the 2019 IRR provisions that attempted to disqualify them. The Court anchored its ruling on three core legal principles:
+
+1. **Textual Distinction Between Article 29 (Preventive Imprisonment) and Article 97 (Convicted Prisoners) of the Revised Penal Code:**
+* **Article 29 (Credit for Preventive Imprisonment):** Under the first paragraph of Article 29, as amended by R.A. No. 10592, Congress expressly excluded four classes of detention prisoners—*(1) recidivists, (2) habitual delinquents, (3) escapees, and (4) persons charged with heinous crimes*—from receiving full or four-fifths credit for their **preventive imprisonment** (and therefore, under the first clause of Article 97, they do not earn GCTA *while undergoing preventive detention* prior to final conviction).
+* **Article 97 (Allowance for Good Conduct of Convicted Prisoners):** However, the second clause of **Article 97** separately and broadly grants GCTA to **"any convicted prisoner in any penal institution, rehabilitation or detention center or any other local jail"** who observes good behavior while serving sentence. Noticeably, **Article 97 contains zero exclusion for persons convicted of heinous crimes**. Under the statutory construction maxim *expressio unius est exclusio alterius* (the express mention of one thing excludes all others), Congress intentionally limited the heinous-crime exclusion to *preventive imprisonment* under Article 29 and chose *not* to exclude convicted prisoners from earning GCTA while serving their final sentence under Article 97.
+
+
+2. **Subordinate Legislation Cannot Amend or Expand a Statute (*Ultra Vires* Rule):**
+* The rule-making power of administrative agencies such as the DOJ and BuCor is strictly confined to implementing the law as written by Congress. By inserting a disqualification against prisoners convicted of heinous crimes into Section 2, Rule IV and Section 1, Rule VII of the 2019 IRR—a restriction absent from the text of R.A. No. 10592—the executive agencies usurped legislative power and committed grave abuse of discretion, rendering those IRR provisions void.
+
+
+3. **Penal Laws Favorable to the Accused / Restorative Purpose of GCTA (Article 22, RPC):**
+* Because R.A. No. 10592 is a penal statute that shortens the actual duration of confinement through good behavior, it operates favorably to prisoners and serves the rehabilitative and restorative policy of the Revised Penal Code—encouraging all convicted inmates, including those serving *reclusion perpetua* for heinous or special complex crimes, to reform and maintain prison discipline. *(Note: Computation of GCTA credits for prisoners serving reclusion perpetua is reckoned against the 30-year maximum duration under Article 27/70 of the Revised Penal Code, without affecting the separate statutory bar against parole under Section 3 of R.A. No. 9346).*
