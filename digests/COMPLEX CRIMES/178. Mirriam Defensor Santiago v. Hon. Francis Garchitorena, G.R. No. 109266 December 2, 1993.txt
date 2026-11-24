@@ -1,1 +1,83 @@
+### **Miriam Defensor-Santiago v. Hon. Francis Garchitorena, Sandiganbayan, and People of the Philippines**
+*G.R. No. 109266, December 2, 1993*
 
+---
+
+### **Facts**
+
+Miriam Defensor-Santiago (Santiago), while serving as Commissioner of the Commission on Immigration and Deportation (CID), approved the application for legalization of the stay of 32 aliens who entered the Philippines after the statutory cut-off date under Executive Order No. 324. Initially, the Ombudsman filed a single Information before the Sandiganbayan charging Santiago with violating Section 3(e) of Republic Act No. 3019 (Anti-Graft and Corrupt Practices Act).
+
+Upon the Sandiganbayan's directive to clarify whether the charge constituted a single offense or separate offenses, the prosecution filed 32 Amended Informations—one for each of the 32 legalized aliens—alleging that Santiago acted with evident bad faith and manifest partiality in approving their applications on October 17, 1988. Santiago moved to quash the 32 Amended Informations, arguing that the alleged acts constituted only one continued crime (*delito continuado*), which the Sandiganbayan denied, prompting her petition to the SC.
+
+---
+
+### **Issue**
+
+Do the 32 alleged acts of approving the legalization of stay of 32 aliens on the same occasion constitute only one continued crime (*delito continuado*) under the principles of Article 48 and Article 10 of the Revised Penal Code, rather than 32 separate violations of Section 3(e) of Republic Act No. 3019?
+
+---
+
+### **Ruling**
+
+**Yes.** The Supreme Court ruled verbatim:
+
+> "In the case at bench, the original information charged petitioner with performing a single criminal act — that of her approving the application for legalization of aliens not qualified under the law to enjoy such privilege. The original information also averred that the criminal act was committed in violation of Section 3(e) of R.A. No. 3019 by giving unwarranted benefits to thirty-two (32) aliens."
+
+> "For *delito continuado* to exist there should be a plurality of acts performed during a period of time; unity of penal provision violated; and unity of criminal intent or purpose, which means that two or more violations of the same penal provisions are united in one and the same intent or resolution leading to the perpetration of the same criminal purpose or aim."
+
+> "According to Cuello Calon, for *delito continuado* to exist there must be a plurality of acts performed separately during a period of time; unity of penal provision violated; and unity of criminal intent or purpose, which means that two or more violations of the same penal provisions are united in one and the same intent or resolution leading to the perpetration of the same criminal purpose or aim."
+
+**Legal Basis / Doctrines Relied Upon:**
+
+* **Article 10, Revised Penal Code** (Suppletory application of the Revised Penal Code to offenses punished under special laws)
+* **Article 48, Revised Penal Code** (Complex crimes and the doctrinal outgrowth of *delito continuado* / continued crime)
+* **Section 3(e), Republic Act No. 3019** (Anti-Graft and Corrupt Practices Act)
+* *People v. Sabbun*, 10 SCRA 156 (1964) / *People v. Tumlos*, 67 Phil. 320 (1939) / *People v. De Leon*, 49 Phil. 437 (1926) (Doctrine of *delito continuado* where multiple acts impelled by a single criminal resolution constitute one offense)
+
+---
+
+### **Ratio Decidendi**
+
+Under the suppletory application of the Revised Penal Code pursuant to Article 10 thereof, the concept of *delito continuado* (continued crime)—rooted in the principles underlying Article 48—applies to violations of special penal laws such as Republic Act No. 3019 unless the special law provides otherwise. A *delito continuado* exists when there is a plurality of overt acts performed separately over a period of time, unity of penal provision violated, and unity of criminal intent or purpose (*una sola resolucion criminal*). Because Santiago approved the legalization applications of all 32 aliens on the same day pursuant to a single overarching policy or criminal resolution, and violated only one penal provision (Section 3[e] of R.A. No. 3019), the 32 approvals merge into a single continued crime rather than 32 distinct offenses.
+
+---
+
+### **Fallo**
+
+> "WHEREFORE, the petition is GRANTED. The Resolutions dated March 3, 1993 and March 11, 1993 in Criminal Cases Nos. 18371 to 18402 are SET ASIDE. The Office of the Special Prosecutor is DIRECTED to consolidate the 32 Amended Informations (Criminal Cases Nos. 18371 to 18402) into one Information charging only one offense under Section 3(e) of R.A. No. 3019.
+> SO ORDERED."
+
+---
+
+### **Elaborate Answers to Review Questions**
+
+**1. What is the legal basis of the Supreme Court’s ruling that Santiago committed only one crime despite having allegedly committed 32 acts of violation of R.A. 3019?**
+
+The Supreme Court anchored its ruling on the doctrine of ***delito continuado* (continued crime)**—an equitable legal fiction developed in Spanish criminal jurisprudence (citing Cuello Calon) and integrated into Philippine law alongside **Article 48 of the Revised Penal Code**—together with **Article 10 of the Revised Penal Code**:
+
+* **Three Essential Elements of *Delito Continuado*:**
+1. **Plurality of Overt Acts:** There must be two or more overt acts performed separately during a period of time (here, the approval of 32 separate legalization applications).
+2. **Unity of Penal Provision Violated:** All the acts must violate one and the same penal provision (here, Section 3[e] of R.A. No. 3019).
+3. **Unity of Criminal Intent or Purpose (*Una Sola Resolucion Criminal*):** The multiple violations must be united by **one single criminal intent or resolution** leading to the perpetration of the same criminal aim, rather than being impelled by separate, independent criminal impulses.
+
+
+* **Application to Santiago's Case:**
+* As originally framed by the Ombudsman itself, Santiago acted pursuant to a **single criminal resolution**—to extend the benefit of the Alien Legalization Program under E.O. No. 324 to unqualified aliens—and approved the 32 applications on the **very same day (October 17, 1988)** in the exercise of a single administrative policy.
+* The Supreme Court noted that the 32 aliens were not even public complainants whose personal rights were violated; rather, the sole offended party was the **Government of the Philippines** (whose public policy was allegedly transgressed). Splitting a single executive act or policy decision into 32 separate criminal Informations merely because 32 beneficiaries were listed on the approval roster violated the unity of criminal intent and exposed the accused to oppressive, multiplied bail and penalties for what was juridically a single offense.
+
+
+
+---
+
+**2. Is the "continuing principle" applicable also to violation of special penal laws?**
+
+**Yes.** The Supreme Court categorically held in *Santiago v. Garchitorena* that the principle of ***delito continuado* (continued crime)** applies to violations of **special penal laws** (such as R.A. No. 3019), subject to the following legal rules:
+
+1. **Statutory Anchor — Article 10 of the Revised Penal Code:**
+Article 10 of the Revised Penal Code provides: *"Offenses which are or in the future may be punishable under special laws are not subject to the provisions of this Code. This Code shall be supplementary to such laws, unless the latter should specially provide the contrary."* Because R.A. No. 3019 contains no provision prohibiting the application of the *delito continuado* doctrine, the general principles of the Revised Penal Code—including *delito continuado*—apply **suppletorily** to special laws.
+2. **Historical Precedent in Philippine Jurisprudence:**
+The Supreme Court pointed out that Philippine courts have long applied the *delito continuado* principle to special penal laws—for instance, in *People v. Sabbun* (10 SCRA 156), where multiple collections of veterans' benefits under a special law pursuant to a single fraudulent scheme were treated as one continued offense, as well as in cases involving the Illegal Possession of Firearms and violations of election or customs laws where multiple acts were impelled by a single criminal design.
+3. **Crucial Distinction for Bar Review (*Delito Continuado* vs. Continuing Crime / *Delito Permanente*):**
+In *Santiago*, the Supreme Court also clarified a classic bar examination distinction:
+* ***Delito Continuado* (Continued Crime):** A *single crime* consisting of a series of overt acts arising from **one criminal resolution** (a legal fiction favorable to the accused so he is prosecuted for only one offense instead of multiple counts, applicable to both RPC felonies and special laws).
+* **Continuing Crime (*Delito Permanente* / Transitory Offense):** A single offense whose essential ingredients or consummative acts occur across **different territorial jurisdictions** (e.g., kidnapping, rebellion, or estafa where deceit happens in one city and damage in another), which determines **venue and jurisdiction** rather than the number of counts.
