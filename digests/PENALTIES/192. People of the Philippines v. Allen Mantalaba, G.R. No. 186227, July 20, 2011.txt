@@ -1,0 +1,90 @@
+### **People of the Philippines v. Allen Udtojan Mantalaba**
+*G.R. No. 186227, July 20, 2011*
+
+---
+
+### **Facts**
+
+Police operatives in Butuan City conducted a buy-bust operation after receiving a report that 17-year-old Allen Mantalaba (Mantalaba) was selling *shabu*. During the operation, Mantalaba sold a plastic sachet of *shabu* to a poseur-buyer in exchange for marked money. Immediately after the exchange, police officers arrested Mantalaba and conducted a body search incidental to the lawful arrest, recovering another plastic sachet containing 0.6131 gram of *shabu* from his possession.
+
+Two separate Informations were filed against Mantalaba before the RTC for Illegal Sale of Dangerous Drugs (Section 5, Article II of R.A. No. 9165) and Illegal Possession of Dangerous Drugs (Section 11, Article II of R.A. No. 9165). By the time the RTC rendered its judgment convicting him on both counts and imposing *reclusion perpetua* for the illegal sale, Mantalaba was already 20 years old; by the time the SC resolved his appeal, he had already exceeded 21 years of age.
+
+---
+
+### **Issue**
+
+Is Allen Mantalaba entitled to the privileged mitigating circumstance of minority under Article 68 of the Revised Penal Code (in relation to Section 98 of R.A. No. 9165) and alternative confinement under Section 51 of R.A. No. 9344, despite having exceeded 21 years of age which bars the automatic suspension of his sentence under Sections 38 and 68 of R.A. No. 9344?
+
+---
+
+### **Ruling**
+
+**Yes.** The Supreme Court ruled that while suspension of sentence under Section 38 and retroactive application under Section 68 of R.A. No. 9344 can no longer be availed of once the child in conflict with the law reaches 21 years of age (pursuant to Section 40 of R.A. No. 9344), the offender remains entitled to:
+
+1. Alternative confinement in an agricultural camp or other training facility under Section 51 of R.A. No. 9344; and
+2. The privileged mitigating circumstance of minority under Article 68(2) of the Revised Penal Code, as applied suppletorily via Section 98 of R.A. No. 9165, which reduces the penalty for illegal sale by one degree to *reclusion temporal* and triggers the application of the Indeterminate Sentence Law.
+
+**Legal Basis / Doctrines Relied Upon:**
+
+* **Article 10, Revised Penal Code** (Suppletory application of the Revised Penal Code to special laws)
+* **Article 68, paragraph 2, Revised Penal Code** (Privileged mitigating circumstance of minority — penalty next lower in degree for an offender under 18 years of age)
+* **Article 61, paragraph 2, Revised Penal Code** (Rules for graduating penalties — degree immediately following *reclusion perpetua* is *reclusion temporal*)
+* **Sections 5, 11, and 98, Republic Act No. 9165** (Comprehensive Dangerous Drugs Act of 2002 — limited applicability of the RPC to minor offenders)
+* **Sections 38, 40, 51, and 68, Republic Act No. 9344** (Juvenile Justice and Welfare Act of 2006)
+* **Act No. 4103, as amended** (Indeterminate Sentence Law)
+* *People v. Bon*, G.R. No. 166401, October 30, 2006 (In graduating penalties where death is abolished by R.A. No. 9346, *reclusion perpetua* remains the reckoning point, and one degree lower is *reclusion temporal*)
+* *People v. Jacinto*, G.R. No. 182239, March 16, 2011 (Inapplicability of suspension of sentence once a minor offender exceeds age 21, coupled with entitlement to disposition under Section 51 of R.A. No. 9344)
+
+---
+
+### **Ratio Decidendi**
+
+Under Section 38 in relation to Section 40 of Republic Act No. 9344, the automatic suspension of sentence for a child in conflict with the law extends only until the offender reaches the maximum age of twenty-one (21) years; once the offender surpasses that age during the pendency of appeal, suspension of sentence becomes moot and unavailing. Nevertheless, to give efficacy to the restorative mandate of R.A. No. 9344 (*interpretatio fienda est ut res magis valeat quam pereat*), the offender may still serve his sentence in an agricultural camp or training facility pursuant to Section 51 of R.A. No. 9344. Furthermore, pursuant to Section 98 of R.A. No. 9165, the provisions of the Revised Penal Code apply suppletorily when the drug offender is a minor—entitling him to the privileged mitigating circumstance of minority under Article 68(2) of the Revised Penal Code, which lowers the penalty by one degree from *reclusion perpetua* to *reclusion temporal* and allows the application of the Indeterminate Sentence Law.
+
+---
+
+### **Fallo**
+
+The Supreme Court **AFFIRMED WITH MODIFICATION** the July 31, 2008 Decision of the Court of Appeals in CA-G.R. CR-H.C. No. 00240-MIN (which had affirmed the September 14, 2005 Omnibus Judgment of the RTC, Branch 1, Butuan City in Criminal Cases Nos. 10250 and 10251):
+
+1. Affirmed Mantalaba's conviction for **Illegal Sale of Dangerous Drugs** (Section 5, Article II of R.A. No. 9165), but **modified the prison sentence** from *reclusion perpetua* to an indeterminate penalty of **six (6) years and one (1) day of *prision mayor*, as minimum, to fourteen (14) years, eight (8) months, and one (1) day of *reclusion temporal*, as maximum**, plus a fine of ₱500,000.00;
+2. Affirmed his conviction and sentence for **Illegal Possession of Dangerous Drugs** (Section 11, Article II of R.A. No. 9165) of **six (6) years and one (1) day, as minimum, to eight (8) years, as maximum, of *prision mayor***, plus a fine of ₱300,000.00; and
+3. Directed that Mantalaba be accorded appropriate disposition under **Section 51 of R.A. No. 9344**.
+
+---
+
+### **Elaborate Answers to Review Questions**
+
+**1. Why is Mantalaba no longer entitled to the benefit of suspension of sentence under Sections 38 and 68 of R.A. 9344?**
+
+Although Mantalaba was **17 years old** when he committed the offenses and **Section 38 of R.A. No. 9344** provides for automatic suspension of sentence *"even if the juvenile is already eighteen (18) years of age or more at the time of the pronouncement of his/her guilt"* (with retroactive application to convicted minors under **Section 68**), the Supreme Court held that he could no longer avail of suspension of sentence because **he had already exceeded the maximum statutory age limit of twenty-one (21) years** by the time his appeal was decided:
+
+* **Interplay of Sections 38 and 40 of R.A. No. 9344:** Section 38 must be read together with **Section 40 of R.A. No. 9344** (*Return of the Child in Conflict with the Law to Court*), which provides that if the child has reached 18 years of age while under suspended sentence, the court shall determine whether to discharge the child, order execution of sentence, or extend the suspended sentence **"for a certain specified period or until the child reaches the maximum age of twenty-one (21) years."**
+* **Mootness Beyond Age 21:** Because the law caps the duration of any suspended sentence at age 21, suspending the sentence of an offender who is already *past 21 years old* would serve no practical purpose, as the court would immediately have to order the execution of the judgment anyway.
+
+---
+
+**2. How will Mantalaba serve his sentence?**
+
+Even though Mantalaba had already passed the age of 21 and could no longer be placed under a suspended sentence, the Supreme Court held that he is still entitled to **alternative confinement under Section 51 of R.A. No. 9344** instead of incarceration in an ordinary adult penitentiary:
+
+* **Service in an Agricultural Camp or Training Facility (Section 51, R.A. No. 9344):** Section 51 provides that a child in conflict with the law may, after conviction and upon order of the court, be made to serve his or her sentence—**in lieu of confinement in a regular penal institution**—in an **agricultural camp and other training facilities** that may be established, maintained, supervised, and controlled by the Bureau of Corrections (BuCor), in coordination with the Department of Social Welfare and Development (DSWD).
+* **Statutory Construction (*Interpretatio Fienda Est Ut Res Magis Valeat Quam Pereat*):** Unlike Section 40, **Section 51 imposes no 21-year age ceiling**. Construing the statute so that its rehabilitative purpose may have efficacy rather than fail, the Supreme Court ruled that an offender who committed a crime while below 18 years of age remains entitled to serve his sentence in an agricultural camp or training facility even after turning 21.
+
+---
+
+**3. What is the proper penalty to be imposed upon Mantalaba and why?**
+
+The Supreme Court modified Mantalaba's prison sentence for **Illegal Sale of Dangerous Drugs (Section 5, R.A. No. 9165)** from *reclusion perpetua* to an **indeterminate penalty of six (6) years and one (1) day of *prision mayor*, as minimum, to fourteen (14) years, eight (8) months, and one (1) day of *reclusion temporal*, as maximum** (while affirming the ₱500,000.00 fine, as well as the separate sentence for Illegal Possession under Section 11), based on the following penalty-graduation rules:
+
+1. **Suppletory Application of the Revised Penal Code via Section 98 of R.A. No. 9165:**
+While Section 98 of R.A. No. 9165 generally bars the suppletory application of the Revised Penal Code to drug offenses, it carves out an explicit exception: **"except when the offender is a minor."** It further states that where the offender is a minor, the penalty for acts punishable by *life imprisonment to death* shall be ***reclusion perpetua* to death**.
+2. **Reduction by One Degree Under Article 68(2) of the Revised Penal Code:**
+Because Mantalaba was 17 years old (over 15 and under 18, acting with discernment) at the time of the buy-bust operation, **Article 68(2) of the Revised Penal Code** entitles him to the **privileged mitigating circumstance of minority**, which mandates imposing the **penalty next lower in degree** than that prescribed by law.
+* Following *People v. Bon*, despite the abolition of the death penalty under R.A. No. 9346, *reclusion perpetua* remains the reckoning base, and one degree lower than *reclusion perpetua* under Article 61(2) of the Revised Penal Code is ***reclusion temporal***.
+
+
+3. **Application of the Indeterminate Sentence Law (Act No. 4103):**
+Once *reclusion perpetua* is reduced by one degree to ***reclusion temporal***—which is a **divisible** penalty—the **Indeterminate Sentence Law** applies:
+* **Maximum Term:** In the absence of any generic mitigating or aggravating circumstances, the maximum term is taken from the **medium period of *reclusion temporal*** (14 years, 8 months, and 1 day to 17 years and 4 months)—fixed at **14 years, 8 months, and 1 day of *reclusion temporal***.
+* **Minimum Term:** Taken within the range of the penalty next lower in degree to *reclusion temporal*, which is ***prision mayor*** (6 years and 1 day to 12 years)—fixed at **6 years and 1 day of *prision mayor***.
