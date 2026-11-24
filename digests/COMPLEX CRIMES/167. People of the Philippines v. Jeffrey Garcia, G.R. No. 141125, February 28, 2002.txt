@@ -1,1 +1,98 @@
+**People of the Philippines v. Jeffrey Garcia y Caragay and Three John Does**
+G.R. No. 141125, February 28, 2002 (En Banc, Per Curiam)
 
+**Topic:** Complex Crimes (Art. 48, RPC: Forcible Abduction with Rape, Art. 342)
+
+---
+
+## FACTS
+
+Cleopatra, a 19-year-old college student, was crossing a street when a white van stopped in front of her. Its rear door slid open and she was pulled inside. Something was sprayed on her face, and a fist blow to her stomach knocked her unconscious.
+
+She woke up in a room, naked and lying on a bed, with four men present. One of them, a Bombay-looking man, raped her. Garcia burned her chin with a lighted cigarette and held her arm as the first man raped her. Two other men held her feet and burned her legs with cigarettes. Garcia was next. He raped her while holding her left arm, while two men pinned her legs. The third and fourth men then raped her in turn, with the other men holding her arms and legs.
+
+Cleopatra was sprayed again, blacked out, and woke up by the roadside. A taxi took her home. A medico-legal examination found second-degree burns, contusions, fresh hymenal lacerations and spermatozoa. Garcia was arrested in connection with another rape case, and Cleopatra identified him. He was charged with forcible abduction with rape in a single Information alleging conspiracy. Only Garcia was tried. The three co-accused remained unidentified and at large. He raised alibi and said the identification was improperly suggested by the police.
+
+---
+
+## ISSUE
+
+What crime or crimes did Garcia commit when he and his three co-accused abducted Cleopatra with lewd designs and then each raped her in turn? Is each rape a separate complex crime of forcible abduction with rape?
+
+---
+
+## RULING
+
+**The SC AFFIRMED the conviction with modifications.**
+
+### Q. What crime or crimes did the accused commit? Why?
+
+**The accused committed one complex crime of forcible abduction with rape and three separate counts of rape.**
+
+**(a) The elements of forcible abduction and the complex crime of forcible abduction with rape**
+
+> "The trial court, therefore, did not err in convicting accused-appellant of the complex crime of forcible abduction with rape. The two elements of forcible abduction, as defined in Article 342 of the Revised Penal Code, are: (1) the taking of a woman against her will and (2) with lewd designs. The crime of forcible abduction with rape is a complex crime that occurs when there is carnal knowledge with the abducted woman under the following circumstances: (1) by using force or intimidation; (2) when the woman is deprived of reason or otherwise unconscious; and (3) when the woman is under twelve years of age or is demented."
+
+(Citing *People v. Lacanieta*, G.R. No. 124299, April 12, 2000.)
+
+**(b) The Information alleged, and the prosecution proved, the elements of both crimes.**
+
+> "In the case at bar, the information sufficiently alleged the elements of forcible abduction, i.e., the taking of complainant against her against her will and with lewd design. It was likewise alleged that accused-appellant and his three co-accused conspired, confederated and mutually aided one another in having carnal knowledge of complainant by means of force and intimidation and against her will."
+
+> "Aside from alleging the necessary elements of the crimes, the prosecution convincingly established that the carnal knowledge was committed through force and intimidation. Moreover, the prosecution sufficiently proved beyond reasonable doubt that accused-appellant succeeded in forcibly abducting the complainant with lewd designs, established by the actual rape."
+
+(Citing *People v. De Lara*, G.R. No. 124703, June 27, 2000.)
+
+**(c) Garcia is liable for all four rapes because of conspiracy.**
+
+> "Hence, accused-appellant is guilty of the complex crime of forcible abduction with rape. He should also be held liable for the other three counts of rape committed by his three co-accused, considering the clear conspiracy among them shown by their obvious concerted efforts to perpetrate, one after the other, the crime. As borne by the records, all the four accused helped one another in consummating the rape of complainant. While one of them mounted her, the other three held her arms and legs. They also burned her face and extremities with lighted cigarettes to stop her from warding off her aggressor. Each of them, therefore, is responsible not only for the rape committed personally by him but for the rape committed by the others as well."
+
+(Citing *People v. Quiñanola*, G.R. No. 126148, May 5, 1999.)
+
+**(d) There can be only one complex crime of forcible abduction with rape. The later rapes are separate.**
+
+> "However, as correctly held by the trial court, there can only be one complex crime of forcible abduction with rape. The crime of forcible abduction was only necessary for the first rape. Thus, the subsequent acts of rape can no longer be considered as separate complex crimes of forcible abduction with rape. They should be detached from and considered independently of the forcible abduction. Therefore, accused-appellant should be convicted of one complex crime of forcible abduction with rape and three separate acts of rape."
+
+(Citing *People v. Velasquez*, G.R. Nos. 137383-83 [sic], November 23, 2000.)
+
+**(e) Penalty for the complex crime, under Art. 48 and Art. 266-B**
+
+> "The penalty for complex crimes is the penalty for the most serious crime which shall be imposed in its maximum period. Rape is the more serious of the two crimes and, when committed by more than two persons, is punishable with reclusion perpetua to death under Article 266-B of the Revised Penal Code, as amended by Republic Act No. 8353. Thus, accused-appellant should be sentenced to the maximum penalty of death for forcible abduction with rape."
+
+**(f) Penalty for the other three rapes: the aggravating circumstances were not alleged in the Information.**
+
+> "As regards the other three acts of rape, accused-appellant can only be sentenced to reclusion perpetua. The trial court appreciated the aggravating circumstances of nighttime, superior strength and motor vehicle. However, these were not alleged in the information. Under the amended provisions of Rule 110, Sections 8 and 9 of the Revised Rules on Criminal Procedure, which took effect on December 1, 2000, aggravating as well as qualifying circumstances must be alleged in the information, otherwise, they cannot be considered against the accused even if proven at the trial. Being favorable to accused-appellant, this rule should be applied retroactively in this case. Hence, there being no aggravating circumstance that may be appreciated, and with no mitigating circumstance, the lesser of the two indivisible penalties shall be applied, pursuant to Article 63, paragraph (2) of the Revised Penal Code."
+
+(Citing *People v. Ramirez*, G.R. No. 136094, April 20, 2001.)
+
+**(g) The defense of alibi and the identification issue failed.**
+
+> "It is a well-settled rule that positive identification of the accused, where categorical and consistent and without any showing of ill motive on the part of the eyewitness testifying on the matter, prevails over alibi and denial which if not substantiated by clear and convincing evidence are negative and self-serving evidence undeserving of weight in law."
+
+> "Furthermore, in order that the defense of alibi may prosper, accused-appellant must establish not only that he was somewhere else when the crime was committed but also that it was physically impossible for him to have been at the scene of the crime at the time it was committed."
+
+> "On the contrary, the transcripts convincingly show that complainant was left to freely study the faces of the thirty or more inmates on the basketball court below to see whether she recognized any of them. There was no suggestion from the police to point to the new detainee, who had just been arrested on another rape charge."
+
+---
+
+## FALLO
+
+> "WHEREFORE, based on the foregoing, the Decision of the Regional Trial Court of Baguio City, Branch 6, in Criminal Case No. 15805-R, convicting accused-appellant Jeffrey Garcia y Caragay of one count of Forcible Abduction with Rape and three counts of Rape, is AFFIRMED with MODIFICATIONS. As modified, accused-appellant is sentenced to suffer the penalty of Death for the complex crime of Forcible Abduction with Rape and Reclusion Perpetua for each of the three counts of rape. Further, accused-appellant is ordered to pay complainant Cleopatra Changlapon the amounts of P146,125.75 as actual damages, P75,000.00 as civil indemnity and P50,000.00 as moral damages. Costs against accused-appellant.
+>
+> In accordance with Article 83 of the Revised Penal Code, as amended, upon finality of this Decision, let the records of this case be forwarded to the Office of the President for possible exercise of pardoning power or executive clemency.
+>
+> SO ORDERED."
+
+*The death penalty was imposed in this decision, which predates R.A. 9346.*
+
+---
+
+## KEY DOCTRINE FOR REVIEW
+
+- **Forcible abduction with rape** is a complex crime under Art. 48, second clause. Forcible abduction (Art. 342) is a necessary means of committing the rape.
+- **Elements of forcible abduction (Art. 342):** (1) the taking of a woman against her will, and (2) with lewd designs. The actual rape establishes the lewd design.
+- **Only one complex crime.** The abduction is a necessary means for the first rape only. The subsequent rapes are **separate counts of rape**, detached from the abduction. Here: 1 forcible abduction with rape and 3 counts of rape.
+- **Conspiracy:** each conspirator is liable for his own rape and for the rapes committed by the others. That is how Garcia became liable for all four rapes.
+- **Penalty:** the penalty for the more serious crime (rape by more than two persons, reclusion perpetua to death) is imposed in its maximum period, which is death, for the complex crime. The other rapes carry reclusion perpetua.
+- **Aggravating circumstances:** these must be alleged in the Information to be considered. Under the amended Rules on Criminal Procedure (Rule 110, Secs. 8 and 9), applied retroactively because it favors the accused, unalleged circumstances cannot be considered against him even if proven.
+- **Contrast with kidnapping:** a later decision cited this case in explaining that where the taking is with lewd designs, the crime is forcible abduction with rape and not kidnapping with rape.
