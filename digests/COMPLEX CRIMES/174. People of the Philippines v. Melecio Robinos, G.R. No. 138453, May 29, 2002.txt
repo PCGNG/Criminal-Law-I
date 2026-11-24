@@ -1,1 +1,73 @@
+### **People of the Philippines v. Melecio Robinos**
+*G.R. No. 138453, May 29, 2002*
 
+---
+
+### **Facts**
+
+Melecio Robinos (Robinos) and Lorenza Robinos (Lorenza) were lawfully married and lived together with their children. One morning, Robinos and Lorenza had a heated quarrel inside their house because Lorenza—who was then six months pregnant—refused to join him in returning to Tarlac. In the course of the altercation, Robinos took a sharp, double-bladed knife and stabbed Lorenza in the chest, piercing her heart and lungs and killing both Lorenza and the six-month-old fetus inside her womb.
+
+The RTC convicted Robinos of the complex crime of Parricide with Unintentional Abortion and sentenced him to suffer the supreme penalty of death, elevating the case to the SC on automatic review.
+
+---
+
+### **Issue**
+
+Is Melecio Robinos criminally liable for the complex crime of parricide with unintentional abortion under Article 48 of the Revised Penal Code, and what is the proper imposable penalty therefor?
+
+---
+
+### **Ruling**
+
+**Yes, and the proper penalty is *reclusion perpetua*.** The Supreme Court ruled verbatim:
+
+> "Since appellant killed his wife who was then six months pregnant, he committed the complex crime of parricide with unintentional abortion."
+
+> "Under Article 48 of the Revised Penal Code, when a single act constitutes two or more grave or less grave felonies, the penalty for the most serious crime shall be imposed, the same to be applied in its maximum period. The penalty for parricide is *reclusion perpetua* to death, while the penalty for unintentional abortion is *prision correccional* in its minimum and medium periods. Thus, the penalty for the most serious crime, which is parricide, should be imposed in its maximum period, which is death. However, because of Article 63(2) of the Revised Penal Code, which provides that when there are neither mitigating nor aggravating circumstances in the commission of the deed, the lesser penalty shall be applied, the penalty of *reclusion perpetua* should be imposed on appellant."
+
+**Legal Basis / Doctrines Relied Upon:**
+
+* **Article 48, Revised Penal Code** (Penalty for complex crimes — compound crime / *delito compuesto* where a single act constitutes two or more grave or less grave felonies)
+* **Article 246, Revised Penal Code** (Parricide — punishable by *reclusion perpetua* to death)
+* **Article 257, Revised Penal Code** (Unintentional abortion — punishable by *prision correccional* in its minimum and medium periods)
+* **Article 63, paragraph 2, Revised Penal Code** (Rules for the application of indivisible penalties — when there are neither mitigating nor aggravating circumstances, the lesser penalty shall be applied)
+* *People v. Villanueva*, 242 SCRA 47 (1995) / *People v. Salufrania*, 159 SCRA 401 (1988) (Complex crime of parricide with unintentional abortion)
+
+---
+
+### **Ratio Decidendi**
+
+When an accused fatally stabs his lawful pregnant wife, that single violent act simultaneously produces two distinct grave or less grave felonies—Parricide (Article 246) and Unintentional Abortion (Article 257)—thereby constituting a compound complex crime (*delito compuesto*) under Article 48 of the Revised Penal Code. While Article 48 directs that the penalty for the most serious crime (parricide, punishable by *reclusion perpetua* to death) be imposed in its maximum period (death), the Supreme Court harmonized Article 48 with Article 63(2) of the Revised Penal Code, holding that where the complex crime is not attended by any generic aggravating or mitigating circumstance, the lesser indivisible penalty of *reclusion perpetua* must be imposed.
+
+---
+
+### **Fallo**
+
+> "WHEREFORE, the Decision of the Regional Trial Court of Camiling, Tarlac (Branch 68) in Criminal Case No. 95-45 is AFFIRMED with the MODIFICATION that the penalty is REDUCED to *reclusion perpetua*. Appellant is further ordered to pay the heirs of Lorenza Robinos ₱50,000 as civil indemnity and ₱50,000 as moral damages. Costs against appellant.
+> SO ORDERED."
+
+---
+
+### **Elaborate Answer to Review Question**
+
+**What is the proper penalty for the complex crime of parricide with unintentional abortion? Why?**
+
+In *People v. Robinos*, the Supreme Court held that the proper penalty for the complex crime of **Parricide with Unintentional Abortion**—when committed without any mitigating or aggravating circumstance—is ***reclusion perpetua*** (and not death), based on the following statutory analysis under the Revised Penal Code:
+
+1. **Existence of a Compound Complex Crime (*Delito Compuesto*) Under Article 48:**
+Under **Article 48 of the Revised Penal Code**, a complex crime arises in two ways: *(a)* when a single act constitutes two or more grave or less grave felonies (*delito compuesto*), or *(b)* when an offense is a necessary means for committing the other (*delito complejo*).
+* By plunging a knife into the chest of his six-month pregnant wife Lorenza, Robinos performed a **single act** that directly caused two distinct criminal results: **(1) Parricide** under **Article 246** (a grave felony, since he killed his legitimate spouse), and **(2) Unintentional Abortion** under **Article 257** (a less grave felony, since violence was intentionally exerted upon a pregnant woman without intent to cause an abortion, resulting in the death of the unborn fetus).
+* Because both resulting offenses are grave and less grave felonies produced by a single act, they merge into the complex crime of **Parricide with Unintentional Abortion**.
+
+
+2. **Comparison of Penalties and Application of Article 48:**
+Article 48 mandates that *"the penalty for the most serious crime shall be imposed, the same to be applied in its maximum period."*
+* **Parricide (Article 246):** Punishable by two indivisible penalties—***reclusion perpetua* to death**.
+* **Unintentional Abortion (Article 257):** Punishable by ***prision correccional* in its minimum and medium periods**.
+* Comparing the two, **Parricide** is indisputably the most serious crime, and the maximum period of its prescribed penalty (*reclusion perpetua* to death) is **death**.
+
+
+3. **Why *Reclusion Perpetua* Was Imposed Instead of Death (Harmonization with Article 63[2], RPC):**
+Despite the literal phrasing of Article 48 pointing to the maximum period (death), the Supreme Court applied **Article 63, paragraph 2 of the Revised Penal Code**, which governs the application of two indivisible penalties (*reclusion perpetua* to death):
+* Under **Article 63(2)**, *"when there are neither mitigating nor aggravating circumstances in the commission of the deed, the lesser penalty shall be applied."*
+* In *Robinos*, the prosecution failed to prove any generic aggravating circumstance (such as treachery or evident premeditation), and no mitigating circumstance was present. Applying Article 63(2) (and consistent with the constitutional policy favoring the lesser indivisible penalty in the absence of aggravating circumstances), the Supreme Court reduced the trial court's death sentence to ***reclusion perpetua***. *(Note: Under subsequent R.A. No. 9346, the imposition of the death penalty is now wholly prohibited, further cementing reclusion perpetua as the imposable penalty.)*
