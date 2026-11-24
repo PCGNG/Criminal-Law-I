@@ -1,1 +1,90 @@
+**People of the Philippines v. Crispin Lawas, Agustin Osorio and Clemente Osorio; People v. Felipe Si-it, Generoso Osorio and Patricio Pinos**
+G.R. Nos. L-7618-20, June 30, 1955 (En Banc, Labrador, J.)
 
+**Topic:** Complex Crimes (Art. 48, RPC: the single criminal impulse theory)
+
+---
+
+## FACTS
+
+Moros (Maranaos) from Barrio Baris raided Barrio Malingao and killed 11 Christian residents. Lawas, head of the home guards in Balimbing, and other home guards went to Baris and brought about seventy Maranaos to Barrio Salong. They included men, women and children. The Maranaos were held overnight in a house under guard.
+
+The next morning, Lawas and Agustin Osorio investigated the principal Moros at a table set up outside. Lawas announced that the Moros would be taken to Captain Morgan and that their hands would be tied. A commotion followed. Datu Lomangcolob refused to be tied, and Lawas fired at him and ordered his men to fire. The home guards fired, and the Moros fell dead. After a short time, Lawas ordered "cease fire," and the shooting stopped. During the shooting, some armed men went up to the second floor of the house and killed women and children with firearms and bolos.
+
+About fifty Maranaos died: fifteen men, twenty-five women and ten children. No evidence showed how many persons each accused killed. Lawas, Agustin Osorio, Clemente Osorio, Si-it, Generoso Osorio and Pinos were charged under two Informations with multiple murder. The trial court convicted them of multiple murder.
+
+---
+
+## ISSUE
+
+Are the accused liable for as many crimes of homicide as there were persons killed, or for only one complex crime of multiple homicide under Art. 48, RPC, where the killing resulted from a single impulse induced by the leader's order to fire?
+
+---
+
+## RULING
+
+**The SC MODIFIED the judgment. Lawas, Clemente Osorio, Agustin Osorio, Si-it, Generoso Osorio and Pinos were each found guilty of the single complex crime of multiple homicide, not murder and not several separate homicides.**
+
+### Q. Why were the accused liable for the complex crime of multiple homicide instead of several counts of homicide equal to the number of persons killed?
+
+**(a) First, the killing of the men was simple homicide, not murder.**
+
+> "There can not, therefore, be any circumstance that would qualify the killing of the Maranaos as murder; there was no evident premeditation; neither was there treachery because the Moros were face to face with the soldiers; and neither could there be abuse of superior strength because the soldiers did not expressly take advantage of their arms to commit the offense."
+
+> "The offense committed is plain, simple homicide, with respect to Crispin Lawas and Agustin Osorio, as it is also with respect to thos3 [sic] soldiers who fired at the Moros at the time the commotion arose."
+
+**(b) The Court acquitted the accused of the murder of the women and children for lack of identification and conspiracy.**
+
+> "This vacillating and doubtful identification, coupled with tha [sic] fact that the witness was only eleven years of age at tha [sic] time of the incident and made tho [sic] identification seven years later, and that he had an interest in the conviction of the accused, can not serve as legal basis for a finding that the persons pointed out at tha [sic] trial were in fact the very persons who committed the murder of the women and children."
+
+> "But the evidence submitted fails to disclose any previous common design to massacre all the Moros under detention, including the women and children."
+
+Lawas and Agustin Osorio could not be held liable as inducers of that killing. The order to fire was directed only at the Moros who showed resistance, and the Court applied the rule from *U.S. v. Indanan*:
+
+> "Neither Crisipin [sic] Lawas nor Agustin Osorio may, therefore, be held responsible for the crime of murder in connection with the massacre of the women and children by inducement, and they must be acquitted of the charge of murder."
+
+**(c) The Court posed the question on the number of crimes.**
+
+> "One last question involves the determination of the number or crimes for which each of the appellants may be found guilty, whether each one should be considered as having committed as many crimes as there were persons who were killed, or only for one complex crime of multiple homicide."
+
+**(d) The Information charged one offense, not one offense per victim.**
+
+> "The information is for multiple murder, and no inference can be made therefrom, that the accused are being charged of as many offenses as there were victims."
+
+**(e) The killing resulted from a single criminal impulse, so it is a single offense.**
+
+> "Then the evidence positively shows that the killing was the result of a single impulse, which was induced by the order of the leader to fire, and continued with the intention to comply therewith, as the firing stopped as soon as the leader gave the order to that effect. There was no intent on the part of the apellants [sic] either to fire at each and everyone of the victims as separately and distinctly from each other."
+
+> "It has been held that if the act or acts complained of resulted from a single criminal impulse, it constitutes a single offense (Article 43 [sic] of the Revised Penal Code; People vs. Acosta, 60 Phil. 158)."
+
+**(f) The prior cases the Court relied on**
+
+> "So also it has been held that the act of taking two roosters belonging to two different persons in the same place and on the same occasion cannot give rise to two crimes having an independent existence of their own, because there are not two distinct appropriations nor two intentions that characterize two separate crimes (People vs. De Leon, 49 Phil. 237, citing decisions of the Supreme Court of Spain of November 2, 1898 and October 4, 1905)."
+
+> "And in the case of People vs. Guillem, 47 O.G. No. 7, 3433, a single act, that of throwing a highly explosive hand grenade at President Roxas, resulting in the death of one victim and in physical injuries on others was considered as a single act, also falling under the first part of Article 48 of the Revised Penal Code."
+
+**(g) It was also impossible to determine how many persons each accused killed.**
+
+> "It may be added that there is absolutely no evidence as to the number of persons killed by each and every one of the appellants, so even if we were induced to hold each appellant responsible for each and every death caused by him, it is imposible [sic] to carry that desire into effect as it is impossible to ascertain the individual deaths caused by each and everyone."
+
+**(h) The Court's conclusion and penalty**
+
+> "We are, therefore, forced to find the appellants guilty of only one offense, that of multiple homicide for which the penalty to be imposed should be in the maximum period."
+
+---
+
+## FALLO
+
+(The robbery portion of the dispositive part, G.R. No. L-7618, is outside the topic of this digest.)
+
+> "Wherefore, in G.R. No. 7618, for robbery, the judgment of conviction appealed from is hereby affirmed, but the maximum of the penalty imposed is hereby raised to 6 years 10 months and 1 day of prision mayor, in view of the presence of the aggravating circumstance of superior strength in the commission of the offense. The individual liabilities of each of the persons sentenced for said crime are hereby also affirmed. In G.R. Nos. 7619 and 7620, the appellants Crispin Lawas, Clemente Osorio, Agustin Osorio, Felipe Si-it, Generoso Osorio and Patricio Pinos are each found guilty of the crime of multiple homicide and each sentenced to suffer the penalty of not less than 15 years 6 months and 21 days nor more than 18 years 2 months and 21 days, both of reclusion temporal, to indemnify the heirs of each of the deceased, jointly and severally, in the amount of P3,000.00, and to pay the costs proportionately."
+
+---
+
+## KEY DOCTRINE FOR REVIEW
+
+- **Single criminal impulse theory:** under *Lawas*, where several killings result from a single criminal impulse, they constitute **one offense**, the complex crime of multiple homicide under the first part of Art. 48. The Court tied this to the leader's single order to fire, which was obeyed and ended when he ordered a "cease fire."
+- **Why one crime and not as many as the victims:** (1) the Information charged one offense, "multiple murder"; (2) there was a single impulse and no intent to fire at each victim separately; (3) the earlier cases (*Acosta*, *De Leon*, *Guillem*) treat acts from a single impulse as one offense; and (4) it was impossible to ascertain how many persons each accused killed.
+- **Penalty:** the penalty for the single offense is imposed in the **maximum period** (Art. 48).
+- **Why homicide, not murder:** no qualifying circumstance (premeditation, treachery, abuse of superior strength) was proven for the killing of the men. The accused were not liable for the killing of the women and children, which was qualified by abuse of superior strength, because they were not identified as the killers and no conspiracy or inducement was shown.
+- **Later treatment (outside this decision):** the single criminal impulse theory was not followed consistently. *People v. Toling* (1975) lists *Lawas* among the "contra" cases, and later decisions such as *People v. Pineda* (1967) distinguished it. As seen in *Toling*, *Sanchez* and *Jugueta*, the Court now requires a **single act**, not merely a single impulse, for a complex crime of the first kind.
