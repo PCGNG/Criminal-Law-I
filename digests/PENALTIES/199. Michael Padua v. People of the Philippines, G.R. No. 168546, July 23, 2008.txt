@@ -1,0 +1,74 @@
+### **Michael John Z. Padua v. People of the Philippines**
+
+*G.R. No. 168546, July 23, 2008*
+
+---
+
+### **Facts**
+
+One evening in Mandaluyong City, 17-year-old Michael Padua (Padua) sold two plastic sachets of *shabu* to a poseur-buyer during a police buy-bust operation. Padua was charged before the RTC with violating Section 5, Article II of Republic Act No. 9165 (Illegal Sale of Dangerous Drugs), to which he initially pleaded not guilty.
+
+During trial, Padua manifested his willingness to enter a plea of guilty to the lesser offense of illegal possession of dangerous drugs under Section 11, Article II of R.A. No. 9165. With the consent of the public prosecutor and the arresting officers, Padua pleaded guilty to the lesser offense, and the RTC convicted him of violating Section 11, Article II of R.A. No. 9165—imposing an indeterminate penalty of six (6) months and one (1) day of *prision correccional*, as minimum, to four (4) years and two (2) months of *prision correccional*, as maximum, by applying the privileged mitigating circumstance of minority under Article 68 of the Revised Penal Code (via Section 98 of R.A. No. 9165). Padua then applied for probation, which the RTC and the CA denied on the ground that Section 24 of R.A. No. 9165 explicitly disqualifies drug traffickers or pushers from availing of the benefits of the Probation Law, prompting Padua's appeal to the SC.
+
+---
+
+### **Issue**
+
+Is Michael Padua, who was originally charged with illegal sale of dangerous drugs under Section 5, Article II of Republic Act No. 9165 and subsequently convicted through plea bargaining of illegal possession under Section 11 thereof—with a probationable penalty computed under the Revised Penal Code—qualified to apply for probation notwithstanding Section 24 of Republic Act No. 9165?
+
+---
+
+### **Ruling**
+
+**No.** The Supreme Court ruled verbatim:
+
+> "Section 24 of Rep. Act No. 9165 is clear and unambiguous:
+> SEC. 24. *Non-Applicability of the Probation Law for Drug Traffickers and Pushers.* — Any person convicted for drug trafficking or pushing under this Act, regardless of the penalty imposed by the Court, cannot avail of the privilege granted by the Probation Law or Presidential Decree No. 968, as amended."
+
+> "The law is clear and leaves no room for interpretation. Any person convicted for drug trafficking or pushing under Rep. Act No. 9165, regardless of the penalty imposed by the Court, cannot avail of the privilege granted by the Probation Law or P.D. No. 968, as amended."
+
+**Legal Basis / Doctrines Relied Upon:**
+
+* **Section 24, Republic Act No. 9165** (Non-Applicability of the Probation Law for Drug Traffickers and Pushers)
+* **Sections 5, 11, and 98, Republic Act No. 9165** (Comprehensive Dangerous Drugs Act of 2002 — limited suppletory application of the Revised Penal Code to minor offenders)
+* **Article 10 and Article 68, Revised Penal Code** (Suppletory application of the RPC and privileged mitigating circumstance of minority)
+* **Presidential Decree No. 968, as amended** (Probation Law of 1976)
+* *Verba Legis* / Plain Meaning Rule in Statutory Construction (*People v. Mapa*, G.R. No. L-22301, August 30, 1967 — where the language of the law is clear and unambiguous, there is no room for interpretation, only application)
+
+---
+
+### **Ratio Decidendi**
+
+While Section 98 of Republic Act No. 9165 permits the suppletory application of the Revised Penal Code (such as the privileged mitigating circumstance of minority under Article 68) to lower the imposable prison penalty of a minor drug offender to a duration that would ordinarily fall within the threshold of Presidential Decree No. 968, Section 24 of R.A. No. 9165 expressly and unambiguously disqualifies any person convicted of drug trafficking or pushing under said Act from availing of the privilege of probation *"regardless of the penalty imposed by the Court."* Because probation is a mere statutory privilege rather than a constitutional right, Congress's clear, categorical exclusion under Section 24 prevails over the general provisions of the Probation Law and bars Padua's application for probation.
+
+---
+
+### **Fallo**
+
+> "WHEREFORE, the petition is DENIED. The assailed Decision dated April 19, 2005 and Resolution dated June 14, 2005, of the Court of Appeals in CA-G.R. SP No. 86977 are AFFIRMED.
+> SO ORDERED."
+
+---
+
+### **Elaborate Answer to Review Question**
+
+**Are persons convicted for violation of Section 5, Article II of Rep. Act No. 9165 qualified to apply for probation? Why?**
+
+**No, persons convicted for violation of Section 5, Article II of Republic Act No. 9165 (Illegal Sale, Trading, Administration, Dispensation, Delivery, Distribution and Transportation of Dangerous Drugs and/or Controlled Precursors and Essential Chemicals) are NOT qualified to apply for probation**, for the following legal reasons:
+
+1. **Express Statutory Disqualification Under Section 24 of R.A. No. 9165:**
+* **Section 24 of R.A. No. 9165** categorically provides:
+> *"Any person convicted for drug trafficking or pushing under this Act, **regardless of the penalty imposed by the Court**, cannot avail of the privilege granted by the Probation Law or Presidential Decree No. 968, as amended."*
+
+
+* Because Section 5, Article II penalizes drug pushing and drug trafficking, any person convicted thereunder is **automatically disqualified** by law from applying for probation.
+
+
+2. **Irrelevance of the Penalty's Duration (Even if Reduced Below Six Years by Minority Under the RPC):**
+* Ordinarily, under **Section 9 of Presidential Decree No. 968 (Probation Law)**, an offender is disqualified from probation only if sentenced to serve a maximum term of imprisonment of **more than six (6) years**.
+* In *Padua*, because the accused was a minor (17 years old) when he committed the offense, the trial court applied **Article 68 of the Revised Penal Code** (via Section 98 of R.A. No. 9165) and lowered his penalty to a maximum of **four (4) years and two (2) months of *prision correccional***—which is below the six-year ceiling of P.D. No. 968.
+* However, the Supreme Court emphasized the explicit clause in Section 24—**"regardless of the penalty imposed by the Court."** Under the *verba legis* (plain meaning) rule of statutory construction, even if a minor drug offender's penalty is reduced to less than six years through the suppletory application of the Revised Penal Code (or through plea bargaining), the statutory bar under Section 24 remains absolute.
+
+
+3. **Probation Is a Mere Statutory Privilege Within Legislative Control:**
+* Probation is not a demandable right of a convicted offender, but a mere act of grace and statutory privilege conferred by the Legislature. Just as Congress has the power to grant probation, it possesses full constitutional authority to exclude specific classes of offenders—such as drug pushers and traffickers—from its coverage as a matter of public policy. *(Note: In subsequent A.M. No. 18-03-16-SC [Adoption of the Plea Bargaining Framework in Drugs Cases], the Supreme Court later clarified that when an accused charged under Section 5 validly plea-bargains to a lesser offense under Section 11 [possession] or Section 12 [paraphernalia]—which are NOT drug trafficking or pushing offenses—probation may be applied for unless the plea bargain is to an offense covered by Section 24, though Padua itself strictly enforced Section 24 against Padua's conviction arising out of the Section 5 charge).*
