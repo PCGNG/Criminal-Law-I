@@ -1,0 +1,64 @@
+### **People of the Philippines v. Emmanuel Rocha and Ruperto Ramos**
+
+*G.R. No. 173797, August 31, 2007*
+
+---
+
+### **Facts**
+
+One evening in Valenzuela City, Emmanuel Rocha (Rocha), Ruperto Ramos (Ramos), and two other unidentified cohorts abducted 17-year-old AAA while she was walking home, dragged her into a taxi, and brought her to an apartment in Bulacan, where she was detained for ransom. While AAA was held captive, Rocha and Ramos demanded a ₱10,000,000.00 ransom from her parents—threatening to kill AAA if the money was not paid—and during her detention, Rocha and Ramos took turns raping AAA on separate occasions. Police operatives eventually traced the kidnappers' phone calls, arrested Rocha and Ramos during the ransom payoff, and rescued AAA from the safehouse.
+
+The RTC convicted Rocha and Ramos of the special complex crime of Kidnapping for Ransom with Rape and sentenced both of them to suffer the supreme penalty of death, which the CA affirmed. On automatic review before the SC, the Court reviewed their criminal liability and the proper imposable penalty in light of the enactment of Republic Act No. 9346.
+
+---
+
+### **Issue**
+
+What is the proper imposable penalty upon Emmanuel Rocha and Ruperto Ramos for the special complex crime of Kidnapping for Ransom with Rape under Article 267 of the Revised Penal Code, as amended, following the enactment of Republic Act No. 9346?
+
+---
+
+### **Ruling**
+
+**The proper penalty is *reclusion perpetua* without eligibility for parole.** The Supreme Court ruled verbatim:
+
+> "Under Article 267 of the Revised Penal Code, as amended by Republic Act No. 7659, the penalty for kidnapping and serious illegal detention is *reclusion perpetua* to death. However, if the victim is killed or dies as a consequence of the detention, or is raped, or is subjected to torture or dehumanizing acts, the maximum penalty—death—shall be imposed."
+
+> "In view, however, of the enactment of Republic Act No. 9346, otherwise known as 'An Act Prohibiting the Imposition of Death Penalty in the Philippines,' the penalty of death can no longer be imposed. In lieu thereof, the penalty of *reclusion perpetua* shall be imposed upon appellants, without eligibility for parole pursuant to Section 3 thereof."
+
+**Legal Basis / Doctrines Relied Upon:**
+
+* **Article 267, Revised Penal Code, as amended by R.A. No. 7659** (Special complex crime of Kidnapping and Serious Illegal Detention with Rape — punishable by the mandatory maximum penalty of death)
+* **Sections 1, 2, and 3, Republic Act No. 9346** (An Act Prohibiting the Imposition of Death Penalty in the Philippines — prescribing *reclusion perpetua* without eligibility for parole in lieu of death)
+* **Act No. 4103, as amended** (Indeterminate Sentence Law — inapplicability of parole to persons convicted of offenses punished with death or life imprisonment / *reclusion perpetua* in lieu of death)
+
+---
+
+### **Ratio Decidendi**
+
+Under the last paragraph of Article 267 of the Revised Penal Code, as amended by Republic Act No. 7659, when the victim of kidnapping and serious illegal detention is raped during her detention, the offense constitutes the special complex crime (*delito complejo especial*) of Kidnapping with Rape—regardless of the number of rapes committed—and is punishable by the single indivisible penalty of death. However, with the passage of Republic Act No. 9346 abolishing the death penalty, Section 2 thereof mandates the imposition of *reclusion perpetua* in lieu of death, while Section 3 expressly disqualifies persons sentenced to *reclusion perpetua* under said Act from eligibility for parole under the Indeterminate Sentence Law.
+
+---
+
+### **Fallo**
+
+> "WHEREFORE, the Decision of the Court of Appeals dated 31 May 2006 in CA-G.R. CR-H.C. No. 01628, affirming the Decision of the Regional Trial Court of Valenzuela City, Branch 171, finding appellants Emmanuel Rocha and Ruperto Ramos guilty beyond reasonable doubt of the crime of Kidnapping for Ransom with Rape, is AFFIRMED with the MODIFICATION that the penalty of death imposed on appellants is REDUCED to *reclusion perpetua* without eligibility for parole. Appellants are ordered to pay, jointly and severally, the victim AAA ₱100,000.00 as civil indemnity, ₱100,000.00 as moral damages, and ₱100,000.00 as exemplary damages.
+> SO ORDERED."
+
+---
+
+### **Elaborate Answer to Review Question**
+
+**Why are the two accused not qualified to apply for parole?**
+
+Emmanuel Rocha and Ruperto Ramos are legally disqualified from applying for parole based on the explicit statutory mandate of **Republic Act No. 9346 (An Act Prohibiting the Imposition of Death Penalty in the Philippines)** in relation to the **Indeterminate Sentence Law (Act No. 4103)**:
+
+1. **Mandatory Death Penalty Under Article 267 of the Revised Penal Code:**
+Under the last paragraph of **Article 267 of the Revised Penal Code**, as amended by R.A. No. 7659, Kidnapping for Ransom with Rape is a **special complex crime** for which the law prescribes the **mandatory single indivisible penalty of death** (even without any generic aggravating circumstance).
+2. **Express Statutory Disqualification Under Section 3 of R.A. No. 9346:**
+When Congress enacted **R.A. No. 9346** on June 24, 2006, it prohibited the imposition of the death penalty (Section 1) and substituted the penalty of ***reclusion perpetua*** when the law violated makes use of the nomenclature of the penalties of the Revised Penal Code (Section 2[a]). Crucially, **Section 3 of R.A. No. 9346** expressly provides:
+> *"Person convicted of offenses punished with reclusion perpetua, or whose sentences will be reduced to reclusion perpetua, by reason of this Act, **shall not be eligible for parole under Act No. 4180 [4103], otherwise known as the Indeterminate Sentence Law, as amended.**"*
+
+
+3. **Effect of the Phrase "Without Eligibility for Parole":**
+Because Rocha and Ramos committed a heinous special complex crime originally punishable by death—and their sentence was reduced to *reclusion perpetua* solely by operation of R.A. No. 9346—they fall directly within the prohibition of Section 3. Thus, unlike ordinary convicts sentenced to *reclusion perpetua* who may become eligible for executive clemency or parole review after serving 30 years under Article 27/70 of the Revised Penal Code, offenders whose death sentences were commuted to *reclusion perpetua* under R.A. No. 9346 are permanently barred from applying for parole (hence the Supreme Court's inclusion of the qualifying phrase *"without eligibility for parole"* in the dispositive portion to guide the Board of Pardons and Parole and penal authorities).
