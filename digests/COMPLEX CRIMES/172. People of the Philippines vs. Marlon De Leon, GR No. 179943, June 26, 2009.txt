@@ -1,1 +1,93 @@
+**People of the Philippines v. Marlon Albert De Leon y Homo**
+G.R. No. 179943, June 26, 2009 (Third Division, Peralta, J.)
 
+**Topic:** Complex Crimes (Special Complex Crime of Robbery with Homicide, Art. 294[1], RPC, and the continued crime doctrine)
+
+---
+
+## FACTS
+
+At about 2 a.m., a Tamaraw FX with six or seven men stopped at the Energex gasoline station for service. The gasoline boy Zulueta filled the tank, and the driver said the engine would not start. While Zulueta and another gasoline boy, Lacambra, got ready to push the vehicle, the passengers, except the driver, got out armed with a shotgun and a .38 pistol and announced a hold-up.
+
+De Leon guarded Zulueta at the car wash, poked a gun at him and took his wallet, which held a pawnshop ticket and P50. De Leon's companion hit Zulueta on the nape with a gun. Four other robbers took P3,000 from the cashier's office and the cashier's bag and jewelry. They shot the security guard Macahis in the stomach and took his service shotgun. The gang then fled in the vehicle. Macahis died in the hospital.
+
+De Leon was identified by Zulueta and Lacambra. He claimed that he had only hitched a ride in the vehicle, fell asleep, and was too frightened to act when the hold-up started. Four Informations for robbery with homicide were filed. Each alleged robbery of one victim: the station's cash, the cashier's belongings, the guard's firearm, and Zulueta's belongings. Each alleged that on the occasion of the robbery Macahis was shot and killed. The RTC convicted De Leon of four counts and imposed four death penalties. The CA found him guilty of only one count.
+
+---
+
+## ISSUE
+
+Is De Leon liable for four counts of robbery with homicide, one for each victim robbed, or for only one count of robbery with homicide, where the robbers took property from several victims in a single hold-up in which one person was killed?
+
+---
+
+## RULING
+
+**The SC AFFIRMED the CA with modification. It held De Leon guilty of only one count of robbery with homicide and imposed reclusion perpetua.**
+
+### Q. Why was De Leon found liable for only one count of robbery with homicide instead of four?
+
+**(a) The governing provision is Art. 294(1), RPC.**
+
+> "Art. 294. Robbery with violence against or intimidation of persons - Penalties. - Any person guilty of robbery with the use of violence against or any person shall suffer:
+>
+> 1. The penalty of reclusion perpetua to death, when by reason or on occasion of the robbery, the crime of homicide shall have been committed, or when the robbery shall have been accompanied by rape or intentional mutilation or arson."
+
+**(b) The elements of robbery with homicide, and its nature as a single and indivisible felony** (the Court quoted *People v. De Jesus*, 429 SCRA 384):
+
+> "For the accused to be convicted of the said crime, the prosecution is burdened to prove the confluence of the following elements:
+>
+> (1) the taking of personal property is committed with violence or intimidation against persons;
+> (2) the property taken belongs to another;
+> (3) the taking is animo lucrandi; and
+> (4) by reason of the robbery or on the occasion thereof, homicide is committed."
+
+> "In robbery with homicide, the original criminal design of the malefactor is to commit robbery, with homicide perpetrated on the occasion or by reason of the robbery. The intent to commit robbery must precede the taking of human life. The homicide may take place before, during or after the robbery."
+
+> "It is immaterial that the death would supervene by mere accident; or that the victim of homicide is other than the victim of robbery, or that two or more persons are killed, or that aside from the homicide, rape, intentional mutilation, or usurpation of authority, is committed by reason or on the occasion of the crime. ... Once a homicide is committed by or on the occasion of the robbery, the felony committed is robbery with homicide. All the felonies committed by reason of or on the occasion of the robbery are integrated into one and indivisible felony of robbery with homicide. The word 'homicide' is used in its generic sense. Homicide, thus, includes murder, parricide, and infanticide."
+
+> "When homicide is committed by reason or on the occasion of robbery, all those who took part as principals in the robbery would also be held liable as principals of the single and indivisible felony of robbery with homicide, although they did not actually take part in the killing, unless it clearly appears that they endeavored to prevent the same."
+
+**(c) Conspiracy made De Leon liable as a principal.**
+
+> "If it is proved that two or more persons aimed by their acts towards the accomplishment of the same unlawful object, each doing a part so that their combined acts, though apparently independent, were in fact connected and cooperative, indicating a closeness of personal association and a concurrence of sentiment, a conspiracy may be inferred though no actual meeting among them to concert means is proved. That would be termed an implied conspiracy."
+
+> "To be a conspirator, one need not participate in every detail of the execution; he need not even take part in every act or need not even know the exact part to be performed by the others in the execution of the conspiracy. Each conspirator may be assigned separate and different tasks which may appear unrelated to one another but, in fact, constitute a whole collective effort to achieve their common criminal objective. Once conspiracy is shown, the act of one is the act of all the conspirators."
+
+**(d) Only one count, because there was one criminal resolution and the crime is continued.**
+
+> "Consequently, the CA was correct in ruling that appellant was guilty only of one count of robbery with homicide. In the crime of robbery with homicide, there are series of acts, borne from one criminal resolution, which is to rob. As decided by the Court of Appeals:
+>
+> A continued (continuous or continuing) crime is defined as a single crime, consisting of a series of acts but all arising from one criminal resolution. Although there is a series of acts, there is only one crime committed; hence, only one penalty shall be imposed."
+
+> "In the case before Us, [appellant] and his companions intended only to rob one place; and that is the Energex gasoline station. That they did; and in the process, also took away by force the money and valuables of the employees working in said gasoline station. Clearly inferred from these circumstances are the series of acts which were borne from one criminal resolution. A continuing offense is a continuous, unlawful act or series of acts set on foot by a single impulse and operated by an unintermittent force, however long a time it may occupy. This can be said of the case at hand."
+
+**(e) The analogy to *People v. De la Cruz*, No. L-1745, May 23, 1950 (cited by the Court)**
+
+> "Akin to the extant case is that of People v. De la Cruz, wherein the robbery that took place in several houses belonging to different persons, when not absolutely unconnected, was held not to be taken as separate and distinct offenses. They formed instead, component parts of the general plan to despoil all those within the vicinity. In this case, the Solicitor General argued that the [appellant] had committed eight different robberies, because the evidence shows distinct and different acts of spoilation in different houses, with several victimized persons. The Highest Tribunal, however, ruled that the perpetrated acts were not entirely distinct and unconnected from one another. Thus, the single offense or crime."
+
+**(f) The penalty: Art. 63, RPC. The use of an unlicensed firearm was not proven, so it was not an aggravating circumstance.**
+
+> "Under Article 294 of the Revised Penal Code, as amended by R.A. No. 7659, robbery with homicide is punishable by reclusion perpetua to death, which are both indivisible penalties. Article 63 of the same Code provides that, in all cases in which the law prescribes a penalty composed of two indivisible penalties, the greater penalty shall be applied when the commission of the deed is attended by one aggravating circumstance."
+
+> "After a careful study of the records of the present case, this Court found that the use of unlicensed firearm was not duly proven by the prosecution. Although jurisprudence dictates that the existence of the firearm can be established by mere testimony, the fact that appellant was not a licensed firearm holder must still be established. The prosecution failed to present written or testimonial evidence to prove that appellant did not have a license to carry or own a firearm, hence, the use of unlicensed firearm as an aggravating circumstance cannot be appreciated."
+
+(The Court characterized the use of an unlicensed firearm in homicide or murder under P.D. 1866, as amended by R.A. 8294, as a special aggravating circumstance, citing *Palaganas v. People*.)
+
+---
+
+## FALLO
+
+> "WHEREFORE, the Decision dated June 29, 2007 of the Court of Appeals is hereby AFFIRMED with MODIFICATION. Appellant Marlon Albert de Leon y Homo is hereby found guilty beyond reasonable doubt of the crime of Robbery with Homicide, the penalty of which, is reclusion perpetua in view of the absence of any mitigating or aggravating circumstance. Appellant is also liable to pay the heirs of the victim, P25,000.00 as temperate damages, in addition to the other civil indemnities and damages adjudged by the Regional Trial Court, Branch 76, San Mateo, Rizal.
+>
+> SO ORDERED."
+
+---
+
+## KEY DOCTRINE FOR REVIEW
+
+- **Robbery with homicide is a single and indivisible special complex crime.** Once a homicide is committed by reason or on the occasion of the robbery, all the felonies committed are "integrated into one and indivisible felony." This holds even if two or more persons are killed, and even if the homicide victim is a different person from the robbery victim.
+- **One count, not one per victim robbed.** Where the robbers set out to rob one place and take property from several persons there, the acts arise from a **single criminal resolution** and form one continued crime. The Court applied *People v. De la Cruz* and Reyes' definition of a continued crime. Four Informations did not make four crimes.
+- **Principals:** all those who take part as principals in the robbery are liable for the robbery with homicide, even if they did not take part in the killing, unless they tried to prevent it.
+- **Conspiracy:** an implied conspiracy is inferred from concerted acts. A conspirator who merely stays present, without an overt act to dissociate himself, is not exculpated.
+- **Penalty:** reclusion perpetua to death under Art. 294(1), with Art. 63 applying. Because the use of an unlicensed firearm was not proven (the prosecution did not show that the accused had no license), no aggravating circumstance was present and the lesser penalty, reclusion perpetua, applied.
