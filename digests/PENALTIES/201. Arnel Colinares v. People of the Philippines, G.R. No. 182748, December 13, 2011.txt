@@ -1,0 +1,66 @@
+### **Arnel Colinares v. People of the Philippines**
+
+*G.R. No. 182748, December 13, 2011*
+
+---
+
+### **Facts**
+
+One evening in Camarines Sur, Arnel Colinares (Colinares) got into a heated altercation with Rufino Buena (Buena). During the confrontation, Colinares picked up a stone and struck Buena on the forehead, causing Buena to fall unconscious to the ground. A doctor treated Buena for a lacerated wound on the forehead, noting that while the injury could have been fatal without timely medical intervention, Colinares had no clear intent to kill Buena.
+
+Colinares was charged before the RTC with Frustrated Murder. After trial, the RTC convicted Colinares of Frustrated Homicide—which carried a non-probationable indeterminate penalty of two (2) years and four (4) months of *prision correccional*, as minimum, to eight (8) years and one (1) day of *prision mayor*, as maximum. Colinares appealed to the CA, arguing that he had no intent to kill and was liable at most for Attempted Homicide or Physical Injuries. The CA affirmed the RTC's conviction for Frustrated Homicide, prompting Colinares to elevate the case to the SC.
+
+---
+
+### **Issue**
+
+Is Arnel Colinares, whose conviction for Frustrated Homicide carrying a non-probationable penalty was modified on appeal to Attempted Homicide carrying a probationable penalty under the Revised Penal Code, entitled to apply for probation under Section 4 of Presidential Decree No. 968 (Probation Law of 1976), as amended by Presidential Decree No. 1990, despite having appealed the trial court's judgment?
+
+---
+
+### **Ruling**
+
+**Yes.** The Supreme Court ruled verbatim:
+
+> "Here, Colinares did not appeal from a judgment that would have allowed him to apply for probation. He did not have a choice between appeal and probation. He was not in a position to say, 'By taking this appeal, I choose not to apply for probation.' The stiff penalty that the trial court imposed on him denied him that choice. Thus, a ruling that would allow a person to appeal and still apply for probation when his conviction is modified to a lesser offense that carries a probationable penalty is consistent with the spirit and intent of the Probation Law."
+
+**Legal Basis / Doctrines Relied Upon:**
+
+* **Section 4, Presidential Decree No. 968, as amended by Presidential Decree No. 1990** (Probation Law of 1976 — application for probation following modification of a non-probationable judgment into a probationable one on appeal)
+* **Article 6 in relation to Article 51 and Article 249, Revised Penal Code** (Attempted Homicide — penalty two degrees lower than *reclusion temporal* is *prision correccional*)
+* **Act No. 4103, as amended** (Indeterminate Sentence Law — minimum term taken from *arresto mayor* and maximum term from *prision correccional* in its medium period, yielding a probationable sentence not exceeding six years)
+* *Francisco v. Court of Appeals*, G.R. No. 108747, April 6, 1995 (Distinguished — where the original trial court penalty was already probationable and the accused nevertheless chose to appeal)
+
+---
+
+### **Ratio Decidendi**
+
+The rule under Section 4 of Presidential Decree No. 968, as amended by Presidential Decree No. 1990—which prohibits an accused from applying for probation after perfecting an appeal—presupposes that the trial court imposed a probationable penalty, thereby giving the accused a genuine choice between appealing his conviction or accepting the judgment and applying for probation. Where the trial court erroneously convicts the accused of a graver felony carrying a non-probationable sentence (such as Frustrated Homicide) and the appellate court modifies the conviction to a lesser felony carrying a probationable penalty (such as Attempted Homicide under Articles 6, 51, and 249 of the Revised Penal Code), the accused was never given an initial opportunity to choose probation; denying him the right to apply for probation after his meritorious appeal succeeded in correcting the trial court's error would defeat the humanitarian and restorative purpose of the Probation Law.
+
+---
+
+### **Fallo**
+
+> "WHEREFORE, the Court **SETS ASIDE** the Decision of the Court of Appeals in CA-G.R. CR 29639 dated July 31, 2007 and **FINDS** petitioner Arnel Colinares **GUILTY** beyond reasonable doubt of **attempted homicide** and **SENTENCES** him to suffer an indeterminate penalty from **four (4) months of *arresto mayor*, as minimum, to two (2) years and four (4) months of *prision correccional*, as maximum**, and to pay Rufino P. Buena the amount of **₱20,000.00 as moral damages**, without prejudice to petitioner applying for probation within 15 days from notice that the record of the case has been remanded for execution to the Regional Trial Court of San Jose, Camarines Sur, in Criminal Case T-2213.
+> SO ORDERED."
+
+---
+
+### **Elaborate Answer to Review Question**
+
+**The general rule is that a person who appeals a judgment is no longer entitled to apply for probation. In this case, why is Arnel Colinares entitled to apply for probation despite having appealed the decision of the trial court?**
+
+In *Colinares v. People* (a landmark *en banc* decision that directly paved the way for the subsequent legislative amendment under **Republic Act No. 10707**), the Supreme Court carved out an equitable and logical exception to the general rule under **Section 4 of Presidential Decree No. 968 (as amended by P.D. No. 1990)** based on three fundamental reasons:
+
+1. **Absence of a True Choice Between Appeal and Probation at the Trial Court Level:**
+* The rationale behind the general rule—that *"appeal and probation are mutually exclusive remedies"*—is to prevent an accused who has **already been given a probationable sentence** (i.e., imprisonment of 6 years or less) from gambling on an appeal for outright acquittal and, upon losing, falling back on probation as a mere afterthought (*Francisco v. Court of Appeals*).
+* In *Colinares*, however, the RTC erroneously convicted him of **Frustrated Homicide** and sentenced him to a maximum term of **eight (8) years and one (1) day of *prision mayor***—which exceeded the six-year ceiling under Section 9(a) of P.D. No. 968. Because that penalty was **non-probationable on its face**, Colinares was **legally barred from applying for probation** at the time the RTC promulgated its decision. He never had a choice between appealing and applying for probation; his **only legal remedy** to correct the RTC's erroneous conviction and unlock the door to probation was to appeal.
+
+
+2. **Appellate Modification from a Non-Probationable Offense to a Probationable Offense:**
+* On review, the Supreme Court found that Colinares lacked clear intent to kill when he hit Buena with a stone, reducing his conviction from **Frustrated Homicide** (maximum of 8 years and 1 day) to **Attempted Homicide** under Articles 6, 51, and 249 of the Revised Penal Code—carrying an indeterminate penalty of **four (4) months of *arresto mayor*, as minimum, to two (2) years and four (4) months of *prision correccional*, as maximum**.
+* Because this modified penalty was well below six (6) years, it became **probationable for the very first time** only upon the Supreme Court's decision. Penalizing Colinares for filing a meritorious appeal that vindicated his true criminal liability would be manifestly unjust and contrary to the spirit of the Probation Law.
+
+
+3. **Reconciliation with *Almero v. People* and Subsequent Codification in R.A. No. 10707 (2015):**
+* For bar exam mastery, compare *Colinares* (2011) with *Almero* (2014): in *Colinares*, the **Supreme Court itself** modified the judgment from non-probationable to probationable and expressly granted him 15 days from remand to apply for probation (a ruling later codified into statutory law by **Section 1 of Republic Act No. 10707** in 2015, which amended Section 4 of P.D. No. 968 to expressly allow any accused whose non-probationable RTC penalty is modified on appeal into a probationable penalty to apply for probation within 15 days from notice of the modified decision before it becomes final).
