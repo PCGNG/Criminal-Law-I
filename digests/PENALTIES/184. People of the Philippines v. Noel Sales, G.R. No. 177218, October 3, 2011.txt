@@ -1,0 +1,100 @@
+**People of the Philippines v. Noel T. Sales**
+G.R. No. 177218, October 3, 2011 (First Division, Del Castillo, J.)
+
+**Topic:** Penalties under the Revised Penal Code (application of indivisible penalties under Art. 63, RPC, to parricide)
+
+---
+
+## FACTS
+
+Sales's sons, Noemar (9) and Junior (8), left home without their parents' permission and did not return for several days. Sales had already scolded them for three similar earlier incidents. He had also heard a report that they stole a pedicab, and he had to borrow money so that his wife could search for them. When the boys finally got home that evening, a furious Sales whipped them with a stick that broke. He then took them outside and tied their hands and feet to a coconut tree. He continued to beat them with a thick piece of wood until Noemar's body slipped from the tree and he lost consciousness.
+
+Noemar had injuries to his head, face and legs. He never regained consciousness and died. Junior suffered contusions and abrasions requiring one week of medical attention. Sales claimed that he only meant to discipline his sons and that Noemar died of a weak heart or epilepsy. Noemar's body was never examined by a doctor. Sales voluntarily surrendered to the police after the barangay captain reported the death.
+
+Sales was charged with parricide for Noemar's death and slight physical injuries for Junior's injuries. The information for parricide alleged evident premeditation, but the RTC found no proof of it. The RTC appreciated two mitigating circumstances in Sales's favor, voluntary surrender and lack of intent to commit so grave a wrong, and imposed reclusion perpetua.
+
+---
+
+## ISSUE
+
+What is the basis for imposing reclusion perpetua on Sales for parricide, which is punishable by reclusion perpetua to death, when the SC found that one of the two mitigating circumstances appreciated by the RTC (lack of intent to commit so grave a wrong) should not have been appreciated?
+
+---
+
+## RULING
+
+**The SC AFFIRMED the conviction for parricide and the penalty of reclusion perpetua, with modification of the damages.**
+
+### Q. What is the basis for imposing reclusion perpetua when parricide is punishable by reclusion perpetua to death?
+
+**(a) The crime committed is parricide under Art. 246, RPC, which prescribes two indivisible penalties.**
+
+> "Art. 246. Parricide. - Any person who shall kill his father, mother, or child, whether legitimate or illegitimate, or any of his ascendants, or descendants, or his spouse, shall be guilty of parricide and shall be punished by the penalty of reclusion perpetua to death."
+
+> "Parricide is committed when: (1) a person is killed; (2) the deceased is killed by the accused; (3) the deceased is the father, mother, or child, whether legitimate or illegitimate, or a legitimate other ascendant or other descendant, or the legitimate spouse of accused."
+
+**(b) Sales is liable for the death even though he did not intend to kill (Art. 4, RPC).**
+
+> "Art. 4. Criminal liability. - Criminal liability shall be incurred:
+>
+> 1. By any person committing a felony (delito) although the wrongful act done be different from that which he intended."
+
+> "In order that a person may be criminally liable for a felony different from that which he intended to commit, it is indispensible (a) that a felony was committed and (b) that the wrong done to the aggrieved person be the direct consequence of the crime committed by the perpetrator. Here, there is no doubt appellant in beating his son Noemar and inflicting upon him physical injuries, committed a felony. As a direct consequence of the beating suffered by the child, he expired."
+
+**(c) Voluntary surrender was properly appreciated as a mitigating circumstance.**
+
+> "The trial court correctly appreciated the mitigating circumstance of voluntary surrender in favor of appellant since the evidence shows that he went to the police station a day after the barangay captain reported the death of Noemar. The presentation by appellant of himself to the police officer on duty in a spontaneous manner is a manifestation of his intent 'to save the authorities the trouble and expense that may be incurred for his search and capture' which is the essence of voluntary surrender."
+
+**(d) Lack of intent to commit so grave a wrong should not have been appreciated.**
+
+> "However, there was error in appreciating the mitigating circumstance of lack of intention to commit so grave a wrong. Appellant adopted means to ensure the success of the savage battering of his sons. He tied their wrists to a coconut tree to prevent their escape while they were battered with a stick to inflict as much pain as possible. Noemar suffered injuries in his face, head and legs that immediately caused his death. 'The mitigating circumstance of lack of intent to commit so grave a wrong as that actually perpetrated cannot be appreciated where the acts employed by the accused were reasonably sufficient to produce and did actually produce the death of the victim.'"
+
+(Citing *Oriente v. People*, G.R. No. 155094, January 30, 2007, 513 SCRA 348, 365.)
+
+**(e) The exclusion of that mitigating circumstance does not change the penalty, because one mitigating circumstance with no aggravating circumstance is enough.**
+
+> "As regards the penalty, parricide is punishable by reclusion perpetua to death. The trial court imposed the penalty of reclusion perpetua when it considered the presence of the mitigating circumstances of voluntary surrender and lack of intent to commit so grave a wrong. However, even if we earlier ruled that the trial court erred in considering the mitigating circumstance of lack of intent to commit so grave a wrong, we maintain the penalty imposed. This is because the exclusion of said mitigating circumstance does not result to a different penalty since the presence of only one mitigating circumstance, which is, voluntary surrender, with no aggravating circumstance, is sufficient for the imposition of reclusion perpetua as the proper prison term."
+
+**(f) Art. 63, par. 3, RPC, is the legal basis.**
+
+> "Art. 63. Rules for the application of indivisible penalties. - x x x
+>
+> In all cases in which the law prescribes a penalty composed of two indivisible penalties, the following rules shall be observed in the application thereof:
+>
+> x x x x
+>
+> 3. When the commission of the act is attended by some mitigating circumstance and there is no aggravating circumstance, the lesser penalty shall be applied."
+
+> "The crime of parricide is punishable by the indivisible penalties of reclusion perpetua to death. With one mitigating circumstance, which is voluntary surrender, and no aggravating circumstance, the imposition of the lesser penalty of reclusion perpetua and not the penalty of death on appellant was thus proper."
+
+(Citing *People v. Juan*, 464 Phil. 507, 513-515 [2004].)
+
+**(g) The penalty for the slight physical injuries inflicted on Junior (Art. 266[1], RPC)**
+
+> "ART. 266. Slight Physical Injuries and maltreatment. - The crime of slight physical injuries shall be punished:
+>
+> 1. By arresto menor when the offender has inflicted physical injuries which shall incapacitate the offended party for labor from one to nine days or shall require medical attendance during the same period."
+
+> "There being no mitigating or aggravating circumstance present in the commission of the crime, the penalty shall be in its medium period. The RTC was thus correct in imposing upon appellant the penalty of twenty (20) days of arresto menor in its medium period."
+
+---
+
+## FALLO
+
+> "WHEREFORE, the appeal is DENIED. The Decision of the Court of Appeals in CA-G.R. CR-H.C. No. 01627 that affirmed the Joint Decision of the Regional Trial Court, Branch 63 of Calabanga, Camarines Sur in Criminal Case Nos. RTC'03-782 and RTC'03-789, convicting Noel T. Sales of the crimes of parricide and slight physical injuries is AFFIRMED with MODIFICATIONS that the award of exemplary damages is increased to P30,000.00. In addition, an interest of 6% is imposed on all monetary awards from date of finality of this Decision until fully paid.
+>
+> SO ORDERED."
+
+---
+
+## KEY DOCTRINE FOR REVIEW
+
+- **Parricide (Art. 246, RPC)** carries two indivisible penalties, **reclusion perpetua to death**. Because the penalty is composed of two indivisible penalties, **Art. 63, RPC, governs**, not Art. 64, which applies to divisible penalties.
+- **Application of Art. 63:**
+  - One aggravating circumstance and no mitigating circumstance: the greater penalty (death).
+  - Mitigating circumstance and no aggravating circumstance (Art. 63, par. 3): the lesser penalty (**reclusion perpetua**).
+  - Even a single mitigating circumstance is enough for the lesser penalty. The number of mitigating circumstances makes no difference.
+- **Voluntary surrender** is mitigating when the accused spontaneously presents himself to the authorities, saving them the trouble and expense of a search and capture.
+- **Lack of intent to commit so grave a wrong (Art. 13[3], RPC)** cannot be appreciated where the acts used were reasonably sufficient to produce, and did produce, death. Tying the victims and beating them with a thick piece of wood showed otherwise.
+- **Art. 4(1), RPC:** a person who commits a felony is liable for the direct consequences, even if different from what he intended. Parental discipline does not justify sadistic beating that results in death.
+- **Result:** reclusion perpetua for parricide. Because the Court did not change the penalty, the case is useful for the point that excluding one of two mitigating circumstances does not alter the penalty under Art. 63(3) when the other remains.
