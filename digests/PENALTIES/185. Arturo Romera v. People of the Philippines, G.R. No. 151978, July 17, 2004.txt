@@ -1,0 +1,92 @@
+**Arturo Romera v. People of the Philippines**
+G.R. No. 151978, July 14, 2004 (Second Division, Quisumbing, J.)
+
+*Note: the decision's own date is July 14, 2004, not July 17.*
+
+**Topic:** Penalties under the Revised Penal Code (Art. 50, Art. 64[5] and the Indeterminate Sentence Law)
+
+---
+
+## FACTS
+
+Romera and Roy were among a group of men who went to play volleyball but ended up at a friend's house because of rain. A quarrel arose among some of them. Romera warned the group, "You all watch out in Balaguan," and left. Later, Roy and his companions passed near Romera's home. Romera, who was waiting with a bolo, shouted "Here are the brave ones." The prosecution said Romera held Roy by the collar and stabbed him in the stomach. Roy survived after surgery and a stay of more than three weeks in the hospital.
+
+Romera testified that Roy, who was drunk, came to his house at night and demanded that he come out. When Romera opened the door, Roy thrust a bolo at him and said he would kill him. Roy also hacked at the bamboo wall of the house while Romera's wife and children were inside. Romera grappled for the bolo and stabbed Roy in the stomach. Romera voluntarily surrendered to the CAFGU, who took him to the police.
+
+The RTC rejected self-defense, because the unlawful aggression had ceased once Romera got hold of the bolo. It convicted Romera of frustrated homicide and appreciated only voluntary surrender. It sentenced him to a penalty ranging from one year, eight months and twenty days of prision correccional to six years and one day of prision mayor. The CA affirmed. On review, the SC accepted that it was Roy who initiated the aggressive encounter. Romera's sole argument was that the lower courts erred in not applying Art. 64(5), RPC, to lower the penalty by one degree because two or more mitigating circumstances were present.
+
+---
+
+## ISSUE
+
+Is Romera entitled to a penalty one degree lower under Art. 64(5), RPC, because of two mitigating circumstances (provocation or passion and obfuscation, and voluntary surrender), and what is the proper indeterminate penalty for frustrated homicide?
+
+---
+
+## RULING
+
+**The SC MODIFIED the CA decision as to the penalty. It sentenced Romera to an indeterminate penalty of six months of arresto mayor, as minimum, to four years and two months of prision correccional, as maximum.**
+
+### Q. Why did the SC sentence Romera to the indeterminate penalty of six (6) months of arresto mayor, as minimum, to four (4) years and two (2) months of prision correccional, as maximum?
+
+**(a) Provocation and passion or obfuscation were present, but they count as one mitigating circumstance.**
+
+> "Thrusting his bolo at petitioner, threatening to kill him, and hacking the bamboo walls of his house are, in our view, sufficient provocation to enrage any man, or stir his rage and obfuscate his thinking, more so when the lives of his wife and children are in danger. Petitioner stabbed the victim as a result of those provocations, and while petitioner was still in a fit of rage. In our view, there was sufficient provocation and the circumstance of passion or obfuscation attended the commission of the offense."
+
+> "But, we must stress that provocation and passion or obfuscation are not two separate mitigating circumstances. Well-settled is the rule that if these two circumstances are based on the same facts, they should be treated together as one mitigating circumstance. From the facts established in this case, it is clear that both circumstances arose from the same set of facts aforementioned. Hence, they should not be treated as two separate mitigating circumstances."
+
+(Citing *People v. Pagal*, No. L-32040, 25 October 1977, 79 SCRA 570, 575.)
+
+**(b) Together with voluntary surrender, there are two mitigating circumstances, so Art. 64(5), RPC, applies.**
+
+> "Nonetheless, we hold that since the mitigating circumstance of voluntary surrender is also present, Article 64 (5) of the Revised Penal Code should be applied, to wit:
+>
+> ART. 64. Rules for the application of penalties which contain three periods. –…
+>
+> . . .
+>
+> 5. When there are two or more mitigating circumstances and no aggravating circumstances are present, the court shall impose the penalty next lower to that prescribed by law, in the period that it may deem applicable, according to the number and nature of such circumstances.
+>
+> . . ."
+
+**(c) The penalty for frustrated homicide: Art. 50, RPC, and the computation**
+
+Art. 50, RPC, as quoted by the Court:
+
+> "ART. 50. Penalty to be imposed upon principals of a frustrated crime. – The penalty next lower in degree than that prescribed by law for the consummated felony shall be imposed upon the principals in a frustrated felony."
+
+> "The penalty for frustrated homicide, pursuant to Article 50 of the Revised Penal Code, is the penalty next lower in degree than that prescribed by law for consummated homicide. The penalty for consummated homicide is reclusion temporal, hence the penalty next lower in degree is prision mayor. There being two mitigating circumstances and no aggravating circumstance, pursuant to Article 64 (5) of the Revised Penal Code, the next lower penalty, prision correccional, is the next statutory penalty."
+
+**(d) Application of the Indeterminate Sentence Law fixes the minimum and maximum terms.**
+
+> "But following the Indeterminate Sentence Law herein applicable, the minimum term of the penalty that should be imposed on petitioner for frustrated homicide should be within the range of arresto mayor in any of its periods or from one (1) month and one (1) day to six (6) months, while the maximum term should be within the range of prision correccional in its medium period or two (2) years, four (4) months and one (1) day to four (4) years and two (2) months."
+
+**(e) Summary of the computation**
+
+| Step | Rule | Result |
+|---|---|---|
+| Penalty for consummated homicide | Art. 249 | Reclusion temporal |
+| Frustrated stage | Art. 50 (one degree lower) | Prision mayor |
+| Two mitigating circumstances, no aggravating | Art. 64(5) (one more degree lower) | **Prision correccional** |
+| Minimum term | Indeterminate Sentence Law (the next lower penalty to prision correccional) | Any period of **arresto mayor** (1 month and 1 day to 6 months) |
+| Maximum term | Indeterminate Sentence Law (period of prision correccional) | **Medium period** (2 years, 4 months and 1 day to 4 years and 2 months) |
+
+The Court fixed the minimum at six months of arresto mayor and the maximum at four years and two months of prision correccional.
+
+---
+
+## FALLO
+
+> "WHEREFORE, the Decision dated January 11, 2002 of the Court of Appeals affirming the Order of the Regional Trial Court of Cagayan de Oro City, Branch 24, is MODIFIED as far as the penalty imposed is concerned. Petitioner ARTURO ROMERA is hereby sentenced to suffer the indeterminate penalty of six (6) months of arresto mayor, as minimum, to four (4) years and two (2) months of prision correccional, as maximum. He is also ORDERED to pay the private offended party P19,361.15 as actual damages, and P10,000.00 as attorney's fees. Costs de oficio.
+>
+> SO ORDERED."
+
+---
+
+## KEY DOCTRINE FOR REVIEW
+
+- **Provocation and passion or obfuscation, when based on the same facts, are treated as one mitigating circumstance** (*People v. Pagal*). They do not count as two.
+- **Art. 64(5), RPC:** with two or more mitigating circumstances and no aggravating circumstance, the penalty is lowered by **one degree** (to the next lower penalty), in the period the court deems applicable according to the number and nature of the circumstances.
+- **Computing the penalty for a frustrated felony:** first apply Art. 50 (one degree lower than the consummated felony), and then apply Art. 64(5) for the two mitigating circumstances. Here, homicide is reclusion temporal, so the frustrated stage is prision mayor, and Art. 64(5) lowers it to **prision correccional**.
+- **Indeterminate Sentence Law:** the maximum term is taken from the penalty properly imposable under the RPC (prision correccional, medium period), and the minimum is taken from the penalty next lower (arresto mayor, any period).
+- **Self-defense:** the Court did not apply it, because unlawful aggression had ceased once Romera took the bolo. The mitigating circumstances were allowed on the basis of the victim's provocation and the accused's voluntary surrender.
