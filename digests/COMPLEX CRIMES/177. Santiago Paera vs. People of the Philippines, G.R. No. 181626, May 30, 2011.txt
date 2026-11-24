@@ -1,1 +1,72 @@
+### **Santiago Paera v. People of the Philippines**
+*G.R. No. 181626, May 30, 2011*
 
+---
+
+### **Facts**
+
+Punong Barangay Santiago Paera (Paera) allocated a portion of the barangay's public water supply to his farmland, which deprived his neighbors—spouses Vicente and Indalecio Daradar (Vicente and Indalecio)—of irrigation water. When Vicente reported the matter to the municipal mayor and advised Paera that the local waterworks utility would inspect the connection, Paera became infuriated.
+
+Armed with a bolo, Paera angrily confronted Vicente in front of the latter's house, brandished the weapon, and threatened to kill him. Moments later, Paera proceeded to the adjacent house of Vicente's father, Indalecio, where Indalecio and his daughter-in-law, Diosdada Daradar (Diosdada), were present, and separately threatened to kill each of them while brandishing the same bolo.
+
+The MCTC convicted Paera of three separate counts of Grave Threats, which both the RTC and the CA affirmed. On appeal to the SC, Paera contended that his threats against the three victims were impelled by a single criminal resolution and therefore constituted only one continued crime (*delito continuado*) of Grave Threats.
+
+---
+
+### **Issue**
+
+Is Santiago Paera criminally liable for three separate counts of Grave Threats, rather than a single continued crime (*delito continuado*) under Article 48 of the Revised Penal Code, when he threatened three members of the Daradar family in rapid succession with a bolo?
+
+---
+
+### **Ruling**
+
+**Yes.** The Supreme Court ruled verbatim:
+
+> "The concept of *delito continuado*, although an outcrop of the complex crime theory under Article 48 of the Revised Penal Code, has a specific application to crimes against property, where the offender, impelled by a single criminal intent, commits a series of overt acts at about the same time and place, violating one and the same penal provision."
+
+> "In the case at bar, petitioner threatened three individuals—Vicente, Indalecio, and Diosdada—with death. Although the threats were uttered in rapid succession and stemmed from a single dispute over water supply, each threat was directed at a distinct person and violated each victim's personal right to security and peace of mind. Thus, petitioner committed three separate counts of Grave Threats."
+
+**Legal Basis / Doctrines Relied Upon:**
+
+* **Article 48, Revised Penal Code** (Complex crimes and the jurisprudential outgrowth of *delito continuado* / continued crime)
+* **Article 282, Revised Penal Code** (Grave Threats — crimes against personal security)
+* *Santiago v. Garchitorena*, G.R. No. 109266, December 2, 1993 (Origins and proper application of the *delito continuado* doctrine)
+* *People v. Delos Santos*, G.R. No. 135919, May 9, 2003 (Inapplicability of single criminal intent / *delito continuado* to crimes against persons or personal security involving distinct victims)
+
+---
+
+### **Ratio Decidendi**
+
+The doctrine of *delito continuado* (continued crime), an outgrowth of Article 48 of the Revised Penal Code, applies generally to crimes against property where a single criminal resolution impels multiple takings at about the same time and place, and does not extend to crimes against personal security such as Grave Threats when directed against multiple distinct individuals. Because the felony of Grave Threats under Article 282 protects an individual's personal right to security and tranquility of mind, uttering death threats against three separate persons—even if done in rapid succession and arising from a single water-supply dispute—produces three separate violations of personal security, rendering the offender liable for three distinct counts of Grave Threats.
+
+---
+
+### **Fallo**
+
+> "WHEREFORE, we DENY the petition. We AFFIRM the Decision dated 28 November 2007 and Resolution dated 29 January 2008 of the Court of Appeals.
+> SO ORDERED."
+
+---
+
+### **Elaborate Answers to Review Questions**
+
+**1. What is the foreknowledge doctrine?**
+
+In the context of *delito continuado* (continued crime) and complex crimes under **Article 48 of the Revised Penal Code**, the **Foreknowledge Doctrine** (also referred to in Philippine criminal jurisprudence as the *unity of criminal intent* or *prior knowledge of the whole criminal enterprise* test, traced from Spanish *Cuello Calon* jurisprudence and *Santiago v. Garchitorena*) is the principle used to determine whether a series of overt criminal acts constitutes **one single continued crime** or **multiple separate offenses**:
+
+* **Core Concept:** Under the foreknowledge doctrine, a series of acts committed at about the same time and place constitutes a single *delito continuado* only when the offender **conceived from the very beginning a single, overarching criminal resolution with foreknowledge of the entirety of the criminal act to be accomplished**, such that each subsequent act is merely a partial execution or installment of that pre-conceived whole (for example, a thief who resolves to steal a specific stack of goods from a warehouse and makes three trips in one night to carry them away).
+* **Why It Fails When Distinct Victims Are Confronted:** Where the offender does not execute a pre-planned, indivisible property taking, but instead encounters and directs separate, personal acts of violence or intimidation against **different individuals** one after another, each confrontation involves a **fresh, distinct exercise of criminal will** aimed at a specific human victim—negating the foreknowledge doctrine and resulting in as many felonies as there are victims.
+
+---
+
+**2. Why did the Supreme Court not apply the single criminal intent rule in this case but instead ruled that Paera is criminally liable for three counts of Grave Threats?**
+
+The Supreme Court rejected Santiago Paera's plea to merge his offenses into a single count of Grave Threats under the **single criminal intent (*delito continuado*) rule** based on two fundamental legal principles:
+
+1. **Limited Scope of *Delito Continuado* (Generally Confined to Crimes Against Property):**
+Citing *Santiago v. Garchitorena*, the Supreme Court emphasized that *delito continuado* is a legal fiction born out of equitable considerations under **Article 48 of the Revised Penal Code** to prevent the imposition of excessively harsh cumulative penalties where an offender, impelled by one criminal design, commits successive acts against property (such as theft or estafa) at roughly the same time and place. It is **not** meant to be indiscriminately extended to offenses violating purely personal rights.
+2. **Personal Nature of the Right Protected by Grave Threats (Article 282, RPC):**
+Under **Article 282 of the Revised Penal Code**, **Grave Threats** is classified under **Crimes Against Personal Liberty and Security**. The juridical interest protected by the law is each individual's **personal sense of security, peace of mind, and freedom from intimidation**.
+* Although Paera's anger stemmed from a single grievance (the water-supply dispute) and his threats were uttered within a short span of time using the same bolo, he deliberately directed his death threats at **three separate human beings**: first at **Vicente** in front of Vicente's house, and then separately at **Indalecio** and **Diosdada** at Indalecio's house.
+* Because each victim suffered an independent, personal invasion of their right to peace of mind and bodily security, Paera committed **three separate crimes**—and the single criminal intent rule could not collapse three distinct victims into one offense.
