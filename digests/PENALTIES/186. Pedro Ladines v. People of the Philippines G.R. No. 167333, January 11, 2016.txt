@@ -1,0 +1,77 @@
+**Pedro Ladines v. People of the Philippines and Edwin De Ramon**
+G.R. No. 167333, January 11, 2016 (First Division, Bersamin, J.)
+
+**Topic:** Penalties under the Revised Penal Code (Art. 64, rules for penalties with three periods, and the Indeterminate Sentence Law)
+
+---
+
+## FACTS
+
+During a school alumni dance, Ladines and Licup walked past Erwin and two of his companions. Ladines suddenly and without warning stabbed Erwin below the navel with a machete and left. Licup then also attacked Erwin, but Erwin evaded the blow. Erwin pulled the machete out of his body and struck Licup in the chest. Erwin was rushed to the hospital, where he died.
+
+The post-mortem examination found two stab wounds, in the chest and in the abdomen. The doctor said they were probably inflicted by one or two assailants using two distinct weapons. Ladines raised denial and alibi. After the RTC convicted him, he argued on appeal that Licup's admission, immediately after the incident, that he had stabbed the victim was newly-discovered evidence that created reasonable doubt. The SC rejected that argument and affirmed the conviction for homicide.
+
+The RTC found no modifying circumstances. It sentenced Ladines to an indeterminate penalty of 10 years and 1 day of prision mayor, as minimum, to 17 years and 4 months of reclusion temporal, as maximum, and the CA affirmed it. The RTC gave no reason for choosing that maximum.
+
+---
+
+## ISSUE
+
+Was the indeterminate penalty imposed by the RTC, which fixed the maximum at 17 years and 4 months of reclusion temporal (the highest limit of the medium period), proper where the RTC found no modifying circumstance and gave no justification for fixing the maximum at that level?
+
+---
+
+## RULING
+
+**The SC AFFIRMED the conviction for homicide and MODIFIED the indeterminate sentence. The maximum term is the lowest of the medium period of reclusion temporal, 14 years, 8 months and 1 day.**
+
+### Q. Why is the penalty imposed by the trial court not correct?
+
+**(a) The statement of the rule**
+
+> "To impose the highest within a period of the imposable penalty without specifying the justification for doing so is an error on the part of the trial court that should be corrected on appeal. In default of such justification, the penalty to be imposed is the lowest of the period."
+
+**(b) The penalty for homicide and what the lower courts did**
+
+> "Thirdly, homicide is punished with reclusion temporal. Taking the absence of any modifying circumstances into consideration, the RTC fixed the indeterminate penalty of 10 years and one day of prision mayor, as minimum, to 17 years and four months of the medium period of reclusion temporal, as maximum. The CA affirmed the penalty fixed by the RTC."
+
+(The penalty for homicide is prescribed by Art. 249, RPC.)
+
+**(c) The lower courts ignored the seventh rule of Art. 64, RPC.**
+
+> "We declare that the lower courts could not impose 17 years and four months of the medium period of reclusion temporal, which was the ceiling of the medium period of reclusion temporal, as the maximum of the indeterminate penalty without specifying the justification for so imposing. They thereby ignored that although Article 64 of the Revised Penal Code, which has set the rules 'for the application of penalties which contain three periods,' requires under its first rule that the courts should impose the penalty prescribed by law in the medium period should there be neither aggravating nor mitigating circumstances, its seventh rule expressly demands that '[w]ithin the limits of each period, the courts shall determine the extent of the penalty according to the number and nature of the aggravating and mitigating circumstances and the greater or lesser extent of the evil produced by the crime.'"
+
+**(d) The consequence of failing to specify a justification**
+
+> "By not specifying the justification for imposing the ceiling of the period of the imposable penalty, the fixing of the indeterminate sentence became arbitrary, or whimsical, or capricious. In the absence of the specification, the maximum of the indeterminate sentence for the petitioner should be the lowest of the medium period of reclusion temporal, which is 14 years, eight months and one day of reclusion temporal."
+
+**(e) The conviction itself was upheld.**
+
+> "There is no question that none of the foregoing exceptions applies in order to warrant the review of the unanimous factual findings of the RTC and the CA. Hence, the Court upholds the CA's affirmance of the conviction of the petitioner."
+
+The Court also held that Licup's statement was not newly-discovered evidence, because the first two requisites (discovered after trial, and not discoverable with reasonable diligence) were absent.
+
+**(f) The civil liability was also corrected.**
+
+> "The civil indemnity and moral damages are fixed at P75,000.00 each because homicide was a gross crime."
+
+The Court also allowed temperate damages of P25,000 under Art. 2224, Civil Code.
+
+---
+
+## FALLO
+
+> "WHEREFORE, the Court AFFIRMS the decision promulgated on October 22, 2004 subject to the MODIFICATION that: (a) the INDETERMINATE SENTENCE of petitioner PEDRO LADINES is 10 years and one day of prision mayor, as minimum, to 14 years, eight months and one day of the medium period of reclusion temporal, as maximum; and (b) the petitioner shall pay to the heirs of the victim Erwin de Ramon: (1) civil indemnity and moral damages of P75,000.00 each; (2) temperate damages of P25,000.00; (c) interest of 6% per annum on all items of the civil liability computed from the date of the finality of this judgment until they are fully paid; and (d) the costs of suit.
+>
+> SO ORDERED."
+
+---
+
+## KEY DOCTRINE FOR REVIEW
+
+- **Penalty for homicide (Art. 249, RPC):** reclusion temporal. With neither aggravating nor mitigating circumstances, Rule 1 of Art. 64 applies, and the penalty is imposed in the **medium period**.
+- **Rule 7 of Art. 64, RPC:** within the limits of each period, the court determines the extent of the penalty according to the number and nature of the aggravating and mitigating circumstances and "the greater or lesser extent of the evil produced by the crime."
+- **Justification is required.** A court that imposes the highest limit of a period, here 17 years and 4 months (the "ceiling" of the medium period), must state its justification. Otherwise the fixing of the sentence is "arbitrary, or whimsical, or capricious."
+- **Default rule:** where no justification is given, the penalty imposed is the **lowest of the period**. For the medium period of reclusion temporal, that is 14 years, 8 months and 1 day.
+- **The minimum term of the indeterminate sentence** (10 years and 1 day of prision mayor) was not disturbed. Only the maximum was corrected.
+- **Newly-discovered evidence on appeal:** it must have been discovered after trial, be undiscoverable at trial with reasonable diligence, be material (not merely cumulative, corroborative or impeaching), and be of such weight that it would probably change the judgment.
