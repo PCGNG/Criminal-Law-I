@@ -1,1 +1,74 @@
+**People of the Philippines v. Victor Abletes and Julio Pamero**
+G.R. No. L-33304, July 31, 1974 (Second Division, Aquino, J.)
 
+**Topic:** Penalties under the Revised Penal Code (designation of the penalty of "life imprisonment (cadena perpetua)" vs. reclusion perpetua, and the proper penalty for murder with mitigating circumstances)
+
+*Note: the decision is short. It does not discuss in detail the difference between "life imprisonment" and "reclusion perpetua." It states that "cadena perpetua" was abolished by the RPC and that the correct term is reclusion perpetua.*
+
+---
+
+## FACTS
+
+At twilight, Cote, a tailor, was riding a bicycle with Alice seated behind him. Abletes and Pamero had been waiting for him at a street corner. Abletes had a bolo, and Pamero had one tucked in his waist. As Cote approached, Pamero said, "They are now here, Victor Abletes," and seized the right handlebar of Cote's bicycle with both hands, tilting it. In that position, Abletes stabbed Cote on the right chest. The wound penetrated the right lung and was fatal. Cote died two hours later. Abletes and Pamero fled in the same direction.
+
+Twelve days earlier, Cote and Abletes had fought a duel in which Abletes was worsted. Abletes voluntarily surrendered that night to a patrolman but gave no explanation of self-defense. Pamero went into hiding and was arrested later. Alice and a bystander positively identified both. Abletes pleaded self-defense and Pamero alibi, and both defenses were rejected. The RTC convicted both of murder qualified by treachery. It appreciated voluntary surrender in favor of Abletes and lack of instruction in favor of Pamero. It held that treachery was offset by voluntary surrender, and sentenced each to "life imprisonment (cadena perpetua)."
+
+---
+
+## ISSUE
+
+Was the penalty of "life imprisonment (cadena perpetua)" imposed by the trial court correct for murder, in view of the mitigating circumstances, and is life imprisonment the same as reclusion perpetua?
+
+---
+
+## RULING
+
+**The SC MODIFIED the trial court's judgment. It held that the penalty should be an indeterminate sentence within reclusion temporal, not "life imprisonment (cadena perpetua)."**
+
+### Q1. Why is the penalty of life imprisonment or cadena perpetua imposed by the trial court erroneous?
+
+**(a) The designation itself was wrong.**
+
+> "The penalty of life imprisonment or cadena perpetua imposed [by] the trial court is an erroneous designation. The correct term is reclusion perpetua. The penalty of cadena perpetua was abolished by the Revised Penal Code (People vs. Mobe, 81 Phil. 58; People vs. Rodriguez, 108 Phil. 118, 126)."
+
+**(b) The trial court also erred in offsetting treachery against voluntary surrender.**
+
+> "The trial court correctly appreciated in favor of Abletes the mitigating circumstance of voluntary surrender to the authorities. But, as rightly pointed out by his counsel, the lower court erred in holding that treachery was offset by voluntary surrender to the authorities. A qualifying circumstance cannot be offset by a generic mitigating circumstance."
+
+**(c) Treachery was a qualifying circumstance that made the killing murder. Evident premeditation was not proven.**
+
+> "There was treachery because Abletes and Pamero suddenly intercepted Cote while he was riding on a bicycle, an occasion when he least expected that any harm would befall him since he was engaged in a peaceful pursuit. The appellants resorted to a mode of execution which insured the consummation of the killing without any risk to themselves. The victim had no time to defend himself in view of the suddenness of the assault (Art. 14[16], Revised Penal Code). Alevosia qualifies the killing as murder."
+
+> "While at first blush it would seem that there was evident premeditation, since the killing was motivated by vindictiveness, nevertheless, that circumstance cannot be regarded as aggravating. As noted by the Solicitor General, there is no clear proof in the record as to the time when the offenders determined to commit the crime, the act which would manifestly indicate that the culprits had clung to their determination, and the sufficient interval of time between the conception and the execution that would have been sufficient to allow them to reflect upon the grave consequences of their act and to overcome the resolution of their wills had they desired to hearken to the admonitions of their aroused consciences."
+
+**(d) The mitigating circumstances and the proper penalty**
+
+> "The trial court appreciated in favor of Pamero the mitigating circumstance of lack of instruction because he was an 'uneducated' farmer (he knows how to sign his name). The appreciation of that mitigating circumstance rests largely in the trial court's discretion (People vs. Ripas, 95 Phil. 63; People vs. Sari, 99 Phil. 1040)."
+
+> "We find that it did not abuse its discretion. We find that the murder charge against the appellants was proven beyond reasonable doubt. As recommended by the Solicitor General, the penalty for murder should be imposed on the appellants in its minimum period, which is reclusion temporal maximum (Arts. 64[2] and 248, Revised Penal Code). Consequently, the appellants are entitled to an indeterminate sentence (People vs. Ordonio, 82 Phil. 324, 334)."
+
+### Q2. Is life imprisonment the same as reclusion perpetua? Why?
+
+The Court did not discuss the difference between "life imprisonment" and "reclusion perpetua" at length. It stated only the following:
+
+> "The penalty of life imprisonment or cadena perpetua imposed [by] the trial court is an erroneous designation. The correct term is reclusion perpetua. The penalty of cadena perpetua was abolished by the Revised Penal Code (People vs. Mobe, 81 Phil. 58; People vs. Rodriguez, 108 Phil. 118, 126)."
+
+The Court treated "life imprisonment or cadena perpetua" as an erroneous label for the penalty the Revised Penal Code names **reclusion perpetua**. It cited *People v. Mobe* and *People v. Rodriguez* for the rule that **cadena perpetua was abolished by the RPC**. The Court said nothing more on whether the two penalties differ in their consequences, and this decision should not be read as doing so.
+
+---
+
+## FALLO
+
+> "The trial court's judgment should be modified. Appellants Abletes and Pamero are each sentenced to an indeterminate penalty of sixteen (16) years to twenty (20) years of reclusion temporal as maximum (See People vs. Turalba, L-29118, February 28, 1974, 55 SCRA 697, 705). In other respects, the trial court's judgment is affirmed. Costs against the appellants.
+>
+> SO ORDERED."
+
+---
+
+## KEY DOCTRINE FOR REVIEW
+
+- **Designation of the penalty:** "life imprisonment" or "cadena perpetua" is an **erroneous designation**. The correct term under the RPC is **reclusion perpetua**, because cadena perpetua was **abolished** by the RPC (*People v. Mobe*; *People v. Rodriguez*).
+- **A qualifying circumstance cannot be offset by a generic mitigating circumstance.** Treachery qualified the killing to murder, so it could not be offset by voluntary surrender. Voluntary surrender (Abletes) and lack of instruction (Pamero) were still appreciated as mitigating circumstances.
+- **Application of Art. 64(2) and Art. 248:** with mitigating circumstances and no aggravating circumstance, the penalty for murder is imposed in its **minimum period**, which is reclusion temporal in its maximum period.
+- **Indeterminate Sentence Law:** because the penalty fell within reclusion temporal, the accused were entitled to an indeterminate sentence (*People v. Ordonio*). The Court fixed it at sixteen years to twenty years of reclusion temporal as maximum.
+- **Voluntary surrender is mitigating only where the accused does not claim justification.** The Court read Abletes' surrender as showing "contrite realization that what he had done was wrong," so he did not need to explain it as self-defense.
