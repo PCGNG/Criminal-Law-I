@@ -1,1 +1,72 @@
+### **People of the Philippines v. Manolito Lucena y Velasquez**
+*G.R. No. 190632, February 26, 2014*
 
+---
+
+### **Facts**
+
+One evening in Valenzuela City, 16-year-old AAA was walking along a street when Manolito Lucena (Lucena), a tricycle driver, forcibly dragged her into his tricycle, poked a knife at her neck, and brought her to a nearby motel. Inside the motel room, Lucena ordered AAA to undress and succeeded in having carnal knowledge of her. After resting for about five minutes, Lucena sexually assaulted AAA a second time; after resting again for another five minutes, he had carnal knowledge of her a third time.
+
+The RTC convicted Lucena of three separate counts of Rape, which the CA affirmed with modification as to the civil damages. On appeal to the SC, Lucena argued that he should be held liable for only one count of rape because the three sexual acts occurred in one place, on one occasion, and were impelled by a single criminal intent.
+
+---
+
+### **Issue**
+
+Is Manolito Lucena criminally liable for three separate counts of rape, rather than a single continued crime (*delito continuado*) under Article 48 of the Revised Penal Code, when he had carnal knowledge of the victim three times inside the same motel room with five-minute rest intervals between each sexual act?
+
+---
+
+### **Ruling**
+
+**Yes.** The Supreme Court ruled verbatim:
+
+> "Each and every carnal knowledge of AAA by appellant was a separate and distinct crime of rape. It has been held that when the accused penetrates the victim's vagina for three times in one night, he commits three counts of rape. Each penetration is a separate and distinct crime."
+
+> "As can be gleaned from the facts, after the first sexual intercourse, appellant rested for about five minutes before having carnal knowledge of AAA for the second time. After another five minutes of rest, he had carnal knowledge of AAA for the third time. Clearly, each of the three sexual intercourses was not a mere continuation of the previous one. Each was impelled by a new and separate criminal intent to satisfy his lust."
+
+**Legal Basis / Doctrines Relied Upon:**
+
+* **Article 48, Revised Penal Code** (Inapplicability of the doctrine of *delito continuado* / continued crime where distinct criminal resolutions impel separate acts)
+* **Article 266-A, paragraph 1(a) in relation to Article 266-B, Revised Penal Code, as amended by R.A. No. 8353** (Rape committed through force, threat, or intimidation, with the use of a deadly weapon)
+* *People v. Aaron*, G.R. Nos. 136300-02, September 24, 2002 (Distinguished)
+* *People v. Biong*, 450 Phil. 432 (2003) / *People v. Orilla*, 467 Phil. 253 (2004) (Separate carnal knowledges separated by intervals of rest are impelled by distinct criminal intents and constitute separate counts of rape)
+
+---
+
+### **Ratio Decidendi**
+
+The doctrine of *delito continuado* (continued crime) under Article 48 of the Revised Penal Code applies only when a series of acts is performed in one place, on one occasion, and impelled by a single criminal resolution (*una sola resolucion criminal*). Where an accused completes a sexual assault, rests for an appreciable interval (such as five minutes), and then repeatedly mounts and penetrates the victim anew, each subsequent act of carnal knowledge is no longer a mere physical continuation of the prior act, but is driven by a fresh, independent criminal intent to satisfy his lust again—rendering him criminally liable for as many counts of rape as there were distinct acts of carnal knowledge.
+
+---
+
+### **Fallo**
+
+> "WHEREFORE, premises considered, the Decision dated 29 May 2009 of the Court of Appeals in CA-G.R. CR-H.C. No. 03044, affirming with modification the Joint Decision dated 17 August 2007 of the Regional Trial Court, Branch 171, Valenzuela City, in Criminal Case Nos. 924-V-03, 925-V-03 and 926-V-03, finding appellant Manolito Lucena y Velasquez guilty beyond reasonable doubt of three (3) counts of rape and sentencing him to suffer the penalty of *reclusion perpetua* for each count, is hereby AFFIRMED with MODIFICATIONS that the civil indemnity, moral damages, and exemplary damages to be paid by appellant to private complainant AAA are increased to ₱75,000.00, ₱75,000.00, and ₱30,000.00, respectively, for each count of rape, with interest at the rate of 6% per annum on all damages awarded from the date of finality of this Decision until fully paid.
+> SO ORDERED."
+
+---
+
+### **Elaborate Answers to Review Questions**
+
+**1. Why did the Supreme Court not apply the single criminal intent principle and convict him for three counts of rape?**
+
+The Supreme Court rejected Manolito Lucena's invocation of the **single criminal intent (*delito continuado*)** doctrine and affirmed his conviction for **three separate counts of rape** based on the presence of **appreciable intervals of rest** that broke the continuity of the sexual assault and gave rise to three distinct criminal resolutions:
+
+* **Completion of Each Sexual Act Followed by a Cooling-Off / Rest Interval:**
+Under criminal law, a continued crime (*delito continuado*) exists only when the offender performs a series of overt acts originating from **one single criminal impulse** (*una sola resolucion criminal*). In *Lucena*, after forcibly inserting his penis into AAA's vagina and consummating the first sexual intercourse, Lucena **stopped and rested for about five (5) minutes**. During that five-minute pause, his initial criminal urge had already been consummated and terminated.
+* **Formation of a New, Independent Criminal Intent After Every Rest:**
+When Lucena decided, after resting for five minutes, to mount AAA and penetrate her a second time—and then rested for another five minutes before penetrating her a third time—each subsequent sexual assault was **not a mere involuntary slip or physical continuation** of the earlier act. Instead, each five-minute interval allowed Lucena to reflect, desist, and form a **brand-new, separate criminal intent** to satisfy his lust once more. Because there were three distinct criminal resolutions corresponding to three separate acts of carnal knowledge, each penetration constituted an independent crime of rape.
+
+---
+
+**2. What is the distinction between this case and the case of *People of the Philippines vs. Emmanuel Aaron*, G.R. Nos. 136300-02, September 24, 2002?**
+
+In *People v. Lucena*, the Supreme Court expressly distinguished its ruling from *People v. Aaron* (2002) by contrasting the **cause of the withdrawals** and the **presence or absence of intervals of rest** between penetrations:
+
+| Basis of Distinction | *People v. Emmanuel Aaron* (2002) | *People v. Manolito Lucena* (2014) |
+| --- | --- | --- |
+| **Number of Counts Convicted** | **One (1) count of Rape** (*delito continuado* / single criminal intent applied). | **Three (3) counts of Rape** (separate and distinct felonies). |
+| **Nature of the Interruptions** | **Involuntary slippage:** The accused's penis slipped out twice solely because the victim squirmed and struggled to free herself *before* he had ejaculated. | **Voluntary cessation and rest:** The accused finished each act of sexual intercourse and voluntarily stopped to **rest for about five (5) minutes** between each assault. |
+| **Continuity of the Sexual Act** | The three insertions occurred **in rapid succession** without any appreciable time gap—each re-insertion was merely a continuation of the single, unfinished sexual act. | The three sexual intercourses were separated by **appreciable 5-minute intervals**, making each assault a completed episode rather than a continuation of the previous one. |
+| **Criminal Intent (*Mens Rea*)** | Propelled by **one single criminal intent** to have carnal knowledge of the victim once. | Each penetration was impelled by a **new, separate, and independent criminal resolution** to satisfy his lust anew. |
