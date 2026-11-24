@@ -1,0 +1,76 @@
+### **Enrique Almero v. People of the Philippines**
+
+*G.R. No. 188191, March 12, 2014*
+
+---
+
+### **Facts**
+
+One evening in Sarangani Province, Enrique Almero (Almero), a barangay kagawad, shot and wounded victim Albert Caban (Caban) during an altercation. Almero was charged before the RTC with Frustrated Murder under Article 248 in relation to Article 6 of the Revised Penal Code. After trial, the RTC convicted Almero of the lesser crime of Frustrated Homicide, sentencing him to an indeterminate penalty of two (2) years, four (4) months, and one (1) day of *prision correccional*, as minimum, to eight (8) years and one (1) day of *prision mayor*, as maximum.
+
+Instead of applying for probation, Almero appealed his conviction to the CA. The CA affirmed his conviction for Frustrated Homicide, but modified and lowered his penalty by appreciating the mitigating circumstance of voluntary surrender—reducing his sentence to an indeterminate prison term of six (6) months and one (1) day of *prision correccional*, as minimum, to six (6) years of *prision correccional*, as maximum. After the CA's judgment became final and executory, Almero filed an application for probation before the RTC, invoking the newly reduced, probationable penalty imposed by the appellate court. Both the RTC and the CA denied his application for probation, prompting his appeal to the SC.
+
+---
+
+### **Issue**
+
+Is Enrique Almero still entitled to apply for probation under Section 4 of Presidential Decree No. 968 (Probation Law of 1976), as amended by Presidential Decree No. 1990—in relation to the graduation of penalties under the Revised Penal Code—after he perfected an appeal from the trial court's judgment imposing a non-probationable penalty, which was subsequently reduced by the appellate court to a probationable period?
+
+---
+
+### **Ruling**
+
+**No.** The Supreme Court ruled verbatim:
+
+> "Section 4 of Presidential Decree No. 968, as amended by Presidential Decree No. 1990, explicitly provides:
+> Sec. 4. *Grant of Probation.* — Subject to the provisions of this Decree, the trial court may, after it shall have convicted and sentenced a defendant, and upon application by said defendant within the period for perfecting an appeal, suspend the execution of said sentence and place the defendant on probation for such period and upon such terms and conditions as it may deem best; *Provided*, That no application for probation shall be entertained or granted if the defendant has perfected the appeal from the judgment of conviction."
+
+> "Based on the above-quoted provision, petitioner is clearly ineligible for probation because he perfected an appeal from the judgment of conviction of the RTC. The law is explicit and leaves no room for interpretation: once an appeal is perfected, the right to apply for probation is lost."
+
+**Legal Basis / Doctrines Relied Upon:**
+
+* **Section 4, Presidential Decree No. 968, as amended by Presidential Decree No. 1990** (Probation Law of 1976 — mandatory bar against applying for probation once the defendant has perfected an appeal from the judgment of conviction)
+* **Article 249 in relation to Article 50, Revised Penal Code** (Frustrated Homicide — penalty next lower in degree to *reclusion temporal* is *prision mayor*)
+* **Article 13, paragraph 7, and Article 64, paragraph 2, Revised Penal Code** (Mitigating circumstance of voluntary surrender reducing the maximum term of the indeterminate sentence to the minimum period of *prision mayor* / *prision correccional*)
+* *Lagrosa v. People*, G.R. No. 152044, July 3, 2003 / *Francisco v. Court of Appeals*, G.R. No. 108747, April 6, 1995 (Probation and appeal are mutually exclusive remedies; perfection of an appeal forecloses probation even if the appellate court subsequently modifies the offense or lowers the penalty to a probationable term)
+
+---
+
+### **Ratio Decidendi**
+
+Under Section 4 of Presidential Decree No. 968, as amended by Presidential Decree No. 1990, appeal and probation are mutually exclusive remedies: no application for probation shall be entertained or granted if the defendant has perfected an appeal from the trial court's judgment of conviction. Prior to the enactment of Republic Act No. 10707 (which later amended Section 4 in 2015), an accused who elected to appeal a non-probationable sentence imposed by the trial court permanently waived and forfeited his privilege to apply for probation, even if the appellate court later appreciated a mitigating circumstance under the Revised Penal Code and reduced the penalty to a probationable duration of six years or less.
+
+---
+
+### **Fallo**
+
+> "WHEREFORE, the petition is DENIED. The Decision dated September 26, 2008 and Resolution dated May 18, 2009 of the Court of Appeals in CA-G.R. SP No. 01627-MIN are AFFIRMED.
+> SO ORDERED."
+
+---
+
+### **Elaborate Answer to Review Question**
+
+**Why is Almero no longer entitled to the benefits granted to a convicted person under the probation law?**
+
+The Supreme Court held that Enrique Almero was legally barred from availing of the benefits of the **Probation Law (Presidential Decree No. 968, as amended by Presidential Decree No. 1990)**—despite the Court of Appeals reducing his maximum sentence to **six (6) years of *prision correccional***—based on the governing statutory rule in force at the time of his case:
+
+1. **Mutual Exclusivity of Appeal and Probation Under Section 4 of P.D. No. 968 (as amended by P.D. No. 1990):**
+* **Section 4 of P.D. No. 968**, as amended by P.D. No. 1990, expressly mandates that an application for probation must be filed **"within the period for perfecting an appeal"** and attaches an absolute statutory proviso:
+> *"Provided, That no application for probation shall be entertained or granted if the defendant has perfected the appeal from the judgment of conviction."*
+
+
+* As settled in *Francisco v. Court of Appeals* and *Lagrosa v. People* (which controlled *Almero* in 2014), the remedies of **appeal** and **probation** are mutually exclusive. When an accused chooses to appeal his conviction—seeking total acquittal or a lower penalty—he voluntarily submits himself to the appellate process and **irrevocably waives** the privilege of probation.
+
+
+2. **Inapplicability of Probation Even When the Appellate Court Lowers the Penalty to a Probationable Term:**
+* When the RTC originally convicted Almero of Frustrated Homicide, it failed to appreciate his voluntary surrender and sentenced him to a maximum term of **eight (8) years and one (1) day of *prision mayor***—which exceeded the six-year ceiling under Section 9(a) of P.D. No. 968 and was therefore **non-probationable** at the trial court level.
+* Although Almero appealed primarily to challenge that erroneous penalty—and succeeded in persuading the CA to appreciate voluntary surrender under Article 13(7) and Article 64(2) of the Revised Penal Code, lowering his maximum term to **six (6) years of *prision correccional***—the Supreme Court strictly applied the *verba legis* text of P.D. No. 1990, ruling that once an appeal is perfected from the RTC judgment, the trial court loses jurisdiction to entertain a subsequent probation application after the appellate decision becomes final.
+
+
+3. **Important Bar Examination Update — Subsequent Enactment of Republic Act No. 10707 (2015) and *Hernan v. Sandiganbayan*:**
+* For comprehensive bar exam mastery, note that **Section 1 of Republic Act No. 10707** (approved November 26, 2015) subsequently **amended Section 4 of P.D. No. 968** specifically to cure the harshness illustrated in *Lagrosa* and *Almero*. Under the **current law (R.A. No. 10707)**:
+> *"When a judgment of conviction imposing a non-probationable penalty is appealed or reviewed, and such judgment is modified through the imposition of a probationable penalty, **the defendant shall be allowed to apply for probation based on the modified decision before such decision becomes final**."*
+
+
+* Thus, while *Almero* (2014) strictly denied probation under the old P.D. No. 1990 rule, **today under R.A. No. 10707**, an accused in Almero's exact situation—whose non-probationable RTC sentence is reduced on appeal to a probationable penalty—is now explicitly **allowed** to apply for probation within 15 days from notice of the modified appellate judgment before it attains finality!
