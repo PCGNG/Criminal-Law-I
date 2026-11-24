@@ -1,0 +1,78 @@
+### **In the Matter of the Petition for Habeas Corpus of Pete C. Lagran**
+
+*G.R. No. 147270, August 15, 2001*
+
+---
+
+### **Facts**
+
+Pete C. Lagran (Lagran) was convicted by the RTC of Quezon City of three (3) separate counts of violation of Batas Pambansa Blg. 22 (Bouncing Checks Law) in Criminal Cases Nos. Q-93-48269, Q-93-48270, and Q-93-48271, and was sentenced to suffer imprisonment of one (1) year for each count, or a total of three (3) years. After serving one (1) year of imprisonment at the Quezon City Jail, Lagran filed a Petition for Habeas Corpus before the SC, claiming that his three prison terms of one year each should be served simultaneously pursuant to Article 70 of the Revised Penal Code, and that having already served one year, his continued detention had become illegal.
+
+---
+
+### **Issue**
+
+Can three separate prison sentences of one (1) year each imposed for three distinct offenses be served simultaneously under Article 70 of the Revised Penal Code—in relation to complex and multiple crimes—so as to entitle Pete C. Lagran to release via *habeas corpus* after serving only one year of imprisonment?
+
+---
+
+### **Ruling**
+
+**No.** The Supreme Court ruled verbatim:
+
+> "Article 70 of the Revised Penal Code allows simultaneous service of two or more penalties only when the nature of the penalties so permits. Thus, the penalties consisting in deprivation of liberty cannot be served simultaneously by reason of the nature of such penalties."
+
+> "Where the culprit has to serve two or more penalties, he shall serve them simultaneously if the nature of the penalties will so permit; otherwise, said penalties shall be executed successively, following the order of their respective severity, which shall not exceed three-fold the length of time corresponding to the most severe of the penalties imposed upon him. Consequently, petitioner is required to serve his three-year sentence successively, one after the other, and not simultaneously."
+
+**Legal Basis / Doctrines Relied Upon:**
+
+* **Article 70, Revised Penal Code** (Successive service of sentences; simultaneous service allowed only when the nature of the penalties so permits; the three-fold rule)
+* **Article 10, Revised Penal Code** (Suppletory application of the Revised Penal Code to special laws such as Batas Pambansa Blg. 22)
+* **Rule 102, Section 4, Rules of Court** (When writ of *habeas corpus* not allowed or discharge authorized — lawful restraint under a valid judgment of conviction)
+* *Rodriguez v. Director of Prisons*, 47 SCRA 153 (1972) / *People v. Escares*, 102 Phil. 677 (1957) (Penalties involving deprivation of liberty cannot be served simultaneously due to their physical nature and must be served successively)
+
+---
+
+### **Ratio Decidendi**
+
+Under Article 70 of the Revised Penal Code, which applies suppletorily to offenses punished under special laws pursuant to Article 10 thereof, multiple penalties imposed upon an offender may be served simultaneously only when the physical and legal nature of the penalties permits simultaneous execution. Because penalties consisting of deprivation of liberty (such as imprisonment) cannot, by their very nature, be served simultaneously, an offender convicted of three distinct counts of violating Batas Pambansa Blg. 22 and sentenced to one year of imprisonment for each count must serve the three sentences successively—one after the other, totaling three years (which does not exceed the three-fold limit)—rendering his detention after only one year completely lawful and barring relief by *habeas corpus*.
+
+---
+
+### **Fallo**
+
+> "IN VIEW WHEREOF, the petition is DISMISSED. Costs against petitioner.
+> SO ORDERED."
+
+---
+
+### **Elaborate Answers to Review Questions**
+
+**1. What penalties under the Revised Penal Code can be simultaneously served?**
+
+Under **Article 70 of the Revised Penal Code**, multiple penalties imposed upon a convict can be served **simultaneously** only when **"the nature of the penalties will so permit."** Because penalties involving **deprivation of liberty** (such as *reclusion perpetua*, *reclusion temporal*, *prision mayor*, *prision correccional*, *arresto mayor*, *arresto menor*, and *destierro*) cannot physically be served at the same time, simultaneous service under Article 70 is legally possible **only when a penalty of deprivation of liberty is combined with penalties that do not involve physical incarceration**, namely:
+
+1. **Perpetual or Temporary Absolute Disqualification**;
+2. **Perpetual or Temporary Special Disqualification**;
+3. **Public Censure**;
+4. **Suspension** from public office, right to vote and be voted for, or profession/calling;
+5. **Destierro** (when paired with disqualification, suspension, fine, or public censure—though *not* simultaneously with imprisonment, since a convict cannot simultaneously be inside a prison and banished outside a 25-kilometer radius);
+6. **Bond to Keep the Peace**;
+7. **Civil Interdiction**;
+8. **Confiscation or Forfeiture of Instruments/Proceeds of the Offense**; and
+9. **Payment of Costs and Pecuniary Liabilities (Fines and Indemnities)**.
+
+Thus, a convict serving a prison term (*prision correccional*) can simultaneously serve **civil interdiction**, **absolute/special disqualification**, **suspension**, and **payment of a fine**—whereas two or more prison sentences must **always** be served **successively** (one after the other) in the order of their respective severity.
+
+---
+
+**2. Why did the Supreme Court reject the accused’s contention that he has completed the service of his sentence and thus entitled to release?**
+
+The Supreme Court rejected Pete C. Lagran's claim that he had already completed his sentence after serving one (1) year in jail based on the following legal rules under **Article 70 of the Revised Penal Code** and **Rule 102 of the Rules of Court**:
+
+1. **Three Separate Offenses Required Three Separate Sentences:**
+Lagran was convicted of **three (3) distinct counts** of violating B.P. Blg. 22 (issuing three separate bouncing checks) and was sentenced to **one (1) year of imprisonment for each count**, for an aggregate sentence of **three (3) years**. These were neither a single complex crime under Article 48 nor a single *delito continuado*.
+2. **Impossibility of Simultaneous Service of Prison Terms (Article 70, RPC):**
+Under **Article 70 of the Revised Penal Code**, penalties involving deprivation of liberty cannot be served simultaneously because a person cannot physically undergo two or three separate terms of imprisonment concurrently within the same calendar year. Consequently, Lagran had to serve his three one-year prison sentences **successively**—one after another—totaling **three (3) full years**.
+3. **Full Compliance with the Three-Fold Rule:**
+Applying the **three-fold rule** under Article 70—which caps the maximum duration of successive sentences at **three times the length of the most severe penalty** imposed—three times the most severe penalty of one (1) year equals **three (3) years** ($1\text{ year} \times 3 = 3\text{ years}$). Thus, requiring Lagran to serve the full three (3) years did not exceed the three-fold ceiling. Having served only one (1) year out of his lawful three-year aggregate sentence, Lagran was still serving a valid sentence by final judgment, making the writ of *habeas corpus* improper under Section 4, Rule 102 of the Rules of Court.
